@@ -40,6 +40,11 @@
   druh: Výlet
 
 
+- datum: 2016-09-03
+  nazev: Turnaj ve stolním tenisu v Lysé nad Labem
+  url: http://sokol-lysa.cz/soubory/ping-pong-3-9-2016.pdf
+  druh: Soutěž
+
 - datum: 2016-09-09
   nazev: Sokol v lese
   url: http://sokol.eu/obsah/5463
@@ -63,6 +68,11 @@
   url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128922
   druh: Doškolovací seminář
 
+- datum: 2016-09-10
+  nazev: Atletický čtyřboj v Kralupech nad Vltavou
+  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1471124293
+  druh: Soutěž
+
 
 - datum: 2016-09-16
   nazev: Sokolské setkání v Děčíně
@@ -81,6 +91,16 @@
   url: 
   druh: Setkání
 
+- datum: 2016-09-17
+  nazev: Běh do vyšehradských schodů
+  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1471124904
+  druh: Soutěž
+
+
+- datum: 2016-09-17
+  nazev: Proč, jak a kdy začít s TeamGymem
+  url: http://www.gymfed.cz/prilohy/000/581/pozv%C3%A1nka%20na%20semin%C3%A1%C5%99%20teamgym_z%C3%A1%C5%99%C3%AD%202016_final.pdf
+  druh: Seminář
 
 - datum: 2016-09-22
   nazev: Na vodu bezpečně a technicky správně
