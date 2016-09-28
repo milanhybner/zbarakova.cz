@@ -1,85 +1,3 @@
-- datum: 2016-07-01
-  nazev: Na Sněžku za východem Slunce
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1465430635
-  druh: Výlet
-
-
-- datum: 2016-07-02
-  nazev: Prázdninová škola mladých pomahatelů
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128921
-  druh: Školení
-
-
-- datum: 2016-07-30
-  nazev: 11. Se Sokolem za kopečky
-  url: 
-  druh: Výlet
-
-
-- datum: 2016-08-06
-  nazev: O babiččin mazanec
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1465431252
-  druh: Závod
-
-
-- datum: 2016-08-06
-  nazev: Župní turnaj ve volejbale O babiččin mazanec
-  url: 
-  druh: Závod
-
-
-- datum: 2016-08-25
-  nazev: Celostátní sokolský cyklistický sraz
-  url: 
-  druh: Výlet
-
-
-- datum: 2016-08-25
-  nazev: Pochod Giacoma Casanovy
-  url: 
-  druh: Výlet
-
-
-- datum: 2016-09-03
-  nazev: Turnaj ve stolním tenisu v Lysé nad Labem
-  url: http://sokol-lysa.cz/soubory/ping-pong-3-9-2016.pdf
-  druh: Soutěž
-
-- datum: 2016-09-09
-  nazev: Sokol v lese
-  url: http://sokol.eu/obsah/5463
-  druh: Výlet
-
-
-- datum: 2016-09-09
-  nazev: Trenér akrobatického rock and rollu II. třídy
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128931
-  druh: Školení
-
-
-- datum: 2016-09-10
-  nazev: 12. Se Sokolem za kopečky Velká Čantoryje
-  url: 
-  druh: Výlet
-
-
-- datum: 2016-09-10
-  nazev: Street workout
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128922
-  druh: Doškolovací seminář
-
-- datum: 2016-09-10
-  nazev: Atletický čtyřboj v Kralupech nad Vltavou
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1471124293
-  druh: Soutěž
-
-
-- datum: 2016-09-16
-  nazev: Sokolské setkání v Děčíně
-  url: 
-  druh: Setkání
-
-
 - datum: 2016-09-16
   nazev: Tyršův Děčín 2016
   url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450035974
@@ -102,59 +20,20 @@
   url: http://www.gymfed.cz/prilohy/000/581/pozv%C3%A1nka%20na%20semin%C3%A1%C5%99%20teamgym_z%C3%A1%C5%99%C3%AD%202016_final.pdf
   druh: Seminář
 
-- datum: 2016-09-22
-  nazev: Na vodu bezpečně a technicky správně
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128923
-  druh: Seminář
-
-
-- datum: 2016-09-30
-  nazev: Instruktor VČSA se zaměřením na parkour
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1454684704
-  druh: Školení
-
-
 - datum: 2016-09-30
   nazev: Sraz župních vedoucích PP
   url: 
   druh: Setkání
 
-
-- datum: 2016-10-07
-  nazev: Cvičitel zdravotní tělesné výchovy III. třídy
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128924
-  druh: Školení
-
-
-- datum: 2016-10-07
+- datum: 2016-10-01
   nazev: Školení cvičitelů všestrannosti III. Třídy (+ zkoušky)
-  url: 
+  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1471642731
   druh: Školení
-
-
-- datum: 2016-10-07
-  nazev: Školení cvičitelů všestrannosti III. třídy
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1454780024
-  druh: Školení
-
-
-- datum: 2016-10-08
-  nazev: Badminton
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128925
-  druh: seminář
-
 
 - datum: 2016-10-08
   nazev: Sraz župních vedoucích mladších a st. žákyň
   url: 
   druh: Setkání
-
-
-- datum: 2016-10-15
-  nazev: Sportovní gymnastika po přemet
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128926
-  druh: Doškolovací seminář
-
 
 - datum: 2016-10-15
   nazev: Sraz župních vedoucích dorostenek a ml. žen
@@ -166,13 +45,6 @@
   nazev: Sraz župních vedoucích pohybových aktivit s hudbou
   url: 
   druh: Setkání
-
-
-- datum: 2016-10-16
-  nazev: Sportovní gymnastika od přemetu
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128927
-  druh: Doškolovací seminář
-
 
 - datum: 2016-10-22
   nazev: Sraz župních vedoucích žen a seniorek
@@ -190,13 +62,6 @@
   nazev: Sraz župních vedoucích RD PD
   url: 
   druh: Setkání
-
-
-- datum: 2016-11-11
-  nazev: Mezinárodní seminář pro cvičitele, instruktory rodičů a dětí, předškolních dětí PaCH 2016
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128928
-  druh: seminář
-
 
 - datum: 2016-11-12
   nazev: Sraz župních náčelníků a náčelnic
