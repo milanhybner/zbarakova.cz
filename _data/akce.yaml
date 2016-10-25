@@ -1,62 +1,12 @@
-- datum: 2016-09-16
-  nazev: Tyršův Děčín 2016
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450035974
-  druh: Kulturní akce
-
-
-- datum: 2016-09-17
-  nazev: Sokolská plavba po Vltavě reprezentace župy /mládež/
-  url: 
-  druh: Setkání
-
-- datum: 2016-09-17
-  nazev: Běh do vyšehradských schodů
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1471124904
-  druh: Soutěž
-
-
-- datum: 2016-09-17
-  nazev: Proč, jak a kdy začít s TeamGymem
-  url: http://www.gymfed.cz/prilohy/000/581/pozv%C3%A1nka%20na%20semin%C3%A1%C5%99%20teamgym_z%C3%A1%C5%99%C3%AD%202016_final.pdf
-  druh: Seminář
-
-- datum: 2016-09-30
-  nazev: Sraz župních vedoucích PP
-  url: 
-  druh: Setkání
-
-- datum: 2016-10-01
-  nazev: Školení cvičitelů všestrannosti III. Třídy (+ zkoušky)
-  url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1471642731
-  druh: Školení
-
-- datum: 2016-10-08
-  nazev: Sraz župních vedoucích mladších a st. žákyň
-  url: 
-  druh: Setkání
-
-- datum: 2016-10-15
-  nazev: Sraz župních vedoucích dorostenek a ml. žen
-  url: 
-  druh: Setkání
-
-
-- datum: 2016-10-15
-  nazev: Sraz župních vedoucích pohybových aktivit s hudbou
-  url: 
-  druh: Setkání
-
-- datum: 2016-10-22
-  nazev: Sraz župních vedoucích žen a seniorek
-  url: 
-  druh: Setkání
-
-
 - datum: 2016-10-28
   nazev: Tradiční výstup na Blaník
   url: https://isokol-my.sharepoint.com/personal/mhybner_isokol_cz/_layouts/15/guestaccess.aspx?guestaccesstoken=%2buHu6ZQIggu1HkBUO8OYgEOSYS%2bvzSfrEJwO0ogI0Tk%3d&docid=075038b4c8a0549fd9e236029b8d91e3e&rev=1
   druh: Výlet
 
+- datum: 2016-10-31
+  nazev: „Medailonek o básníkovi J. Seifertovi“
+  url: soubory/2016-10-19-klub-senioru.doc
+  druh: Beseda s promítáním
 
 - datum: 2016-11-05
   nazev: Sraz župních vedoucích RD PD
@@ -74,12 +24,20 @@
   url: 
   druh: Setkání
 
+- datum: 2016-11-12
+  nazev: Oblastní závod malý TeamGym Open – Kolín
+  url: soubory/2016-10-18-propozice-MTG.docx
+  druh: Závod 
 
 - datum: 2016-11-26
   nazev: Doškolovací seminář zdravotní těl. výchovy
   url: 
   druh: Seminář
 
+- datum: 2016-11-26
+  nazev: Černá komedie Benghta Ahlforse Popel a pálenka (Sokolovna Český Brod)
+  url: soubory/2016-11-26-popel-a-palenka.jpg
+  druh: Divadlo
 
 - datum: 2016-11-27
   nazev: Předvedení sletových skladeb

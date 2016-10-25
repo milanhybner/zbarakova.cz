@@ -20,16 +20,16 @@
 </script>
 <script src="https://use.fontawesome.com/11c08a6ab9.js">
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/1.3.0/retina.min.js">
-</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.2.0/list.min.js">
 </script>
-<link href="https://dl.dropboxusercontent.com/u/13427426/zb-assets/css/style.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/1.3.0/retina.min.js">
+</script>
+<link href="/css/style.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/jquery.hoverdir/1.1.1/jquery.hoverdir.min.js">
 </script> 
-<script src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/js/jquery.isotope.min.js">
+<script src="/js/jquery.isotope.min.js">
 </script>
-<script src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/js/jquery.hoverex.min.js">
+<script src="/js/jquery.hoverex.min.js">
 </script> 
 <script src="https://cdn.jsdelivr.net/prettyphoto/3.1.6/js/jquery.prettyPhoto.js"></script>
 
@@ -65,12 +65,15 @@
     <div id="headerwrap">
   <div class="container">
     <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 himg">
+        <img class="img-responsive" src=" /img/logo-sokol.svg" title="Česká obec sokolská">
+      </div>
       <div class="col-lg-8 col-lg-offset-2">
         <h3>Vítejte na stránkách</h3>
         <h1>Sokolské župy Barákovy</h1>
       </div>
       <div class="col-lg-8 col-lg-offset-2 himg">
-        <img src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/barak.jpg" class="img-responsive" alt="Josef Barák" title="Josef Barák">
+        <img src="/img/barak.jpg" class="img-responsive" alt="Josef Barák" title="Josef Barák">
       </div>
     </div>
   </div>
@@ -102,44 +105,61 @@
 </div>-->
 <div class="container mtb">
    <div class="row">
+       <div class="col-md-6">
+           <h4>Kancelář župy</h4>
+           <div class="hline"></div>
+           <p><a href="kancelar/granty.html">Novinky</a></p>
+           <p><a href="kancelar/formulare.html">Soutěže</a></p>
+           <div class="spacing"></div>
+       </div>
+      <div class="col-md-6">
+             <h4>Všesokolský slet</h4>
+             <div class="hline"></div>
+             <p>Chystáme...</p>
+             <p><a href="slet/.html"></a></p>
+             <p><a href="slet/.html"></a></p>
+             <div class="spacing"></div>
+      </div>
+  </div>
+  <div class="row">
        <div class="col-md-4">
            <h4>Odbor všestrannosti</h4>
            <div class="hline"></div>
-           <p><a href="ov/novinky.html">Novinky</a></p>
            <p><a href="ov/souteze.html">Soutěže</a></p>
            <p><a href="ov/vzdelavani.html">Vzdělávání</a></p>
            <p><a href="ov/projekty.html">Projekty</a></p>
-           <p><a href="ov/slet.html">Všesokolský slet</a></p>
-           <p><a href="ov/kontakty.html">Kontakty náčelnictvo</a></p>
+           <!--<p><a href="ov/fotogalerie.html">Fotogalerie</a></p>-->
            <div class="spacing"></div>
        </div>
        <div class="col-md-4">
            <h4>Odbor sportu</h4>
            <div class="hline"></div>
-           <p><a href="os/novinky.html">Novinky</a></p>
            <p><a href="os/souteze.html">Soutěže</a></p>
            <p><a href="os/oddily.html">Sporty a oddíly</a></p>
-           <p><a href="os/fotogalerie.html">Fotogalerie</a></p>
+           <!--<p><a href="os/fotogalerie.html">Fotogalerie</a></p>-->
            <div class="spacing"></div>
        </div>
        <div class="col-md-4">
            <h4>Vzdělavatelský odbor</h4>
            <div class="hline"></div>
-           <p><a href="vo/novinky.html">Novinky</a></p>
            <p><a href="vo/projekty.html">Projekty</a></p>
-           <p><a href="vo/almanach.html">Almanach župy Barákovy</a></p>
+           <p><a href="vo/historie.html">Historie župy</a></p>
+           <p><a href="vo/almanach.html">Almanach</a></p>
+           <p><a href="vo/kalendarium.html">Kalendárium</a></p>
            <p><a href="vo/clanky.html">Články</a></p>
-           <p><a href="vo/pisne.html">Písně</a></p>
-
+           <p><a href="vo/casopisy.html">Časopisy</a></p>
+           <p><a href="vo/sbory-a-soubory.html">Sbory a soubory</a></p>
+           <p><a href="vo/klub-senioru.html">Klub seniorů</a></p>
+           <!--<p><a href="vo/fotogalerie.html">Fotogalerie</a></p>-->
        </div>
-   </div>
+  </div>
 </div>  
 <div id="portfoliowrap">
     <div class="portfolio-centered">
         <div class="recentitems portfolio">
             <div class="portfolio-item graphic-design">
                 <div class="he-wrap tpl6">
-                <img src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/portfolio/vsestrannost.jpg" alt="">
+                <img src="/img/portfolio/vsestrannost.jpg" alt="">
                     <div class="he-view">
                         <div class="bg a0" data-animate="fadeIn">
                             <a href="ov/novinky.html"><h3 class="a1" data-animate="fadeInDown">Odbor všestrannosti</h3></a>
@@ -151,7 +171,7 @@
                         
             <div class="portfolio-item web-design">
                 <div class="he-wrap tpl6">
-                <img src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/portfolio/sport.jpg" alt="">
+                <img src="/img/portfolio/sport.jpg" alt="">
                     <div class="he-view">
                         <div class="bg a0" data-animate="fadeIn">
                             <a href="os/novinky.html"><h3 class="a1" data-animate="fadeInDown">Odbor sportu</h3></a>
@@ -164,7 +184,7 @@
     
             <div class="portfolio-item graphic-design">
                 <div class="he-wrap tpl6">
-                <img src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/portfolio/vzdelavatel.jpg" alt="">
+                <img src="/img/portfolio/vzdelavatel.jpg" alt="">
                     <div class="he-view">
                         <div class="bg a0" data-animate="fadeIn">
                              <a href="vo/novinky.html"><h3 class="a1" data-animate="fadeInDown">Vzdělavatelský odbor</h3></a>
@@ -184,8 +204,8 @@
         <div class="container">
             <div class="row centered">
                 <h3>NAŠI PARTNEŘI</h3>
-                <a href="http://www.sokol.eu"><img class="img-responsive" src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/clients/sokol1.jpg" title="Česká obec sokolská"></a>
-                <!--<div class="col-lg-4 col-md-4 col-sm-4"><img class="img-responsive" src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/clients/sokol.cz.gif"></div>
+                <!--<a href="http://www.sokol.eu"><img class="img-responsive" src="/img/clients/sokol1.jpg" title="Česká obec sokolská"></a>
+                <div class="col-lg-4 col-md-4 col-sm-4"><img class="img-responsive" src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/clients/sokol.cz.gif"></div>
                 <div class="col-lg-4 col-md-4 col-sm-4"><img class="img-responsive" src="https://dl.dropboxusercontent.com/u/13427426/zb-assets/img/clients/vize.png"></div>-->
             </div>
         </div>

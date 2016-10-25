@@ -3,8 +3,8 @@ layout: page
 nazev: XVI. všesokolský slet
 ---
 
-[Obecné informace](slet.md)
+Obecné informace
 
-[Sletová štafeta](slet.md#stafeta)
+Sletová štafeta
 
-[Skladba muži](slet.md#muzi)
+Skladba muži
