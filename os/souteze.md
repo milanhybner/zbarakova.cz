@@ -3,7 +3,10 @@ layout: page
 nazev: Soutěže odboru sportu
 ---
 
+## Župní soutěže
 
-## Župní soutěžě
+* postupové
+* nepostupové
 
 ## Ostatní soutěže
+
