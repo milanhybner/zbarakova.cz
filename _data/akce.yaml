@@ -1,18 +1,3 @@
-- datum: 2016-11-22
-  nazev: Sport v Sokole (Historie a současnost)
-  url: http://sokol.eu/obsah/7111/konference-sport-v-sokole-historie-a-soucasnost
-  druh: Konference
-
-- datum: 2016-10-28
-  nazev: Tradiční výstup na Blaník
-  url: https://isokol-my.sharepoint.com/personal/mhybner_isokol_cz/_layouts/15/guestaccess.aspx?guestaccesstoken=%2buHu6ZQIggu1HkBUO8OYgEOSYS%2bvzSfrEJwO0ogI0Tk%3d&docid=075038b4c8a0549fd9e236029b8d91e3e&rev=1
-  druh: Výlet
-
-- datum: 2016-10-31
-  nazev: „Medailonek o básníkovi J. Seifertovi“
-  url: soubory/2016-10-19-klub-senioru.doc
-  druh: Beseda s promítáním
-
 - datum: 2016-11-05
   nazev: Sraz župních vedoucích RD PD
   url: 
@@ -39,6 +24,11 @@
   url: 
   druh: Seminář
 
+- datum: 2016-11-22
+  nazev: Sport v Sokole (Historie a současnost)
+  url: http://sokol.eu/obsah/7111/konference-sport-v-sokole-historie-a-soucasnost
+  druh: Konference
+
 - datum: 2016-11-26
   nazev: Černá komedie Benghta Ahlforse Popel a pálenka (Sokolovna Český Brod)
   url: soubory/2016-11-26-popel-a-palenka.jpg
@@ -61,9 +51,12 @@
   url: 
   druh: 
 
+- datum: 2016-12-03
+  nazev: Mikulášský turnaj ve stolním tenise (Sokolovna Český Brod)
+  url: /soubory/2016-12-03-stolni-tenis.pdf
+  druh: Turnaj
 
 - datum: 2016-12-04
   nazev: Předvánoční setkání cvičitelů ČOS
   url: 
   druh: Setkání
-
