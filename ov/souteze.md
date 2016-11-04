@@ -4,9 +4,9 @@ nazev: Soutěže odboru všestrannosti
 ---
 
 
-## Sportovní všestrannost
+## Soutěž sportovní všestrannost
 
-## Zálesácký závod
+## Zálesácký závod zdatnosti
 
 ## Malý TeamGym
 
