@@ -13,5 +13,7 @@ nazev: Projekty odboru všestrannosti
 
 ## Sokol v lese
 
+**šternberk**
+
 ## Se Sokolem za kopečky
 
