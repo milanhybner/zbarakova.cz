@@ -23,7 +23,7 @@ layout: default
                 {%for dokument in site.data.dokumenty %}
                 <tr>
                     <td class="nazev">
-                        <a href="{{dokument.url}}">{{dokument.nazev}}</a>
+                        <a href="{{dokument.url}}" target="_blank">{{dokument.nazev}}</a>
                     </td>
                     <td class="popis">{{dokument.popis}}</td>
                 </tr>
