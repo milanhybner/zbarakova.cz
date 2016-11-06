@@ -7,7 +7,7 @@ layout: default
 <div id="blue">
     <div class="container">
         <div class="row">
-            <h3>Kontakt</h3>
+            <h3>Kontakty</h3>
         </div>
     </div>
 </div>
@@ -382,7 +382,7 @@ Ing. Jarmila Voráčková<br />
 <a href="mailto:organizace@zbarakova.cz">organizace@zbarakova.cz</a>
 </p><p>
 Ing. Hana Dobrovodská<br />
-<em>místostarosta pro ekonomiku</em><br />
+<em>místostarostka pro ekonomiku</em><br />
 <a href="mailto:mistostarostka@zbarakova.cz">mistostarostka@zbarakova.cz</a>
 </p><p>
 Ing. Jakub Otáhal<br />
