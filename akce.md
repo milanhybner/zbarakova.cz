@@ -32,6 +32,7 @@ layout: default
                 {% endfor %}
             </tbody>
         </table>
+        <a href="https://goo.gl/forms/q9Loj8bRYuJcPclD3">Přidejte svoji akci zde</a>
     </div>
 </div>
 <script type="text/javascript">
