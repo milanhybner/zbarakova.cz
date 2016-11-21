@@ -27,7 +27,7 @@ layout: default
                     <td class="nazev">
                         <a href="{{akce.url}}">{{akce.nazev}}</a>
                     </td>
-                    <td class="popis">{{akce.druh}}</td>
+                    <td class="druh">{{akce.druh}}</td>
                 </tr>
                 {% endfor %}
             </tbody>
