@@ -1,23 +1,3 @@
-- datum: 2016-11-05
-  nazev: Sraz župních vedoucích RD PD
-  url: 
-  druh: Setkání
-
-- datum: 2016-11-12
-  nazev: Sraz župních náčelníků a náčelnic
-  url: 
-  druh: Setkání
-
-
-- datum: 2016-11-12
-  nazev: Sraz župních zdravotníků ČOS
-  url: 
-  druh: Setkání
-
-- datum: 2016-11-12
-  nazev: Oblastní závod malý TeamGym Open – Kolín
-  url: soubory/2016-10-18-propozice-MTG.docx
-  druh: Závod 
 
 - datum: 2016-11-26
   nazev: Doškolovací seminář zdravotní těl. výchovy
@@ -61,7 +41,791 @@
   url: 
   druh: Setkání
 
+- datum: 2016-12-26
+  nazev: Vánoční turnaj ve stolním tenisu pro neregistrované pod záštitou starosty obce Dolní Beřkovice
+  url: /soubory/2016-12-26-stolni-tenis.doc
+  druh: Turnaj
+
+- datum: 2017-01-07
+  nazev: Nejen pohybem živ je Sokol (Praha, TD)
+  url: 
+  druh: setkání/seminář
+
+
+- datum: 2017-01-13
+  nazev: RDPD III. třída
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-01-13
+  nazev: Rock and roll III. třída
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-01-14
+  nazev: TeamGym Junior – oblast západ (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-01-15
+  nazev: Malý TeamGym – oblast západ (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-01-21
+  nazev: Odborný seminář Zdr.TV – inkontinence (Praha, TD)
+  url: 
+  druh: setkání
+
+
+- datum: 2017-01-27
+  nazev: Školení činovníků
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-01-28
+  nazev: Přebor ČOS TeamGym Junior (Praha, TD)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-01-29
+  nazev: Valné hromady pro činovníky
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-01-31
+  nazev: Soutěž ve šplhu pro ZŠ a víceletá gymnázia 1 (Praha)
+  url: 
+  druh: 
+
+
+- datum: 2017-02-02
+  nazev: Soutěž ve šplhu pro ZŠ a víceletá gymnázia II (Praha)
+  url: 
+  druh: 
+
+
+- datum: 2017-02-03
+  nazev: Cvičitel jógy III. třídy
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-02-04
+  nazev: Aerobics Inspiration Day
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-02-04
+  nazev: Porada župních vedoucích vzdělávání (Praha, TD)
+  url: 
+  druh: 
+
+
+- datum: 2017-02-05
+  nazev: BOSU
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-02-11
+  nazev: Seminář Zdr.TV – cvičíme zdravě 4 – kruhový trénink (Praha, TD)
+  url: 
+  druh: setkání
+
+
+- datum: 2017-02-11
+  nazev: Šály
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-02-12
+  nazev: Párová akrobacie
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-02-17
+  nazev: Krušné Hory v zimně (Krušné Hory)
+  url: 
+  druh: pobyt v přírodě
+
+
+- datum: 2017-02-18
+  nazev: 1. nácvičný sraz sletové skladby Siluety (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-02-18
+  nazev: Zdravotníci zotavovacích akcí
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-02-25
+  nazev: 1. nácvičný sraz sletové skladby Ženobraní (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-02-25
+  nazev: Kineziotaping pro cvičitele I
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-02-26
+  nazev: ADHD
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-04
+  nazev: 1. nácvičný sraz sletové skladby Cesta (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-03-04
+  nazev: Cvičíme s rozumem
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-04
+  nazev: Seminář RDPD - Jipast
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-11
+  nazev: 1. nácvičný sraz sletové skladby Jsme/sme spolu (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-03-18
+  nazev: 1. nácvičný sraz sletové skladby Méďové (Praha, TD)
+  url: 
+  druh: 
+
+
+- datum: 2017-03-18
+  nazev: Feldenkreis
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-18
+  nazev: Zdravotníci zotavovacích akcí - seminář
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-19
+  nazev: 1. nácvičný sraz sletové skladby Noty (Praha, TD)
+  url: 
+  druh: 
+
+
+- datum: 2017-03-19
+  nazev: Jóga smíchu
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-25
+  nazev: Přehlídka pódiových skladeb a skladeb Aerobik Team (Praha,Kr.Vinohrady)
+  url: 
+  druh: 
+
+
+- datum: 2017-03-25
+  nazev: SG po přemet
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-26
+  nazev: Kineziotaping pro cvičitele II
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-26
+  nazev: SG od přemetu
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-03-31
+  nazev: Porada náčelnictva ČOS (Praha, TD)
+  url: 
+  druh: 
+
+
+- datum: 2017-04-01
+  nazev: Sraz župních náčelníků a náčelnic (Praha, TD, P1)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-04-06
+  nazev: FOR KIDS (Praha)
+  url: 
+  druh: 
+
+
+- datum: 2017-04-07
+  nazev: Všestrannost III. třída
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-04-08
+  nazev: 1. nácvičný sraz sletové skladby Děti, to je věc ! (Praha)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-04-08
+  nazev: Oblastní přebor východ – florbal kategorie II (Brno 1)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-04-08
+  nazev: Oblastní přebor západ – florbal kategorie 1. a/b (Praha)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-04-09
+  nazev: 1. nácvičný sraz sletové skladby Cirkus (Praha)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-04-09
+  nazev: Oblastní přebor západ – florbal kategorie I. a/b (Praha)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-04-22
+  nazev: 1. nácvičný sraz sletové skladby Borci (Kostelec nad Orlicí)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-04-22
+  nazev: Oblastní přebor východ – florbal kategorie I.a + I.b (Frýdlant nad Ostr)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-04-22
+  nazev: Oblastní přebor západ – florbal kategorie II (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-04-22
+  nazev: Sraz župních vedoucích Zdr.TV (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-04-23
+  nazev: Oblastní přebor západ – florbal kategorie III (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-04-23
+  nazev: Seminář Zdr.TV (Praha, TD)
+  url: 
+  druh: setkání
+
+
+- datum: 2017-04-29
+  nazev: Oblastní přebor východ – florbal kategorie III (Šumperk).
+  url: 
+  druh: přebor
+
+
+- datum: 2017-05-04
+  nazev: Seminář pobyt v přírodě – vodácké putování (Vltava)
+  url: 
+  druh: pobyt v přírodě
+
+
+- datum: 2017-05-05
+  nazev: U nás v Sokole (Louny)
+  url: 
+  druh: pobyt v přírodě
+
+
+- datum: 2017-05-06
+  nazev: setkání Sokolem za kopečky 13. výstup na Fichtelberg (Krušné Hory)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-05-13
+  nazev: 1. nácvičný sraz sletové skladby Princezna republika (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-05-13
+  nazev: Přebor ČOS ve florbalu – finále (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-05-13
+  nazev: Sokolské putování Českým středohořím (Teplice)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-05-19
+  nazev: Přebor ČOS ZZZ (Zálesácký závod zdatnosti (Olomouc))
+  url: 
+  druh: přebor
+
+
+- datum: 2017-05-20
+  nazev: 1. nácvičný sraz sletové skladby V peřině (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-05-20
+  nazev: Tanec
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-05-20
+  nazev: Začni s badmintonem
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-05-21
+  nazev: Basketbal nejen pro žactvo
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-05-21
+  nazev: Nářadí pro RDPD
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-05-25
+  nazev: Vodní turistika
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-05-27
+  nazev: Přebor ČOS – všestrannost mladšího žactva (Prostějov)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-05-29
+  nazev: Move Week (ČR)
+  url: 
+  druh: 
+
+
+- datum: 2017-06-01
+  nazev: Cvičitel parkouru III. třídy
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-06-03
+  nazev: Tyršův Oetz (Oetz)
+  url: 
+  druh: setkání
+
+
+- datum: 2017-06-09
+  nazev: Přebor ČOS – všestrannost st. žactva, dorostu a dospělých (Praha)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-06-10
+  nazev: Organizace sletu seminář
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-06-24
+  nazev: Sokolský turistický sraz (Mšeno)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-07-01
+  nazev: Prázdninová škola
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-07-29
+  nazev: setkání Sokolem za kopečky 14. výstup na Velkou Javorinu (Javorníky)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-08-24
+  nazev: Celostátní sokolský cyklistický sraz (Duchcov)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-08-24
+  nazev: Pochod Giacoma Casanovy (Duchcov)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-09-02
+  nazev: setkání Sokolem za kopečky 15. výstup na Falkenstein (Šumava)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-09-08
+  nazev: Na vodě bezpečně a technicky správně
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-09-08
+  nazev: Trenér volejbalu III. třídy
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-09-16
+  nazev: Sraz jógy (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-09-16
+  nazev: Tyršův Děčín III (Děčín)
+  url: 
+  druh: setkání
+
+
+- datum: 2017-09-16
+  nazev: Začni s badmintonem
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-09-18
+  nazev: Sokol spolu v pohybu (ČR)
+  url: 
+  druh: 
+
 - datum: 2017-09-22
   nazev: Sletová štafeta
   url: /soubory/2016-05-09-sletova-stafeta.doc
   druh: 
+
+
+- datum: 2017-09-22
+  nazev: Cvičitel aerobiku III. třídy
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-09-22
+  nazev: Cvičitel seniorů III. třídy
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-09-23
+  nazev: Sokolská plavba po Vltavě (Praha)
+  url: 
+  druh: setkání
+
+
+- datum: 2017-09-24
+  nazev: Sletová štafeta – závěrečný doběh (Praha, TD)
+  url: 
+  druh: pobyt v přírodě
+
+
+- datum: 2017-10-06
+  nazev: Cvičitel zdr TV II. třída
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-10-06
+  nazev: Trenér volejbalu III. třídy K+Zk
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-10-07
+  nazev: 2. nácvičný sraz sletové skladby Cirkus (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-07
+  nazev: 2. nácvičný sraz sletové skladby Méďové (Praha, Karlín)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-08
+  nazev: 2. nácvičný sraz sletové skladby Noty (Praha, Karlín)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-13
+  nazev: Sraz župních vedoucích pobyt v přírodě (Kroměříž)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-13
+  nazev: U nás v Sokole (Kroměříž)
+  url: 
+  druh: pobyt v přírodě
+
+
+- datum: 2017-10-14
+  nazev: 2. nácvičný sraz sletové skladby Cesta (upřesníme)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-14
+  nazev: 2. nácvičný sraz sletové skladby Jsme/sme spolu (Brno)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-14
+  nazev: 2. nácvičný sraz sletové skladby V peřině (Praha, Karlín)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-19
+  nazev: FOR TOYS (Praha)
+  url: 
+  druh: 
+
+
+- datum: 2017-10-21
+  nazev: 2. nácvičný sraz sletové skladby Děti, to je věc ! (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-21
+  nazev: 2. nácvičný sraz sletové skladby Ženobraní (Praha, Karlín)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-21
+  nazev: Rozhodčí SG
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-10-22
+  nazev: Funkční trénink
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-10-28
+  nazev: 2. nácvičný sraz sletové skladby Borci (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-10-28
+  nazev: Tradiční výstup na Blaník (Louňovice)
+  url: 
+  druh: turistická
+
+
+- datum: 2017-11-04
+  nazev: 2. nácvičný sraz sletové skladby Princezna republika (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-11-04
+  nazev: 2. nácvičný sraz sletové skladby Siluety (Praha, Karlín)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-11-05
+  nazev: Seminář senioři
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-11-10
+  nazev: Porada náčelnictva ČOS (Praha, TD)
+  url: 
+  druh: 
+
+
+- datum: 2017-11-11
+  nazev: Sraz župních náčelníků a náčelnic (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-11-11
+  nazev: Sraz župních zdravotníků ČOS (Praha, TD)
+  url: 
+  druh: sraz
+
+
+- datum: 2017-11-12
+  nazev: Seminář Zdr.TV (Praha, TD)
+  url: 
+  druh: setkání
+
+
+- datum: 2017-11-16
+  nazev: Cvičitel zdr TV II. třídy
+  url: 
+  druh: školení ÚŠ
+
+
+- datum: 2017-11-18
+  nazev: Chlapi v tělocvičně
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-11-25
+  nazev: Seminář plavání + pravidla
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-11-26
+  nazev: Seminář atletika + pravidla
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017 listopad
+  nazev: Malý TeamGym – malá oblast (Praha, Vršovice)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 listopad
+  nazev: MalýTeamGym – malá oblast (Kolín)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 listopad
+  nazev: Seminář jógy (Praha, TD)
+  url: 
+  druh: setkání
+
+
+- datum: 2017 listopad
+  nazev: TeamGym Junior – malá oblast (Dvůr Králové)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 listopad
+  nazev: TeamGym Junior – malá oblast (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 listopad
+  nazev: TeamGym Junior/Malý TeamGym – malá oblast (Brno Židenice)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 listopad
+  nazev: TeamGym Junior/Malý TeamGym – malá oblast (Olomouc)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 listopad
+  nazev: TeamGym Junior/Malý TeamGym – malá oblast (Písek)
+  url: 
+  druh: přebor
+
+
+- datum: 2017-12-02
+  nazev: Mažoretky
+  url: 
+  druh: seminář ÚŠ
+
+
+- datum: 2017-12-02
+  nazev: Předvánoční setkání cvičitelů ČOS (Praha, TD)
+  url: 
+  druh: setkání
+
+
+- datum: 2017 prosinec
+  nazev: Malý TeamGym – oblast východ (Olomouc)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 prosinec
+  nazev: Malý TeamGym – oblast západ (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 prosinec
+  nazev: TeamGym Junior – oblast východ (Olomouc)
+  url: 
+  druh: přebor
+
+
+- datum: 2017 prosinec
+  nazev: TeamGym Junior – oblast západ (Praha,Kr.Vinohrady)
+  url: 
+  druh: přebor
