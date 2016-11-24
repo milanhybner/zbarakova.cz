@@ -21,235 +21,275 @@ layout: default
               <th style="width:20%;">Členů</th>
             </thead>
             <tbody>
-              <tr>
-                <td><a href='http://sokolricany.cz/'>Říčany a Radoš.</a></td>
-                <td><span class='badge badge-theme'>1247</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokolbrandysnl.webnode.cz/'>Brandýs n.L.</a></td>
-                <td><span class='badge badge-theme'>659</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokol.kralupy.cz/'>Kralupy n.Vl.</a></td>
-                <td><span class='badge badge-theme'>598</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokolbrod.cz/'>Český Brod</a></td>
-                <td><span class='badge badge-theme'>458</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokol-lysa.cz/'>Lysá nad Labem</a></td>
-                <td><span class='badge badge-theme'>437</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.tjsokolnehvizdy.estranky.cz/'>Nehvizdy</a></td>
-                <td><span class='badge badge-theme'>311</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.mestomseno.cz/index.php?cmd=page&id=11'>Mšeno u Mělnika</a></td>
-                <td><span class='badge badge-theme'>300</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokolsestajovice.cz/'>Šestajovice</a></td>
-                <td><span class='badge badge-theme'>248</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokolveltez.cz/'>Veltěž</a></td>
-                <td><span class='badge badge-theme'>214</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokol-strancice.webnode.cz/'>Strančice</a></td>
-                <td><span class='badge badge-theme'>205</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokolmilovice.webnode.cz/'>Milovice</a></td>
-                <td><span class='badge badge-theme'>192</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Kostelec n.L.</a></td>
-                <td><span class='badge badge-theme'>176</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.mratin.info/sokol/'>Mratín</a></td>
-                <td><span class='badge badge-theme'>173</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.privory.cz/index.php/sokol-privory/rozvrh-sokolovny'>Přívory</a></td>
-                <td><span class='badge badge-theme'>171</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokoldb.info/'>Dolní Beřkovice</a></td>
-                <td><span class='badge badge-theme'>145</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.tjsokolpysely.estranky.cz/'>Pyšely</a></td>
-                <td><span class='badge badge-theme'>132</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Cítov</a></td>
-                <td><span class='badge badge-theme'>94</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokol-chocerady.webnode.cz/'>Chocerady</a></td>
-                <td><span class='badge badge-theme'>90</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokolporicany.cz/'>Poříčany</a></td>
-                <td><span class='badge badge-theme'>74</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.tjsokolmochov.wz.cz/'>Mochov</a></td>
-                <td><span class='badge badge-theme'>58</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.dslt.cz/sokol/'>Lázně Toušeň</a></td>
-                <td><span class='badge badge-theme'>57</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokolveltrusy.cz/'>Veltrusy</a></td>
-                <td><span class='badge badge-theme'>55</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href=''>Řepín</a></td>
-                <td><span class='badge badge-theme'>52</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokolvsetaty.cz/'>Všetaty</a></td>
-                <td><span class='badge badge-theme'>50</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokolstskalice.estranky.cz/'>Stříbrná Skalice</a></td>
-                <td><span class='badge badge-theme'>49</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://sokol-ovcary.webnode.cz/'>Ovčáry-Nedomice</a></td>
-                <td><span class='badge badge-theme'>47</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Čečelice</a></td>
-                <td><span class='badge badge-theme'>45</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokolvelkepopovice.cz/'>Velké Popovice</a></td>
-                <td><span class='badge badge-theme'>44</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Vraňany</a></td>
-                <td><span class='badge badge-theme'>41</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Dřísy</a></td>
-                <td><span class='badge badge-theme'>29</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokol-melnik.cz/'>na Mělníce</a></td>
-                <td><span class='badge badge-theme'>29</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Mělník Pšovka</a></td>
-                <td><span class='badge badge-theme'>25</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.tjsokolvsestudy.cz/'>Všestudy</a></td>
-                <td><span class='badge badge-theme'>25</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.melnickevtelno.cz/index.php?nid=2678&lid=cs&oid=4943795'>Mělnické Vtelno</a></td>
-                <td><span class='badge badge-theme'>23</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.pristoupim.cz/volny-cas/spolky-sdruzeni/tj-sokol/'>Přistoupim</a></td>
-                <td><span class='badge badge-theme'>20</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.obeckozojedy.eu/spolky-sdruzeni/tj-sokol/'>Konojedy</a></td>
-                <td><span class='badge badge-theme'>19</span></td>
-              </tr>
-              
-              <!--<tr>
-                <td><a href='#'>Lobeč</a></td>
-                <td><span class='badge badge-theme'>19</span></td>
-              </tr>-->
-              
-              <tr>
-                <td><a href='#'>Liběchov</a></td>
-                <td><span class='badge badge-theme'>14</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>v Nebuželích</a></td>
-                <td><span class='badge badge-theme'>12</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Zvánovice</a></td>
-                <td><span class='badge badge-theme'>12</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Sedlčánky</a></td>
-                <td><span class='badge badge-theme'>11</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Byšice</a></td>
-                <td><span class='badge badge-theme'>9</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Hořany</a></td>
-                <td><span class='badge badge-theme'>8</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='http://www.sokol-hornipocaply.cz/'>Horní Počaply</a></td>
-                <td><span class='badge badge-theme'>7</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Úžice </a></td>
-                <td><span class='badge badge-theme'>7</span></td>
-              </tr>
-              
-              <tr>
-                <td><a href='#'>Vodochody-Hoštice</a></td>
-                <td><span class='badge badge-theme'>4</span></td>
-              </tr>
+<tr>
+<td><a href='http://sokolbrandysnl.webnode.cz/'>Brandýs n.L.</a></td>
+<td><span class='badge badge-theme'>659</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Byšice</a></td>
+<td><span class='badge badge-theme'>9</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Cítov</a></td>
+<td><span class='badge badge-theme'>94</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Čečelice</a></td>
+<td><span class='badge badge-theme'>45</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokolbrod.cz/'>Český Brod</a></td>
+<td><span class='badge badge-theme'>458</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokoldb.info/'>Dolní Beřkovice</a></td>
+<td><span class='badge badge-theme'>145</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Dřísy</a></td>
+<td><span class='badge badge-theme'>29</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokol-hornipocaply.cz/'>Horní Počaply</a></td>
+<td><span class='badge badge-theme'>7</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Hořany</a></td>
+<td><span class='badge badge-theme'>8</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokol-chocerady.webnode.cz/'>Chocerady</a></td>
+<td><span class='badge badge-theme'>90</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.obeckozojedy.eu/spolky-sdruzeni/tj-sokol/'>Konojedy</a></td>
+<td><span class='badge badge-theme'>19</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Kostelec n.L.</a></td>
+<td><span class='badge badge-theme'>176</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokol.kralupy.cz/'>Kralupy n.Vl.</a></td>
+<td><span class='badge badge-theme'>598</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.dslt.cz/sokol/'>Lázně Toušeň</a></td>
+<td><span class='badge badge-theme'>57</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Liběchov</a></td>
+<td><span class='badge badge-theme'>14</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokol-lysa.cz/'>Lysá nad Labem</a></td>
+<td><span class='badge badge-theme'>437</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.melnickevtelno.cz/index.php?nid=2678&lid=cs&oid=4943795'>Mělnické Vtelno</a></td>
+<td><span class='badge badge-theme'>23</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Mělník Pšovka</a></td>
+<td><span class='badge badge-theme'>25</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokolmilovice.webnode.cz/'>Milovice</a></td>
+<td><span class='badge badge-theme'>192</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.tjsokolmochov.wz.cz/'>Mochov</a></td>
+<td><span class='badge badge-theme'>58</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.mratin.info/sokol/'>Mratín</a></td>
+<td><span class='badge badge-theme'>173</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.mestomseno.cz/index.php?cmd=page&id=11'>Mšeno u Mělnika</a></td>
+<td><span class='badge badge-theme'>300</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokol-melnik.cz/'>na Mělníce</a></td>
+<td><span class='badge badge-theme'>29</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.tjsokolnehvizdy.estranky.cz/'>Nehvizdy</a></td>
+<td><span class='badge badge-theme'>311</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokol-ovcary.webnode.cz/'>Ovčáry-Nedomice</a></td>
+<td><span class='badge badge-theme'>47</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokolporicany.cz/'>Poříčany</a></td>
+<td><span class='badge badge-theme'>74</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.pristoupim.cz/volny-cas/spolky-sdruzeni/tj-sokol/'>Přistoupim</a></td>
+<td><span class='badge badge-theme'>20</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.privory.cz/index.php/sokol-privory/rozvrh-sokolovny'>Přívory</a></td>
+<td><span class='badge badge-theme'>171</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.tjsokolpysely.estranky.cz/'>Pyšely</a></td>
+<td><span class='badge badge-theme'>132</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Řepín</a></td>
+<td><span class='badge badge-theme'>52</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokolricany.cz/'>Říčany a Radoš.</a></td>
+<td><span class='badge badge-theme'>1247</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Sedlčánky</a></td>
+<td><span class='badge badge-theme'>11</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokol-strancice.webnode.cz/'>Strančice</a></td>
+<td><span class='badge badge-theme'>205</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokolstskalice.estranky.cz/'>Stříbrná Skalice</a></td>
+<td><span class='badge badge-theme'>49</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokolsestajovice.cz/'>Šestajovice</a></td>
+<td><span class='badge badge-theme'>248</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Úžice</a></td>
+<td><span class='badge badge-theme'>7</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>v Nebuželích</a></td>
+<td><span class='badge badge-theme'>12</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokolvelkepopovice.cz/'>Velké Popovice</a></td>
+<td><span class='badge badge-theme'>44</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokolveltez.cz/'>Veltěž</a></td>
+<td><span class='badge badge-theme'>214</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://sokolveltrusy.cz/'>Veltrusy</a></td>
+<td><span class='badge badge-theme'>55</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Vodochody-Hoštice</a></td>
+<td><span class='badge badge-theme'>4</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Vraňany</a></td>
+<td><span class='badge badge-theme'>41</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.tjsokolvsestudy.cz/'>Všestudy</a></td>
+<td><span class='badge badge-theme'>25</span></td>
+</tr>
+
+
+<tr>
+<td><a href='http://www.sokolvsetaty.cz/'>Všetaty</a></td>
+<td><span class='badge badge-theme'>50</span></td>
+</tr>
+
+
+<tr>
+<td><a href='#'>Zvánovice</a></td>
+<td><span class='badge badge-theme'>12</span></td>
+</tr>
+
             </tbody>
           </table>
 </div>
@@ -336,22 +376,56 @@ layout: default
 
 
 <div class="spacing"></div>
-<form role="form">
+<form role="form" id="f">
     <div class="form-group">
-      <label for="InputName1">Jméno a příjmení</label>
-      <input type="email" class="form-control" id="exampleInputEmail1">
+      <label for="name">Jméno a příjmení</label>
+      <input type="text" class="form-control" id="name">
   </div>
   <div class="form-group">
-      <label for="InputEmail1">E-mail</label>
-      <input type="email" class="form-control" id="exampleInputEmail1">
+      <label for="email">E-mail</label>
+      <input type="email" class="form-control" id="email">
   </div>
   <div class="form-group">
-      <label for="message1">Zpráva</label>
-      <textarea class="form-control" id="message1" rows="3"></textarea>
+      <label for="message">Zpráva</label>
+      <textarea class="form-control" id="message" rows="3"></textarea>
   </div>
   <button type="submit" class="btn btn-theme">Odeslat</button>
 </form>
 </div>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $('#message').keydown(function (e) {  
+    if ((event.keyCode == 10 || event.keyCode == 13) && event.ctrlKey) {
+      $('form[id=f]').submit();
+    }
+  });
+    $('form[id=f]').submit(function(e) {
+        e.preventDefault();
+        var name = $('#name').val();
+        var email = $('#email').val();
+        var message3 = $('#message').val();
+        var message2 = message3.replace(/(?:\r\n|\r|\n)/g, '  ');
+        var message1 = message2.replace(/"/g, '');
+        var postData = '[{"name": "' + name + '", "message": "' + message1 + '","email": "' + email + '"}]';
+        var btn = $('#btn');
+
+        $.ajax({
+            type: 'POST',
+            cache: false,
+            url: 'https://hooks.zapier.com/hooks/catch/161689/t1h8km/',
+            data: postData,
+            success: function() {window.location.href = "";}
+        });
+        
+        btn.val("Odesláno");
+    });
+});
+</script>
+
+
+
 
 <div class="col-md-3 col-md-offset-1">
 
