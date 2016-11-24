@@ -4,11 +4,6 @@
   url: 
   druh: Seminář
 
-- datum: 2016-11-22
-  nazev: Sport v Sokole (Historie a současnost)
-  url: http://sokol.eu/obsah/7111/konference-sport-v-sokole-historie-a-soucasnost
-  druh: Konference
-
 - datum: 2016-11-26
   nazev: Černá komedie Benghta Ahlforse Popel a pálenka (Sokolovna Český Brod)
   url: soubory/2016-11-26-popel-a-palenka.jpg
@@ -19,6 +14,15 @@
   url: 
   druh: Slet
 
+- datum: 2016-11-28
+  nazev: Cestopisná beseda s promítáním „Moje návštěva New Yorku“
+  url: /vo/klub-senioru.html
+  druh: Klub seniorů
+
+- datum: 2016-12-07
+  nazev: Seminář vedoucích a organizátorů klubů sokolských seniorů
+  url: /soubory/2016-12-07-klub-senioru.docx
+  druh: Klub seniorů
 
 - datum: 2016-11-27
   nazev: Seminář pro seniory

@@ -11,6 +11,7 @@ layout: default
 </div>
 <div id="entry-list" class="container mt">
     <div class="row" style="margin-bottom:10px;">
+        <p><a href="https://goo.gl/forms/q9Loj8bRYuJcPclD3">Přidejte svoji akci</a></p>
         <input class="search form-control" placeholder="Filtrovat" type="text">
         <table>
             <thead>
@@ -32,7 +33,6 @@ layout: default
                 {% endfor %}
             </tbody>
         </table>
-        <a href="https://goo.gl/forms/q9Loj8bRYuJcPclD3">Přidejte svoji akci zde</a>
     </div>
 </div>
 <script type="text/javascript">
