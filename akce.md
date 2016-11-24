@@ -33,6 +33,7 @@ layout: default
                 {% endfor %}
             </tbody>
         </table>
+        <p><a href="akce-archiv.html">Minulé akce naleznete v archivu.</a></p>
     </div>
 </div>
 <script type="text/javascript">

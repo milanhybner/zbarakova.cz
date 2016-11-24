@@ -3,7 +3,7 @@ layout: page
 nazev: Skladby XVI. všesokolského sletu
 ---
 
-[Termíny nácvičných skladeb jsou v kalendáři akcí.](/akce.html)
+[Termíny nácvičných skladeb jsou v kalendáři akcí.](/akce.html) (První se koná 18. února.)
 
 
 ## Méďové (rodiče a děti)

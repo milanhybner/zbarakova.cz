@@ -3,6 +3,10 @@ layout: page
 nazev: Klub seniorů
 ---
 
+[Pozvánka na vedoucích a organizátorů klubů sokolských seniorů 12.7.](/soubory/2016-12-07-klub-senioru.docx)
+
+---
+
 Klub sokolských seniorů Pražského třížupí a župy Barákovy pod záštitou komise VO ČOS pořádají a zvou na podzimní pondělní klubová setkání 2016 v sokolovně Praha 8-Libeň od 16:30 hod (zasedací místnost župy Barákovy - vchod brankou a dvorem).
 
 31\. 10.2016 – beseda s promítáním – „Medailonek o básníkovi J. Seifertovi“– zajímavosti z básníkova života (vede ses. Bendíková)
