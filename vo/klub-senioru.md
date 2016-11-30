@@ -3,7 +3,7 @@ layout: page
 nazev: Klub seniorů
 ---
 
-[Pozvánka na vedoucích a organizátorů klubů sokolských seniorů 12.7.](/soubory/2016-12-07-klub-senioru.docx)
+[Pozvánka na vedoucích a organizátorů klubů sokolských seniorů 7. 12.](/soubory/2016-12-07-klub-senioru.docx)
 
 ---
 
