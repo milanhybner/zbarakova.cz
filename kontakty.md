@@ -444,43 +444,78 @@ Lenka Brandová<br />
 
 <h4>Předsednictvo</h4>
 
+
 <p>
 Jan Firbas<br />
 <em>starosta</em><br />
 <a href="mailto:starosta@zbarakova.cz">starosta@zbarakova.cz</a><br />
-<em>vzdělavatel</em><br />
-<a href="mailto:jan.firbas@seznam.cz">jan.firbas@seznam.cz</a>
-</p><p>
-Ing. Jarmila Voráčková<br />
-<em>místostarostka pro organizaci</em><br />
-<a href="mailto:organizace@zbarakova.cz">organizace@zbarakova.cz</a>
-</p><p>
-Ing. Hana Dobrovodská<br />
-<em>místostarostka pro ekonomiku</em><br />
-<a href="mailto:mistostarostka@zbarakova.cz">mistostarostka@zbarakova.cz</a>
-</p><p>
+</p>
+<p>
 Ing. Jakub Otáhal<br />
 <em>jednatel</em><br />
 <a href="mailto:jednatel@zbarakova.cz">jednatel@zbarakova.cz</a>
-</p><p>
+</p>
+<p>
+Ing. Hana Dobrovodská<br />
+<em>místostarostka pro ekonomiku</em><br />
+<a href="mailto:mistostarostka@zbarakova.cz">mistostarostka@zbarakova.cz</a>
+</p>
+<p>
+Ing. Jarmila Voráčková<br />
+<em>místostarostka pro organizaci</em><br />
+<a href="mailto:organizace@zbarakova.cz">organizace@zbarakova.cz</a>
+</p>
+<p>
 Lenka Farkasová<br />
 <em>hospodář, dotace</em><br />
 <a href="mailto:hospodar@zbarakova.cz">hospodar@zbarakova.cz</a>
-</p><p>
+</p>
+<p>
 PaedDr. Miloslava Pangrácová<br />
 <em>náčelnice</em><br />
 <a href="mailto:mila.pangrac@seznam.cz">mila.pangrac@seznam.cz</a>
-</p><p>
+</p>
+<p>
 Mgr. Milan Hybner<br />
 <em>náčelník</em><br />
 <a href="mailto:nacelnik@zbarakova.cz">nacelnik@zbarakova.cz</a>
-</p><p>
+</p>
+<p>
 Petr Janich<br />
 <em>předseda odboru sportu</em><br />
 <a href="mailto:predseda@zbarakova.cz">predseda@zbarakova.cz</a>
 </p>
+<p>
+Jan Firbas<br />
+<em>vzdělavatel</em><br />
+<a href="mailto:jan.firbas@seznam.cz">jan.firbas@seznam.cz</a>
+</p>
+
+<p>
+Michaela Papírníková<br />
+<em>komise majetku</em>
+</p>
+
+<p>
+Iveta Bendíková<br />
+<em>redakce župního občasníku</em>
+</p>
+
+<p>
+Ladislav Papírník<br />
+<em>právní poradna</em>
+</p>
+
+<p>
+František Nohejl
+</p>
+
+<p>
+Jaroslav Denemark
+</p>
+
+
 </div>
 
-    
-  </div>
+</div>
 </div>

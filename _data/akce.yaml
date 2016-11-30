@@ -18,11 +18,6 @@
   url: /vo/klub-senioru.html
   druh: Klub seniorů
 
-- datum: 2016-12-07
-  nazev: Seminář vedoucích a organizátorů – klub seniorů
-  url: /soubory/2016-12-07-klub-senioru.docx
-  druh: Seminář
-
 - datum: 2016-11-27
   nazev: Seminář pro seniory
   url: http://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1450128929
@@ -44,6 +39,16 @@
   url: 
   druh: Setkání
 
+- datum: 2016-12-07
+  nazev: Seminář vedoucích a organizátorů – klub seniorů
+  url: /soubory/2016-12-07-klub-senioru.docx
+  druh: Seminář
+
+- datum: 2017-12-23
+  nazev: Česká mše vánoční (Čelákovice)
+  url: https://drive.google.com/file/d/0B0QIXsJ5v2H9dlJHYkRpSWpyVzQ/view?usp=sharing
+  druh: kulturní akce
+
 - datum: 2016-12-26
   nazev: Vánoční turnaj ve stolním tenisu pro neregistrované pod záštitou starosty obce Dolní Beřkovice
   url: /soubory/2016-12-26-stolni-tenis.doc
@@ -53,11 +58,6 @@
   nazev: Nejen pohybem živ je Sokol (Praha, TD)
   url: 
   druh: setkání/seminář
-
-- datum: 2017-12-23
-  nazev: Česká mše vánoční (Čelákovice)
-  url: https://drive.google.com/file/d/0B0QIXsJ5v2H9dlJHYkRpSWpyVzQ/view?usp=sharing
-  druh: kulturní akce
 
 
 
@@ -93,10 +93,6 @@
   url: 
   druh: schůze
 
-- datum: leden 2017
-  nazev: Výlet na Říp (pořádá Sokol Mratín)
-  url: 
-  druh: výlet
 
 - datum: 2017-01-21
   nazev: Odborný seminář Zdr.TV – inkontinence (Praha, TD)
@@ -127,6 +123,10 @@
   url: 
   druh: 
 
+- datum: leden 2017
+  nazev: Výlet na Říp (pořádá Sokol Mratín)
+  url: 
+  druh: výlet
 
 - datum: 2017-02-02
   nazev: Soutěž ve šplhu pro ZŠ a víceletá gymnázia II (Praha)
