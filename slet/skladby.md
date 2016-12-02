@@ -3,9 +3,9 @@ layout: page
 nazev: Skladby XVI. všesokolského sletu
 ---
 
-* [Fotogalerie z pracovního předvedení v Praze 2016-11-27](http://ivooa.rajce.idnes.cz/27.11.2016_-_Pracovni_predvedeni_sletovych_skladeb_v_T.J._Sokol_Praha_Kralovske_Vinohrady/)
+* [Videa z pracovního předvedení ](https://www.youtube.com/playlist?list=PLLmxHBkPWCePHM2i5xE3AsZDK5hrgGCqb)
 
-* [Video z pracovního předvedení skladby Borci](https://www.youtube.com/watch?v=2Gu5Uqi0iiw)
+* [Fotogalerie z pracovního předvedení](http://ivooa.rajce.idnes.cz/27.11.2016_-_Pracovni_predvedeni_sletovych_skladeb_v_T.J._Sokol_Praha_Kralovske_Vinohrady/)
 
 [Termíny nácvičných skladeb jsou v kalendáři akcí.](/akce.html) (První se koná 18. února.)
 
