@@ -109,6 +109,10 @@
   url: 
   druh: setkání
 
+- datum: 2017-01-27
+  nazev: Oblastní přebor ve florbalu (Dobříš)
+  url: https://drive.google.com/open?id=0B0QIXsJ5v2H9VXVIaXUzTW5KNE0
+  druh: přebor
 
 - datum: 2017-01-27
   nazev: Školení činovníků
@@ -343,10 +347,10 @@
   druh: sraz
 
 
-- datum: 2017-04-08
-  nazev: Oblastní přebor východ – florbal kategorie II (Brno 1)
-  url: 
-  druh: přebor
+# - datum: 2017-04-08
+#   nazev: Oblastní přebor východ – florbal kategorie II (Brno 1)
+#   url: 
+#   druh: přebor
 
 
 - datum: 2017-04-08
@@ -373,10 +377,10 @@
   druh: sraz
 
 
-- datum: 2017-04-22
-  nazev: Oblastní přebor východ – florbal kategorie I.a + I.b (Frýdlant nad Ostr)
-  url: 
-  druh: přebor
+# - datum: 2017-04-22
+#   nazev: Oblastní přebor východ – florbal kategorie I.a + I.b (Frýdlant nad Ostr)
+#   url: 
+#   druh: přebor
 
 
 - datum: 2017-04-22
@@ -403,10 +407,10 @@
   druh: setkání
 
 
-- datum: 2017-04-29
-  nazev: Oblastní přebor východ – florbal kategorie III (Šumperk).
-  url: 
-  druh: přebor
+# - datum: 2017-04-29
+#   nazev: Oblastní přebor východ – florbal kategorie III (Šumperk).
+#   url: 
+#   druh: přebor
 
 - datum: 2017-04-29
   nazev: <i><b>návrh</b></i> Soutěž sportovní všestrannosti – gymnastika a šplh
@@ -870,20 +874,14 @@
   druh: setkání
 
 
-- datum: 2017 prosinec
-  nazev: Malý TeamGym – oblast východ (Olomouc)
-  url: 
-  druh: přebor
+# - datum: 2017 prosinec
+#   nazev: Malý TeamGym – oblast východ (Olomouc)
+#   url: 
+#   druh: přebor
 
 
 - datum: 2017 prosinec
   nazev: Malý TeamGym – oblast západ (Praha,Kr.Vinohrady)
-  url: 
-  druh: přebor
-
-
-- datum: 2017 prosinec
-  nazev: TeamGym Junior – oblast východ (Olomouc)
   url: 
   druh: přebor
 
