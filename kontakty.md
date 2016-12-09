@@ -514,6 +514,11 @@ František Nohejl
 Jaroslav Denemark
 </p>
 
+<div class="spacing"></div>
+
+<p>Podívejte se na:<br />
+<ul><li><a href="http://sokol.eu/obsah/168/kontakty-cinovnici">kontakty na členy Předsednictva ČOS</a></li>
+<li><a href="http://sokol.eu/obsah/5560/poradni-organy-predsednictva-cos">obsazení poradních orgánů Předsednictva ČOS</a></li></ul></p>
 
 </div>
 
