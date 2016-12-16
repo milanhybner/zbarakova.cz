@@ -28,8 +28,6 @@
   url: 
   druh: setkání/seminář
 
-
-
 - datum: 2017-01-13
   nazev: RDPD III. třída
   url: 
@@ -84,6 +82,10 @@
   url: 
   druh: přebor
 
+- datum: 2017-01-28
+  nazev: Hory na sněžnicích (Jeseníky)
+  url: http://www.sokol.eu/priloha/11827/901-pozvanka-sneznice.pdf
+  druh: seminář VSO
 
 - datum: 2017-01-29
   nazev: Valné hromady pro činovníky
@@ -130,6 +132,10 @@
   url: 
   druh: seminář ÚŠ
 
+- datum: 2017-02-05
+  nazev: Základy TeamGymu – akrobacie a trampolína
+  url: http://www.sokol.eu/priloha/11828/pozvanka-902-teamgym.pdf
+  druh: seminář VSO
 
 - datum: 2017-02-11
   nazev: Seminář Zdr.TV – cvičíme zdravě 4 – kruhový trénink (Praha, TD)
