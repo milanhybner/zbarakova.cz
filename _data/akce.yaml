@@ -1,8 +1,3 @@
-- datum: 2016-12-07
-  nazev: Seminář vedoucích a organizátorů – klub seniorů
-  url: /soubory/2016-12-07-klub-senioru.docx
-  druh: Seminář
-
 - datum: 2016-12-17
   nazev: Otevřený Vánoční závod odboru všestrannosti ve sportovní gymnastice a šplhu žactva
   url: https://drive.google.com/open?id=0B0QIXsJ5v2H9UDE2c3dPblF1aVE
@@ -30,15 +25,8 @@
 
 - datum: 2017-01-13
   nazev: RDPD III. třída
-  url: 
+  url: http://sokol.eu/obsah/344/cvicitel-rodicu-a-deti-a-predskolnich-deti
   druh: školení ÚŠ
-
-
-- datum: 2017-01-13
-  nazev: Rock and roll III. třída
-  url: 
-  druh: školení ÚŠ
-
 
 - datum: 2017-01-14
   nazev: TeamGym Junior – oblast západ (Praha,Kr.Vinohrady)
@@ -65,6 +53,11 @@
   nazev: Odborný seminář Zdr.TV – inkontinence (Praha, TD)
   url: 
   druh: setkání
+
+- datum: 2017-01-24
+  nazev: 17:30 Zasedání předsednictva župy Barákovy
+  url: 
+  druh: schůze
 
 - datum: 2017-01-27
   nazev: Oblastní přebor ve florbalu (Dobříš)
@@ -172,6 +165,10 @@
   url: 
   druh: školení ÚŠ
 
+- datum: 2017-02-20
+  nazev: Termín pro odevzdání formuláře registrace sportovního oddílu na župu
+  url: /dokumenty.html
+  druh: deadline
 
 - datum: 2017-02-24
   nazev: Šibřinky v Říčanech
