@@ -32,7 +32,7 @@ nazev: Sportovní oddíly jednot župy Barákovy
 <script type="text/javascript">
 
 var options = {
-  valueNames: ['datum', 'nazev']
+  valueNames: ['sport', 'nazev']
 };
 var entryList = new List('entry-list', options);
 
