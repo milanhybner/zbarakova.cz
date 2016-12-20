@@ -26,7 +26,7 @@ nazev: Sportovní oddíly jednot župy Barákovy
                 {% endfor %}
             </tbody>
         </table>
-        <p>Chcete zaregistrovat sportovní oddíl? <a href="mailto:predseda@zbarakova.cz">Napiště Petru Janichovi, předsedovi odboru sportu.</a></p>
+        <p>Chcete zaregistrovat sportovní oddíl? <a href="mailto:predseda@zbarakova.cz">Napište Petru Janichovi, předsedovi odboru sportu.</a></p>
     </div>
 </div>
 <script type="text/javascript">
