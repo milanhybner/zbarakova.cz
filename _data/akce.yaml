@@ -1,7 +1,3 @@
-- datum: 2016-12-17
-  nazev: Otevřený Vánoční závod odboru všestrannosti ve sportovní gymnastice a šplhu žactva
-  url: https://drive.google.com/open?id=0B0QIXsJ5v2H9UDE2c3dPblF1aVE
-  druh: závod
 
 - datum: 2017-12-23
   nazev: Česká mše vánoční (Čelákovice)
@@ -53,6 +49,11 @@
   nazev: Odborný seminář Zdr.TV – inkontinence (Praha, TD)
   url: 
   druh: setkání
+
+- datum: 2017-01-22
+  nazev: 9:00 – 15:00 Sraz cvičitelů PD a R+D pro oblast Praha a Středočeský kraj (Královské Vinohrady)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkUTEyRVJoTDBGOU0
+  druh: sraz
 
 - datum: 2017-01-24
   nazev: 17:30 Zasedání předsednictva župy Barákovy
