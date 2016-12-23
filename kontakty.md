@@ -437,6 +437,7 @@ $(document).ready(function() {
 Lenka Brandová<br />
 <em>tajemnice, kancelář župy Barákovy</em><br />
 <a href="mailto:zbarakova@zbarakova.cz">zbarakova@zbarakova.cz</a><br />
+<a id="predsednictvo"></a>
 <a href="tel:723138151">723 138 151</a>
 </p>
 
