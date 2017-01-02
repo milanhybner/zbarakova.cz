@@ -1,11 +1,6 @@
-- datum: 2016-12-26
-  nazev: Vánoční turnaj ve stolním tenisu pro neregistrované pod záštitou starosty obce Dolní Beřkovice
-  url: /soubory/2016-12-26-stolni-tenis.doc
-  druh: Turnaj
-
 - datum: 2016-12-31
-  nazev: Silvestrovský běh (T.J. Sokol Lysá nad Labem)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkYWU4Y1QtemhWOGI1eEZPWWJ4ZzVadC1TUEZj
+  nazev: (nové) Silvestrovský běh (T.J. Sokol Lysá nad Labem)
+  url: /ov/novinky.html#silvestrovsky-beh-2016
   druh: závod
 
 - datum: 2017-01-07
@@ -32,6 +27,11 @@
   nazev: Malý TeamGym – oblast západ (Praha,Kr.Vinohrady)
   url: 
   druh: přebor
+
+- datum: 2017-01-17
+  nazev: Balada z hadrů (Divadlo pod Petřínem Sokol Kampa)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkRXZ4cnItcVUzdEtySTlESEhvMzI3UTltSmI4
+  druh: kulturní akce
 
 - datum: 2017-01-19
   nazev: 17:00 Schůze náčelníků a náčelnic jednot
