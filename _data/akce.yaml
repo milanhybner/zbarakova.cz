@@ -18,6 +18,16 @@
   url: 
   druh: přebor
 
+- datum: 2017-01-15
+  nazev: 15:00 Divadelní pohádka O princezně Majolence (Lázně Toušeň)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkSXFhZlowMk9wSDRyTFFiYWZ2NTZQOFhoOFJJ
+  druh: kulturní akce
+
+- datum: 2017-01-17
+  nazev: literární večer Puškinův Evžen Oněgin
+  url: 19:00 https://drive.google.com/open?id=0B0w6gDorCVUkSXFhZlowMk9wSDRyTFFiYWZ2NTZQOFhoOFJJ
+  druh: kulturní akce
+
 - datum: 2017-01-17
   nazev: Balada z hadrů (Divadlo pod Petřínem Sokol Kampa)
   url: https://drive.google.com/open?id=0B0w6gDorCVUkRXZ4cnItcVUzdEtySTlESEhvMzI3UTltSmI4
@@ -33,6 +43,10 @@
   url: https://drive.google.com/open?id=0B0QIXsJ5v2H9VXVIaXUzTW5KNE0
   druh: přebor
 
+- datum: 2017-01-21
+  nazev: Seminář cvičitelek a cvičitelů ČOS „inkontinence“
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkeXg4RWpEMGhyUFVoOGtMR0RlOGQwN2pfZlBz
+  druh: seminář OV
 
 - datum: 2017-01-21
   nazev: Odborný seminář Zdr.TV – inkontinence (Praha, TD)
