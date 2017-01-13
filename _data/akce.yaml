@@ -5,17 +5,17 @@
 
 - datum: 2017-01-14
   nazev: TeamGym Junior – oblast západ (Praha,Kr.Vinohrady)
-  url: 
+  url: http://www.gymfed.cz/akce/000/722/TGJ%20Propozice%20-%20zapad%20-%20upraven%C3%A9.doc
   druh: přebor
 
-- datum: 2017-01-15
-  nazev: <i><b>návrh</b></i> 20.ročník Memoriálu Jana Palacha (Všetaty)
-  url: 
-  druh: závod
+# - datum: 2017-01-15
+#   nazev: <i><b>návrh</b></i> 20.ročník Memoriálu Jana Palacha (Všetaty)
+#   url: 
+#   druh: závod
 
 - datum: 2017-01-15
   nazev: Malý TeamGym – oblast západ (Praha,Kr.Vinohrady)
-  url: 
+  url: http://www.gymfed.cz/akce/000/721/MTG%20Propozice%20-%20zapad%20-upraven%C3%A9.doc
   druh: přebor
 
 - datum: 2017-01-15
@@ -35,7 +35,7 @@
 
 - datum: 2017-01-19
   nazev: 17:00 Schůze náčelníků a náčelnic jednot
-  url: 
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkb2dYUTZvVHVITVMzVHVHZjBnclVBeXJNZDM0
   druh: schůze
 
 - datum: 2017-01-21
@@ -50,7 +50,7 @@
 
 - datum: 2017-01-21
   nazev: Odborný seminář Zdr.TV – inkontinence (Praha, TD)
-  url: 
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkeXg4RWpEMGhyUFVoOGtMR0RlOGQwN2pfZlBz
   druh: setkání
 
 - datum: 2017-01-22
@@ -63,9 +63,19 @@
   url: 
   druh: schůze
 
+- datum: 2017-02-25
+  nazev: 20:00 Sokolské šibřinky (Lysá nad Labem)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkaG9JUzZBNGtmTE9KUGZyQ3Y2U01LSXRISGNz
+  druh: šibřinky
+
+- datum: 2017-02-25
+  nazev: 14:00 Dětské sokolské šibřinky (Lysá nad Labem)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkOVgxdGt1ekZkZDByWkc4WHk2NFZCTjNUd0N3
+  druh: šibřinky
+
 - datum: 2017-01-27
   nazev: Školení činovníků
-  url: 
+  url: http://www.sokol.eu/obsah/7175
   druh: školení ÚŠ
 
 
@@ -80,9 +90,9 @@
   druh: seminář VSO
 
 - datum: 2017-01-29
-  nazev: Valné hromady pro činovníky
-  url: 
-  druh: školení ÚŠ
+  nazev: Seminář k problematice pořádání valných hromad
+  url: http://www.sokol.eu/obsah/7139
+  druh: seminář ÚŠ
 
 
 - datum: 2017-01-31
@@ -103,24 +113,24 @@
 
 - datum: 2017-02-03
   nazev: Cvičitel jógy III. třídy
-  url: 
+  url: http://www.sokol.eu/obsah/346
   druh: školení ÚŠ
 
 
 - datum: 2017-02-04
   nazev: Aerobics Inspiration Day
-  url: 
+  url: http://www.sokol.eu/obsah/7131
   druh: seminář ÚŠ
 
 
 - datum: 2017-02-04
-  nazev: Porada župních vedoucích vzdělávání (Praha, TD)
+  nazev: Porada župních vedoucích vzdělávání (Praha, TD – Pangrácová)
   url: 
   druh: 
 
 - datum: 2017-02-05
   nazev: BOSU
-  url: 
+  url: http://www.sokol.eu/obsah/7152
   druh: seminář ÚŠ
 
 - datum: 2017-02-05
@@ -130,12 +140,12 @@
 
 - datum: 2017-02-10
   nazev: Podání grantů OV ČOS z jednot na župu 
-  url: 
+  url: /kancelar/granty.html
   druh: deadline
 
 - datum: 2017-02-10
   nazev: Zaslání výkazů z jednot na župu
-  url: 
+  url: /kancelar/formulare.html
   druh: deadline
 
 - datum: 2017-02-11
@@ -143,15 +153,14 @@
   url: 
   druh: setkání
 
-
 - datum: 2017-02-11
-  nazev: Šály
-  url: 
+  nazev: Závěsná akrobacie
+  url: http://www.sokol.eu/obsah/7153
   druh: seminář ÚŠ
 
 - datum: 2017-02-12
   nazev: Párová akrobacie
-  url: 
+  url: http://www.sokol.eu/obsah/7154
   druh: seminář ÚŠ
 
 - datum: 2017-02-15
@@ -160,7 +169,7 @@
   druh: deadline
 
 - datum: 2017-02-17
-  nazev: Krušné Hory v zimně (Krušné Hory)
+  nazev: Krušné Hory v zimě (Krušné Hory)
   url: 
   druh: pobyt v přírodě
 
@@ -173,8 +182,13 @@
 
 - datum: 2017-02-18
   nazev: Zdravotníci zotavovacích akcí
-  url: 
+  url: http://www.sokol.eu/obsah/241
   druh: školení ÚŠ
+
+- datum: 2017-02-19
+  nazev: Význam kvality pohybu v korekci oslabení pohybového systému
+  url: http://www.sokol.eu/obsah/7174
+  druh: seminář ÚŠ
 
 - datum: 2017-02-20
   nazev: Termín pro odevzdání formuláře registrace sportovního oddílu z jednot na župu
@@ -187,20 +201,20 @@
   druh: kulturní akce
 
 - datum: 2017-02-25
-  nazev: 1. nácvičný sraz sletové skladby Ženobraní (Praha, TD)
+  nazev: 1. nácvičný sraz sletové skladby Ženobraní (Praha, TD – Voráčková)
   url: 
   druh: sraz
 
 
 - datum: 2017-02-25
   nazev: Kineziotaping pro cvičitele I
-  url: 
+  url: http://www.sokol.eu/obsah/7151
   druh: seminář ÚŠ
 
 
 - datum: 2017-02-26
-  nazev: ADHD
-  url: 
+  nazev: Pohybové hry hravě (pro děti s ADHD)
+  url: http://www.sokol.eu/obsah/7155
   druh: seminář ÚŠ
 
 
@@ -210,6 +224,11 @@
   druh: sraz
 
 - datum: 2017-03-04
+  nazev: Námořnický bál (Kralupy nad Vltavou)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkUFdZcXlQTkVjLW5yRVR0YWR5NWE1cmwtczM0
+  druh: šibřinky
+
+- datum: 2017-03-04
   nazev: Sokolský ples v Českém Brodě
   url: 
   druh: kulturní akce
@@ -217,13 +236,13 @@
 
 - datum: 2017-03-04
   nazev: Cvičíme s rozumem
-  url: 
+  url: http://www.sokol.eu/obsah/7136
   druh: seminář ÚŠ
 
 
 - datum: 2017-03-04
-  nazev: Seminář RDPD - Jipast
-  url: 
+  nazev: Nářadí pro RDPD II
+  url: http://www.sokol.eu/obsah/7156
   druh: seminář ÚŠ
 
 
@@ -240,14 +259,14 @@
 
 
 - datum: 2017-03-18
-  nazev: Feldenkreis
-  url: 
+  nazev: Cvičení podle Feldenkreise
+  url: http://www.sokol.eu/obsah/7157
   druh: seminář ÚŠ
 
 
 - datum: 2017-03-18
   nazev: Zdravotníci zotavovacích akcí - seminář
-  url: 
+  url: http://www.sokol.eu/obsah/7158
   druh: seminář ÚŠ
 
 
@@ -259,9 +278,13 @@
 
 - datum: 2017-03-19
   nazev: Jóga smíchu
-  url: 
+  url: http://www.sokol.eu/obsah/7159
   druh: seminář ÚŠ
 
+- datum: 2017-03-25
+  nazev: Školení cvičitelů všestrannosti 1. část / pomahatelé (Český Brod)
+  url: 
+  druh: župní školení
 
 - datum: 2017-03-25
   nazev: Přehlídka pódiových skladeb a skladeb Aerobik Team (Praha,Kr.Vinohrady)
@@ -269,24 +292,24 @@
   druh: 
 
 - datum: 2017-03-25
-  nazev: SG po přemet
-  url: 
+  nazev: Sportovní gymnastika po přemet
+  url: http://www.sokol.eu/obsah/7160
   druh: seminář ÚŠ
 
 - datum: 2017-03-26
-  nazev: ZZZ – Zálesácký závod zdatnosti (Mšeno)
+  nazev: ZZZ – Zálesácký závod zdatnosti župní závod (Mšeno)
   url: 
   druh: přebor
 
 - datum: 2017-03-26
   nazev: Kineziotaping pro cvičitele II
-  url: 
+  url: http://www.sokol.eu/obsah/7148
   druh: seminář ÚŠ
 
 
 - datum: 2017-03-26
   nazev: SG od přemetu
-  url: 
+  url: http://www.sokol.eu/obsah/7161
   druh: seminář ÚŠ
 
 
@@ -309,13 +332,22 @@
 
 
 - datum: 2017-04-07
-  nazev: Všestrannost III. třída
-  url: 
+  nazev: Cvičitel všestrannosti III. třída
+  url: http://www.sokol.eu/obsah/352
   druh: školení ÚŠ
 
+- datum: 2017-04-08
+  nazev: Župní závod předškolních dětí ve sportovní všestrannosti
+  url: 
+  druh: přebor
+
+- datum: 2017-04-09
+  nazev: Župní závod předškolních dětí ve sportovní všestrannosti
+  url: 
+  druh: přebor
 
 - datum: 2017-04-08
-  nazev: 1. nácvičný sraz sletové skladby Děti, to je věc ! (Praha)
+  nazev: 1. nácvičný sraz sletové skladby Děti, to je věc! (Praha)
   url: 
   druh: sraz
 
@@ -343,6 +375,10 @@
   url: 
   druh: přebor
 
+- datum: 2017-04-22
+  nazec: Rozhodčí volejbalu
+  url: http://www.sokol.eu/obsah/205
+  druh: školení ÚŠ
 
 - datum: 2017-04-22
   nazev: 1. nácvičný sraz sletové skladby Borci (Kostelec nad Orlicí)
@@ -385,13 +421,13 @@
 #   url: 
 #   druh: přebor
 
-- datum: 2017-04-29
-  nazev: <i><b>návrh</b></i> Soutěž sportovní všestrannosti – gymnastika a šplh
+- datum: 2017-04-22
+  nazev: Soutěž sportovní všestrannosti – gymnastika a šplh (Lysá nad Labem)
   url: 
   druh: přebor
 
-- datum: 2017-04-30
-  nazev: <i><b>návrh</b></i> Soutěž sportovní všestrannosti – plavání a atletika
+- datum: 2017-04-23
+  nazev: Soutěž sportovní všestrannosti – plavání a atletika (Čelákovice)
   url: 
   druh: přebor
 
@@ -413,8 +449,8 @@
   url: 
   druh: turistická
 
-- datum: 2017-05-07
-  nazev: <i><b>návrh</b></i> Župní akademie T.J. Sokol Říčany a Radošovice
+- datum: upřesníme # 2017-05-07
+  nazev: Župní akademie T.J. Sokol Říčany a Radošovice
   url: 
   druh: vystoupení
 
@@ -455,32 +491,26 @@
 
 
 - datum: 2017-05-20
-  nazev: Tanec
-  url: 
+  nazev: Latino Dance, Vogue, Jazz
+  url: http://www.sokol.eu/obsah/7162
   druh: seminář ÚŠ
 
 
 - datum: 2017-05-20
   nazev: Začni s badmintonem
-  url: 
+  url: http://www.sokol.eu/obsah/7163
   druh: seminář ÚŠ
 
 
 - datum: 2017-05-21
   nazev: Basketbal nejen pro žactvo
-  url: 
+  url: http://www.sokol.eu/obsah/7144
   druh: seminář ÚŠ
 
 
 - datum: 2017-05-21
-  nazev: Nářadí pro RDPD
-  url: 
-  druh: seminář ÚŠ
-
-
-- datum: 2017-05-25
-  nazev: Vodní turistika
-  url: 
+  nazev: Nářadí pro RDPD II
+  url: http://www.sokol.eu/obsah/7164
   druh: seminář ÚŠ
 
 
@@ -489,6 +519,15 @@
   url: 
   druh: přebor
 
+- datum: 2017-05-28
+  nazev: Přebor ČOS – všestrannost mladšího žactva (Prostějov)
+  url: 
+  druh: přebor
+
+- datum: 2017-05-27
+  nazev: Hudebně pohybové hry a hlasový projev
+  url: http://www.sokol.eu/obsah/7173
+  druh: seminář ÚŠ
 
 - datum: 2017-05-29
   nazev: Move Week (ČR)
@@ -498,7 +537,7 @@
 
 - datum: 2017-06-01
   nazev: Cvičitel parkouru III. třídy
-  url: 
+  url: http://www.sokol.eu/obsah/7179
   druh: školení ÚŠ
 
 
@@ -515,21 +554,28 @@
 
 
 - datum: 2017-06-10
-  nazev: Organizace sletu seminář
-  url: 
+  nazev: Seminář pro organizátory župních sletů
+  url: http://www.sokol.eu/obsah/7166
   druh: seminář ÚŠ
 
-- datum: 
+- datum: 2017-06-21
+  nazev: T-mobile olympijský běh
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkVndaNjBEQjBXZ05PeThGd3NaSTBMSjR5OXJZ
+  druh: sportovní akce
 
 - datum: 2017-06-24
   nazev: Sokolský turistický sraz (Mšeno)
   url: 
   druh: turistická
 
+- datum: 2017 červen nebo září
+  nazev: Street Workout
+  url: http://www.sokol.eu/obsah/7147
+  druh: seminář ÚŠ
 
 - datum: 2017-07-01
   nazev: Prázdninová škola
-  url: 
+  url: http://www.sokol.eu/obsah/7177
   druh: školení ÚŠ
 
 
@@ -538,10 +584,10 @@
   url: 
   druh: turistická
 
-- datum: 2017-08-05
-  nazev: <i><b>návrh</b></i> Župní turnaj ve volejbale O babiččin mazanec
-  url: 
-  druh: závod
+# - datum: 2017-08-05
+#   nazev: Župní turnaj ve volejbale O babiččin mazanec
+#   url: 
+#   druh: závod
 
 - datum: 2017-08-24
   nazev: Celostátní sokolský cyklistický sraz (Duchcov)
@@ -563,13 +609,13 @@
 
 - datum: 2017-09-08
   nazev: Na vodě bezpečně a technicky správně
-  url: 
+  url: http://www.sokol.eu/obsah/7167
   druh: seminář ÚŠ
 
 
 - datum: 2017-09-08
   nazev: Trenér volejbalu III. třídy
-  url: 
+  url: http://www.sokol.eu/obsah/7140
   druh: školení ÚŠ
 
 
@@ -587,7 +633,7 @@
 
 - datum: 2017-09-16
   nazev: Začni s badmintonem
-  url: 
+  url: http://www.sokol.eu/obsah/7168
   druh: seminář ÚŠ
 
 
@@ -604,13 +650,13 @@
 
 - datum: 2017-09-22
   nazev: Cvičitel aerobiku III. třídy
-  url: 
+  url: http://www.sokol.eu/obsah/7195
   druh: školení ÚŠ
 
 
 - datum: 2017-09-22
   nazev: Cvičitel seniorů III. třídy
-  url: 
+  url: http://www.sokol.eu/obsah/5797
   druh: školení ÚŠ
 
 
@@ -628,7 +674,7 @@
 
 - datum: 2017-10-06
   nazev: Cvičitel zdr TV II. třída
-  url: 
+  url: http://www.sokol.eu/obsah/7182
   druh: školení ÚŠ
 
 
@@ -699,14 +745,19 @@
 
 
 - datum: 2017-10-21
-  nazev: Rozhodčí SG
-  url: 
+  nazev: Tvorba sestav SG – ženské složky
+  url: http://www.sokol.eu/obsah/7169
+  druh: seminář ÚŠ
+
+- datum: 2017-10-21
+  nazev: Tvorba sestav SG – mužské složky
+  url: http://www.sokol.eu/obsah/7150
   druh: seminář ÚŠ
 
 
 - datum: 2017-10-22
   nazev: Funkční trénink
-  url: 
+  url: http://www.sokol.eu/obsah/7141
   druh: seminář ÚŠ
 
 
@@ -715,6 +766,10 @@
   url: 
   druh: sraz
 
+- datum: 2017-10-28
+  nazev: Promo akce "99 let poté a 245 dní do začátku sletu"
+  url: 
+  druh: 
 
 - datum: 2017-10-28
   nazev: Tradiční výstup na Blaník (Louňovice)
@@ -722,7 +777,7 @@
   druh: turistická
 
 - datum: říjen 2017
-  nazev: <i><b>návrh</b></i> Šestajovická šestka
+  nazev: Šestajovická šestka
   url: 
   druh: závod
 
@@ -741,7 +796,7 @@
 
 - datum: 2017-11-05
   nazev: Seminář senioři
-  url: 
+  url: http://www.sokol.eu/obsah/7170
   druh: seminář ÚŠ
 
 
@@ -771,19 +826,19 @@
 
 - datum: 2017-11-18
   nazev: Chlapi v tělocvičně
-  url: 
+  url: http://www.sokol.eu/obsah/7145
   druh: seminář ÚŠ
 
 
 - datum: 2017-11-25
-  nazev: Seminář plavání + pravidla
-  url: 
+  nazev: Plavání ve sportovní všestrannosti
+  url: http://www.sokol.eu/obsah/7171
   druh: seminář ÚŠ
 
 
 - datum: 2017-11-26
-  nazev: Seminář atletika + pravidla
-  url: 
+  nazev: Atletika ve sportovní všestrannosti
+  url: http://www.sokol.eu/obsah/7172
   druh: seminář ÚŠ
 
 
@@ -837,7 +892,7 @@
 
 - datum: 2017-12-02
   nazev: Mažoretky
-  url: 
+  url: http://www.sokol.eu/obsah/7146
   druh: seminář ÚŠ
 
 
