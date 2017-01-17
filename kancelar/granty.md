@@ -4,6 +4,7 @@ nazev: Granty, dotace, příspěvky a směrnice župy
 ---
 
 <!--
+
 # Granty Odboru všestrannosti ČOS
 
 * Přidělené finanční prostředky musí být navýšeny minimálně o 30% z vlastních zdrojů.
@@ -32,9 +33,10 @@ Finanční prostředky grantu _nelze_ použít na:
 * nákup cvičebních úborů
 * nákup pohárů, medailí, diplomů, hudebních nosičů
 
-Termín: 31.1.2017
+Termín: 10. 2. 2017
 
-Stáhnout formulář
+* [Formulář „Žádost o grant odboru všestrannosti ČOS na podporu projektů eřejně přístupných sportovních a tělocvičných akcí, které pořádají sokolské župy a tělocvičné jednoty v roce 2017 (Projekt I.)“](https://drive.google.com/file/d/0B0QIXsJ5v2H9QTlQOTZqcTJrZG8/view)
+
 
 ## Vybavení tělocvičen
 
@@ -50,7 +52,7 @@ Lze hradit nákup:
 
 Nelze hradit nákup zvukových a obrazových nosičů.
 
-Termín:
+Termín: 10. 2. 2017
 
 Stáhnout formulář
 
@@ -99,7 +101,7 @@ nebo elektronicky naskenovaný originál na adresu: jkucera@sokol.eu
 
 7/ Do 30. září 2017 dodání objednaného zboží dodavatelem do jednoho místa určeného v objednávce župou a vystavení faktury župě. Tělocvičná jednota provede úhradu faktury vystavené župou. Župa uhradí fakturu hromadné objednávky od dodavatele.
 
-Termín: 
+Termín: 10. 2. 2017
 
 Stáhnout formulář
 
