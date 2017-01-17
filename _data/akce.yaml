@@ -63,15 +63,6 @@
   url: 
   druh: schůze
 
-- datum: 2017-02-25
-  nazev: 20:00 Sokolské šibřinky (Lysá nad Labem)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkaG9JUzZBNGtmTE9KUGZyQ3Y2U01LSXRISGNz
-  druh: šibřinky
-
-- datum: 2017-02-25
-  nazev: 14:00 Dětské sokolské šibřinky (Lysá nad Labem)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkOVgxdGt1ekZkZDByWkc4WHk2NFZCTjNUd0N3
-  druh: šibřinky
 
 - datum: 2017-01-27
   nazev: Školení činovníků
@@ -197,14 +188,23 @@
 
 - datum: 2017-02-24
   nazev: Šibřinky v Říčanech
-  url: 
+  url: http://sokol.eu/priloha/11963/ricany.pdf
   druh: kulturní akce
+
+- datum: 2017-02-25
+  nazev: 20:00 Sokolské šibřinky (Lysá nad Labem)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkaG9JUzZBNGtmTE9KUGZyQ3Y2U01LSXRISGNz
+  druh: šibřinky
+
+- datum: 2017-02-25
+  nazev: 14:00 Dětské sokolské šibřinky (Lysá nad Labem)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkOVgxdGt1ekZkZDByWkc4WHk2NFZCTjNUd0N3
+  druh: šibřinky
 
 - datum: 2017-02-25
   nazev: 1. nácvičný sraz sletové skladby Ženobraní (Praha, TD – Voráčková)
   url: 
   druh: sraz
-
 
 - datum: 2017-02-25
   nazev: Kineziotaping pro cvičitele I
@@ -224,7 +224,7 @@
   druh: sraz
 
 - datum: 2017-03-04
-  nazev: Námořnický bál (Kralupy nad Vltavou)
+  nazev: 20: Námořnický bál (Kralupy nad Vltavou)
   url: https://drive.google.com/open?id=0B0w6gDorCVUkUFdZcXlQTkVjLW5yRVR0YWR5NWE1cmwtczM0
   druh: šibřinky
 
