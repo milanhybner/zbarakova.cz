@@ -15,6 +15,8 @@ Darujte krev a získejte body pro svoji jednotu [v korespondenční soutěži](h
 
 Vytvořte [keš](https://cs.wikipedia.org/wiki/Geocaching#Cache) na počest 100. výročí založení československého státu. [Detaily projektu zde.](http://sokol.eu/obsah/5420/100-sokolskych-kesi-republice)
 
+Garanti za župu: Petr Mikysek (Cítov), Milan Marek (Mratín)
+
 ## U nás v Sokole
 
 Pozvěte k sobě sokolské bratry a sestry z celé republiky a ukažte jim, jaké je to [u vás v sokole](http://sokol.eu/obsah/5422/u-nas-v-sokole).
@@ -22,3 +24,7 @@ Pozvěte k sobě sokolské bratry a sestry z celé republiky a ukažte jim, jak�
 ## Se Sokolem za kopečky
 
 Letos se vydejte 6. května na [Fichtelberg](https://cs.wikipedia.org/wiki/Fichtelberg), 29. července na [Velkou Javorinu](https://cs.wikipedia.org/wiki/Velk%C3%A1_Javo%C5%99ina) nebo 2. září na [Falkenstein](https://cs.wikipedia.org/wiki/Falkenstein).[Info o minulých výletech zde.](http://sokol.eu/obsah/5421/se-sokolem-za-kopecky)
+
+## Svět nekončí za vrátky – cvičíme se zvířátky
+
+Garant za župu: Pavlína Škodová (Říčany)

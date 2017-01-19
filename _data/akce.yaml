@@ -9,6 +9,11 @@
   druh: přebor
 
 - datum: 2017-01-21
+  nazev: 20.ročník Memoriálu Jana Palacha (Všetaty)
+  url: http://www.gymfed.cz/akce/000/767/rozpis%20Memorial%20J.Palacha%202017.pdf
+  druh: závod
+
+- datum: 2017-01-21
   nazev: Seminář cvičitelek a cvičitelů ČOS „inkontinence“
   url: https://drive.google.com/open?id=0B0w6gDorCVUkeXg4RWpEMGhyUFVoOGtMR0RlOGQwN2pfZlBz
   druh: seminář OV
@@ -28,12 +33,25 @@
   url: 
   druh: schůze
 
+- datum: 2017-01-25
+  nazev: Klub seniorů – Opakování besedy s Marcelou Tmejovou „Sokol v Americe mýma očima, americké národní parky“ s rozšířeným vyprávěním a s promítáním
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkLUNYeTEzOHg1ZVdZa1ZZUE9pTlVnZ0pSN3Fv
+  druh: setkání
 
 - datum: 2017-01-27
   nazev: Školení činovníků
   url: http://www.sokol.eu/obsah/7175
   druh: školení ÚŠ
 
+- datum: 2017-01-28
+  nazev: 19:30 Spolkový ples (Chocerady)
+  url: http://sokol-chocerady.webnode.cz/pripravovane-akce/
+  druh: kulturní akce
+
+- datum: 2017-01-28
+  nazev: Ples Sokol Strančice
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
+  druh: společenská akce
 
 - datum: 2017-01-28
   nazev: Přebor ČOS TeamGym Junior (Praha, TD)
@@ -49,6 +67,11 @@
   nazev: Seminář k problematice pořádání valných hromad
   url: http://www.sokol.eu/obsah/7139
   druh: seminář ÚŠ
+
+- datum: 2017-01-30
+  nazev: Klub seniorů – beseda s Jájou Žitnou „Antické památky Evropy“ s promítáním
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkLUNYeTEzOHg1ZVdZa1ZZUE9pTlVnZ0pSN3Fv
+  druh: setkání
 
 
 - datum: 2017-01-31
@@ -79,6 +102,11 @@
 
 
 - datum: 2017-02-04
+  nazev: Dětský karneval
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
+  druh: společenská akce
+
+- datum: 2017-02-04
   nazev: Aerobics Inspiration Day
   url: http://www.sokol.eu/obsah/7131
   druh: seminář ÚŠ
@@ -88,6 +116,12 @@
   nazev: Porada župních vedoucích vzdělávání (Praha, TD – Pangrácová)
   url: 
   druh: 
+
+- datum: 2017-02-05
+  nazev: Se Sokolem na hory – Bedřichov
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkN1dUcElkcHpxWVBIZVFmdHRabHNyOHJCTjBv
+  druh: výlet
+
 
 - datum: 2017-02-05
   nazev: BOSU
@@ -134,12 +168,21 @@
   url: 
   druh: pobyt v přírodě
 
+- datum: 2017-02-17
+  nazev: Se Sokolem na hory – víkend v Srní a okolí (Šumava)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkN1dUcElkcHpxWVBIZVFmdHRabHNyOHJCTjBv
+  druh: výlet
+
 
 - datum: 2017-02-18
   nazev: 1. nácvičný sraz sletové skladby Siluety (Praha, TD)
   url: 
   druh: sraz
 
+- datum: 2017-02-18
+  nazev: Nohejbalový turnaj
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
+  druh: soutěž
 
 - datum: 2017-02-18
   nazev: Zdravotníci zotavovacích akcí
@@ -156,19 +199,29 @@
   url: /dokumenty.html
   druh: deadline
 
+# - datum: 2017-02-20
+#   nazev: Expediční kamera (Kralupy nad Vltavou)
+#   url: https://www.facebook.com/soobkpy/events/?ref=page_internal
+#   druh: kulturní akce
+
+- datum: 2017-02-22
+  nazev: Klub seniorů – Opakování a doplnění besedy s Honzou Firbasem „Moje návštěva New Yorku“ s promítáním
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkLUNYeTEzOHg1ZVdZa1ZZUE9pTlVnZ0pSN3Fv
+  druh: setkání
+
 - datum: 2017-02-24
   nazev: Šibřinky v Říčanech
   url: http://sokol.eu/priloha/11963/ricany.pdf
   druh: kulturní akce
 
 - datum: 2017-02-25
-  nazev: 20:00 Sokolské šibřinky (Lysá nad Labem)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkaG9JUzZBNGtmTE9KUGZyQ3Y2U01LSXRISGNz
+  nazev: 14:00 Dětské sokolské šibřinky (Lysá nad Labem)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkOVgxdGt1ekZkZDByWkc4WHk2NFZCTjNUd0N3
   druh: šibřinky
 
 - datum: 2017-02-25
-  nazev: 14:00 Dětské sokolské šibřinky (Lysá nad Labem)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkOVgxdGt1ekZkZDByWkc4WHk2NFZCTjNUd0N3
+  nazev: 20:00 Sokolské šibřinky (Lysá nad Labem)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkaG9JUzZBNGtmTE9KUGZyQ3Y2U01LSXRISGNz
   druh: šibřinky
 
 - datum: 2017-02-25
@@ -187,6 +240,10 @@
   url: http://www.sokol.eu/obsah/7155
   druh: seminář ÚŠ
 
+- datum: 2017-02-27
+  nazev: Klub seniorů – Beseda s Maruškou Brunerovou – volné pokračování – „Po stopách Karla IV.“ s promítáním
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkLUNYeTEzOHg1ZVdZa1ZZUE9pTlVnZ0pSN3Fv
+  druh: setkání
 
 - datum: 2017-03-04
   nazev: 1. nácvičný sraz sletové skladby Cesta (Praha, TD)
@@ -199,7 +256,7 @@
   druh: šibřinky
 
 - datum: 2017-03-04
-  nazev: Sokolský ples v Českém Brodě
+  nazev: Sokolský ples v Českém Brodě a otevření nového sportovního sálu
   url: 
   druh: kulturní akce
 
@@ -221,22 +278,36 @@
   url: 
   druh: sraz
 
+- datum: 2017-03-11
+  nazev: Seminář taekwon-do
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
+  druh: seminář
+
 
 - datum: 2017-03-18
-  nazev: 1. nácvičný sraz sletové skladby Méďové (Praha, TD)
+  nazev: 1. nácvičný sraz sletové skladby Méďové (Praha, TD – Horáčková Jungmannová)
   url: 
   druh: 
 
 - datum: 2017-03-18
-  nazev: Dětský karneval
+  nazev: Dětský maškarní ples (Mochov)
   url: 
   druh: šibřinky
+
+- datum: 2017-03-18
+  nazev: Maškarní ples Strančice
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
+  druh: společenská akce
+
+- datum: 2017-03-18
+  nazev: Se Sokolem na hory – Mísečky + Benecko
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkN1dUcElkcHpxWVBIZVFmdHRabHNyOHJCTjBv
+  druh: výlet
 
 - datum: 2017-03-18
   nazev: Cvičení podle Feldenkreise
   url: http://www.sokol.eu/obsah/7157
   druh: seminář ÚŠ
-
 
 - datum: 2017-03-18
   nazev: Zdravotníci zotavovacích akcí - seminář
@@ -258,6 +329,11 @@
   nazev: Jóga smíchu
   url: http://www.sokol.eu/obsah/7159
   druh: seminář ÚŠ
+
+- datum: 2017 jaro
+  nazev: Pohádkový les (Chocerady)
+  url: 
+  druh: kulturní akce
 
 - datum: 2017-03-25
   nazev: Školení cvičitelů všestrannosti 1. část / pomahatelé (Český Brod)
@@ -314,21 +390,16 @@
   url: http://www.sokol.eu/obsah/352
   druh: školení ÚŠ
 
-- datum: 2017-04-08
-  nazev: Župní závod předškolních dětí ve sportovní všestrannosti
-  url: 
-  druh: přebor
-
-- datum: 2017-04-09
-  nazev: Župní závod předškolních dětí ve sportovní všestrannosti
-  url: 
-  druh: přebor
 
 - datum: 2017-04-08
   nazev: 1. nácvičný sraz sletové skladby Děti, to je věc! (Praha)
   url: 
   druh: sraz
 
+- datum: 2017-04-08
+  nazev: Volejbalový turnaj
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
+  druh: soutěž
 
 # - datum: 2017-04-08
 #   nazev: Oblastní přebor východ – florbal kategorie II (Brno 1)
@@ -377,7 +448,7 @@
 
 
 - datum: 2017-04-22
-  nazev: Sraz župních vedoucích Zdr.TV (Praha, TD)
+  nazev: Sraz župních vedoucích Zdr.TV (Praha, TD – Valášková)
   url: 
   druh: sraz
 
@@ -419,6 +490,11 @@
   url: http://badminton-milovice.webnode.cz/news/aprilovy-turnaj-2017/
   druh: závod
 
+- datum: 2017 duben
+  nazev: Doškolovací seminář v Kralupech
+  url: 
+  druh: seminář
+
 - datum: 2017-05-04
   nazev: Seminář pobyt v přírodě – vodácké putování (Vltava)
   url: 
@@ -441,9 +517,23 @@
   url: 
   druh: vystoupení
 
+- datum: 2017-05-08
+  nazev: Kuličky
+  url: 
+  druh: turnaj
 
 - datum: 2017-05-13
-  nazev: 1. nácvičný sraz sletové skladby Princezna republika (Praha, TD)
+  nazev: Župní závod předškolních dětí ve sportovní všestrannosti
+  url: 
+  druh: přebor
+
+- datum: 2017-05-13
+  nazev: Královské město 580 let a 2. náhradní Všesokolský slet 1887 (Český Brod)
+  url: 
+  druh: kulturní akce
+
+- datum: 2017-05-13
+  nazev: 1. nácvičný sraz sletové skladby Princezna republika (Praha, TD – Pangrácová)
   url: 
   druh: sraz
 
@@ -571,6 +661,11 @@
   url: 
   druh: turistická
 
+- datum: 2017-07-29
+  nazev: Pouťová zábava
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
+  druh: společenská akce
+
 # - datum: 2017-08-05
 #   nazev: Župní turnaj ve volejbale O babiččin mazanec
 #   url: 
@@ -607,7 +702,7 @@
 
 
 - datum: 2017-09-16
-  nazev: Sraz jógy (Praha, TD)
+  nazev: Sraz jógy (Praha, TD – Matějovská)
   url: 
   druh: sraz
 
@@ -672,7 +767,7 @@
 
 
 - datum: 2017-10-07
-  nazev: 2. nácvičný sraz sletové skladby Méďové (Praha, Karlín)
+  nazev: 2. nácvičný sraz sletové skladby Méďové (Praha, Karlín – Horáčková Jungmannová)
   url: 
   druh: sraz
 
@@ -684,7 +779,7 @@
 
 
 - datum: 2017-10-13
-  nazev: Sraz župních vedoucích pobyt v přírodě (Kroměříž)
+  nazev: Sraz župních vedoucích pobyt v přírodě (Kroměříž – Mikysek)
   url: 
   druh: sraz
 
@@ -726,7 +821,7 @@
 
 
 - datum: 2017-10-21
-  nazev: 2. nácvičný sraz sletové skladby Ženobraní (Praha, Karlín)
+  nazev: 2. nácvičný sraz sletové skladby Ženobraní (Praha, Karlín – Voráčková)
   url: 
   druh: sraz
 
@@ -770,7 +865,7 @@
 
 
 - datum: 2017-11-04
-  nazev: 2. nácvičný sraz sletové skladby Princezna republika (Praha, TD)
+  nazev: 2. nácvičný sraz sletové skladby Princezna republika (Praha, TD – Pangrácová)
   url: 
   druh: sraz
 
@@ -910,10 +1005,6 @@
   url: 
   druh: přebor
 
-- datum: 2017
-  nazev: Doškolovací seminář v Kralupech
-  url: 
-  druh: seminář
 
 - datum: 2017
   nazev: Swing (doškolení) – Šestajovice

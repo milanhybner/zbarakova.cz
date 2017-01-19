@@ -153,3 +153,21 @@ Anička a Lída
 * [video](https://www.youtube.com/watch?v=8J7IbL63oqA)
 * základní celek: 9 cvičenců (6 žen,3 muži)
 * autoři: Lenka Kocmichová Blanka Kocmichová
+
+---
+
+# Nácvik skladeb v jednotách
+
+|       skladby       |             jednota/-y            |
+|---------------------|-----------------------------------|
+| Méďové              | Říčany, Chocerady,                |
+| Noty                | Český Brod, Říčany                |
+| V peřině            |                                   |
+| Děti, to je věc     | Cítov                             |
+| Cirkus              |                                   |
+| Siluety             | Říčany, Šestajovice               |
+| Cesta               | –                                 |
+| Ženobraní           | Lysá nad Labem, Říčany, Mochov(?) |
+| Jsme/sme spolu      | Český Brod, Mochov(?)             |
+| Borci               | Šestajovice, Český Brod           |
+| Princezna republika | Přívory, Český Brod               |
