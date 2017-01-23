@@ -26,7 +26,11 @@ layout: default
                 <tr>
                     <td class="datum">{{akce.datum}}</td>
                     <td class="nazev">
+                     {% if akce.url %}
                         <a href="{{akce.url}}">{{akce.nazev}}</a>
+                    {% else %}
+                        {{akce.nazev}}
+                    {% endif %}
                     </td>
                     <td class="druh">{{akce.druh}}</td>
                 </tr>

@@ -23,7 +23,11 @@ layout: default
                 {%for dokument in site.data.dokumenty %}
                 <tr>
                     <td class="nazev">
+                        {% if dokument.url == "" %}
+                        {{dokument.nazev}}
+                        {% else %}
                         <a href="{{dokument.url}}" target="_blank">{{dokument.nazev}}</a>
+                        {% endif %}
                     </td>
                     <td class="popis">{{dokument.popis}}</td>
                 </tr>
