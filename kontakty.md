@@ -106,12 +106,6 @@ layout: default
 
 
 <tr>
-<td><a href='#'>Liběchov</a></td>
-<td><span class='badge badge-theme'>14</span></td>
-</tr>
-
-
-<tr>
 <td><a href='http://www.sokol-lysa.cz/'>Lysá nad Labem</a></td>
 <td><span class='badge badge-theme'>437</span></td>
 </tr>

@@ -5,19 +5,38 @@ nazev: Skladby XVI. všesokolského sletu
 
 # Nácvik skladeb v jednotách
 
-|       skladby       |                   jednota/-y                   |
-|---------------------|------------------------------------------------|
-| Méďové              | Říčany a Radošovice, Chocerady                 |
-| Noty                | Český Brod, Říčany a Radošovice                |
-| V peřině            |                                                |
-| Děti, to je věc     | Cítov, Říčany a Radošovice                     |
-| Cirkus              |                                                |
-| Siluety             | Říčany a radošovice, Šestajovice               |
-| Cesta               | –                                              |
-| Ženobraní           | Lysá nad Labem, Říčany a Radošovice, Mochov(?) |
-| Jsme/sme spolu      | Český Brod, Mochov(?)                          |
-| Borci               | Šestajovice, Český Brod                        |
-| Princezna republika | Přívory, Český Brod, Říčany a Radošovice       |
+<div id="entry-list" class="container mt">
+    <div class="row" style="margin-bottom:10px;">
+        <input class="search form-control" placeholder="Filtrovat" type="text">
+        <table>
+            <thead>
+                <tr>
+                    <th>Skladba</th>
+                    <th>Jednota</th>
+                    <th>Garant</th>
+                </tr>
+            </thead>
+            <tbody class="list">
+                {%for polozka in site.data.skladby %}
+                <tr>
+                    <td class="skladba">{{polozka.skladba}}</td>
+                    <td class="jednota">{{polozka.jednota}}</td>
+                    <td class="garant">{{polozka.garant}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+<script type="text/javascript">
+
+var options = {
+  valueNames: ['skladba', 'jednota', 'garant']
+};
+var entryList = new List('entry-list', options);
+
+</script>
+
 
 # Termíny nácvičných srazů 2017
 
