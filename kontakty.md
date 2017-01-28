@@ -465,7 +465,7 @@ Lenka Farkasová<br />
 <em>hospodář, dotace</em><br />
 <a href="mailto:hospodar@zbarakova.cz">hospodar@zbarakova.cz</a>
 </p>
-<p>
+<p><a id="milan"></a>
 PaedDr. Miloslava Pangrácová<br />
 <em>náčelnice</em><br />
 <a href="mailto:mila.pangrac@seznam.cz">mila.pangrac@seznam.cz</a>
