@@ -154,7 +154,7 @@ layout: default
 
 
 <tr>
-<td><a href='http://www.tjsokolnehvizdy.estranky.cz/'>Nehvizdy</a></td>
+<td><a href='http://www.sokolnehvizdy.cz/'>Nehvizdy</a></td>
 <td><span class='badge badge-theme'>311</span></td>
 </tr>
 
@@ -300,7 +300,7 @@ layout: default
       ['http://www.sokol.eu/jednota/21', 50.3123372, 14.6175283, 'Byšice'],
       ['http://www.sokol.eu/jednota/22', 50.3709278, 14.4042803, 'Cítov'],
       ['http://www.sokol.eu/jednota/23', 50.2954614, 14.6180964, 'Čečelice'],
-      ['http://www.sokol.eu/jednota/24', 50.0746528, 14.8576789, 'Český Brod'],
+      ['http://www.sokolbrod.cz', 50.0746528, 14.8576789, 'Český Brod'],
       ['http://www.sokol.eu/jednota/25', 50.3929664, 14.4482347, 'Dolní Beřkovice'],
       ['http://www.sokol.eu/jednota/26', 50.2507008, 14.6422472, 'Dřísy'],
       ['http://www.sokol.eu/jednota/27', 50.4224283, 14.3903517, 'Horní Počaply'],
@@ -320,7 +320,7 @@ layout: default
       ['http://www.sokol.eu/jednota/41', 50.2026322, 14.5498681, 'Mratín'],
       ['http://www.sokol.eu/jednota/42', 50.4385367, 14.6332942, 'Mšeno'],
       ['http://www.sokol.eu/jednota/43', 50.3539956, 14.4745778, 'na Mělníce'],
-      ['http://www.sokol.eu/jednota/44', 50.1292453, 14.7272203, 'Nehvizdy'],
+      ['http://www.sokolnehvizdy.cz/', 50.1292453, 14.7272203, 'Nehvizdy'],
       ['http://www.sokol.eu/jednota/45', 50.3666203, 14.4683717, 'Ovčáry - Nedomice'],
       ['http://www.sokol.eu/jednota/46', 50.1070447, 14.9141217, 'Poříčany'],
       ['http://www.sokol.eu/jednota/47', 50.0572981, 14.8765944, 'Přistoupim'],
@@ -331,7 +331,7 @@ layout: default
       ['http://www.sokol.eu/jednota/52', 50.1623814, 14.7534650, 'Sedlčánky'],
       ['http://www.sokol.eu/jednota/53', 49.9489317, 14.6771361, 'Strančice'],
       ['http://www.sokol.eu/jednota/54', 49.8963953, 14.8454400, 'Stříbrná Skalice'],
-      ['http://www.sokol.eu/jednota/55', 50.1066175, 14.6800436, 'Šestajovice'],
+      ['http://www.sokolsestajovice.cz', 50.1066175, 14.6800436, 'Šestajovice'],
       ['http://www.sokol.eu/jednota/56', 50.2536728, 14.3796411, 'Úžice'],
       ['http://www.sokol.eu/jednota/58', 49.9209258, 14.6406614, 'Velké Popovice'],
       ['http://www.sokol.eu/jednota/59', 50.1674364, 14.4445986, 'Veltěž'],
