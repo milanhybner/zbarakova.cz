@@ -236,8 +236,13 @@
 - datum: 2017-03-04
   nazev: Sokolský ples v Českém Brodě a otevření nového sportovního sálu
   url: https://drive.google.com/open?id=0B0w6gDorCVUkQ0hpdzVSOVB3dWpOQ2ZZUXppQi05U2lnbWhZ
-  druh: kulturní akce
+  druh: společenská akce
 
+
+- datum: 2017-03-05
+  nazev: Karnevalové řádění (Český Brod)
+  url: http://sokolbrod.cz/wp-content/uploads/2017/01/karnevalove-radeni-2017.jpg
+  druh: společenská akce
 
 - datum: 2017-03-04
   nazev: Cvičíme s rozumem (Praha)
