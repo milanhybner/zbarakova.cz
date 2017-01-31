@@ -22,7 +22,7 @@ nazev: Skladby XVI. všesokolského sletu
                 <tr>
                     <td class="skladba">{{polozka.skladba}}</td>
                     <td class="jednota">{{polozka.jednota}}</td>
-                    <td class="celku">{{polozka.celku}}
+                    <td class="celku">{{polozka.celku}}<td>
                     <td class="garant">{{polozka.garant}}</td>
                 </tr>
                 {% endfor %}
