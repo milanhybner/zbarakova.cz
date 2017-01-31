@@ -13,6 +13,7 @@ nazev: Skladby XVI. všesokolského sletu
                 <tr>
                     <th>Skladba</th>
                     <th>Jednota</th>
+                    <th>Poč. celků</th>
                     <th>Garant</th>
                 </tr>
             </thead>
@@ -21,6 +22,7 @@ nazev: Skladby XVI. všesokolského sletu
                 <tr>
                     <td class="skladba">{{polozka.skladba}}</td>
                     <td class="jednota">{{polozka.jednota}}</td>
+                    <td class="celku">{{polozka.celku}}
                     <td class="garant">{{polozka.garant}}</td>
                 </tr>
                 {% endfor %}
@@ -31,7 +33,7 @@ nazev: Skladby XVI. všesokolského sletu
 <script type="text/javascript">
 
 var options = {
-  valueNames: ['skladba', 'jednota', 'garant']
+  valueNames: ['skladba', 'jednota', 'celku'. 'garant']
 };
 var entryList = new List('entry-list', options);
 
