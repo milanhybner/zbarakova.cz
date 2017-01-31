@@ -385,6 +385,12 @@ layout: default
   </div>
   <button type="submit" class="btn btn-theme">Odeslat</button>
 </form>
+
+<div class="spacing"></div>
+
+<a href="https://chat.whatsapp.com/IfIGXTmgpWrEOWpBW2lFkI">Kontaktujte nás přes WhatsApp</a>
+
+
 </div>
 
 
