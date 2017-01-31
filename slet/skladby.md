@@ -5,7 +5,7 @@ nazev: Skladby XVI. všesokolského sletu
 
 # Nácvik skladeb v jednotách
 
-<!--
+
 <div id="entry-list" class="container mt">
     <div class="row" style="margin-bottom:10px;">
         <input class="search form-control" placeholder="Filtrovat" type="text">
@@ -23,7 +23,7 @@ nazev: Skladby XVI. všesokolského sletu
                 <tr>
                     <td class="skladba">{{polozka.skladba}}</td>
                     <td class="jednota">{{polozka.jednota}}</td>
-                    <td class="celku">{{polozka.celku}}<td>
+                    <td class="celku">{{polozka.celku}}</td>
                     <td class="garant">{{polozka.garant}}</td>
                 </tr>
                 {% endfor %}
@@ -39,35 +39,6 @@ var options = {
 var entryList = new List('entry-list', options);
 
 </script>
--->
-
-|       skladba       |       jednota       | celku |         garant        |
-|---------------------|---------------------|-------|-----------------------|
-| Méďové              | Říčany a Radošovice | ?     | Horáčková Jungmannová |
-| Méďové              | Chocerady           | ?     | ?                     |
-| Méďové              | Pyšely              | 4     | Bartíková             |
-| Noty                | Český Brod          | ?     | ?                     |
-| Noty                | Říčany a Radošovice | ?     | Škodová               |
-| Děti, to je věc!    | Cítov               | ?     | Mikysek               |
-| Děti, to je věc!    | Říčany a Radošovice | ?     | Bělohlávková, Černá   |
-| V Peřině            | Pyšely              | 2     | Bartíková             |
-| Siluety             | Pyšely              | 2     | Bartíková             |
-| Siluety             | Říčany a Radošovice | ?     | Kurajdová             |
-| Siluety             | Šestajovice         | ?     | Otáhalová             |
-| Ženobraní           | Pyšely              | 1     | Bartíková             |
-| Ženobraní           | Lysá nad Labem      | ?     | Horčičková            |
-| Ženobraní           | Mochov              | ?     | Valášková             |
-| Ženobraní           | Říčany a Radošovice | ?     | Voráčková             |
-| Jsme spolu          | Mochov              | ?     | Valášková             |
-| Jsme spolu          | Český Brod          | ?     | ?                     |
-| Borci               | Pyšely              | 1     | Chalupa               |
-| Borci               | Šestajovice         | ?     | Hybner                |
-| Borci               | Český Brod          | ?     | ?                     |
-| Princezna republika | Lysá nad Labem      | ?     | ?                     |
-| Princezna republika | Mělník v Cítově     | ?     | Vrbová, Brožková      |
-| Princezna republika | Přívory             | ?     | ?                     |
-| Princezna republika | Český Brod          | ?     | ?                     |
-| Princezna republika | Říčany a Radošovice | ?     | Pangrácová            |
 
 
 
@@ -108,8 +79,6 @@ var entryList = new List('entry-list', options);
 | Princezna republika | 13. května   | Tyršův dům          | Pangrácová            |
 |                     | 4. listopadu | Tyrsův dům          | Pangrácová            |
 
-<!-- 
-
 # Podrobnosti k jednotlivým skladbám
 
 * [Méďové (rodiče a děti)](1-medove.html)
@@ -124,5 +93,4 @@ var entryList = new List('entry-list', options);
 * [Borci (dorostenci, muži)](10-borci.html)
 * [Princezna republika (senioři, seniorky)](11-princezna-republika.html)
 
--->
 
