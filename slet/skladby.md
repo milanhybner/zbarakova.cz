@@ -33,7 +33,7 @@ nazev: Skladby XVI. všesokolského sletu
 <script type="text/javascript">
 
 var options = {
-  valueNames: ['skladba', 'jednota', 'celku'. 'garant']
+  valueNames: ['skladba', 'jednota', 'celku', 'garant']
 };
 var entryList = new List('entry-list', options);
 
