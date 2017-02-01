@@ -73,8 +73,8 @@ var entryList = new List('entry-list', options);
 | Jsme/sme spolu      | 11. března   | Tyršův dům          |                       |
 |                     | 14. října    | Brno                |                       |
 |                     |              |                     |                       |
-| Borci               | 22. dubna    | Kostelec nad Orlicí |                       |
-|                     | 28. října    | Tyršův dům          |                       |
+| Borci               | 22. dubna    | Kostelec nad Orlicí | Hybner                |
+|                     | 28. října    | Tyršův dům          | Hybner                |
 |                     |              |                     |                       |
 | Princezna republika | 13. května   | Tyršův dům          | Pangrácová            |
 |                     | 4. listopadu | Tyrsův dům          | Pangrácová            |
