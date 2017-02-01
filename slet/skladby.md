@@ -61,7 +61,7 @@ var entryList = new List('entry-list', options);
 | Cirkus              | 9. dubna     | Praha               |                       |
 |                     | 7. října     | Tyršův dům          |                       |
 |                     |              |                     |                       |
-| Siluety             | 18. února    | Tyršův dům          | Kurajdová             |
+| Siluety             | 18. února    | Tyršův dům          | Bartíková, Kurajdová  |
 |                     | 4. listopadu | Praha Karlín        |                       |
 |                     |              |                     |                       |
 | Cesta               | 4. března    | Tyršův dům          |                       |

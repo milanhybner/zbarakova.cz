@@ -5,15 +5,21 @@ nazev: Granty, dotace, příspěvky a směrnice župy
 
 * [Zadání grantů OV ČOS pro rok 2017](https://drive.google.com/open?id=0B0w6gDorCVUkaXdWQm50clNjOWtfZURtQlhnMzFaZlJLemRr)
 
+  
+
 * [Grant Odboru všestrannosti ČOS na podporu 1. projektů veřejně přístupných sportovních a tělocvičných akcí, které pořádají sokolské župy a tělocvičné jednoty v roce 2017, 2. župních soutěží odboru všestrannosti pořádaných župou v roce 2017 – zadání](https://drive.google.com/open?id=0B0w6gDorCVUkRVJJdTFXRnV1VHY0eDVuY2kwV1hYWDV1SlNB)
 * [Grant Odboru všestrannosti ČOS na podporu projektů veřejně přístupných sportovních a tělocvičných akcí, které pořádají sokolské župy a tělocvičné jednoty v roce 2017 – žádost](https://drive.google.com/open?id=0B0w6gDorCVUkaE0ycC1fT0tiWFk1dmJLYkhOdFlBTTdsY3pJ)
 * [Grant Odboru všestrannosti ČOS projekt II Podpora župních soutěží – žádost](https://drive.google.com/open?id=0B0w6gDorCVUkUEVLMUZ1cmVvMTFOazM5Y0lNZjREOFdXUzl3)
 * [Grant Odboru všestrannosti ČOS projekt II Podpora župních soutěží – příloha 1](https://drive.google.com/open?id=0B0w6gDorCVUkZ0lRWUxVSk1OZGNZejNORFd3bU9ZVUE4NVAw)
 
+  
+
 * [Grant Odboru všestrannosti ČOS Vybavení tělocvičen – zadání](https://drive.google.com/open?id=0B0w6gDorCVUkSUh2M3JLNWxaOVBGTXUwQ0Z5YUJ5WXpTYThv)
 * [Grant Odboru všestrannosti ČOS Vybavení tělocvičen – žádost](https://drive.google.com/open?id=0B0w6gDorCVUkS0llTVN0RTZLa3JfdS1heUg1UWU3WC1IYkN3)
 * [Grant Odboru všestrannosti ČOS Vybavení tělocvičen – standardizace – zadání](https://drive.google.com/open?id=0B0w6gDorCVUkSTJWYzVXcG1VcUxucUVwN3VVMzBVeHh0bU5n)
 * [Grant Odboru všestrannosti ČOS Vybavení tělocvičen – standardizace – žádost](https://drive.google.com/open?id=0B0w6gDorCVUkclZvSWdvT1NWWkljN0xZSEhzV1NMV2taaWlZ)
+
+  
 
 * [Grant Odboru všestrannosti ČOS vzdělávání cvičitelů v odborech všestrannosti – zadání](https://drive.google.com/open?id=0B0w6gDorCVUkelJnVmFpODl3cmRnYlE0S2Q2WkxycnNQWmRJ)
 * [Grant Odboru všestrannosti ČOS projekt I Vzdělávání cvičitelů – žádost](https://drive.google.com/open?id=0B0w6gDorCVUkS0llTVN0RTZLa3JfdS1heUg1UWU3WC1IYkN3)
