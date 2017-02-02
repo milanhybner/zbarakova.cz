@@ -22,7 +22,7 @@ layout: default
             </thead>
             <tbody>
 
-{% for jednota in site.data.jednoty | sort: 'nazev' %}
+{% for jednota in site.data.jednoty %}
 
 <tr>
 <td>{% if jednota.web %}<a href='{{jednota.web}}'>{{jednota.nazev}}</a>{% else %}{{jednota.nazev}}{% endif %}</td>
