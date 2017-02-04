@@ -21,6 +21,14 @@ nazev: Granty, dotace, příspěvky a směrnice župy
 
   
 
+
+* [Grant Odboru všestrannosti ČOS Vzdělávání cvičitelů – zadání](https://drive.google.com/open?id=0B0w6gDorCVUkelJnVmFpODl3cmRnYlE0S2Q2WkxycnNQWmRJ)
+* [Grant Odboru všestrannosti ČOS Vzdělávání cvičitelů – žádost](https://drive.google.com/open?id=0B0w6gDorCVUkZTM3bGlsRl8teW53aldpYnhlMGlTU1Zad0Zj)
+* [Grant Odboru všestrannosti ČOS Vzdělávání cvičitelů – příloha](https://drive.google.com/open?id=0B0w6gDorCVUkY1pVOHByVnhlU1pSU3lfUmZxMUN2RWxGemtF)
+
+
+  
+
 * [Grant Odboru všestrannosti ČOS vzdělávání cvičitelů v odborech všestrannosti – zadání](https://drive.google.com/open?id=0B0w6gDorCVUkelJnVmFpODl3cmRnYlE0S2Q2WkxycnNQWmRJ)
 * [Grant Odboru všestrannosti ČOS projekt I Vzdělávání cvičitelů – žádost](https://drive.google.com/open?id=0B0w6gDorCVUkS0llTVN0RTZLa3JfdS1heUg1UWU3WC1IYkN3)
 * [Grant Odboru všestrannosti ČOS projekt I Vzdělávání cvičitelů – příloha 1](https://drive.google.com/open?id=0B0w6gDorCVUkY1pVOHByVnhlU1pSU3lfUmZxMUN2RWxGemtF)
