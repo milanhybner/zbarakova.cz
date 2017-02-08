@@ -23,7 +23,7 @@ Přebor nejmladšího žactva proběhne v sobotu 13. května od 9:00 v Lysé nad
 
 ## Zálesácký závod zdatnosti
 
-* [Rozpis soutěže OV ČOS v zálesáckém závodu zdatnosti](https://drive.google.com/file/d/0B0QIXsJ5v2H9Z3RNZGtrQlRzbVU/view?usp=sharing)
+* [Rozpis soutěže OV ČOS v zálesáckém závodu zdatnosti](https://drive.google.com/open?id=0B0w6gDorCVUkbzljTUh5RGpyU0t2UTUzMk8xWkQyMThqZHBn)
 
 ## Malý TeamGym
 
