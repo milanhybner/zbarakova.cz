@@ -19,7 +19,7 @@ Plavecký závod proběhne v sobotu 22. dubna odpoledne v Čelákovicích.
 
 Přebor nejmladšího žactva proběhne v sobotu 13. května od 9:00 v Lysé nad Labem.
 
-* [Rozpis soutěže sportovní všestrannosti ČOS na cvičební rok 2016/2017](https://drive.google.com/open?id=0B0w6gDorCVUkeXI2dkNRSUZDZkVCNnRrQXVaWGtIdjRQUHRj)
+* [Rozpis soutěže sportovní všestrannosti ČOS na cvičební rok 2016/2017](https://drive.google.com/open?id=0B0w6gDorCVUkOGd2YVdGTmIwMUpkOVYwRmNYS0JSTlNsYS00)
 
 ## Zálesácký závod zdatnosti
 
