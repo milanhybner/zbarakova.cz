@@ -11,15 +11,14 @@ V roce 2017 se přebor župy Barákovy ve sportovní všestrannosti bude konat v
 2. atletika
 3. plavání.
 
-Atletika se bude konat v sobotu 22. dubna dopoledne v Lysé nad Labem.
+* [Rozpis soutěže sportovní všestrannosti ČOS na cvičební rok 2016/2017](https://drive.google.com/open?id=0B0w6gDorCVUkbEhkWUszcFRoUFU)
+* [Přihláška na soutěž sportovní všestrannosti ČOS na cvičební rok 2016/2017](https://drive.google.com/open?id=0B0w6gDorCVUkOGQzZnVwZHJ5RkE)
+* [Přihláška na župní přebor všestrannosti nejmladšího žactva 13. 5. 2017](https://drive.google.com/open?id=0B0w6gDorCVUkQ0ZvN01KWGxVRG8)
+* [Rozpis župního přeboru sokolské všestrannosti na cvičební rok 2017 – nejmladší žactvo](https://drive.google.com/open?id=0B0w6gDorCVUkX3NrY3FKc01UN28)
+* [Závodní sestavy sportovní gymnastiky ženských složek](https://drive.google.com/open?id=0B0w6gDorCVUkUk9kcC1tRW14b0E)
+* [Závodní sestavy sportovní gymnastiky mužských složek](https://drive.google.com/open?id=0B0w6gDorCVUkdlBFb3ZUMjZ4Wkk)
 
-Gymnastika se bude konat v neděli 23. dubna dopoledne v Lysé nad Labem.
 
-Plavecký závod proběhne v sobotu 22. dubna odpoledne v Čelákovicích.
-
-Přebor nejmladšího žactva proběhne v sobotu 13. května od 9:00 v Lysé nad Labem.
-
-* [Rozpis soutěže sportovní všestrannosti ČOS na cvičební rok 2016/2017](https://drive.google.com/open?id=0B0w6gDorCVUkOGd2YVdGTmIwMUpkOVYwRmNYS0JSTlNsYS00)
 
 ## Zálesácký závod zdatnosti
 

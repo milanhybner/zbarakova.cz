@@ -7,6 +7,7 @@ nazev: Siluety
 
 ---
 
+* [Facebooková stránka skladby][https://www.facebook.com/siluety2018/]
 * základní celek: 16 cvičenek
 * autoři: Eliška Karešová Kateřina Karešová
 * náčiní: Skládací obruč

@@ -1,3 +1,4 @@
+
 - datum: 2017-02-17
   nazev: Se Sokolem na hory – víkend v Srní a okolí (Šumava)
   url: https://drive.google.com/open?id=0B0w6gDorCVUkN1dUcElkcHpxWVBIZVFmdHRabHNyOHJCTjBv
@@ -11,7 +12,7 @@
 
 - datum: 2017-02-18
   nazev: Nohejbalový turnaj (Strančice)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkZlZyTXpnTmdPal91UDZOajBWYndGZXQ1bFlZ
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
   druh: soutěž
 
 - datum: 2017-02-18
@@ -136,7 +137,7 @@
 
 - datum: 2017-03-11
   nazev: Seminář taekwon-do (Strančice)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkZlZyTXpnTmdPal91UDZOajBWYndGZXQ1bFlZ
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
   druh: seminář
 
 - datum: 2017-03-16
@@ -156,7 +157,7 @@
 
 - datum: 2017-03-18
   nazev: Maškarní ples Strančice (Strančice)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkZlZyTXpnTmdPal91UDZOajBWYndGZXQ1bFlZ
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
   druh: společenská akce
 
 - datum: 2017-03-18
@@ -242,6 +243,10 @@
   url: 
   druh: 
 
+- datum: 2017-04-01
+  nazev: Pražský společný závod ve sportovní gymnastice předškolních dětí a nejmladšího žactva
+  url: https://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1487068851
+  druh: soutěž
 
 - datum: 2017-04-01
   nazev: Sraz župních náčelníků a náčelnic (Praha, TD, P1)
@@ -278,7 +283,7 @@
 
 - datum: 2017-04-08
   nazev: Volejbalový turnaj (Strančice)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkZlZyTXpnTmdPal91UDZOajBWYndGZXQ1bFlZ
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
   druh: soutěž
 
 # - datum: 2017-04-08
@@ -545,6 +550,11 @@
   url: http://www.sokol.eu/obsah/7166
   druh: seminář ÚŠ
 
+- datum: 2017-06-17
+  nazev: Volejbalový turnaj smíšených družstev na antuce (Mšeno)
+  url: 
+  druh: soutěž
+
 - datum: 2017-06-21
   nazev: T-mobile olympijský běh
   url: https://drive.google.com/open?id=0B0w6gDorCVUkVndaNjBEQjBXZ05PeThGd3NaSTBMSjR5OXJZ
@@ -577,13 +587,13 @@
 
 - datum: 2017-07-29
   nazev: Pouťová zábava (Strančice)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkZlZyTXpnTmdPal91UDZOajBWYndGZXQ1bFlZ
+  url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
   druh: společenská akce
 
-# - datum: 2017-08-05
-#   nazev: Župní turnaj ve volejbale O babiččin mazanec
-#   url: 
-#   druh: závod
+- datum: 2017-08-05
+  nazev: Župní turnaj ve volejbale O babiččin mazanec (Říčany)
+  url: 
+  druh: závod
 
 - datum: 2017-08-14
   nazev: Cesta kolem světa – příměstský tábor (Kralupy nad Vltavou)
@@ -930,6 +940,11 @@
   nazev: „Běh Boudeckou roklí“, pořádá T.J. Sokol Mšeno
   url: https://drive.google.com/open?id=0B0w6gDorCVUkLVVJaTQ5N1NZUExyLW5xMDNMbFRSZkdRaW5R
   druh: závod
+
+- datum: 2017-12-25
+  nazev: Turnaj ve stolním tenisu (Stříbrná Skalice)
+  url: 
+  druh: soutěž
 
 - datum: 2017 prosinec
   nazev: Malý TeamGym – oblast západ (Praha,Kr.Vinohrady)
