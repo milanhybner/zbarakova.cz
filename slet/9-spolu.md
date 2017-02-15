@@ -3,6 +3,8 @@ layout: page
 nazev: Jsme/sme spolu
 ---
 
+<iframe src="https://drive.google.com/file/d/0B0w6gDorCVUkN2RDaHljN0htZE0/preview" width="100%" height="400"></iframe>
+
 * společná česko-slovenská skladba
 * základní celek: 12 cvičenců
 * autoři: Jana Kosařová, Zdena Šafářová (ČOS), Emilia Fialová, Darina Kučerová, Jitka Hejtmánková (SÚS)
