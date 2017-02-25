@@ -3,7 +3,7 @@ layout: page
 nazev: Vzdělávání pro cvičitele všestrannosti
 ---
 
-Školení cvičitelů III. třídy všestrannosti
+[Školení cvičitelů III. třídy všestrannosti](https://drive.google.com/open?id=0B0w6gDorCVUkQ2hFazg1YkhLeE0)
 
 Doškolovací semináře
 
