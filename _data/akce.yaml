@@ -66,7 +66,7 @@
 - datum: 2017-03-19
   nazev: 1. nácvičný sraz sletové skladby Noty (Praha, TD)
   url: 
-  druh: 
+  druh: sraz
 
 
 - datum: 2017-03-19
@@ -78,6 +78,11 @@
   nazev: Pohádkový les (Chocerady)
   url: 
   druh: kulturní akce
+
+- datum: 2017-03-25
+  nazev: Seminář cestou zdraví (T.J. Sokol Kralupy nad Vltavou)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkMFJybkdwUEo5Vl9JMTNQQVJFUF9RdGZ1ZWVr
+  druh: seminář
 
 - datum: 2017-03-25
   nazev: Školení cvičitelů všestrannosti 1. část / pomahatelé (Český Brod)
@@ -136,6 +141,11 @@
   nazev: Sraz župních náčelníků a náčelnic (Praha, TD, P1)
   url: 
   druh: sraz
+
+- datum: 2017-04-23
+  nazev: 9:00 Jarní cena tanečního klubu T.J. Sokol Lysá nad Labem
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkdXAteDRpdjgxTlFwU3RKckxKWWlDRmZpbHVr
+  druh: soutěž
 
 - datum: 2017-04-05
   nazev: Výcvik sokolů u Hradní stráže
