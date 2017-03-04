@@ -70,7 +70,7 @@ var entryList = new List('entry-list', options);
 | Ženobraní           | 25. února    | Tyršův dům          | Voráčková             |
 |                     | 21. října    | Praha Karlín        | Voráčková             |
 |                     |              |                     |                       |
-| Jsme/sme spolu      | 11. března   | Tyršův dům          |                       |
+| Jsme/sme spolu      | 11. března   | Tyršův dům          | Valášková, Bašusová   |
 |                     | 14. října    | Brno                |                       |
 |                     |              |                     |                       |
 | Borci               | 22. dubna    | Kostelec nad Orlicí | Hybner                |
