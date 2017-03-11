@@ -23,6 +23,11 @@
   url: https://drive.google.com/open?id=0B0w6gDorCVUkUWZ6dThJN1FyMlE
   druh: schůze
 
+- datum: 2017-03-17
+  nazev: 18:00 Valná hromada T.J. Sokol Veltěž (cukrárna ve Veltěži)
+  url: 
+  druh: VH
+
 - datum: 2017-03-18
   nazev: 1. nácvičný sraz sletové skladby Méďové (Praha, TD – Horáčková Jungmannová)
   url: 
@@ -68,11 +73,20 @@
   url: 
   druh: sraz
 
+- datum: 2017-03-19
+  nazev: Valná hromada T.J. Sokol Lysá nad Labem
+  url: http://www.sokolsestajovice.cz/2017/03/21/valna-hromada.html
+  druh: VH
 
 - datum: 2017-03-19
   nazev: Jóga smíchu (Praha)
   url: http://www.sokol.eu/obsah/7159
   druh: seminář ÚŠ
+
+- datum: 2017-03-21
+  nazev: Valná hromada T.J. Sokol Šestajovice
+  url: 
+  druh: VH
 
 - datum: 2017 jaro
   nazev: Pohádkový les (Chocerady)
@@ -242,6 +256,15 @@
   url: 
   druh: sraz
 
+- datum: 2017-14-22
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
+  nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
+  druh: kulturní akce
+
+- datum: 2017-14-23
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
+  nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
+  druh: kulturní akce
 
 - datum: 2017-04-23
   nazev: Oblastní přebor západ – florbal kategorie III (Praha,Kr.Vinohrady)

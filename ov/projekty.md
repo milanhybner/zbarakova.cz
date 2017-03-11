@@ -28,3 +28,8 @@ Letos se vydejte 6. května na [Fichtelberg](https://cs.wikipedia.org/wiki/Ficht
 ## Svět nekončí za vrátky – cvičíme se zvířátky
 
 Garant za župu: Pavlína Škodová (Říčany)
+
+## Hvězdicový pochod na Říp
+
+* [Mapa](https://drive.google.com/open?id=1kRQVLZ9pHR5WfKIXlJj0KYcAJHU&usp=sharing)
+* 

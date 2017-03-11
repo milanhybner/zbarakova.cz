@@ -11,7 +11,7 @@ layout: default
 </div>
 <div id="entry-list" class="container mt">
     <div class="row" style="margin-bottom:10px;">
-        <p><a href="https://goo.gl/forms/q9Loj8bRYuJcPclD3">Přidejte svoji akci</a></p>
+        <p><a href="https://goo.gl/forms/q9Loj8bRYuJcPclD3">Přidejte svoji akci</a> | <a href="akce-archiv.html">Minulé akce naleznete v archivu</a> | <a href="akce-sokol.cz.html">Akce ze sokol.cz</a></p>
         <input class="search form-control" placeholder="Filtrovat" type="text">
         <table>
             <thead>
@@ -37,9 +37,7 @@ layout: default
                 {% endfor %}
             </tbody>
         </table>
-        <p><a href="akce-archiv.html">Minulé akce naleznete v archivu.</a></p>
-    </div>
-</div>
+        <p></p>
 <script type="text/javascript">
 
 var options = {
