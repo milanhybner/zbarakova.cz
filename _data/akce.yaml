@@ -156,10 +156,7 @@
   url: 
   druh: sraz
 
-- datum: 2017-04-23
-  nazev: 9:00 Jarní cena tanečního klubu T.J. Sokol Lysá nad Labem
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkdXAteDRpdjgxTlFwU3RKckxKWWlDRmZpbHVr
-  druh: soutěž
+
 
 - datum: 2017-04-05
   nazev: Výcvik sokolů u Hradní stráže
@@ -199,12 +196,6 @@
 #   url: 
 #   druh: přebor
 
-
-- datum: 2017-04-08
-  nazev: Oblastní přebor západ – florbal kategorie 1. a/b (Praha)
-  url: 
-  druh: přebor
-
 - datum: 2017-04-08
   nazev: Kineziotaping pro cvičitele (Olomouc)
   url: http://www.sokol.eu/priloha/12049/905-pozvanka-kineziotaping.pdf
@@ -225,7 +216,7 @@
 
 - datum: 2017-04-09
   nazev: Oblastní přebor západ – florbal kategorie I. a/b (Praha)
-  url: 
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkX3ZBZUxTVTBGc1owZE9IYTlLNUlOVnUzMlcw
   druh: přebor
 
 - datum: 2017-04-22
@@ -256,10 +247,15 @@
   url: 
   druh: sraz
 
-- datum: 2017-14-22
+- datum: 2017-04-22
   url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
   nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
   druh: kulturní akce
+
+- datum: 2017-04-23
+  nazev: 9:00 Jarní cena tanečního klubu T.J. Sokol Lysá nad Labem
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkdXAteDRpdjgxTlFwU3RKckxKWWlDRmZpbHVr
+  druh: soutěž
 
 - datum: 2017-14-23
   url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
