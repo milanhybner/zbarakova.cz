@@ -93,4 +93,13 @@ var entryList = new List('entry-list', options);
 * [Borci (dorostenci, muži)](10-borci.html)
 * [Princezna republika (senioři, seniorky)](11-princezna-republika.html)
 
+# Župní vedoucí skladeb a jejich zástupci
+
+|     skladba      |         ž. vedoucí        |       jednota       |     zást. ž .v     |       jednota.      |
+|------------------|---------------------------|---------------------|--------------------|---------------------|
+| Noty             | Pavlína Škodová           | Říčany a Radošovice | Jana Chalupecká    | Říčany a Radošovice |
+| Méďové           | Eva Horáčková Jungmannová | Říčany a Radošovice | Tereza Bartíková   | Pyšely              |
+| Děti, to je věc! | Kateřina Bělohlávková     | Říčany a Radošovice | Lenka Černá        | Říčany a Radošovice |
+| Jsme spolu       | Milena Valášková          | Mochov              | Iva Bašusová       | Český Brod          |
+| Ženobraní        | Jarmila Voráčková         | Říčany a Radošovice | Martina Horčičková | Lysá                |
 
