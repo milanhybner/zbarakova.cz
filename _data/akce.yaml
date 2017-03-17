@@ -232,7 +232,7 @@
   url: 
   druh: sraz
 
-- datum: 2017-04-22
+- datum: 2017-04-21 až 23
   url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
   nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
   druh: kulturní akce
@@ -242,10 +242,6 @@
   url: https://drive.google.com/open?id=0B0w6gDorCVUkdXAteDRpdjgxTlFwU3RKckxKWWlDRmZpbHVr
   druh: soutěž
 
-- datum: 2017-14-23
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
-  nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
-  druh: kulturní akce
 
 - datum: 2017-04-23
   nazev: Oblastní přebor západ – florbal kategorie III (Praha,Kr.Vinohrady)
@@ -364,6 +360,10 @@
   url: 
   druh: školení
 
+- datum: 2017-05-19 až 21
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
+  nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
+  druh: kulturní akce
 
 - datum: 2017-05-20
   nazev: 1. nácvičný sraz sletové skladby V peřině (Praha, TD)
