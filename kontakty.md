@@ -72,64 +72,6 @@ layout: default
 <div class="spacing"></div>
 
 
-<div class="spacing"></div>
-<form role="form" id="f">
-    <div class="form-group">
-      <label for="name">Jméno a příjmení</label>
-      <input type="text" class="form-control" id="name">
-  </div>
-  <div class="form-group">
-      <label for="email">E-mail</label>
-      <input type="email" class="form-control" id="email">
-  </div>
-  <div class="form-group">
-      <label for="message">Zpráva</label>
-      <textarea class="form-control" id="message" rows="3"></textarea>
-  </div>
-  <button type="submit" class="btn btn-theme">Odeslat</button>
-</form>
-
-<div class="spacing"></div>
-
-<a href="https://chat.whatsapp.com/IfIGXTmgpWrEOWpBW2lFkI">Kontaktujte nás přes WhatsApp</a>
-
-
-</div>
-
-
-<script type="text/javascript">
-$(document).ready(function() {
-  $('#message').keydown(function (e) {  
-    if ((event.keyCode == 10 || event.keyCode == 13) && event.ctrlKey) {
-      $('form[id=f]').submit();
-    }
-  });
-    $('form[id=f]').submit(function(e) {
-        e.preventDefault();
-        var name = $('#name').val();
-        var email = $('#email').val();
-        var message3 = $('#message').val();
-        var message2 = message3.replace(/(?:\r\n|\r|\n)/g, '  ');
-        var message1 = message2.replace(/"/g, '');
-        var postData = '[{"name": "' + name + '", "message": "' + message1 + '","email": "' + email + '"}]';
-        var btn = $('#btn');
-
-        $.ajax({
-            type: 'POST',
-            cache: false,
-            url: 'https://hooks.zapier.com/hooks/catch/161689/t1h8km/',
-            data: postData,
-            success: function() {window.location.href = "";}
-        });
-        
-        btn.val("Odesláno");
-    });
-});
-</script>
-
-
-
-
 <div class="col-md-3 col-md-offset-1">
 
 <h4>Sokolská župa Barákova</h4>
