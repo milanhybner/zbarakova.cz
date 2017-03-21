@@ -69,7 +69,7 @@ layout: default
     }
 </script>
 
-<div class="spacing"></div>
+</div>
 
 
 <div class="col-md-3 col-md-offset-1">
