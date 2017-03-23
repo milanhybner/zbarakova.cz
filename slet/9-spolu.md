@@ -1,6 +1,6 @@
 ---
 layout: page
-nazev: Jsme/sme spolu
+nazev: Spolu
 ---
 
 <iframe src="https://drive.google.com/file/d/0B0w6gDorCVUkN2RDaHljN0htZE0/preview" width="100%" height="400"></iframe>

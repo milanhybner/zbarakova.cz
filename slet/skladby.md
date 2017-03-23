@@ -44,40 +44,40 @@ var entryList = new List('entry-list', options);
 
 # Termíny nácvičných srazů 2017
 
-|       Skladba       |    Termín    |        Místo        |     Župu zastupuje    |
-|---------------------|--------------|---------------------|-----------------------|
-| Méďové              | 18. března   | Tyršův dům          | Horáčková Jungmannová |
-|                     | 7. října     | Praha Karlín        |                       |
-|                     |              |                     |                       |
-| Noty                | 19. března   | Tyršův dům          |                       |
-|                     | 8. října     | Praha Karlín        |                       |
-|                     |              |                     |                       |
-| V peřině            | 20. května   | Tyršův dům          |                       |
-|                     | 14. října    | Praha Karlín        |                       |
-|                     |              |                     |                       |
-| Děti, to je věc     | 8. dubna     | Tyršův dům          |                       |
-|                     | 21. října    | Tyršův dům          |                       |
-|                     |              |                     |                       |
-| Cirkus              | 9. dubna     | Praha               |                       |
-|                     | 7. října     | Tyršův dům          |                       |
-|                     |              |                     |                       |
-| Siluety             | 18. února    | Tyršův dům          | Bartíková, Kurajdová  |
-|                     | 4. listopadu | Praha Karlín        |                       |
-|                     |              |                     |                       |
-| Cesta               | 4. března    | Tyršův dům          |                       |
-|                     | 14. října    |                     |                       |
-|                     |              |                     |                       |
-| Ženobraní           | 25. února    | Tyršův dům          | Voráčková             |
-|                     | 21. října    | Praha Karlín        | Voráčková             |
-|                     |              |                     |                       |
-| Jsme/sme spolu      | 11. března   | Tyršův dům          | Valášková, Bašusová   |
-|                     | 14. října    | Brno                |                       |
-|                     |              |                     |                       |
-| Borci               | 22. dubna    | Kostelec nad Orlicí | Hybner                |
-|                     | 28. října    | Tyršův dům          | Hybner                |
-|                     |              |                     |                       |
-| Princezna republika | 13. května   | Tyršův dům          | Pangrácová            |
-|                     | 4. listopadu | Tyrsův dům          | Pangrácová            |
+|       Skladba       |    Termín    |        Místo        |        Župu zastupuje        |
+|---------------------|--------------|---------------------|------------------------------|
+| Méďové              | 18. března   | Tyršův dům          | Horáčková Jungmannová        |
+|                     | 7. října     | Praha Karlín        |                              |
+|                     |              |                     |                              |
+| Noty                | 19. března   | Tyršův dům          | Iva Bašusová                 |
+|                     | 8. října     | Praha Karlín        |                              |
+|                     |              |                     |                              |
+| V peřině            | 20. května   | Tyršův dům          |                              |
+|                     | 14. října    | Praha Karlín        |                              |
+|                     |              |                     |                              |
+| Děti, to je věc     | 8. dubna     | Tyršův dům          |                              |
+|                     | 21. října    | Tyršův dům          |                              |
+|                     |              |                     |                              |
+| Cirkus              | 9. dubna     | Praha               | Diana Minaříková, Jan Blažek |
+|                     | 7. října     | Tyršův dům          |                              |
+|                     |              |                     |                              |
+| Siluety             | 18. února    | Tyršův dům          | Bartíková, Kurajdová         |
+|                     | 4. listopadu | Praha Karlín        |                              |
+|                     |              |                     |                              |
+| Cesta               | 4. března    | Tyršův dům          |                              |
+|                     | 14. října    |                     |                              |
+|                     |              |                     |                              |
+| Ženobraní           | 25. února    | Tyršův dům          | Voráčková                    |
+|                     | 21. října    | Praha Karlín        | Voráčková                    |
+|                     |              |                     |                              |
+| Spolu               | 11. března   | Tyršův dům          | Valášková, Bašusová          |
+|                     | 14. října    | Brno                |                              |
+|                     |              |                     |                              |
+| Borci               | 22. dubna    | Kostelec nad Orlicí | Hybner                       |
+|                     | 28. října    | Tyršův dům          | Hybner                       |
+|                     |              |                     |                              |
+| Princezna republika | 13. května   | Tyršův dům          | Raková, Pangrácová           |
+|                     | 4. listopadu | Tyrsův dům          | Pangrácová                   |
 
 # Podrobnosti k jednotlivým skladbám
 
@@ -95,11 +95,12 @@ var entryList = new List('entry-list', options);
 
 # Župní vedoucí skladeb a jejich zástupci
 
-|     skladba      |         ž. vedoucí        |       jednota       |     zást. ž .v     |       jednota.      |
-|------------------|---------------------------|---------------------|--------------------|---------------------|
-| Noty             | Pavlína Škodová           | Říčany a Radošovice | Jana Chalupecká    | Říčany a Radošovice |
-| Méďové           | Eva Horáčková Jungmannová | Říčany a Radošovice | Tereza Bartíková   | Pyšely              |
-| Děti, to je věc! | Kateřina Bělohlávková     | Říčany a Radošovice | Lenka Černá        | Říčany a Radošovice |
-| Jsme spolu       | Milena Valášková          | Mochov              | Iva Bašusová       | Český Brod          |
-| Ženobraní        | Jarmila Voráčková         | Říčany a Radošovice | Martina Horčičková | Lysá                |
+|       skladba       |         ž. vedoucí        |       jednota       |      zást. ž .v     |       jednota.      |
+|---------------------|---------------------------|---------------------|---------------------|---------------------|
+| Noty                | Pavlína Škodová           | Říčany a Radošovice | Jana Chalupecká     | Říčany a Radošovice |
+| Méďové              | Eva Horáčková Jungmannová | Říčany a Radošovice | Tereza Bartíková    | Pyšely              |
+| Děti, to je věc!    | Kateřina Bělohlávková     | Říčany a Radošovice | Lenka Černá         | Říčany a Radošovice |
+| Jsme spolu          | Milena Valášková          | Mochov              | Iva Bašusová        | Český Brod          |
+| Ženobraní           | Jarmila Voráčková         | Říčany a Radošovice | Martina Horčičková  | Lysá                |
+| Princezna Republika | Jaroslav Denemark         | Lysá nad Labem      | Bohunka Černohorská |                     |
 
