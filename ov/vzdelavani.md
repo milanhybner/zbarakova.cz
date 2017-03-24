@@ -33,14 +33,14 @@ nazev: Vzdělávání pro cvičitele všestrannosti
 |      Čas      |                   Název lekce                   |                                      Lektor                                     | Poč. hodin |
 |---------------|-------------------------------------------------|---------------------------------------------------------------------------------|------------|
 | 8:00 – 8:30   | snídaně (sokolovna)                             |                                                                                 |            |
-| 8:30 – 9:15   | soutěže všestrannosti                           | Čížkovský                                                                       |          1 |
-| 9:15 – 12:15  | gymnastické činnosti, akrobacie                 | Čížkovský, Voráčková, Malinová, Tmejová, Hybner, Řezníček, Pangrácová, Bašusová |          3 |
+| 8:30 – 9:15   | Soutěže všestrannosti                           | Čížkovský                                                                       |          1 |
+| 9:15 – 12:15  | Gymnastické činnosti, akrobacie                 | Čížkovský, Voráčková, Malinová, Tmejová, Hybner, Řezníček, Pangrácová, Bašusová |          4 |
 | 12:15 – 13:15 | Oběd (restaurace)                               |                                                                                 |            |
 | 13:15 – 14:00 | Program a organizace ČOS                        | Papírníková                                                                     |          1 |
 | 14:00 – 14:45 | Fyzikální tělesná cvičení a diagnostika (ZdrTV) | Raková                                                                          |          1 |
 | 14:45 – 15:00 | Pořadová cvičení, nástupové a pochodové tvary   | Čížkovský                                                                       |          1 |
 | 15:00 – 15:45 | Kondiční – ukázková hodiny, praxe               | Voráčková                                                                       |          1 |
-| 15:45 – 16:30 | příprava na testy                               |                                                                                 |            |
+| 15:45 – 16:30 | Cvičební jednotka žactvo                        | Čížkovský                                                                       |          1 |
 | 16:30 – 17:30 | testy, vyhodnocení                              |                                                                                 |            |
 | Do 18:00      | zakončení                                       |                                                                                 |            |
 
