@@ -9,7 +9,10 @@ nazev: Vzdělávání pro cvičitele všestrannosti
 
 [Přihláška](https://drive.google.com/open?id=0B0w6gDorCVUkQ2hFazg1YkhLeE0)
 
+
 ### Sobota 25. 3. 2017
+
+[Fotogalerie](https://goo.gl/photos/U8CPcuuRphWWy7Qz6)
 
 |      Čas      |                     Název lekce                      |         Lektor        | Poč. hodin |
 |---------------|------------------------------------------------------|-----------------------|------------|
