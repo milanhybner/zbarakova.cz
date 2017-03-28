@@ -7,3 +7,6 @@ V roce 2018 připravuje župa Barákova ve spolupráci s župou Jana Podlipné
 
 Plánovaný Oblastní slet bude akcí jednodenní v termínu **26. května 2018**, se zkouškami v dopoledních hodinách a
 vystoupením v odpoledních hodinách.
+
+## Organizační tým
+
