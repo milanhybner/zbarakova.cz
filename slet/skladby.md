@@ -58,10 +58,10 @@ var entryList = new List('entry-list', options);
 | Děti, to je věc     | 8. dubna     | Tyršův dům          | Bělohlávková / Černá               |
 |                     | 21. října    | Tyršův dům          |                                    |
 |                     |              |                     |                                    |
-| Cirkus              | 9. dubna     | Praha               | Diana Minaříková, Jan Blažek       |
+| Cirkus              | 9. dubna     | Praha               | Diana Minaříková / Jan Blažek      |
 |                     | 7. října     | Tyršův dům          |                                    |
 |                     |              |                     |                                    |
-| Siluety             | 18. února    | Tyršův dům          | Bartíková, Kurajdová               |
+| Siluety             | 18. února    | Tyršův dům          | Bartíková / Kurajdová              |
 |                     | 4. listopadu | Praha Karlín        |                                    |
 |                     |              |                     |                                    |
 | Ženobraní           | 25. února    | Tyršův dům          | Voráčková / Horčičková             |
@@ -103,7 +103,7 @@ var entryList = new List('entry-list', options);
 | Princezna Republika | Miloslava Pangrácová      | Říčany a Radošovice |                    |                     |
 | V peřině            | Bartíková                 | Pyšely              |                    |                     |
 | Cirkus              | Diana Minaříková          | Český Brod          | Jan Blažek         | Český Brod          |
-| Borci               | Milan Hybner              | Šestajovice         |                    |                     |
+| Borci               | Milan Hybner              | Šestajovice         | Jiří Braný         |                     |
 
 # Předpokládaný počet cvičenců ve skladbách v župě
 
