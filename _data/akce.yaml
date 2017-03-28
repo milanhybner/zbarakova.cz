@@ -56,7 +56,10 @@
   url: 
   druh: sraz
 
-
+- datum: 2017-04-05
+  nazev: 18:00 Schůze výboru pro přípravu valné hromady župy Barákovy
+  url: 
+  druh: schůze
 
 - datum: 2017-04-05
   nazev: Výcvik sokolů u Hradní stráže
@@ -124,6 +127,16 @@
   url: https://drive.google.com/open?id=0B0w6gDorCVUkX29tZ3BuRGJOYjhzdm93R2ZETEhpWHFvd0k0
   druh: secvičná
 
+- datum: 2017-04-20
+  nazev: 17:00 Schůzka zástupců pražského třížupí a ž. Barákovy k oblastnímu sletu v Brandýse n. Labem (koná se v kanceláři ž. Barákovy)
+  url: 
+  druh: schůze
+
+- datum: 2017-04-21 až 23
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
+  nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
+  druh: kulturní akce
+
 - datum: 2017-04-22
   nazev: Rozhodčí volejbalu
   url: http://www.sokol.eu/obsah/205
@@ -151,11 +164,6 @@
   nazev: Sraz župních vedoucích Zdr.TV (Praha, TD – Valášková)
   url: 
   druh: sraz
-
-- datum: 2017-04-21 až 23
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
-  nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
-  druh: kulturní akce
 
 - datum: 2017-04-23
   nazev: 9:00 Jarní cena tanečního klubu T.J. Sokol Lysá nad Labem
@@ -189,6 +197,11 @@
   nazev: Soutěž sportovní všestrannosti – plavání a atletika (Čelákovice)
   url: 
   druh: přebor
+
+- datum: 2017-04-25
+  nazev: 17:00 Valná hromada sokolské župy Barákovy (Praha – Libeň)
+  url: 
+  druh: VH
 
 - datum: 2017-04-27
   nazev: Cvičitel pobytu v přírodě I. a II. konzultace + zkoušky (Jurenkova osada)
@@ -323,6 +336,10 @@
   url: http://www.sokol.eu/obsah/7164
   druh: seminář ÚŠ
 
+- datum: 2017-05-23
+  nazev: Zasedání předsednictva sokolské župy Barákovy (Praha Libeň)
+  url: 
+  druh: schůze
 
 - datum: 2017-05-27
   nazev: Přebor ČOS – všestrannost mladšího žactva (Prostějov)

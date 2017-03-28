@@ -103,7 +103,7 @@ var entryList = new List('entry-list', options);
 | Princezna Republika | Miloslava Pangrácová      | Říčany a Radošovice |                    |                     |
 | V peřině            | Bartíková                 | Pyšely              |                    |                     |
 | Cirkus              | Diana Minaříková          | Český Brod          | Jan Blažek         | Český Brod          |
-| Borci               | Milan Hybner              | Šestajovice         | Jiří Braný         |                     |
+| Borci               | Milan Hybner              | Šestajovice         |                    |                     |
 
 # Předpokládaný počet cvičenců ve skladbách v župě
 

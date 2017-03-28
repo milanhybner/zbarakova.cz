@@ -2,6 +2,10 @@
 layout: page
 nazev: Co se děje na župě
 ---
+
+Členské známky odeberte prosím nejpozději do 25. dubna 2017!
+
+<!-- 
 # Slovo starosty
 
 Vážené sestry, vážení bratři!
@@ -23,3 +27,4 @@ Vážené sestry, vážení bratři! Nečeká nás jen práce, ale také spousta
 Se sokolským „Nazdar!“
 
 Jan Firbas – starosta župy Barákovy
+-->
