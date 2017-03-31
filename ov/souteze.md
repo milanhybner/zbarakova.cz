@@ -22,7 +22,7 @@ V roce 2017 se přebor župy Barákovy ve sportovní všestrannosti bude konat v
 
 ## Zálesácký závod zdatnosti
 
-* [Rozpis soutěže OV ČOS v zálesáckém závodu zdatnosti](https://drive.google.com/open?id=0B0w6gDorCVUkbzljTUh5RGpyU0t2UTUzMk8xWkQyMThqZHBn)
+* [Oficiální stránka ZZZ](http://sokol.eu/obsah/5452/zalesacky-zavod-zdatnosti)
 
 ## Malý TeamGym
 
