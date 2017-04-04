@@ -1,61 +1,3 @@
-- datum: 2017-03-25
-  nazev: Školení a <b>doškolení</b> cvičitelů všestrannosti 1. část / pomahatelé (Český Brod)
-  url: http://www.zbarakova.cz/ov/vzdelavani.html
-  druh: župní školení
-
-- datum: 2017-03-25
-  nazev: Přehlídka pódiových skladeb a skladeb Aerobik Team (Praha, Kr.Vinohrady)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkeHRQZGsyLXpFYnFmT0hpXzhsenhMUUJFUWUw
-  druh: přehlídka
-
-- datum: 2017-03-25
-  nazev: Sportovní gymnastika po přemet (Praha)
-  url: http://www.sokol.eu/obsah/7160
-  druh: seminář ÚŠ
-
-- datum: 2017-03-25
-  nazev: Přebor sokolské všestrannosti pro nejmenší
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkQWdxZWNtazQxMmFtcV9qRDlpNEM0Qy0yUVZN
-  druh: přebor
-
-- datum: 2017-03-26
-  nazev: ZZZ – Zálesácký závod zdatnosti župní závod (Mšeno)
-  url: https://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1488058201
-  druh: přebor
-
-- datum: 2017-03-26
-  nazev: Kineziotaping pro cvičitele II
-  url: http://www.sokol.eu/obsah/7148
-  druh: seminář ÚŠ
-
-
-- datum: 2017-03-26
-  nazev: SG od přemetu (Praha)
-  url: http://www.sokol.eu/obsah/7161
-  druh: seminář ÚŠ
-
-
-- datum: 2017-03-26
-  nazev: Memoriál V. Straky - VršoviceGym - open - 10. ročník
-  url: https://www.sokol.cz/data/akce/2017/1487540060_1.doc
-  druh: MTG- závod
-  
-
-- datum: 2017-03-31
-  nazev: Porada náčelnictva ČOS (Praha, TD)
-  url: 
-  druh: 
-
-- datum: 2017-04-01
-  nazev: Pražský společný závod ve sportovní gymnastice předškolních dětí a nejmladšího žactva
-  url: https://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1487068851
-  druh: soutěž
-
-- datum: 2017-04-01
-  nazev: Sraz župních náčelníků a náčelnic (Praha, TD, P1)
-  url: 
-  druh: sraz
-
 - datum: 2017-04-05
   nazev: 18:00 Schůze výboru pro přípravu valné hromady župy Barákovy
   url: 
@@ -93,11 +35,6 @@
   nazev: Volejbalový turnaj (Strančice)
   url: http://sokol-strancice.webnode.cz/news/plan-akci-v-sokolovne/
   druh: soutěž
-
-# - datum: 2017-04-08
-#   nazev: Oblastní přebor východ – florbal kategorie II (Brno 1)
-#   url: 
-#   druh: přebor
 
 - datum: 2017-04-08
   nazev: Kineziotaping pro cvičitele (Olomouc)
@@ -147,13 +84,6 @@
   url: 
   druh: sraz
 
-
-# - datum: 2017-04-22
-#   nazev: Oblastní přebor východ – florbal kategorie I.a + I.b (Frýdlant nad Ostr)
-#   url: 
-#   druh: přebor
-
-
 - datum: 2017-04-22
   nazev: Oblastní přebor západ – florbal kategorie II (Praha,Kr.Vinohrady)
   url: 
@@ -182,20 +112,14 @@
   url: 
   druh: setkání
 
-
-# - datum: 2017-04-29
-#   nazev: Oblastní přebor východ – florbal kategorie III (Šumperk).
-#   url: 
-#   druh: přebor
-
 - datum: 2017-04-22
-  nazev: Soutěž sportovní všestrannosti – gymnastika a šplh (Lysá nad Labem)
-  url: 
+  nazev: <b>9:00 Soutěž sportovní všestrannosti – gymnastika, šplh (Lysá nad Labem) a 14:00 plavání (Čelákovice)</b>
+  url: http://www.zbarakova.cz/ov/souteze.html
   druh: přebor
 
 - datum: 2017-04-23
-  nazev: Soutěž sportovní všestrannosti – plavání a atletika (Čelákovice)
-  url: 
+  nazev: <b>9:00 Soutěž sportovní všestrannosti – atletika (Lysá nad Labem)</b>
+  url: http://www.zbarakova.cz/ov/souteze.html
   druh: přebor
 
 - datum: 2017-04-25
