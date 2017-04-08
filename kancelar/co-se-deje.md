@@ -3,6 +3,67 @@ layout: page
 nazev: Co se děje na župě
 ---
 
+všem členům předsednictva a KK SŽ Barákovy,  
+všem vyslancům tělocvičných jednot SŽ Barákovy  
+
+Praha 5. 4. 2017
+
+Vážená sestro, vážený bratře, v souladu se stanovami ČOS
+
+Předsednictvo Sokolské župy Barákovy svolává
+
+## Valnou hromadu
+
+### Sokolské župy Barákovy
+
+na úterý 25. dubna 2017
+
+do zasedací místnosti - župní kanceláře
+
+Zenklova 2/37, 180 00 Praha – Libeň
+
+se zahájením v 17:00 hod.
+
+(Prezence bude probíhat od 16:30 hod.)
+
+### Program valné hromady:
+
+1. Zahájení
+2. Volba: komisí (mandátové, návrhové), zapisovatele a ověřovatelů zápisu a usnesení
+3. Zpráva mandátové komise o počtu přítomných
+4. Schválení programu valné hromady
+5. Kontrola plnění usnesení z minulé valné hromady
+6. Zprávy odborných útvarů župy za uplynulé období:  
+  a) zpráva starosty o činnosti župy a podněty k činnosti na příští období  
+  b) zpráva I. místostarostky o hospodaření župy za rok 2016, návrh rozpočtu a klíče pro rozdělování dotace TVZ v roce 2017, schválení uzávěrky 2016  
+  c) zpráva hospodáře o rozdělených dotacích a grantech v minulém období, předpoklad roku 2017  
+  d) zpráva odboru všestrannosti župy a plán činnosti na příští období  
+  e) zpráva odboru sportu a plán činnosti na příští období  
+  f) zpráva vzdělavatelského odboru a plán činnosti na příští období  
+  g) zpráva jednatele o významných událostech v Sokole, informace z ústředí  
+  h) zpráva kontrolní komise  
+7. Kooptace člena KK župy
+8. Schválení Organizačního řádu župy
+9. Diskuse
+10. Návrh a schválení usnesení valné hromady župy
+11. Zakončení
+
+Valné volební hromady mají právo a povinnost se zúčastnit dle Stanov ČOS vyslanci tělocvičných jednot, členové Předsednictva a KK Sokolské župy Barákovy.
+
+Svoji účast potvrďte prosím předem mailem kanceláři župy: zbarakova@zbarakova.cz
+
+Těšíme se na Vaši účast.
+
+Se sokolským pozdravem „Nazdar!“
+
+Jan Firbas v.r.  
+starosta SŽ Barákovy
+
+Jakub Otáhal v.r.  
+jednatel SŽ Barákovy
+
+---
+
 Členské známky odeberte prosím nejpozději do 25. dubna 2017!
 
 <!-- 
