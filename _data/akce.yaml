@@ -1,132 +1,6 @@
-
-- datum: 2017-04-20
-  nazev: 17:00 Schůzka zástupců pražského třížupí a ž. Barákovy k oblastnímu sletu v Brandýse n. Labem (koná se v kanceláři ž. Barákovy)
-  url: 
-  druh: schůze
-
-- datum: 2017-04-21 až 23
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
-  nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
-  druh: kulturní akce
-
-- datum: 2017-04-22
-  nazev: Rozhodčí volejbalu
-  url: http://www.sokol.eu/obsah/205
-  druh: školení ÚŠ
-
-- datum: 2017-04-22
-  nazev: 1. nácvičný sraz sletové skladby Borci (Kostelec nad Orlicí)
-  url: 
-  druh: sraz
-
-- datum: 2017-04-22
-  nazev: Oblastní přebor západ – florbal kategorie II (Praha,Kr.Vinohrady)
-  url: 
-  druh: přebor
-
-
-- datum: 2017-04-22
-  nazev: Sraz župních vedoucích Zdr.TV (Praha, TD – Valášková)
-  url: 
-  druh: sraz
-
-- datum: 2017-04-23
-  nazev: 9:00 Jarní cena tanečního klubu T.J. Sokol Lysá nad Labem
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkdXAteDRpdjgxTlFwU3RKckxKWWlDRmZpbHVr
-  druh: soutěž
-
-
-- datum: 2017-04-23
-  nazev: Oblastní přebor západ – florbal kategorie III (Praha,Kr.Vinohrady)
-  url: 
-  druh: přebor
-
-
-- datum: 2017-04-23
-  nazev: Seminář Zdr.TV (Praha, TD)
-  url: 
-  druh: setkání
-
-- datum: 2017-04-22
-  nazev: <b>9:00 Soutěž sportovní všestrannosti – gymnastika, šplh (Lysá nad Labem) a 14:00 plavání (Čelákovice)</b>
-  url: http://www.zbarakova.cz/ov/souteze.html
-  druh: přebor
-
-- datum: 2017-04-23
-  nazev: <b>9:00 Soutěž sportovní všestrannosti – atletika (Lysá nad Labem)</b>
-  url: http://www.zbarakova.cz/ov/souteze.html
-  druh: přebor
-
-- datum: 2017-04-25
-  nazev: <b>17:00 Valná hromada sokolské župy Barákovy (Praha – Libeň)</b>
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkUDBPdHlYU3RybngwRHgxRV82TDdYSXJvZ084
-  druh: VH
-
-- datum: 2017-04-27
-  nazev: Cvičitel pobytu v přírodě I. a II. konzultace + zkoušky (Jurenkova osada)
-  url: http://www.sokol.eu/priloha/12064/pozvanka-pp2017.pdf
-  druh: školení VSO
-
-- datum: 2017-04-29
-  nazev: Velká jarní loutkoherecká jízda (Velké Popovice)
-  url: https://drive.google.com/open?id=0B0w6gDorCVUkS09BVUFZNmc1VUZsTmpiN2ZMZ28yamJuVXBz
-  druh: divadlo
-
-- datum: 2017-04-29
-  nazev: Aprílový turnaj v badmintonu (Milovice) – smíšené čtyřhry dospělí
-  url: http://badminton-milovice.webnode.cz/news/aprilovy-turnaj-2017/
-  druh: závod
-
-- datum: 2017-04-29
-  nazev: Běh Veltruským parkem (Veltrusy)
-  url: http://sokolveltrusy.cz/2017/04/beh-veltruskym-parkem-v-sobotu-29417/
-  druh: závod
-
-- datum: 2017-04-30
-  nazev: Aprílový turnaj v badmintonu (Milovice) – dvouhry děti
-  url: http://badminton-milovice.webnode.cz/news/aprilovy-turnaj-2017/
-  druh: závod
-
-- datum: 2017 duben
-  nazev: Doškolovací seminář v Kralupech nad Vltavou
-  url: 
-  druh: seminář
-
-- datum: 2017 konec dubna
-  nazev: Valná hromada župy Barákovy
-  url: 
-  druh: valná hromada
-
-- datum: 2017-05-04
-  nazev: Seminář pobyt v přírodě – vodácké putování (Vltava)
-  url: 
-  druh: pobyt v přírodě
-
-
-- datum: 2017-05-05
-  nazev: U nás v Sokole (Louny)
-  url: 
-  druh: pobyt v přírodě
-
-
-- datum: 2017-05-06
-  nazev: setkání Sokolem za kopečky 13. výstup na Fichtelberg (Krušné Hory)
-  url: 
-  druh: turistická
-
-- datum: upřesníme # 2017-05-07
-  nazev: Župní akademie T.J. Sokol Říčany a Radošovice
-  url: 
-  druh: vystoupení
-
-- datum: 2017-05-08
-  nazev: Kuličky
-  url: 
-  druh: turnaj
-
 - datum: 2017-05-13
   nazev: Župní závod předškolních dětí ve sportovní všestrannosti (Lysá nad Labem)
-  url: 
+  url: http://www.zbarakova.cz/ov/souteze.html
   druh: přebor
 
 - datum: 2017-05-13
@@ -238,9 +112,9 @@
   druh: školení ÚŠ
 
 
-- datum: 2017-06-03
+- datum: 2017-06-02 až 2017-06-06
   nazev: Tyršův Oetz (Oetz)
-  url: 
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkaVBLVEpzWjNZeTBJbFptWS1OUHRoVm1Lc2d3
   druh: setkání
 
 
@@ -258,6 +132,11 @@
   nazev: Lanové aktivity (Jurenkova osada)
   url: http://www.sokol.eu/priloha/12097/lanove-aktivity-anotace.pdf
   druh: seminář VSO
+
+- datum: 2017-06-10
+  nazev: Nehvizdský přebor sokolské všestrannosti pro nejmenší (od 10:00 ve sportovní hale Nehvizdy)
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkWW1Tb0dJV0hMaVdQYnJ2cDFIRktCdlNqXzRz
+  druh: závod
 
 - datum: 2017-06-10
   nazev: Seminář pro organizátory župních sletů (Praha)
