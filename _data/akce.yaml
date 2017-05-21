@@ -1,3 +1,8 @@
+- datum: 2017-05-08
+  nazev: 10:00 pietní akt na Národním památníku na Vítkové, Praha 3.
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkbmp5SVZ3alZab1lQUGQxcWRlN3NuREl0LWxr
+  popis: společenská akce
+
 - datum: 2017-05-13
   nazev: Župní závod předškolních dětí ve sportovní všestrannosti (Lysá nad Labem)
   url: http://www.zbarakova.cz/ov/souteze.html
@@ -40,6 +45,7 @@
   url: 
   druh: školení
 
+
 - datum: 2017-05-19 až 21
   url: https://drive.google.com/open?id=0B0w6gDorCVUkWVYxZTA4WDMtTEpoTUhyMmJKaUVFY2VEVEI4
   nazev: X. národní přehlídka sokolských divadel (Lázně Toušeň)
@@ -49,7 +55,6 @@
   nazev: 1. nácvičný sraz sletové skladby V peřině (Praha, TD)
   url: 
   druh: sraz
-
 
 - datum: 2017-05-20
   nazev: Latino Dance, Vogue, Jazz (Praha)
@@ -62,6 +67,10 @@
   url: http://www.sokol.eu/obsah/7163
   druh: seminář ÚŠ
 
+- datum: 2017-05-21
+  nazev: 10:00 Terezínská tryzna na Národním hřbitově před Malou pevností Terezín
+  url: https://drive.google.com/open?id=0B0w6gDorCVUkbmp5SVZ3alZab1lQUGQxcWRlN3NuREl0LWxr
+  popis: společenská akce
 
 - datum: 2017-05-21
   nazev: Basketbal nejen pro žactvo (Praha)
