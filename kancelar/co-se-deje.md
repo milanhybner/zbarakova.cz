@@ -2,6 +2,15 @@
 layout: page
 nazev: Co se děje na župě
 ---
+<!--
+{% for post in site.data.rss %}
+
+_{{post.datum}} {{post.jednota}}_  
+[**{{post.nazev}}**]({{post.url}})  
+{{post.popis}}
+
+{% endfor %}
+-->
 
 všem členům předsednictva a KK SŽ Barákovy,  
 všem vyslancům tělocvičných jednot SŽ Barákovy  
