@@ -12,6 +12,22 @@ _{{post.datum}} {{post.jednota}}_
 {% endfor %}
 -->
 
+Stanovisko starostky ČOS k současné situaci ve financování sportu a k jednáním s ministryní školství
+
+Česká obec sokolská je silně znepokojena současnou situací ve financování sportu a usiluje o eliminaci negativních důsledků pozastavení, respektive zdržení jednotlivých programů financování sportu z rozpočtu Ministerstva školství, mládeže a tělovýchovy ČR a požaduje co nejrychlejší návrat k pravidelnému financování sportu. K tomuto cíli směřuje i řada jednání, které jako starostka České obce sokolské vedu jak v rámci českého sportovního prostředí, tak s ministryní školství.
+
+Česká obec sokolská, která je vůdčí organizací v oblasti sportu pro všechny, požaduje přijmout taková opatření, aby v důsledku pozastavení financování nedošlo ke kolapsu zejména v oblasti sportu pro všechny a především pak ve sportování dětí a mládeže. Zejména složitá situace je v oblastech financovaných prostřednictvím Programu III, IV, VI, a X a rovněž zajišťování organizace a konání XVI. všesokolského sletu 2018, jehož přípravy jsou již v plném proudu. V tomto duchu také vystupuji při četných jednáních věnovaných tomuto současnému stěžejnímu problému českého sportu. Tato jednání probíhají jak v rámci společného postupu zástupců českého sportovního prostředí, tak i v individuální rovině – několikrát jsem jednala s ministryní školství Kateřinou Valachovou, aktivně se zúčastnila jednání Národní rady pro sport konaného 12. 5. 2017, jednání mimořádného Výkonného výboru ČOV (jehož jsem členem).
+
+Spolu s těmito jednáními činím veškeré potřebné kroky k tomu, aby alespoň část finančních prostředků byla v této složité době co nejdříve uvolněna a nebyla ohrožena běžná činnost našich jednot, potažmo celé České obce sokolské. Oceňuji a velmi si vážím kroků, které ministryně Kateřina Valachová podniká v oblasti pro udržení činnosti České obce sokolské. Příslib, že sportovní organizace během června dostanou 50 % dotace finančního objemu roku 2016, aby byla zajištěna kontinuita jejich provozu, stejně jako avizované uvolňování peněz z programu na podporu sportování dětí a mládeže vítáme jako prostředek k utlumení dopadů současné krizové situace ve financování sportu.
+
+K tomuto cíli směřují i moje konkrétní kroky a jednání.
+
+Hana Moučková,
+
+starostka České obce sokolské
+
+---
+
 všem členům předsednictva a KK SŽ Barákovy,  
 všem vyslancům tělocvičných jednot SŽ Barákovy  
 
