@@ -5,64 +5,30 @@ nazev: Vivat Vivaldi (Helena Peerová)
 
 Vážené sestry, vážení bratři.
 
-V roce 2018 připravuje župa Barákova ve spolupráci s župou
-Jana Podlipného, Pražskou Scheinerovou a Podbělohorskou (Pražským
-třížupím) **Oblastní župní slet v Brandýse nad Labem**.
+V roce 2018 připravuje župa Barákova ve spolupráci s župou Jana Podlipného, Pražskou Scheinerovou a Podbělohorskou (Pražským třížupím) **Oblastní župní slet v Brandýse nad Labem**.
 
-Plánovaný Oblastní slet bude akcí jednodenní v termínu **26. května 2018**, se zkouškami v dopoledních hodinách a
-vystoupením v odpoledních hodinách.
+Plánovaný Oblastní slet bude akcí jednodenní v termínu **27. května 2018**, se zkouškami v dopoledních hodinách a vystoupením v odpoledních hodinách.
 
-Již nyní  začínáme připravovat skladby, které by se na tomto
-sletu cvičily. Informaci o počtu předběžně přihlášených
-cvičenců do jednotlivých sletových skladeb budeme mít po jarních
-ústředních nácvičných srazech. Podle toho vybereme sletové
-skladby. V této záležitosti zašleme samostatný dopis.
+Již nyní  začínáme připravovat skladby, které by se na tomto sletu cvičily. Informaci o počtu předběžně přihlášených cvičenců do jednotlivých sletových skladeb budeme mít po jarních ústředních nácvičných srazech. Podle toho vybereme sletové skladby. V této záležitosti zašleme samostatný dopis.
 
-Programovou část tohoto Oblastního sletu bude garantovat náčelnice
-župy Barákovy sestra Míla Pangrácová, a za Pražské župy
-sestra 1. místonáčelnice ČOS Anička Jurčíčková, kterou jsme
-požádali o spolupráci.
+Programovou část tohoto Oblastního sletu bude garantovat náčelnice župy Barákovy sestra Míla Pangrácová, a za Pražské župy sestra 1. místonáčelnice ČOS Anička Jurčíčková, kterou jsme požádali o spolupráci.
 
-Župa Barákova jakožto garant této akce, a její náčelnictvo -
-se obrací na vás –  náčelnictva žup, jednot, a další
-cvičitele a cvičence s výzvou ke společné účasti. 
+Župa Barákova jakožto garant této akce, a její náčelnictvo - se obrací na vás –  náčelnictva žup, jednot, a další cvičitele a cvičence s výzvou ke společné účasti.
 
-Na našem sletu chceme mimo jiné zacvičit znovu skladbu „Generation
-together“ jako vzpomínku na gymnaestrádu v Helsinkách - 
+Na našem sletu chceme mimo jiné zacvičit znovu skladbu „Generation together“ jako vzpomínku na gymnaestrádu v Helsinkách -
 
-**ale také bychom rádi nabídli něco úplně nového. V rámci
-tohoto nápadu jsme oslovili Helenku Peerovou, jako osvědčenou
-autorku a choreografku, o vytvoření skladby pro náš společný
-slet. Helenka nabízí úplně nový projekt, o kterém se dočtete
-níže a v příloze.**
+**ale také bychom rádi nabídli něco úplně nového. V rámci tohoto nápadu jsme oslovili Helenku Peerovou, jako osvědčenou autorku a choreografku, o vytvoření skladby pro náš společný slet. Helenka nabízí úplně nový projekt, o kterém se dočtete níže a v příloze.**
 
-V tuto chvíli dáváme dohromady počty cvičenců – zájemců
-– pro tuto novou skladbu,  abychom mohli zajistit její první
-nácvik. Přednostně oslovujeme cvičence našich žup, ale rádi
-přijmeme také spolupráci  s dalšími župami a jejich
-cvičenci.
+V tuto chvíli dáváme dohromady počty cvičenců – zájemců – pro tuto novou skladbu,  abychom mohli zajistit její první nácvik. Přednostně oslovujeme cvičence našich žup, ale rádi přijmeme také spolupráci  s dalšími župami a jejich cvičenci.
 
-**Pro připravovanou Helenčinu skladbu „Vivat Vivaldi“ hledáme
-celkem 144 cvičenců.  První nácvičný sraz bude _28. 5. 2017 (neděle) v Praze-Štěrboholech_ jako jednodenní, kdy se na skladbě může začít společně pracovat.** V příštím roce pak počítáme
-maximálně se 3 nácviky, pravděpodobně by stačily jednodenní. 
-Ale to předbíháme. Informace budeme podávat průběžně.
+**Pro připravovanou Helenčinu skladbu „Vivat Vivaldi“ hledáme celkem 144 cvičenců.  První nácvičný sraz bude _28. 5. 2017 (neděle) v Praze-Štěrboholech_ jako jednodenní, kdy se na skladbě může začít společně pracovat.** V příštím roce pak počítáme maximálně se 3 nácviky, pravděpodobně by stačily jednodenní. Ale to předbíháme. Informace budeme podávat průběžně.
 
-**Prosíme tedy, abyste se v jednotách i župách zamysleli a
-vyjádřili se k naší nabídce.**
+**Prosíme tedy, abyste se v jednotách i župách zamysleli a vyjádřili se k naší nabídce.**
 
- 
-Vzhledem k naplánování celkového programu bychom rádi
-znali váš (zatím alespoň předběžný) zájem  v této
-skladbě, abychom ji mohli důstojně předvést na Oblastním župním
-sletu v Brandýse nad Labem, případně na dalších župních,
-oblastních nebo krajských sletech dle vašeho zájmu.. 
+Vzhledem k naplánování celkového programu bychom rádi znali váš (zatím alespoň předběžný) zájem  v této skladbě, abychom ji mohli důstojně předvést na Oblastním župním sletu v Brandýse nad Labem, případně na dalších župních, oblastních nebo krajských sletech dle vašeho zájmu..
 
-**Děkujeme vám za zodpovědné vyplnění přiložené návratky
-a těšíme se společně s vámi všemi na tradiční
-předsletovou společnou akci pořádanou k výročí Sokola a k
-výročí republiky.**
+**Děkujeme vám za zodpovědné vyplnění přiložené návratky a těšíme se společně s vámi všemi na tradiční předsletovou společnou akci pořádanou k výročí Sokola a k výročí republiky.**
 
- 
 S pozdravem za organizační tým sletového výboru
 
 Míla Pangrácová, náčelnice župy
@@ -80,9 +46,7 @@ V Praze dne 16. 3. 2017
 
 ---
 
----
-
-
+<!--
 # Pozvánka na 1. nácvičný sraz skladby „Vivat Vivaldi“
 
 Hromadná skladba pro ženy i muže mladšího, středního věku i mladší seniorky, jejíž pohyb sleduje vyjádření hudby, melodii a výraznou vnitřní dynamiku.
@@ -156,10 +120,13 @@ náčelnice župy
 
 Milan Hybner, v.r.  
 náčelník župy
+-->
 
 ---
 
 # Charakteristika skladby
+
+[Stránka skladby na Facebooku](https://www.facebook.com/vivatvivaldi/?ref=page_internal)
 
 Skladba „Vivat Vivaldi!“ je menší hromadná skladba vhodná též do haly. Je určena především ženám, cvičit ji však mohou i muži.
 
@@ -168,6 +135,8 @@ Hlavní inspirací pro skladbu je krásná nadčasová hudba Antonia Vivaldiho, 
 Pohybový obsah vychází ze základních cvičení prostných a jednoduchého estetického až tanečního pohybu. Cvičenec zde není jednotlivcem, sólistou, ale jedním z mnoha osobitých „hudebních nástrojů“ velkého orchestru. Pohyb sleduje především vyjádření hudby, její melodie a výrazné vnitřní dynamiky.
 
 ## Hudba
+
+[Přehrát či stáhnout hudbu](https://drive.google.com/open?id=0B9psDjKiAJmgNUNDVHZ5OUoxaUk).
 
 Antonio Vivaldi, výběr z houslových concertů grosso Čtvero ročních dob v podání Josefa Suka a Pražského komorního orchestru pod taktovkou Libora Hlaváčka.
 

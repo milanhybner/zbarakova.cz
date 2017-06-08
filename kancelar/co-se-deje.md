@@ -12,6 +12,28 @@ _{{post.datum}} {{post.jednota}}_
 {% endfor %}
 -->
 
+Sport vyzývá premiéra a vládu ČR k urychlenému řešení finanční krize
+
+_Praha 7. června 2017_
+
+Český olympijský výbor, Česká unie sportu, Česká obec sokolská a celkem 84 zástupců dalších sportovních svazů a spolků společně dopisem vyzvalo vládu ČR a premiéra České republiky Bohuslava Sobotku k urychlenému vyřešení kritických finančních potíží českého sportu. Společné memorandum podepsali zástupci sportovního prostředí na mimořádném setkání v Aule Sokola v Tyršově domě v Praze.
+
+Přestože na zasedání Národní rady pro sport 12. května 2017 ministryně školství mládeže a tělovýchovy Kateřina Valachová přislíbila urychlené řešení finanční krize, do sportovního prostředí dosud z neinvestičních programů v oblasti organizace sportu nepřišla ani jediná koruna. Situace ve sportovním prostředí tak nabírá na dramatičnosti, mnoho svazů má akutní potíže a hrozí jim krach. To bylo jedním z důvodů, proč se někteří členové Národní rady pro sport včetně předsedy Českého olympijského výboru Jiřího Kejvala rozhodli rezignovat na členství a vyzvali k rezignaci také další zástupce sportu v radě.
+
+Krizi českého sportu vyvolalo policejní vyšetřování dotací do sportu, které probíhá od začátku května. Vyhlášení, schválení a zveřejnění dotačních programů však proběhlo už před policejním zásahem, ke zveřejnění klíčového programu V. dokonce už 15. února. Peníze tak měly být podle Zásad vlády pro poskytování dotací ze státního rozpočtu České republiky nestátním neziskovým organizacím vyplaceny do konce března. „Zátah policie je zaklínadlo, všechny programy však měly být dávno vyplaceny,“ upozornil Kejval. „Například výsledky rozdělení program V. stáhlo z internetu ministerstvo, nikoliv policie,“ zdůraznil Kejval.
+
+Ministryně Valachová některé neinvestiční dotační programy vypsala znovu za nových podmínek, které jsou pro sportovní prostředí neakceptovatelné. Řada podmínek je nesplnitelná. „Máme například s přesností na devadesát procent určit, kolik peněz půjde na běžný provoz,“ dodal Kejval. Přítomní předsedové svazů a spolků se proto jednomyslně dohodli, že z těchto důvodu se o takto vyhlášené programy z procesní opatrnosti do vyřešení případu ucházet nemohou a nebudou. MŠMT navíc není schopné situaci řešit, neboť je ochromeno personálně i probíhajícím policejním vyšetřováním. Nové žádosti měly být odevzdány nejpozději do 9. června 2017.
+
+„V polovině roku se dramaticky změnily parametry a není možné na to reagovat,“ řekl předseda ČOV Jiří Kejval. „Je to likvidační,“ doplnil. Šéf českého hokeje Tomáš Král dodal: „Kdyby to prošlo, tak svaz můžu zavřít,“ prohlásil. Podobný názor měla starostka České obce sokolské Hana Moučková. „Řešíme zásadní věc, jestli bude sport dál existovat, nebo ne,“ řekla.
+
+Z Národní rady pro sport odstoupilo sedm členů
+
+Na své členství v Národní radě pro sport kromě Kejvala rezignovali také předseda ČUS Miroslav Jansta, starostka České obce sokolské Hana Moučková, místopředseda ČOV a šéf českého florbalu Filip Šuman, zástupce univerzitního sportu František Dvořák, zástupce pro legislativu Alexander Károlyi a Alena Erlebachová, výkonná ředitelka Českého paralympijského výboru. Důvodem je nesouhlas s postupem MŠMT, které vypsání nových neinvestičních dotačních programů s Národní radou pro sport nekonzultovalo.
+
+„Současná situace není chybou sportu, ale je krizí státní správy a politiků odpovídající za ni,“ upozornil Miroslav Jansta. „Problém vychází z toho, že stát tuto oblast za posledních pětadvacet let zanedbal. Potřebujeme důstojný orgán, který bude sport zastupovat a zajistí jeho předvídatelné financování,“ dodal.
+
+---
+
 Stanovisko starostky ČOS k současné situaci ve financování sportu a k jednáním s ministryní školství
 
 Česká obec sokolská je silně znepokojena současnou situací ve financování sportu a usiluje o eliminaci negativních důsledků pozastavení, respektive zdržení jednotlivých programů financování sportu z rozpočtu Ministerstva školství, mládeže a tělovýchovy ČR a požaduje co nejrychlejší návrat k pravidelnému financování sportu. K tomuto cíli směřuje i řada jednání, které jako starostka České obce sokolské vedu jak v rámci českého sportovního prostředí, tak s ministryní školství.

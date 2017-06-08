@@ -5,6 +5,8 @@ nazev: Projekty vzdělavatelského odboru
 
 ## Sletové perličky
 
+**Prodloužen termín odevzdání do 30.6.2017**
+
 Předsednictvo Vzdělavatelského odboru ČOS
 
 Komise pro práci s mládeží a seniory
