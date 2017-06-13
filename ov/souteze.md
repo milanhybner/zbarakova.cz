@@ -11,9 +11,6 @@ Pro děti narozené dříve než v roce 2010 je určen samostaný župní přebo
 * [Rozpis župního přeboru sokolské všestrannosti na cvičební rok 2017 – nejmladší žactvo](https://drive.google.com/open?id=0B0w6gDorCVUkX3NrY3FKc01UN28)
 
 
----
-
-
 
 V roce 2017 se přebor župy Barákovy ve sportovní všestrannosti konal ve dnech 22. a 23. dubna 2017.
 
