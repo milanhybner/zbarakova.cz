@@ -3,6 +3,8 @@ layout: page
 nazev: Skladby XVI. všesokolského sletu
 ---
 
+* [Přehled skladeb a ústředních srazů v .xls](https://drive.google.com/open?id=0B0w6gDorCVUkTmtwcWZTS3RCbU1GQzRTaURLUjBZQWFSd1lB)
+
 # Nácvik skladeb v jednotách
 
 
@@ -14,7 +16,7 @@ nazev: Skladby XVI. všesokolského sletu
                 <tr>
                     <th>Skladba</th>
                     <th>Jednota</th>
-                    <th>Poč. celků</th>
+                    <th>Poč. celků/cvičenců</th>
                     <th>Garant</th>
                 </tr>
             </thead>
