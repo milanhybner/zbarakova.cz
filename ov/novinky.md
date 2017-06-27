@@ -23,7 +23,7 @@ Pokud budete v Říčanech, přijďte se podívat na náš sokolák, určitě b
 
 Vendula Höfinghoff T. J. Sokol Říčany a Radošovice
 
-[![Otevření sokoláku](https://goo.gl/photos/yNiShwA3LXxyfXmn7)](https://photos.google.com/share/AF1QipP_8bV_FZTIIg89OvzHZ-N3daoiaZ7nqE2bin3V0YtuRPsbKhIPr0ncHVfLuKR4xA?key=d0RJd2RmUzFKUG5PYUhMNVFOX011UFVtbmhRekp3)
+[![Otevření sokoláku](ttps://photos.google.com/share/AF1QipPlo7l-RnhWP4A2RUpNCloJGRPtnprwlQg96mfdUIQ_LEjNJW0Y2cZEq4BWT6x9ng?key=VWFRTTE1a1ljLWt1bUQ1YWxjdW1hTU1sdm5ibXZn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/AgoWyadqsQq79GiMsgzmnQbHAckT4PWoeg-StsmvfvbFDrohdHr3rjUZ1uh2q_xQLKISSvqq0qB9CnH5OQ_K_H4MN3BBpd92qkBS4DAM_H0Y7VXpti2CXj4h4KuWty1UNvi1Hw)](https://photos.google.com/share/AF1QipP_8bV_FZTIIg89OvzHZ-N3daoiaZ7nqE2bin3V0YtuRPsbKhIPr0ncHVfLuKR4xA?key=d0RJd2RmUzFKUG5PYUhMNVFOX011UFVtbmhRekp3)
 
 <!--
 
