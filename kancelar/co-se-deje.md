@@ -12,6 +12,12 @@ _{{post.datum}} {{post.jednota}}_
 {% endfor %}
 -->
 
+---
+
+* [Usnesení Valné hromady Sokolské župy Barákovy ze dne 25. 4. 2017](https://drive.google.com/open?id=0B0w6gDorCVUkbU56Tm1vaGZfbGdfSW1wUklTWlR3SGMwaFo0)
+
+<!-- 
+
 Sport vyzývá premiéra a vládu ČR k urychlenému řešení finanční krize
 
 _Praha 7. června 2017_
@@ -113,7 +119,7 @@ jednatel SŽ Barákovy
 
 Členské známky odeberte prosím nejpozději do 25. dubna 2017!
 
-<!-- 
+
 # Slovo starosty
 
 Vážené sestry, vážení bratři!
