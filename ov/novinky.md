@@ -9,7 +9,7 @@ Nadpis lze volně přeložit asi takto – členové Sokola Říčan a Radošovi
 
 Po létech strávených na prašném atletickém oválu během tréninků a závodů pořádaných atletickým oddílem Sokola Říčan a Radošovic, přišlo jaro 2016 a s ním i příslib dotace MŠMT na modernizaci sokoláku ve výši 3,96 mil. Kč. Modernizaci Sokoláku spolufinancoval Sokol Říčany a Radošovice a město Říčany. Stavební práce probíhaly do jara 2017 a od května běžel zkušební provoz s tím, že běžný provoz se rozběhne právě po slavnostním otevření sokoláku.
 
-10. června otestovali naši novou „oranžádu“ atleti během štafet 4 x 60 m napříč generacemi (děti, dospělí, rodiny). Superfinále o nejrychlejší štafetu vyhráli kluci z atletické přípravky ve složení Jan Boháč, Ondřej Šátek, Matyáš Drobný a Tomáš Rudolf časem 34,06 s. Běželi fantasticky a doufám, že o nich ještě uslyšíme. V přestávkách mezi jednotlivými rozběhy jsme obdivně zatleskali mladému gymnastovi Viktoru Fraňkovi. Viktor zacvičil krátkou sestavu na gymnastické hrazdě, která je součástí nového workoutového hřiště. Během další přestávky se nám představili koloběžkoví mistři světa Michal Kulka a Tomáš Pelc. Pánové předvedli, jak se jede štafeta na koloběžkách – prostě se předává místo štafetového kolíku štafetová koloběžka.
+10\. června otestovali naši novou „oranžádu“ atleti během štafet 4 x 60 m napříč generacemi (děti, dospělí, rodiny). Superfinále o nejrychlejší štafetu vyhráli kluci z atletické přípravky ve složení Jan Boháč, Ondřej Šátek, Matyáš Drobný a Tomáš Rudolf časem 34,06 s. Běželi fantasticky a doufám, že o nich ještě uslyšíme. V přestávkách mezi jednotlivými rozběhy jsme obdivně zatleskali mladému gymnastovi Viktoru Fraňkovi. Viktor zacvičil krátkou sestavu na gymnastické hrazdě, která je součástí nového workoutového hřiště. Během další přestávky se nám představili koloběžkoví mistři světa Michal Kulka a Tomáš Pelc. Pánové předvedli, jak se jede štafeta na koloběžkách – prostě se předává místo štafetového kolíku štafetová koloběžka.
 
 V druhé části odpoledne zacvičily děti z oddílů všestrannosti, z oddílu cvičení rodičů s dětmi a z atletického oddílu krátké sestavy na téma 90 let atletiky v Říčanech. Moc hezká byla sestava zacvičená rodiči a dětmi. Bylo vidět, že společné cvičení baví děti i rodiče.
 
@@ -23,7 +23,7 @@ Pokud budete v Říčanech, přijďte se podívat na náš sokolák, určitě b
 
 Vendula Höfinghoff T. J. Sokol Říčany a Radošovice
 
-[![Otevření sokoláku](https://photos.google.com/share/AF1QipPlo7l-RnhWP4A2RUpNCloJGRPtnprwlQg96mfdUIQ_LEjNJW0Y2cZEq4BWT6x9ng?key=VWFRTTE1a1ljLWt1bUQ1YWxjdW1hTU1sdm5ibXZn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/AgoWyadqsQq79GiMsgzmnQbHAckT4PWoeg-StsmvfvbFDrohdHr3rjUZ1uh2q_xQLKISSvqq0qB9CnH5OQ_K_H4MN3BBpd92qkBS4DAM_H0Y7VXpti2CXj4h4KuWty1UNvi1Hw)](https://photos.google.com/share/AF1QipP_8bV_FZTIIg89OvzHZ-N3daoiaZ7nqE2bin3V0YtuRPsbKhIPr0ncHVfLuKR4xA?key=d0RJd2RmUzFKUG5PYUhMNVFOX011UFVtbmhRekp3)
+[![Otevření sokoláku](https://lh3.googleusercontent.com/AgoWyadqsQq79GiMsgzmnQbHAckT4PWoeg-StsmvfvbFDrohdHr3rjUZ1uh2q_xQLKISSvqq0qB9CnH5OQ_K_H4MN3BBpd92qkBS4DAM_H0Y7VXpti2CXj4h4KuWty1UNvi1Hw)](https://photos.google.com/share/AF1QipP_8bV_FZTIIg89OvzHZ-N3daoiaZ7nqE2bin3V0YtuRPsbKhIPr0ncHVfLuKR4xA?key=d0RJd2RmUzFKUG5PYUhMNVFOX011UFVtbmhRekp3)
 
 <!--
 
