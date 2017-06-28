@@ -9,6 +9,19 @@ layout: default
         </div>
     </div>
 </div>
+
+<div class="container mtb">
+   <div class="row">
+      <div clas="col-md-12">
+        <a id="akce"></a>
+        <h4>Akce župy</h4>
+        <div class="hline"></div>
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrB0jgejZMvEXFMJ?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+     </div>
+   </div>
+</div>
+
+<!--
 <div id="entry-list" class="container mt">
     <div class="row" style="margin-bottom:10px;">
         <p><a href="https://goo.gl/forms/q9Loj8bRYuJcPclD3">Přidejte svoji akci</a> | <a href="akce-archiv.html">Minulé akce naleznete v archivu</a></p>
@@ -46,3 +59,4 @@ var options = {
 var entryList = new List('entry-list', options);
 
 </script>
+-->

@@ -2,15 +2,6 @@
 layout: page
 nazev: Co se děje na župě
 ---
-<!--
-{% for post in site.data.rss %}
-
-_{{post.datum}} {{post.jednota}}_  
-[**{{post.nazev}}**]({{post.url}})  
-{{post.popis}}
-
-{% endfor %}
--->
 
 ### Jednání starostky ČOS vedla k poskytnutí mimořádné dotace, jednání pokračují
 
@@ -23,6 +14,16 @@ Starostka ČOS Hana Moučková v současnosti vede řadu dalších intenzivních
 ---
 
 * [Usnesení Valné hromady Sokolské župy Barákovy ze dne 25. 4. 2017](https://drive.google.com/open?id=0B0w6gDorCVUkbU56Tm1vaGZfbGdfSW1wUklTWlR3SGMwaFo0)
+
+# Novinky z jednot
+
+{% for post in site.data.rss reversed%}
+
+_{{post.datum}} {{post.jednota}}_  
+[**{{post.nazev}}**]({{post.url}})  
+{{post.popis}}
+
+{% endfor %}
 
 <!-- 
 
