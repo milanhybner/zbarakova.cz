@@ -3,6 +3,10 @@ layout: page
 nazev: Novinky z odboru všestrannosti
 ---
 
+* [Informace pro zájemce o účast na EuroGym 2018](https://drive.google.com/open?id=0B0w6gDorCVUkMTRXanNXVEtYOVBwQng4VVd1VDdpcS1kQXI0)
+
+---
+
 ### Říčanští sokolové mají na „sokoláku“ svoji „oranžádu“
 
 Nadpis lze volně přeložit asi takto – členové Sokola Říčan a Radošovic 10. června 2017 slavnostně otevřeli sokolské sportoviště po modernizaci, jejímž nejviditelnějším prvkem je sytě oranžová polyuretanová atletická dráha.
