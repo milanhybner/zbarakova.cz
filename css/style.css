@@ -71,9 +71,10 @@ table {
 	background: #ffffff; 
 }
 
-li {
+ul {
 	margin-left: 30px;
 }
+
 
 ::-moz-selection  {
 	color: #fff;

@@ -46,64 +46,104 @@ layout: default
 <div class="container mtb">
    <div class="row">
        <div class="col-md-4">
-           <h4>Kancelář župy</h4>
+           <h4>Župa</h4>
            <div class="hline"></div>
-           <p><a href="kancelar/granty.html">Granty</a></p>
-           <p><a href="kancelar/formulare.html">Formuláře</a></p>
-           <p><a href="kancelar/co-se-deje.html">Co se děje na župě</a></p>
+           <p></p>
+           <a href="kancelar/kancelar.html">Kancelář župy</a>
+           <ul>
+            <li><a href="kancelar/granty.html">Granty</a></li>
+            <li><a href="kancelar/formulare.html">Formuláře</a></li>
+            <li>Co se děje na župě</li>
+            <ul>
+              <li><a href="/2017/04/24/Usnesen%C3%AD-Valn%C3%A9-hromady.html">Usnesení z valné hromady</a></li>
+              <li><a href="kancelar/novinky-z-jednot.html">Novinky z jednot</a></li>
+            </ul>
+           </ul>
+           <a href="">Odbor všestrannosti</a>
+           <ul>
+            <li><a href="ov/souteze.html">Soutěže</a></li>
+            <li><a href="ov/vzdelavani.html">Vzdělávání cvičitelů</a></li>
+            <li><a href="ov/projekty.html">Projekty</a></li>
+            <ul>
+              <li><a href="ov/spolu-v-pohybu.html">Sokol spolu v pohybu</a></li>
+              <li><a href="ov/100-kesi.html">100 sokolských keší republice</a></li>
+            </ul>
+           </ul>
+           Odbor sportu
+           <ul><li><a href="os/oddily.html">Sportovní oddíly v jednotách</a></li></ul>
+           Vzdělavatelský odbor
+           <ul>
+            <li>Noc sokoloven</li>
+            <li><a href="vo/casopisy.html">Časopisy</a></li>
+            <li><a href="vo/klub-senioru.html">Klub seniorů</a></li>
+           </ul>
+
            <div class="spacing"></div>
        </div>
       <div class="col-md-4">
-             <h4>Všesokolský slet</h4>
+             <h4>Události</h4>
              <div class="hline"></div>
-             <p><a href="slet/skladby.html">Hromadné skladby</a></p>
-             <p><a href="slet/stafeta.html">Sletová štafeta</a></p>
-             <p><a href="slet/logo.html">Logo a grafické materiály</a></p>
-             <p><a href="slet/tyden.html">Program sletového týdne</a></p>
+             <p></p>
+             Slet
+             <ul>
+              <li><a href="slet/stafeta.html">Sletová štafeta</a></li>
+              <li><a href="oblastni-slet/info.html">Oblastní slet v Brandýse nad Labem</a></li>
+              <li><a href="slet/tyden.html">Všesokolský slet</a>, <a href="slet/logo.html">Logo a grafické materiály</a></li>
+              <li><a href="slet/skladby.html">Hromadné skladby</a></li>
+                <ul>
+                <li><a href="oblastni-slet/vivaldi.html">Vivat Vivaldi</a></li>
+                <li><a href="slet/1-medove.html">Méďové</li>
+                <li><a href="slet/2-noty.html">Noty</a></li>
+                <li><a href="slet/4-deti-to-je-vec.html">Děti, to je věc!</a></li>
+                <li><a href="slet/3-v-perine.html">V peřině</a></li>
+                <li><a href="slet/5-cirkus.html">Cirkus</a></li>
+                <li><a href="slet/6-siluety.html">Siluety</a></li>
+                <li><a href="slet/8-zenobrani.html">Ženobraní</a></li>
+                <li><a href="slet/9-spolu.html">Spolu</a></li>
+                <li><a href="slet/10-borci.html">Borci</a></li>
+                <li><a href="slet/11-princezna-republika.html">Princezna Republika</a></li>
+                </ul>
+             </ul>
+             <p>Školení cvičitelů</p>
+             <p><a href="akce.html">Všechny události</a></p>
+             Proběhlo
+             <ul>
+              <li>Gajáry</li>
+             </ul>
              <div class="spacing"></div>
       </div>
-      <div class="col-md-4">
-             <h4>Oblastní slet Brandýs n. L.</h4>
+      <!--<div class="col-md-4">
+             <h4>Články</h4>
              <div class="hline"></div>
-             <p><a href="oblastni-slet/info.html">Základní informace</a></p>
-             <!--<p><a href="oblastni-slet/zamer.html">Záměr</a></p>-->
-             <p><a href="oblastni-slet/vivaldi.html">Vivat Vivaldi</a></p>
+             <p></p>
+             Pro veřejnost a média
+             <ul>
+               <li>Historie župy</li>
+               <li>Tiskové zprávy</li>
+             </ul>
+             <p>Pro všechny členy sokola</p>
+             Pro cvičitele
+             <ul>
+               <li>Rodiče a děti</li>
+               <li>Předškolní děti</li>
+               <li>Mladší žactvo</li>
+               <li>Starší žactvo</li>
+               <li>Dorostenci</li>
+               <li>Dorostenky</li>
+               <li>Muži</li>
+               <li>Ženy</li>
+               <li>Senioři</li>
+               <li>Seniorky</li>
+             </ul>
+             <p>Pro činovníky jednot</p>
+             Všechny články podle data
+              <ul>
+                {% for post in site.posts %}
+                <li><a href="{{ relative }}{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+              </ul>
              <div class="spacing"></div>
-      </div>
-  </div>
-  <div class="row">
-       <div class="col-md-4">
-           <h4>Odbor všestrannosti</h4>
-           <div class="hline"></div>
-           <p><a href="ov/novinky.html">Novinky</a></p>
-           <p><a href="ov/souteze.html">Soutěže</a></p>
-           <p><a href="ov/vzdelavani.html">Vzdělávání</a></p>
-           <p><a href="ov/projekty.html">Projekty</a></p>
-           <p><a href="ov/kontakty.html">Kontakty</a></p>
-           <!--<p><a href="ov/fotogalerie.html">Fotogalerie</a></p>-->
-           <div class="spacing"></div>
-       </div>
-       <div class="col-md-4">
-           <h4>Odbor sportu</h4>
-           <div class="hline"></div>
-           <p><a href="os/souteze.html">Soutěže</a></p>
-           <p><a href="os/oddily.html">Sporty a oddíly</a></p>
-           <!--<p><a href="os/fotogalerie.html">Fotogalerie</a></p>-->
-           <div class="spacing"></div>
-       </div>
-       <div class="col-md-4">
-           <h4>Vzdělavatelský odbor</h4>
-           <div class="hline"></div>
-           <p><a href="vo/projekty.html">Projekty</a></p>
-           <p><a href="vo/historie.html">Historie župy</a></p>
-           <p><a href="vo/clanky.html">Články</a></p>
-           <p><a href="vo/casopisy.html">Časopisy</a></p>
-           <!--<p><a href="vo/almanach.html">Almanach</a></p>
-           <p><a href="vo/kalendarium.html">Kalendárium</a></p>-->
-           <p><a href="vo/sbory-a-soubory.html">Sbory a soubory</a></p>
-           <p><a href="vo/klub-senioru.html">Klub seniorů</a></p>
-           <!--<p><a href="vo/fotogalerie.html">Fotogalerie</a></p>-->
-       </div>
+      </div>-->
   </div>
 <!--  <div class="row">
     <div clas="col-md-12">

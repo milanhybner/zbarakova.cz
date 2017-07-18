@@ -5,6 +5,13 @@ nazev: Soutěže odboru všestrannosti
 
 ## Soutěž sportovní všestrannost
 
+Informace o soutěžích pro rok 2018 naleznete na [http://sokol.eu/obsah/5361/souteze-odbor-vsestrannosti](http://sokol.eu/obsah/5361/souteze-odbor-vsestrannosti).
+
+
+---
+
+
+
 Pro děti narozené dříve než v roce 2010 je určen samostaný župní přebor sokolské všestrannosti nejmladšího žactva
 
 * [Přihláška na župní přebor všestrannosti nejmladšího žactva 13. 5. 2017](https://drive.google.com/open?id=0B0w6gDorCVUkQ0ZvN01KWGxVRG8)
@@ -22,7 +29,4 @@ V roce 2017 se přebor župy Barákovy ve sportovní všestrannosti konal ve dne
 * [Závodní sestavy sportovní gymnastiky mužských složek](https://drive.google.com/open?id=0B0w6gDorCVUkdlBFb3ZUMjZ4Wkk)
 
 
----
 
-
-Informace o dalších soutěžích naleznete na [http://sokol.eu/obsah/5361/souteze-odbor-vsestrannosti](http://sokol.eu/obsah/5361/souteze-odbor-vsestrannosti).
