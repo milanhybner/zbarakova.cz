@@ -167,3 +167,7 @@ Nazdar!
 Jan Firbas, starosta župy Barákovy, v.r., předseda SV
 
 Anna Jurčíčková, v.r., výkonný předseda SV
+
+---
+
+[Plánek cvičiště v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkNElaYnpEZkNZblU) a [v SVG](https://drive.google.com/open?id=0B0w6gDorCVUka1lhVnVmR0FmNW8).
