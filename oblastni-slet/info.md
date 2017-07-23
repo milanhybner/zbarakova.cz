@@ -1,42 +1,128 @@
 ---
 layout: page
-nazev: Základní informace k oblastnímu sletu
+nazev: Oblastní slet v Brandýse nad Labem
 ---
 
-V roce 2018 připravuje župa Barákova ve spolupráci s župou Jana Podlipného, Pražskou Scheinerovou a Podbělohorskou (Pražským třížupím) **Oblastní župní slet v Brandýse nad Labem**.
+Župa Barákova ve spolupráci s župou Jana Podlipného, Pražskou Scheinerovou a Podbělohorskou (Pražským třížupím) Oblastní slet v Brandýse nad Labem.
 
-Plánovaný Oblastní slet bude akcí jednodenní v termínu **27. května 2018**, se zkouškami v dopoledních hodinách a
-vystoupením v odpoledních hodinách.
+Plánovaný Oblastní slet bude akcí jednodenní v termínu **27. května 2018**, se zkouškami v dopoledních hodinách a vystoupením v odpoledních hodinách.
 
-## Organizační tým
+# Organizační tým projektu Sokolové republice
 
-[Organizační schéma v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkaHBLOEVrRDBBbUdrS3psb3dfZWFXLU1wU3FF)
+[Organizační schéma – tabulka, v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkaHBLOEVrRDBBbUdrS3psb3dfZWFXLU1wU3FF)
 
-Realizační tým sletového výboru pro organizaci Oblastního sletu v Brandýse n. Labem
+Předseda: Jan Firbas
 
-Předseda:  Jan Firbas
+Výkoný předseda: Anna Jurčíčková
 
-Výkonný předseda: Anna Jurčíčková
+Konzultanti:
+
+ - Bořivoj Sopr
+ - Luboš Novotný
+ - Katka Wágnerová
+ - Eliška Karešová
 
 Tajemnice: Lenka Brandová
 
-Program:  Míla Pangrácová, Milan Hybner, Dáša Fischerová
+## Program
 
-Ekonomika: Aleš Müller, Hana Dobrovodská, Lenka Farkasová
+ - Anna Jurčíčková
+ - Míla Pangrácová
+ - Dáša Fischerová
+ - Milan Hybner
 
-Propagace:  Jakub Otáhal, Zdeněk Bartůněk
+## Ekonomika
 
-Technické organizační zajištění: Jiří Sýkora, Petr Čížkovský, Michal Pávek, Dana Absolonová
+ - Aleš Muller
+ - Hana Dobrovodská
+ - Lenka Farkasová
+ - Miluše Malinová
 
-(Další spolupracovníky jmenovitě si doobsadí činovníci sletového výboru podle obsahu náplně jednotlivých komisí.)
+## Propagace, tisk
 
-V Praze dne 11.4.2017
+ - Jakub Otáhal
+ - Zdeněk Bartůněk
+ - Vladimír Šilhan
+ - Marie Brunerová
 
-## Sokolové republice
+## Technické a organizační zajištení
+
+ - Jiří Sýkora
+ - Petr Čížkovský
+ - Michal Pávek
+ - Dana Absolonová
+
+## Oblastní slet Brandýs
+
+### Hromadná vystoupení
+
+Skladby
+
+ - Míla Pangrácová
+ - Dana Absolonová
+ - Dáša Fischerová
+ - Věra Smejkalová
+
+Technika
+
+ - Milan Hybner
+ - Slávek Povondra
+ - Petr Čížkovský
+ - Karel Kovařovic
+ - Michal Pávek
+
+Režie
+
+ - Anna Jurčíčková
+ - Petr Čížkovský
+ - Jindra Košťálová
+ - Milan Hybner 
+
+### Průvod
+
+ - Jan Firbas
+ - Petr Čížkovský
+ - Jitka Viktorínová
+ - Jakub Otáhal 
+
+## Pódia - krajská prezentace
+
+ - Dáša Fischerová
+ - Luděk Barták
+ - Renata Čáslavová
+ - Zdeněk Bartůněk 
+ - náčelnice a náčelníci
+
+## Výstavy
+
+ - Jakub Otáhal
+ - Jaroslava Tůmová
+ - Iveta Bendíková
+ - Lenka Brandová
+ - Jitka Viktorínová
+ - Marie Brunerová
+ - Vladimír Šilhan
+
+## Divadelní představení
+
+ - Bohumil Gondík
+ - Lenka Brandová
+
+## Komponovaný program
+
+ - Jarina Žitná
+ - Jaroslava Tůmová
+ - Iveta Bendíková
+ - Lenka Brandová
+ - Dagmar Evaldová
+
+---
+
+# Sokolové republice
 
 Připravujeme Oblastní slet v Brandýse nad Labem - Staré Boleslavi, který se uskuteční v neděli 27. 5. 2018, jako společný projekt žup Barákovy, Jana Podlipného, Podbělohorské a Pražské Scheinerovy ke 100. výročí založení Československé republiky a 120. výročí župy Barákovy.
 
-Námět a zdůvodnění
+## Námět a zdůvodnění
 
 Již v dobách minulých století byly župní a oblastní slety předehrou největšího svátku sokolstva - všesokolského sletu. Tak tomu bude i v roce 2018, kdy chceme přispět k oslavám 100. výročí založení Československé republiky. Oblastní slet bude rovněž pozvánkou na XVI. všesokolský slet v Praze, který bude vyvrcholením oslav.
 
@@ -46,15 +132,15 @@ Spojíme své úsilí nejen při přípravě oblastního sletu, ale i při dalš
 
 Seznámíme nejen občany Města Brandýs nad Labem - Staré Boleslavi, ale take nesokolskou veřejnost Středočeského kraje a Prahy se současnou sokolskou organizací, která i dnes jako jediná naplňuje heslo &quot;Ve zdravém těle zdravý duch&quot;, neboť programová náplň Sokola je i dnes nejen tělovýchovná, ale i kulturní, společenská a spolková.
 
-Cíl projektu
+## Cíl projektu
 
 Propojení tělovýchovných, kulturních, vzdělávacích a společenských aktivit. Připomenutí významu Sokola z pohledu historie, připomenutí zásluh i obětí našich předků. Ukázka schopnosti současného Sokola ujmout se důstojným způsobem oslav tak významného výročí v součinnosti s městem, Středočeským krajem,ale také s dalšími občanskými sdruženími a spolky.
 
-Obsah projektu
+## Obsah projektu
 
 Na projektu se budou podílet členové sokolskè župy Barákovy ve vzájemné spolupráci se členy především pražských žup Jana Podlipného, Podbělohorské a Pražské Scheinerovy spolu s hosty z jiných žup.
 
-1. Tělovýchovná a sportovní část
+1\. Tělovýchovná a sportovní část
 
 Společné vystoupení všech generací na sokolském cvičišti Jindry Vaníčka v Brandýse nad Labem s ukázkami moderní i tradiční činnosti. Do programu budou zařazeny skladby pro děti, které budou cvičit na XVI. všesokolském sletu, skladba žen čestné náčelnice ČOS Jariny Žitné, skladba, která reprezentovala ČOS na světové gymnaestrádě v Helsinkách i skladba pro ženy a muže připravovaná přímo pro tento Oblastní slet. Svou skladbu předvede i Věrná garda.
 
