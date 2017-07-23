@@ -19,6 +19,15 @@ layout: default
         <iframe class="airtable-embed" src="https://airtable.com/embed/shrB0jgejZMvEXFMJ?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
      </div>
    </div>
+   <p></p>
+   <div class="row">
+      <div clas="col-md-12">
+        <a id="akce"></a>
+        <h4>Všechny akce</h4>
+        <div class="hline"></div>
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shr6ENOyJcDqhizOF?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+     </div>
+   </div>
 </div>
 
 <!--

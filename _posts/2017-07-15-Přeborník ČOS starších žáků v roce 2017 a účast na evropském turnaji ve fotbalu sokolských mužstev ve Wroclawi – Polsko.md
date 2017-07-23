@@ -1,5 +1,5 @@
 ---
-tags: tj-sokol-dolní-beřkovice,akce-jednot,zprávy-z-jednot,starší-žactvo
+tags: tj-sokol-dolní-beřkovice akce-jednot zprávy-z-jednot starší-žactvo
 ---
 
 Komise fotbalu při odboru sportu České obce sokolské rozhodla na svém zasedání v měsíci dubnu zorganizovat v TJ Sokol Chotyně turnaj o přeborníka ČOS starších žáků. Tohoto turnaje se zúčastnila 4 družstva starších žáků. Na základě výkonů jednotlivců byli trenéry vybráni žáci tak, aby vytvořili co nejsilnější celek pro reprezentaci starších žáků České obce sokolské na turnaji ve Wroclawi, který se uskutečnil 6. – 9. 7. 2017. Na turnaji v Chotyni se umístila první 3 družstva takto: 1. místo TJ Sokol Chotyně, 2. místo TJ Sokol Dolní Beřkovice, 3.místo TJ Sokol Trnávka. Turnaj byl celkově velmi dobře připraven a organizačně probíhal bez jakýchkoliv zbytečných časových prodlev. Všichni trenéři velmi bedlivě sledovali výkony jednotlivých hráčů, aby na závěr turnaje mohla být zhodnocena jejich celková úroveň a připravenost na reprezentaci v Polsku. Samotní žáci hodnotili turnaj v Chotyni jako velmi úspěšný a významný pro další zvyšování sportovní úrovně oddílu v Dolních Beřkovicích. Rovněž i trenéři zhodnocovali celkovou připravenost a organizovanost při turnaji jako vynikající. Z těchto důvodů můžeme být velmi spokojeni s celkovými výsledky a umístěním jednotlivých mužstev v turnaji.

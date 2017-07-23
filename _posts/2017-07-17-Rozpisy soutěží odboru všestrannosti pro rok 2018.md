@@ -1,5 +1,5 @@
 ---
-tags: všestrannost,soutěže,odbor-všestrannosti-české-obce-sokolské,teamgym-junior,malý-teamgym,florbal,zálesák
+tags: všestrannost soutěže odbor-všestrannosti-české-obce-sokolské teamgym-junior malý-teamgym florbal zálesák
 ---
 
 * [Všestrannost 2017-18](https://drive.google.com/open?id=0B0w6gDorCVUkRGRWQ0tSdDl4TEc3QlVxNENaQW93dkM1eFY4)

@@ -5,8 +5,6 @@ nazev: Vzdělávání pro cvičitele všestrannosti
 
 Školení cvičitelů III. třídy všestrannosti se bude konat 6.–8. října 2017 v T.J. Sokol Český Brod. Jedná se o druhou část školení.
 
-[První část školení](2017-03-25-skoleni.html)
-
 ---
 
 Doškolovací semináře

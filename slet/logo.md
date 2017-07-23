@@ -5,7 +5,7 @@ nazev: Logo a další grafické materiály
 
 Pro stažení jednoho obrázku klikněte pravým tlačítkem na obrázek a vyberte _Uložit obrázek jako..._.
 
-Také můžete [stáhnout všechny grafické materiály jako archiv ZIP](https://drive.google.com/open?id=0B0w6gDorCVUkNXVQRlFOMHN2aG8.
+Také můžete [stáhnout všechny grafické materiály jako archiv ZIP](https://drive.google.com/open?id=0B0w6gDorCVUkNXVQRlFOMHN2aG8).
 
 
 ---

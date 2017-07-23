@@ -1,6 +1,5 @@
 ---
-layout: page
-nazev: Historie sokolské župy Barákovy
+tags: historie-župy pro-veřejnost-a-média
 ---
 
 Sokolská župa Barákova nese jméno Josefa Baráka (26.1.1833 – 15.11.1883).
@@ -15,7 +14,7 @@ Za svou činnost byl stále pronásledován rakouskou policií. Mnohokrát byl z
 Ve své činnosti však neustál, pokračoval ve svých snahách o obrodu a konečné osvobození českého národa. Stal se miláčkem a vůdcem národa. Sloužil mu oddaně a obětoval mu vše i své zdraví.
 
 Zemřel ve svých 50 letech. Jeho pohřbu se účastnilo přes 200 spolků, všichni zahraniční Slované žijící v Praze, 3000 studentů, na 80 tisíc lidí a samozřejmě i sokolové v čele s Dr. Tyršem a Dr. Podlipným. Je pochován na pražských Olšanech.
- 
+
 ## Listopad 1989 až 1997
 
 (Převzato z knihy Almanach župy z roku 1998, autoři RNDr. Loyda a JUDr. Loydová)
@@ -123,8 +122,8 @@ K 31. 12. 2000 vykazuje župa 8519 členů, z toho 256 mužů, 2808 žen, 286 do
 * Nehvizdy
 * Sedlčánky
 * Vraňany
- 
- 
+
+
 _Poznámka: z tohoto seznamu jednot byly obnoveny v průběhu roku 2003 a 2004 jednoty Horní Počaply a Vodochody-Hoštice, během roku 2006 odstoupila z ČOS jednota Vysoká u Mělníka, dnes tedy čítá župa 45 jednot._
 
 
