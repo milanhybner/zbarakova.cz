@@ -16,7 +16,7 @@ layout: default
         <a id="akce"></a>
         <h4>Akce župy</h4>
         <div class="hline"></div>
-        <iframe class="airtable-embed" src="https://airtable.com/embed/shrB0jgejZMvEXFMJ?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrGRagIVYCGo5wou?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
      </div>
    </div>
    <p></p>
