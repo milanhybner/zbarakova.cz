@@ -12,9 +12,9 @@ Datum: neděle 24. září 2017
 
 ## 1. Mukařov, Říčany, Hostivař
 
-Přípojka v Říčanech: Pyšely, Chocerady, Strančice
+Přípojka v Říčanech: Pyšely, Chocerady
 
-Doprovodný program v: Říčany
+Doprovodný program bude v Říčanech na novém atletickém stadionu od 15:00.
 
 Garant trasy: Jarmila Voráčková
 
