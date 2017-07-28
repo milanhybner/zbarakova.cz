@@ -1,4 +1,5 @@
 ---
+title: Cesta zdraví – cvičební seminář v T.J. Sokol Kralupy nad Vltavou
 tags: akce-jednot tj-sokol-kralupy-nad-vltavou
 ---
 

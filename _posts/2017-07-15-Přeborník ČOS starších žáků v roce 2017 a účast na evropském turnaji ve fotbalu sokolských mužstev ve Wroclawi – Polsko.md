@@ -1,4 +1,5 @@
 ---
+title: Přeborník ČOS starších žáků v roce 2017 a účast na evropském turnaji ve fotbalu sokolských mužstev ve Wroclawi – Polsko
 tags: tj-sokol-dolní-beřkovice akce-jednot zprávy-z-jednot starší-žactvo
 ---
 

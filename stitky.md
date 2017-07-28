@@ -21,4 +21,6 @@ Seznam všech štítků a jimi označených článků.
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
+  <p>&nbsp;</p>
+  <hr />
 {% endfor %}

@@ -1,4 +1,5 @@
 ---
+title: Sportovec roku Kralup nad Vltavou 2016
 tags: tj-sokol-kralupy-nad-vltavou akce-jednot
 ---
 

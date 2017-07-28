@@ -1,4 +1,5 @@
 ---
+title: Sokolský pár v akrobatickém rokenrolu reprezentuje ČR na Světových hrách
 tags: sokol.eu
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Plán činnosti Klubu sokolských seniorů Pražského třížupí a župy Barákovy 2017
 tags: senioři seniorky zprávy-ze-župy akce-župy klub-seniorů
 ---
 

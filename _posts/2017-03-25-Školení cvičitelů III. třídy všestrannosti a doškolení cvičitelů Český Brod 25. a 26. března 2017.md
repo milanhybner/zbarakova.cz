@@ -1,4 +1,5 @@
 ---
+title: Školení cvičitelů III. třídy všestrannosti a doškolení cvičitelů Český Brod 25. a 26. března 2017
 tags: pro-cvičitele vzdělávání-cvičitelů všestrannost
 ---
 

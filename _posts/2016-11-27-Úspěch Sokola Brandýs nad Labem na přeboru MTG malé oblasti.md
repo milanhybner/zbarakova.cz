@@ -1,4 +1,5 @@
 ---
+title: Úspěch Sokola Brandýs nad Labem na přeboru MTG malé oblasti
 tags: tj-sokol-brandýs-nad-labem malý-teamgym soutěže
 ---
 

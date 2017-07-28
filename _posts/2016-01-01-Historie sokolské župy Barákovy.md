@@ -1,4 +1,5 @@
 ---
+title: Historie Sokolské župy Barákovy
 tags: historie-župy pro-veřejnost-a-média
 ---
 

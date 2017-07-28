@@ -1,4 +1,5 @@
 ---
+title: MEV ve stolním tenisu 2017 Helsingborg
 tags: tj-sokol-dolní-beřkovice stolní-tenis muži zprávy-z-jednot akce-jednot
 ---
 
