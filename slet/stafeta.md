@@ -7,6 +7,7 @@ nazev: Sletová Štafeta
 
 Datum: neděle 24. září 2017
 
+Župní garant sletové štafety: Petr Mikysek, mob.: 732 372 406
 
 # Trasy
 
