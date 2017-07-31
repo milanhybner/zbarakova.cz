@@ -16,7 +16,7 @@ nazev: Skladby XVI. všesokolského sletu
                 <tr>
                     <th>Skladba</th>
                     <th>Jednota</th>
-                    <th>Poč. celků/cvičenců</th>
+                    <th>Počet cvičenců</th>
                     <th>Garant</th>
                 </tr>
             </thead>
@@ -109,13 +109,16 @@ var entryList = new List('entry-list', options);
 
 # Předpokládaný počet cvičenců ve skladbách v župě
 
-|       Skladba       |   počet cvičenců  |
-|---------------------|-------------------|
-| Noty                | 9 cvič.           |
-| Méďové              | 24 párů (6 celků) |
-| Děti, to je věc!    | 15 cvič.          |
-| Siluety             | 56 cvič.          |
-| Ženobraní           | 32 cvič.          |
-| Spolu               |                   |
-| Borci               | 9 cvič.           |
-| Princezna Republika | 9 cvič.           |
+|       Skladba       | počet cvičenců |
+|---------------------|----------------|
+| Noty                |             34 |
+| Méďové              |             23 |
+| Děti, to je věc!    |             16 |
+| V peřině            |             10 |
+| Cirkus              |              9 |
+| Siluety             |             24 |
+| Ženobraní           |             45 |
+| Spolu               |             14 |
+| Borci               |              5 |
+| Princezna Republika |             54 |
+| **Celkem**          |            234 |
