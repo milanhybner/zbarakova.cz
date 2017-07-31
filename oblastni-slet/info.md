@@ -7,9 +7,26 @@ nazev: Oblastní slet v Brandýse nad Labem
 
 Plánovaný Oblastní slet bude akcí jednodenní v termínu **27. května 2018**, se zkouškami v dopoledních hodinách a vystoupením v odpoledních hodinách.
 
+* [Přehled cvičících (.xlsx)](https://drive.google.com/open?id=0B0w6gDorCVUkN2stNkFzVnFQTEZUSFJoV0ZrXzFpSUFWYlNN)
+
 # Organizační tým projektu Sokolové republice
 
-[Organizační schéma – tabulka, v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkaHBLOEVrRDBBbUdrS3psb3dfZWFXLU1wU3FF)
+
+* [Organizační schéma – tabulka, v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkaHBLOEVrRDBBbUdrS3psb3dfZWFXLU1wU3FF)
+
+
+<!---
+
+## Články
+
+  <ul>
+  {% for post in site.tags["oblastní-slet-v-brandýse-nad-labem-2018"] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+
+-->
+
 
 Předseda: Jan Firbas
 
@@ -170,4 +187,5 @@ Anna Jurčíčková, v.r., výkonný předseda SV
 
 ---
 
-[Plánek cvičiště v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkNElaYnpEZkNZblU) a [v SVG](https://drive.google.com/open?id=0B0w6gDorCVUka1lhVnVmR0FmNW8).
+
+* [Plánek cvičiště v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkNElaYnpEZkNZblU) a [v SVG](https://drive.google.com/open?id=0B0w6gDorCVUka1lhVnVmR0FmNW8).
