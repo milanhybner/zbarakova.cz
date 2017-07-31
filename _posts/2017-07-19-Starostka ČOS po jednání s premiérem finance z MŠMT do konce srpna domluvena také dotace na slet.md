@@ -1,5 +1,5 @@
 ---
-title: Starostka ČOS po jednání s premiérem: finance z MŠMT do konce srpna, domluvena také dotace na slet
+title: "Starostka ČOS po jednání s premiérem: finance z MŠMT do konce srpna, domluvena také dotace na slet"
 tags: tiskové-zprávy
 ---
 
