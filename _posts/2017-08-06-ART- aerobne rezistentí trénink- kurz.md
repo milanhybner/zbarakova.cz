@@ -1,5 +1,5 @@
 ---
-title: AKCE: ART- aerobne rezistentí trénink- kurz
+title: ART – aerobne rezistentí trénink – kurz
 tags: sokol.cz
 ---
 

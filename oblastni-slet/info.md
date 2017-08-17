@@ -3,11 +3,11 @@ layout: page
 nazev: Oblastní slet v Brandýse nad Labem
 ---
 
+[Bulletin č.1](https://drive.google.com/open?id=0B0w6gDorCVUkTkdVVUY4eUdHY0ZOaWpISGpUS0ZUdUtFQXV3)
+
 Župa Barákova ve spolupráci s župou Jana Podlipného, Pražskou Scheinerovou a Podbělohorskou (Pražským třížupím) Oblastní slet v Brandýse nad Labem.
 
 Plánovaný Oblastní slet bude akcí jednodenní v termínu **27. května 2018**, se zkouškami v dopoledních hodinách a vystoupením v odpoledních hodinách.
-
-* [Přehled cvičících (.xlsx)](https://drive.google.com/open?id=0B0w6gDorCVUkN2stNkFzVnFQTEZUSFJoV0ZrXzFpSUFWYlNN)
 
 # Organizační tým projektu Sokolové republice
 

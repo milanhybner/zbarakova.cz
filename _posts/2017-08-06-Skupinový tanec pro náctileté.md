@@ -1,5 +1,5 @@
 ---
-title: AKCE: Skupinový tanec pro náctileté
+title: Skupinový tanec pro náctileté
 tags: sokol.cz
 ---
 

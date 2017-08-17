@@ -1,5 +1,5 @@
 ---
-title: AKCE: Sokolské sportovní odpoledne v Horních Heřmanicích
+title: Sokolské sportovní odpoledne v Horních Heřmanicích
 tags: sokol.cz
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: AKCE: Fitjazz kurz
+title: Fitjazz kurz
 tags: sokol.cz
 ---
 

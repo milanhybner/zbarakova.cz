@@ -1,5 +1,5 @@
 ---
-title: AKCE: Rodinné sportovní hry a drakiáda v Pardubicích
+title:  Rodinné sportovní hry a drakiáda v Pardubicích
 tags: sokol.cz
 ---
 

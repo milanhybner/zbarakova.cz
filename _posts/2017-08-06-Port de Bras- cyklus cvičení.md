@@ -1,5 +1,5 @@
 ---
-title: AKCE: Port de Bras- cyklus cvičení
+title: Port de Bras – cyklus cvičení
 tags: sokol.cz
 ---
 

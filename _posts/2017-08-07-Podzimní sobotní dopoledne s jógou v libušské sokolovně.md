@@ -1,5 +1,5 @@
 ---
-title: AKCE: Podzimní sobotní dopoledne s jógou v libušské sokolovně
+title: Podzimní sobotní dopoledne s jógou v libušské sokolovně
 tags: sokol.cz
 ---
 

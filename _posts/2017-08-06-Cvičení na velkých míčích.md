@@ -1,5 +1,5 @@
 ---
-title: AKCE: Cvičení na velkých míčích
+title: Cvičení na velkých míčích
 tags: sokol.cz
 ---
 

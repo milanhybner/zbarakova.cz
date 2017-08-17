@@ -1,5 +1,5 @@
 ---
-title: AKCE: Předškoláci v Sokole Pečky
+title: Předškoláci v Sokole Pečky
 tags: sokol.cz
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: AKCE: Cyklus cvičení "Zpevňujeme tělo"
+title: Cyklus cvičení Zpevňujeme tělo
 tags: sokol.cz
 ---
 
