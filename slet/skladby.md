@@ -42,56 +42,23 @@ var entryList = new List('entry-list', options);
 
 </script>
 
-
-
 # Termíny nácvičných srazů 2017
 
-|       Skladba       |    Termín    |        Místo        | Župní vedoucí / zástupce vedoucího |
-|---------------------|--------------|---------------------|------------------------------------|
-| Méďové              | 18. března   | Tyršův dům          | Horáčková Jungmannová / Bartíková  |
-|                     | 7. října     | Praha Karlín        |                                    |
-|                     |              |                     |                                    |
-| Noty                | 19. března   | Tyršův dům          | Škodová / Chalupecká               |
-|                     | 8. října     | Praha Karlín        |                                    |
-|                     |              |                     |                                    |
-| V peřině            | 20. května   | Tyršův dům          | Bartíková                          |
-|                     | 14. října    | Praha Karlín        |                                    |
-|                     |              |                     |                                    |
-| Děti, to je věc     | 8. dubna     | Tyršův dům          | Bělohlávková / Černá               |
-|                     | 21. října    | Tyršův dům          |                                    |
-|                     |              |                     |                                    |
-| Cirkus              | 9. dubna     | Praha               | Diana Minaříková / Jan Blažek      |
-|                     | 7. října     | Tyršův dům          |                                    |
-|                     |              |                     |                                    |
-| Siluety             | 18. února    | Tyršův dům          | Bartíková / Kurajdová              |
-|                     | 4. listopadu | Praha Karlín        |                                    |
-|                     |              |                     |                                    |
-| Ženobraní           | 25. února    | Tyršův dům          | Voráčková / Horčičková             |
-|                     | 21. října    | Praha Karlín        |                                    |
-|                     |              |                     |                                    |
-| Spolu               | 11. března   | Tyršův dům          | Valášková / Bašusová               |
-|                     | 14. října    | Brno                |                                    |
-|                     |              |                     |                                    |
-| Borci               | 22. dubna    | Kostelec nad Orlicí | Hybner / Braný                     |
-|                     | 28. října    | Tyršův dům          |                                    |
-|                     |              |                     |                                    |
-| Princezna republika | 13. května   | Tyršův dům          | Pangrácová                         |
-|                     | 4. listopadu | Tyrsův dům          |                                    |
+Podrobnosti k jednotlivým skladbám naleznete po kliknutí na název skladby, které vás odkáže na oficiální stránku skladby na slet.sokol.eu.
 
+|                                  Skladba                                   |    Termín    |    Místo     | Župní vedoucí / zástupce vedoucího |
+|----------------------------------------------------------------------------|--------------|--------------|------------------------------------|
+| [Méďové](http://slet.sokol.eu/sletove-skladby/#eluid9d3b72c4)              | 7. října     | Praha Karlín | Horáčková Jungmannová / Bartíková  |
+| [Noty](http://slet.sokol.eu/sletove-skladby/#eluidf0df887f)                | 8. října     | Praha Karlín | Škodová / Chalupecká               |
+| [V peřině](http://slet.sokol.eu/sletove-skladby/#eluid240bd23e)            | 14. října    | Praha Karlín | Bartíková                          |
+| [Děti, to je věc](http://slet.sokol.eu/sletove-skladby/#eluidd6b5eaa3)     | 21. října    | Tyršův dům   | Bělohlávková / Černá               |
+| [Cirkus](http://slet.sokol.eu/sletove-skladby/#eluid64610da3)              | 7. října     | Tyršův dům   | Diana Minaříková / Jan Blažek      |
+| [Siluety](http://slet.sokol.eu/sletove-skladby/#eluid8c73983a)             | 4. listopadu | Praha Karlín | Bartíková / Kurajdová              |
+| [Ženobraní](http://slet.sokol.eu/sletove-skladby/#eluid5f74b478)           | 21. října    | Praha Karlín | Voráčková / Horčičková             |
+| [Spolu]({{relative/slet/9-spolu.html}})                                    | 14. října    | Brno         | Valášková / Bašusová               |
+| [Borci](http://slet.sokol.eu/sletove-skladby/#eluid678072dd)               | 28. října    | Tyršův dům   | Hybner / Braný                     |
+| [Princezna republika](http://slet.sokol.eu/sletove-skladby/#eluidc5393d27) | 4. listopadu | Tyrsův dům   | Pangrácová                         |
 
-# Podrobnosti k jednotlivým skladbám
-
-* [Méďové (rodiče a děti)](1-medove.html)
-* [Noty (předškolní děti)](2-noty.html)
-* [V peřině (mladší žákyně)](3-v-perine.html)
-* [Děti, to je věc! (mladší žactvo)](4-deti-to-je-vec.html)
-* [Cirkus (starší žactvo)](5-cirkus.html)
-* [Siluety (dorostenky, ženy)](6-siluety.html)
-* [Cesta (ženy)](7-cesta.html)
-* [Ženobraní (ženy)](8-zenobrani.html)
-* [Spolu (ženy, muži)](9-spolu.html)
-* [Borci (dorostenci, muži)](10-borci.html)
-* [Princezna republika (senioři, seniorky)](11-princezna-republika.html)
 
 # Župní vedoucí skladeb a jejich zástupci
 
