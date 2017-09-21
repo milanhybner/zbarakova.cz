@@ -55,7 +55,7 @@ Podrobnosti k jednotlivým skladbám naleznete po kliknutí na název skladby, k
 | [Cirkus](http://slet.sokol.eu/sletove-skladby/#eluid64610da3)              | 7. října     | Tyršův dům   | Diana Minaříková / Jan Blažek      |
 | [Siluety](http://slet.sokol.eu/sletove-skladby/#eluid8c73983a)             | 4. listopadu | Praha Karlín | Bartíková / Kurajdová              |
 | [Ženobraní](http://slet.sokol.eu/sletove-skladby/#eluid5f74b478)           | 21. října    | Praha Karlín | Voráčková / Horčičková             |
-| [Spolu]({{relative/slet/9-spolu.html}})                                    | 14. října    | Brno         | Valášková / Bašusová               |
+| [Spolu](http://slet.sokol.eu/sletove-skladby/#eluid2ceac2a6)                                    | 14. října    | Brno         | Valášková / Bašusová               |
 | [Borci](http://slet.sokol.eu/sletove-skladby/#eluid678072dd)               | 28. října    | Tyršův dům   | Hybner / Braný                     |
 | [Princezna republika](http://slet.sokol.eu/sletove-skladby/#eluidc5393d27) | 4. listopadu | Tyrsův dům   | Pangrácová                         |
 
