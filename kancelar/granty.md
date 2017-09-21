@@ -2,15 +2,16 @@
 layout: page
 nazev: Granty, dotace, příspěvky a směrnice župy
 ---
+
+* Přispěvek na nákup sletového nářadí a náčiní pro hromadné skladby XVI. všesokolského sletu – [žádost](https://drive.google.com/open?id=0B0w6gDorCVUkaDZQeXBjY3E5akhMNmEwMUdjR1JmNTJxYXhF), [zadání](https://drive.google.com/open?id=0B0w6gDorCVUkN2N2MEVoZEVJZVZna3pnZHZWLVYyUnRqUWNN), [manuál](https://drive.google.com/open?id=0B0w6gDorCVUkUXppX2xqdUNERmxpSnFqNXBzRHRjQmhjX2NZ)
+
+## Archiv
+
 <ul>
 {% for post in site.tags['granty-a-dotace'] %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-* Přispěvek na nákup sletového nářadí a náčiní pro hromadné skladby XVI. všesokolského sletu – [žádost](https://drive.google.com/open?id=0B0w6gDorCVUkaDZQeXBjY3E5akhMNmEwMUdjR1JmNTJxYXhF), [zadání](https://drive.google.com/open?id=0B0w6gDorCVUkN2N2MEVoZEVJZVZna3pnZHZWLVYyUnRqUWNN), [manuál](https://drive.google.com/open?id=0B0w6gDorCVUkUXppX2xqdUNERmxpSnFqNXBzRHRjQmhjX2NZ)
-
-## Archiv
 
 * [Zadání grantů OV ČOS pro rok 2017](https://drive.google.com/open?id=0B0w6gDorCVUkaXdWQm50clNjOWtfZURtQlhnMzFaZlJLemRr)
 
