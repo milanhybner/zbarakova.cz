@@ -59,6 +59,8 @@ Podrobnosti k jednotlivým skladbám naleznete po kliknutí na název skladby, k
 | [Borci](http://slet.sokol.eu/sletove-skladby/#eluid678072dd)               | 28. října    | Tyršův dům   | Hybner / Braný                     |
 | [Princezna republika](http://slet.sokol.eu/sletove-skladby/#eluidc5393d27) | 4. listopadu | Tyrsův dům   | Pangrácová                         |
 
+* [Siluety – facebooková stránka skladby][https://www.facebook.com/siluety2018/]
+
 
 # Župní vedoucí skladeb a jejich zástupci
 
