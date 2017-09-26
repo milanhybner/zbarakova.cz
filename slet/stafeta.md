@@ -3,6 +3,15 @@ layout: page
 nazev: Sletová Štafeta
 ---
 
+
+
+* [Fotogalerie](https://photos.app.goo.gl/BNUJHjcoxVBicWbK2) (můžete tam přidat svoje i svoje fotografie nebo videa)
+
+
+---
+
+## Archiv
+
 <iframe src="http://stafeta.kajinek.net/" width="100%" height="400"></iframe>
 
 Datum: neděle 24. září 2017

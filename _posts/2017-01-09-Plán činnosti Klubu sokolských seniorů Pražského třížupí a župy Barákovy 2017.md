@@ -16,7 +16,7 @@ tags: senioři seniorky zprávy-ze-župy akce-župy klub-seniorů
 
 22\. února – středa –  pro velký úspěch opakujeme a doplňujeme besedu s Honzou Firbasem: „Moje návštěva New Yorku“ s promítáním
 
-27. února – pondělí – beseda s Maruškou Brunerovou – volné pokračování – „Po stopách Karla IV.“ s promítáním
+27\. února – pondělí – beseda s Maruškou Brunerovou – volné pokračování – „Po stopách Karla IV.“ s promítáním
 
 ## 2/ se Sokolem na hory:
 
