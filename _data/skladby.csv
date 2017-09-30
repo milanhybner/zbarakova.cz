@@ -1,30 +1,32 @@
-skladba,jednota,celku,garant
-Borci,Český Brod,1,Firbas
-Borci,Šestajovice + Pyšely,4,Hybner
-Cirkus,Český Brod,9,Minaříková
-Děti to je věc,Říčany a Radošovice,16,Bělohlávková
-Méďové,Chocerady,,
-Méďové,Pyšely,6,Bartíková
-Méďové,Strančice,9,
-Méďové,Říčany a Radošovice,8,Horáčková Jungmannová
-Noty,Přívory,8,
-Noty,Strančice,9,
-Noty,Český Brod,8,Bašusová
-Noty,Říčany a Radošovice,9,Škodová
-Princezna republika,"Cítov, Mělník v Cítově",18,"Vrbová, Brožková"
-Princezna republika,Lysá nad Labem,,Piskáčková
-Princezna Republika,Přívory,9,Krymlová
-Princezna republika,Český Brod,9,Raková
-Princezna republika,Říčany a Radošovice,9,"Pangrácová, Scharffová"
-Siluety,Kralupy,8,Hájková
-Siluety,Pyšely,8,Bartíková
-Siluety,Říčany a Radošovice,8,Kurajdová
-Siluety,Šestajovice,,Otáhalová
-Spolu,Mochov,8,Valášková
-Spolu,Český Brod,5 žen + 1 muž,Bašusová
-V Peřině,Kralupy,8,Pokorná
-V Peřině,Pyšely,2,Bartíková
-Ženobraní,Chocerady,13,Černá
-Ženobraní,Lysá nad Labem,8,Horčičková
-Ženobraní,Mochov,8,
-Ženobraní,Říčany a Radošovice,16,Voráčková
+url,skladba,jednota,celku,email,garant
+eluid678072dd,Borci,Český Brod,1,jan.firbas@seznam.cz,Firbas
+eluid678072dd,Borci,Šestajovice,3,nacelnik@zbarakova.cz,<b>Hybner</b>
+eluid678072dd,Borci,Pyšely,4,,?
+eluid64610da3,Cirkus,Český Brod,9,dianaminarikova@hotmail.com,<b>Minaříková</b>
+eluidd6b5eaa3,Děti to je věc,Říčany a Radošovice,16,katerina.belohlavkova@mvcr.cz,<b>Bělohlávková</b>
+eluid9d3b72c4,Méďové,Chocerady,,,
+eluid9d3b72c4,Méďové,Pyšely,16,terasladkova@seznam.cz,Bartíková
+eluid9d3b72c4,Méďové,Strančice,9,,
+eluid9d3b72c4,Méďové,Říčany a Radošovice,8,eva.jung@volny.cz,<b>Horáčková Jungmannová</b>
+eluidf0df887f,Noty,Přívory,8,,
+eluidf0df887f,Noty,Strančice,9,,
+eluidf0df887f,Noty,Český Brod,8,ivabasu@seznam.cz,Bašusová
+eluidf0df887f,Noty,Říčany a Radošovice,9,pina.skodova@seznam.cz,<b>Škodová</b>
+eluidc5393d27,Princezna republika,"Cítov, Mělník v Cítově",18,,?
+eluidc5393d27,Princezna republika,Lysá nad Labem,,,Piskáčková
+eluidc5393d27,Princezna Republika,Přívory,9,,Krymlová
+eluidc5393d27,Princezna republika,Český Brod,9,lida.rakova@seznam.cz,Raková
+eluidc5393d27,Princezna republika,Říčany a Radošovice,9,mila.pangrac@seznam.cz,<b>Pangrácová</b>
+eluid8c73983a,Siluety,Kralupy,8,,Hájková
+eluid8c73983a,Siluety,Pyšely,32,terasladkova@seznam.cz,<b>Bartíková</b>
+eluid8c73983a,Siluety,Říčany a Radošovice,16,ivana.kurajdova@centrum.cz,Kurajdová
+eluid2ceac2a6,Spolu,Mochov,7,MilenaValaskova@seznam.cz,<b>Valášková</b>
+eluid2ceac2a6,Spolu,Český Brod,5 žen + 1 muž,ivabasu@seznam.cz,Bašusová
+eluid240bd23e,V Peřině,Kralupy,8,pokornypm@seznam.cz,Pokorná
+eluid240bd23e,V Peřině,Pyšely,23,terasladkova@seznam.cz,<b>Bartíková</b>
+eluid5f74b478,Ženobraní,Chocerady,13,ivanacer@volny.cz,Černá
+eluid5f74b478,Ženobraní,Lysá nad Labem,9,martinahorcickova43@gmail.com,Horčičková
+eluid5f74b478,Ženobraní,Mochov,7,,
+eluid5f74b478,Ženobraní,Pyšely,16,,
+eluid5f74b478,Ženobraní,Říčany a Radošovice,16,jaruska.vor@post.cz,<b>Voráčková</b>
+eluid5f74b478,Ženobraní,Šestajovice,,sokol.sestajovice@gmail.com,Otáhalová
