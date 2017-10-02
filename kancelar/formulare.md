@@ -1,6 +1,6 @@
 ---
 layout: page
-nazev: Statistické formuláře župy
+nazev: Formuláře
 ---
 
 ## Archiv
