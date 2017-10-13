@@ -30,7 +30,7 @@ nazev: Skladby XVI. všesokolského sletu
                 <tr>
                     <td class="skladba"><a href="http://slet.sokol.eu/sletove-skladby/#{{polozka.url}}">{{polozka.skladba}}</a></td>
                     <td class="jednota">{{polozka.jednota}}</td>
-                    <td class="celku">{{polozka.celku}}</td>
+                    <!--<td class="celku">{{polozka.celku}}</td>-->
                     <td class="garant"><a href="mailto:{{polozka.email}}">{{polozka.garant}}</a></td>
                 </tr>
                 {% endfor %}
