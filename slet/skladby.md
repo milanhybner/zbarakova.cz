@@ -3,15 +3,21 @@ layout: page
 nazev: Skladby XVI. všesokolského sletu
 ---
 
-* [Přehled skladeb a ústředních srazů v .xls](https://drive.google.com/open?id=0B0w6gDorCVUkTmtwcWZTS3RCbU1GQzRTaURLUjBZQWFSd1lB)
 
 # Nácvik skladeb v jednotách
 
+Po kliknutí na trojúhelníček (▶) před názvem skladby uvidíte počty cvičenců v jednotách. [Zde je odkaz na podobný přehled toho, co se cvičí ve které jednotě.](https://airtable.com/shrCm6CconLsEFF3K)
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrYwhXUj70Lzipzm?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
+
+## Župní garanti sletových skladeb
 
 * Po kliknutí na název skladby se zobrazí podrobnosti k jednotlivým skladbám na oficiální stránce skladby na slet.sokol.eu.
 * Po kliknutí na garanta skladby se nabídne otevření e-mailového programu s předvyplněnou e-mailovou adresou garanta.
 * Garanti uvedení tučně jsou župní vedoucí dané skladby
+* Skladby [Siluety](https://www.facebook.com/siluety2018/) a [Vivat Vivaldi](https://www.facebook.com/vivatvivaldi/) jsou také na facebooku
 
 <div id="entry-list" class="container mt">
     <div class="row" style="margin-bottom:10px;">
@@ -47,14 +53,12 @@ var entryList = new List('entry-list', options);
 
 </script>
 
+
 # Termíny nácvičných srazů 2017
 
 
 |       Skladba       |    Termín    |    Místo     | Župní vedoucí / zástupce vedoucího |
 |---------------------|--------------|--------------|------------------------------------|
-| Méďové              | 7. října     | Praha Karlín | Horáčková Jungmannová / Bartíková  |
-| Noty                | 8. října     | Praha Karlín | Škodová / Chalupecká               |
-| V peřině            | 14. října    | Praha Karlín | Bartíková                          |
 | Děti, to je věc     | 21. října    | Tyršův dům   | Bělohlávková / Černá               |
 | Cirkus              | 7. října     | Tyršův dům   | Diana Minaříková / Jan Blažek      |
 | Siluety             | 4. listopadu | Praha Karlín | Bartíková / Kurajdová              |
@@ -63,7 +67,14 @@ var entryList = new List('entry-list', options);
 | Borci               | 28. října    | Tyršův dům   | Hybner / Braný                     |
 | Princezna republika | 4. listopadu | Tyrsův dům   | Pangrácová                         |
 
-* [Siluety – facebooková stránka skladby](https://www.facebook.com/siluety2018/)
+<!--
+| Méďové              | 7. října     | Praha Karlín | Horáčková Jungmannová / Bartíková  |
+| Noty                | 8. října     | Praha Karlín | Škodová / Chalupecká               |
+| V peřině            | 14. října    | Praha Karlín | Bartíková                          |
+-->
+
+* [Přehled skladeb a ústředních srazů v .xls](https://drive.google.com/open?id=0B0w6gDorCVUkTmtwcWZTS3RCbU1GQzRTaURLUjBZQWFSd1lB)
+
 
 # Župní vedoucí skladeb a jejich zástupci
 
