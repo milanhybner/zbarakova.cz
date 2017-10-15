@@ -12,7 +12,7 @@ Po kliknutí na trojúhelníček (▶) před názvem skladby uvidíte počty cvi
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
-## Župní garanti sletových skladeb
+# Župní garanti sletových skladeb
 
 * Po kliknutí na název skladby se zobrazí podrobnosti k jednotlivým skladbám na oficiální stránce skladby na slet.sokol.eu.
 * Po kliknutí na garanta skladby se nabídne otevření e-mailového programu s předvyplněnou e-mailovou adresou garanta.
@@ -91,3 +91,30 @@ var entryList = new List('entry-list', options);
 | Siluety             | Tereza Bartíková          | Pyšely              | Ivana Kurajdová    | Říčany a Radošovice |
 | Borci               | Milan Hybner              | Šestajovice         |                    |                     |
 
+# Informace ke skladbám
+
+<a id="borci"></a>
+
+## Borci – úbory
+
+**Polokošile**
+
+|     | obvod hrudi | obvod pasu | délka trika |
+|-----|-------------|------------|-------------|
+| S   |         100 |         92 |          70 |
+| M   |         105 |         95 |          73 |
+| L   |         110 |        100 |          76 |
+| XL  |         116 |        107 |          79 |
+| XXL |         120 |        110 |          81 |
+| 3XL |         124 |        115 |          83 |
+
+**Kraťasy**
+
+|     | délka šortek |
+|-----|--------------|
+| S   |           53 |
+| M   |           53 |
+| L   |           54 |
+| XL  |           54 |
+| XXL |           55 |
+| 3XL |           58 |
