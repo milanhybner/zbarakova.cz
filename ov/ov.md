@@ -16,6 +16,8 @@ nazev: Odbor všestrannosti župy Barákovy
 
 Informace o soutěžích pro rok 2018 naleznete na [http://sokol.eu/obsah/5361/souteze-odbor-vsestrannosti](http://sokol.eu/obsah/5361/souteze-odbor-vsestrannosti).
 
+Nenajdete tam [přihlášku na malý TeamGym – malá oblast: Kolín 25. 11. 2017](https://drive.google.com/open?id=0B0w6gDorCVUkUXdyZGdMYUdQUDExa0NtNHFXVUEtLUk2MWZR).
+
 ## Zálesácký závod zdatnosti
 
 Informace pro rok 2018 (které nejsou na [oficiálních stránkách přeboru](http://sokol.eu/obsah/5452/zalesacky-zavod-zdatnosti)):
