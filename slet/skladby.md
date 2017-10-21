@@ -27,7 +27,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
                 <tr>
                     <th>Skladba</th>
                     <th>Jednota</th>
-                    <th>Počet cvičenců</th>
+                    <!--<th>Počet cvičenců</th>-->
                     <th>Garant</th>
                 </tr>
             </thead>
