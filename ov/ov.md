@@ -4,13 +4,21 @@ nazev: Odbor všestrannosti župy Barákovy
 ---
 
 
-# Slet
+# Hromadná vystoupení
+
+## Slet
 
 * Pódiová vystoupení v rámci všesokolského sletu – [Výzva pro župy](https://drive.google.com/open?id=0B0w6gDorCVUkMVdpd2xuZG9pMjl4SGJYTlpyc1RteXZRa1k4), [bližší informace](https://drive.google.com/open?id=0B0w6gDorCVUkYUY1VkN2LUhmYjNzOG9JWW9vdHRQUmN6MTNv)
 * [Hromadné skladby na všesokolském sletě]({{relative}}/slet/skladby.html)
 * [Oblastní slet v Brandýse nad Labem]({{relative}}/oblastni-slet/info.html)
 * [Skladba Vivat Vivaldi]({{relative}}/oblastni-slet/vivaldi.html)
 * [Oficiální stránky XVI. všesokolského sletu](http://slet.sokol.eu/)
+
+## Gymnaestráda
+
+* [Pozvánka k účasti](https://drive.google.com/open?id=0B0w6gDorCVUkR3BrUXZXaXZva1FCVjV2R0hGXzhQY2NraUtv)
+* [Zjištění zájmu – formulář](https://drive.google.com/open?id=0B0w6gDorCVUkeGVPZDZ2b3dyLUZfWGZYY1ZiWVA2eTlBVldj)
+* [Konkurz na komponovaný blok](https://drive.google.com/open?id=0B0w6gDorCVUkNFplbVNDaDJuSzdjX2NxV0RzZGVFWTlwTUV3)
 
 # Soutěže a přebory
 
