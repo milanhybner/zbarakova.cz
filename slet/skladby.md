@@ -91,6 +91,8 @@ var entryList = new List('entry-list', options);
 | Siluety             | Tereza Bartíková          | Pyšely              | Ivana Kurajdová    | Říčany a Radošovice |
 | Borci               | Milan Hybner              | Šestajovice         |                    |                     |
 
+<!--
+
 # Informace ke skladbám
 
 <a id="borci"></a>
@@ -118,3 +120,5 @@ var entryList = new List('entry-list', options);
 | XL  |           54 |
 | XXL |           55 |
 | 3XL |           58 |
+
+-->
