@@ -6,9 +6,20 @@ nazev: Skladby XVI. všesokolského sletu
 
 # Nácvik skladeb v jednotách
 
-Po kliknutí na trojúhelníček (▶) před názvem skladby uvidíte počty cvičenců v jednotách. [Zde je odkaz na podobný přehled toho, co se cvičí ve které jednotě.](https://airtable.com/shrCm6CconLsEFF3K)
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrYwhXUj70Lzipzm?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+|                     | Méďové | Noty | Děti, to je věc! | V peřině | Cirkus | Siluety | Ženobraní | Borci | Princezna Republika | Spolu | Vivat Vivaldi |
+|---------------------|--------|------|------------------|----------|--------|---------|-----------|-------|---------------------|-------|---------------|
+| Český Brod          |      0 |    8 |                0 |        0 |     19 |       0 |         0 |     1 |                   9 |     5 |             0 |
+| Chocerady           |      0 |    0 |                0 |        0 |      0 |       0 |        16 |     0 |                   0 |     0 |             0 |
+| Kralupy nad Vltavou |      0 |    0 |                0 |       20 |      0 |      16 |         0 |     0 |                   0 |     0 |             0 |
+| Lysá nad Labem      |      8 |    0 |                0 |        0 |      0 |       0 |         9 |     0 |                   0 |     0 |             0 |
+| Mochov              |      0 |    0 |                0 |        0 |      0 |       0 |         7 |     0 |                   0 |    13 |             7 |
+| Nehvizdy            |      0 |   25 |                0 |        0 |      0 |       0 |        11 |     0 |                   0 |     0 |             0 |
+| Přívory             |      0 |    0 |                0 |        0 |      0 |       0 |         0 |     0 |                   9 |     0 |             0 |
+| Pyšely              |     18 |    0 |                0 |       24 |      0 |      32 |        16 |     4 |                   0 |     0 |             0 |
+| Říčany a Radošovice |     16 |    9 |               16 |        0 |      0 |      16 |        16 |     2 |                   9 |     0 |             0 |
+| Šestajovice         |      0 |    0 |                0 |        0 |      0 |      13 |         0 |     4 |                   0 |     0 |             0 |
+| Strančice           |      8 |    0 |                0 |        0 |      0 |       0 |         0 |     0 |                   0 |     0 |             0 |
+| ASPV TJ Káraný      |     22 |    0 |                0 |        0 |      0 |       0 |         0 |     0 |                   0 |     0 |             0 |
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
