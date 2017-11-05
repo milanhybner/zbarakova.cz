@@ -83,17 +83,10 @@ layout: default
              <p></p>
              Proběhlo
              <ul>
-              <li><a href="{{relative}}/2017/10/07/kralupska-cvicebni-sobota.html">Kralupská cvičební sobota</a></li>
-              <li><a href="{{relative}}/2017/09/24/sletova-stafeta.html">Sletová štafeta</a></li>
-              <li><a href="{{relative}}/2017/09/30/seminar-helena-peerova.html">Seminář s Helenou Peerovou</a></li>
-              <li><a href="{{relative}}/2017/07/07/Slet-v-Gajárech.html">Gajáry</a></li>
-              <li><a href="clanky.html">Všechny články podle data</a></li>
+              {% for post in site.posts limit: 8 %}
+              <li><a href="{{ relative }}{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
              </ul>
-             Tiskové zprávy
-             <ul>
-               <li><a href="{{relative}}/2017/07/19/Starostka-%C4%8COS-po-jedn%C3%A1n%C3%AD-s-premi%C3%A9rem-finance-z-M%C5%A0MT-do-konce-srpna-domluvena-tak%C3%A9-dotace-na-slet.html">Starostka ČOS po jednání s premiérem: finance z MŠMT do konce srpna, domluvena také dotace na slet</a></li>
-               <li><a href="{{relative}}/2017/06/21/Jedn%C3%A1n%C3%AD-starostky-%C4%8COS-vedla-k-poskytnut%C3%AD-mimo%C5%99%C3%A1dn%C3%A9-dotace,-jedn%C3%A1n%C3%AD-pokra%C4%8Duj%C3%AD.html">Jednání starostky ČOS vedla k poskytnutí mimořádné dotace, jednání pokračují</a></li>
-               </ul>
              <div class="spacing"></div>
       </div>
   </div>
