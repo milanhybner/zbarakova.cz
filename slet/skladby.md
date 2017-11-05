@@ -3,7 +3,6 @@ layout: page
 nazev: Skladby XVI. všesokolského sletu
 ---
 
-
 # Nácvik skladeb v jednotách
 
 |                     | Méďové | Noty | V peřině | Děti, to je věc! | Cirkus | Siluety | Ženobraní | Spolu | Borci | Princezna Republika |         |
@@ -12,15 +11,15 @@ nazev: Skladby XVI. všesokolského sletu
 | Chocerady           |        |      |          |                  |        |         | 16        |       |       |                     | *16*    |
 | Kralupy nad Vltavou |        |      | 16       |                  |        | 16      |           |       |       |                     | *32*    |
 | Lysá nad Labem      | 8      |      |          |                  |        |         | 9         |       |       |                     | *17*    |
-| Mochov              |        |      |          |                  |        |         | 7         | 7     |       |                     | *14*    |
-| Nehvizdy            |        | 24   |          |                  |        |         | 11        |       |       |                     | *35*    |
-| Přívory             |        |      |          |                  |        |         |           |       |       | 9                   | *9*     |
+| Mochov              |        |      |          |                  |        |         | 7         | 8     |       |                     | *15*    |
+| Nehvizdy            |        | 9    |          |                  |        |         | 11        |       |       |                     | *2*     |
+| Přívory             |        | 9    |          |                  |        |         |           |       |       | 18                  | *27*    |
 | Pyšely              | 12     |      | 24       |                  |        | 32      | 16        |       | 4     |                     | *88*    |
 | Říčany a Radošovice | 8      | 9    |          | 16               |        | 16      | 16        |       | 2     | 9                   | *76*    |
 | Šestajovice         |        | 5    |          |                  |        | 13      |           |       | 4     |                     | *22*    |
 | Strančice           | 8      |      |          |                  |        |         |           |       |       |                     | *8*     |
 | ASPV TJ Káraný      | 18     |      |          |                  |        |         |           |       |       |                     | *18*    |
-| Celkem              | *54*   | *46* | *40*     | *16*             | *9*    | *77*    | *75*      | *12*  | *11*  | *27*                | **367** |
+| Celkem              | *54*   | *4*  | *4*      | *16*             | *9*    | *77*    | *75*      | *13*  | *11*  | *36*                | **371** |
 
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
