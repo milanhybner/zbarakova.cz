@@ -22,5 +22,10 @@ Seznam všech štítků a jimi označených článků.
   {% endfor %}
   </ul>
   <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
   <hr />
 {% endfor %}
