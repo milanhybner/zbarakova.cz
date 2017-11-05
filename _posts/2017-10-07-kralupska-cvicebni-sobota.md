@@ -1,6 +1,6 @@
----
-title: Kralupská cvičební sobota
-tags:
+﻿---
+nazev: Kralupská cvičební sobota
+tags: jednota→verejnost jednota→jednota jednota→zupa
 ---
 
 V sobotu 7.10. 2017 se v naší sokolovně konal tradiční podzimní
