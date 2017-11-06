@@ -80,11 +80,26 @@ layout: default
               <li><a href="slet/tyden.html">Program sletového týdne</a>, <a href="slet/logo.html">Logo a grafické materiály</a></li>
               <li><a href="oblastni-slet/vivaldi.html">Vivat Vivaldi</a></li>
              </ul>
-             <p></p>
-             Proběhlo
+             <p>Chystáme</p>
+             
              <ul>
-              {% for post in site.posts limit: 8 %}
+            {% assign curDate = site.time | date: '%s' %}
+            {% for post in site.posts reversed limit: 5 %}
+            {% assign postStartDate = post.date | date: '%s' %}
+            {% if postStartDate >= curDate %}
               <li><a href="{{ relative }}{{ post.url }}">{{ post.nazev }}</a></li>
+            {% endif %}
+            {% endfor %}
+              </ul>
+             <p>Proběhlo</p>
+              <ul>
+            {% assign curDate = site.time | date: '%s' %}
+            {% for post in site.posts limit: 5 %}
+            {% assign postStartDate = post.date | date: '%s' %}
+            {% if postStartDate < curDate %}
+              {% for post in site.posts limit: 5 %}
+              <li><a href="{{ relative }}{{ post.url }}">{{ post.nazev }}</a></li>
+            {% endif %}
               {% endfor %}
              </ul>
              <div class="spacing"></div>
