@@ -15,11 +15,11 @@ nazev: Skladby XVI. všesokolského sletu
 | Nehvizdy            |        | 9    |          |                  |        |         | 11        |       |       |                     | *2*     |
 | Přívory             |        | 9    |          |                  |        |         |           |       |       | 18                  | *27*    |
 | Pyšely              | 12     |      | 24       |                  |        | 32      | 16        |       | 4     |                     | *88*    |
-| Říčany a Radošovice | 8      | 9    |          | 16               |        | 16      | 16        |       | 2     | 9                   | *76*    |
+| Říčany a Radošovice | 8      | 9    |          | 16               |        | 16      | 16        |       | 2     | 18                  | *85*    |
 | Šestajovice         |        | 5    |          |                  |        | 13      |           |       | 4     |                     | *22*    |
 | Strančice           | 8      |      |          |                  |        |         |           |       |       |                     | *8*     |
 | ASPV TJ Káraný      | 18     |      |          |                  |        |         |           |       |       |                     | *18*    |
-| Celkem              | *54*   | *4*  | *4*      | *16*             | *9*    | *77*    | *75*      | *13*  | *11*  | *36*                | **371** |
+| Celkem              | *54*   | *4*  | *4*      | *16*             | *9*    | *77*    | *75*      | *13*  | *11*  | *45*                | **380** |
 
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
