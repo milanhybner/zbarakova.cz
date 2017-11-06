@@ -15,7 +15,7 @@ O zajisté největší překvapení celého závodu se postaral Pavel Vinduška 
 
 Nebýt jednoho vymknutého kotníku, tím nedokončeného závodu, bylo by možné prohlásit, že ač pod mrakem, na závodech nebylo možné nalézt mráčky. Bylo nám spolu v tom nedělím dopoledni dobře a to je na sportu nejdůležitější.
 
-Více na <www.sokolsestajovice.cz>
+Více na <http://www.sokolsestajovice.cz>
 
 ![Šestka](https://lh3.googleusercontent.com/PLPhwZM1ALW7XPilguTU8ZnmVtU8vBV7wG6gBu8SGupRut4dM9g0SQv-f_ixO0SUSz1dVrh9SHPTJcoz-Hnl_TDeYvjcEJmrg9khV40pcO61Sa3j2LFsdnsnEyIzEE5E6XbkYLzRGQ)
 
