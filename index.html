@@ -97,7 +97,6 @@ layout: default
             {% for post in site.posts limit: 5 %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate < curDate %}
-              {% for post in site.posts limit: 5 %}
               <li><a href="{{ relative }}{{ post.url }}">{{ post.nazev }}</a></li>
             {% endif %}
               {% endfor %}
