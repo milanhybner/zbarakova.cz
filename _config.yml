@@ -25,6 +25,3 @@ timezone: Europe/Prague
 
 # Build settings
 markdown: kramdown
-
-gems:
-  - jekyll-feed
