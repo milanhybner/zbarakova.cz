@@ -3,11 +3,22 @@ layout: page
 nazev: Oblastní slet v Brandýse nad Labem
 ---
 
-[Bulletin č.1](https://drive.google.com/open?id=0B0w6gDorCVUkTkdVVUY4eUdHY0ZOaWpISGpUS0ZUdUtFQXV3)
-
 Župa Barákova ve spolupráci s župou Jana Podlipného, Pražskou Scheinerovou a Podbělohorskou (Pražským třížupím) Oblastní slet v Brandýse nad Labem.
 
 Plánovaný Oblastní slet bude akcí jednodenní v termínu **27. května 2018**, se zkouškami v dopoledních hodinách a vystoupením v odpoledních hodinách.
+
+---
+
+* [Bulletin č.1](https://drive.google.com/open?id=0B0w6gDorCVUkTkdVVUY4eUdHY0ZOaWpISGpUS0ZUdUtFQXV3)
+
+* [Plánek cvičiště v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkNElaYnpEZkNZblU) a [v SVG](https://drive.google.com/open?id=0B0w6gDorCVUka1lhVnVmR0FmNW8).
+
+* [Značky – rastr](https://drive.google.com/open?id=0B0w6gDorCVUkZDVucUJIdzhSVHBCZWFmY19uOWNRck9fOFRn)
+
+
+---
+
+
 
 # Organizační tým projektu Sokolové republice
 
@@ -15,28 +26,18 @@ Plánovaný Oblastní slet bude akcí jednodenní v termínu **27. května 2018*
 * [Organizační schéma – tabulka, v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkaHBLOEVrRDBBbUdrS3psb3dfZWFXLU1wU3FF)
 
 
-<!---
-
-## Články
-
-  <ul>
-  {% for post in site.tags["oblastní-slet-v-brandýse-nad-labem-2018"] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
-
--->
-
-
 Předseda: Jan Firbas
 
 Výkoný předseda: Anna Jurčíčková
+
+Tajemnice: Lenka Brandová
 
 Konzultanti:
 
  - Bořivoj Sopr
  - Luboš Novotný
- - Katka Wágnerová
+ - Marcela Janouchová
+ - Květa Volková
  - Eliška Karešová
 
 Tajemnice: Lenka Brandová
@@ -187,7 +188,37 @@ Anna Jurčíčková, v.r., výkonný předseda SV
 
 ---
 
+# Termínová listina oblastních sletů
 
-* [Plánek cvičiště v PDF](https://drive.google.com/open?id=0B0w6gDorCVUkNElaYnpEZkNZblU) a [v SVG](https://drive.google.com/open?id=0B0w6gDorCVUka1lhVnVmR0FmNW8).
 
-* [Značky – rastr](https://drive.google.com/open?id=0B0w6gDorCVUkZDVucUJIdzhSVHBCZWFmY19uOWNRck9fOFRn)
+|    Datum     |         Místo         |     Název     |         Pořadatel - župa        |                                         Kontaktní osoba                                          |
+|--------------|-----------------------|---------------|---------------------------------|--------------------------------------------------------------------------------------------------|
+| 12.5.2018    | Benátky nad Jizerou   | župní slet    | Fügnerova                       | [Olga Vašková](mailto:olga.vaskova@email.cz)                                                     |
+| 19.5.2018    | Dvůr Králové / Labem  | župní slet    | Podkrkonošská-Jiráskova         | [Ludmila Vlčková](mailto:dondule@seznam.cz)                                                      |
+| 20.5.2018    | Spálené Poříčí        | místní slet   | Plzeňská                        | [Lada Šmídlová](mailto:zplzenska@sokol.eu)                                                       |
+| 20.5.2018    | Jedovnice             | župní slet    | Krále Jiřího                    | [Kateřina Klimešová](mailto:sokoljedovnice@centrum.cz)                                           |
+| 20.5.2018    | Sletiště              | župní slet    | Budečská                        | [Jana Kučerová](mailto:zupa.budecska@volny.cz)                                                   |
+| 26.5.2018    | Blovice               | župní slet    | Plzeňská                        | [Lada Šmídlová](mailto:zplzenska@sokol.eu)                                                       |
+| 26.5.2018    | Jičín                 | župní slet    | Jičínská-Bergrova               | [Lada Vávrová](mailto:vavrova.lada@seznam.cz)                                                    |
+| 26.5.2018    | Moravičany            | místní slet   | Severomoravská                  | [Ivana Fučíková](mailto:fucikova.ivana@seznam.cz)                                                |
+| 27.5.2018    | Brandýs nad Labem     | oblastní slet | Barákova + Třížupí              | [Lenka Brandová](mailto:zbarakova@zbarakova.cz)                                                  |
+| 27.5.2018    | Tišnov                | župní slet    | Pernštejnská                    | [Jan Sláma](mailto:j.slama.sokol@seznam.cz)                                                      |
+| 27.5.2018    | Veselí nad Moravou    | župní slet    | Slovácká                        | [Radmila Dvořáčková](mailto:radmill@centrum.cz)                                                  |
+| 2.6.2018     | Děčín                 | oblastní slet | Severočeská                     | [Dagmar Toncarová](mailto:d.toncarova@rehkat.cz)                                                 |
+| 2.6.2018     | Olomouc               | župní slet    | Olomoucká                       | [Antonín Skácel](mailto:skacel.antonin@seznam.cz)                                                |
+| 3.6.2018     | Hradec Králové        | krajský slet  | Orlická                         | [Eva Dítětová](mailto:info@zupaorlicka.cz)                                                       |
+| 3.6.2018     | Vyškov                | župní slet    | Dr. Bukovského                  | [Zdeňek Doležal](mailto:sokol31ta@tiscali.cz)                                                    |
+| 9.6.2018     | Komárov               | župní slet    | Jungmannova                     | [Olga Kleknerová](mailto:olga.kleknerova@seznam.cz)                                              |
+| 9.6.2018     | Prostějov             | župní slet    | Prostějovská                    | [Lenka Michlová](mailto:sokol.zupapv@volny.cz)                                                   |
+| 9.6.2018     | České Budějovice      | krajský slet  | Jihočeská                       | [Ingrid Váchová](mailto:zjihoceska@seznam.cz)                                                    |
+| 9.-10.6.2018 | Pardubice             | župní slet    | Východočeská-Pippichova         | [Lenka Pařízková](mailto:kancelar@zupa-pippichova.eu)                                            |
+| 9.-10.6.2018 | Turnov                | krajský slet  | Ještědská, Jizerská, Krkonošská | [Táňa Pokorná](mailto:zupajestedska@seznam.cz), [Miluše Řeháková](mailto:zupa.jizerska@volny.cz) |
+| 10.6.2018    | Valašské Meziříčí     | župní slet    | Valašská Fr. Palackého          | [Zdenka Glózová](mailto:zdenkaglozova@centrum.cz)                                                |
+| 10.6.2018    | Brno                  | krajský slet  | Jana Máchala                    | [Eva Dudová](mailto:sokol.machala@volny.cz)                                                      |
+| 10.6.2018    | Dubicko               | župní slet    | Severomoravská                  | [Jiří Sobotík](mailto:jirisobotik@seznam.cz)                                                     |
+| 16.6.2018    | Nový Hrádek           | místní slet   | Podkrkonošská-Jiráskova         | [Ludmila Vlčková](mailto:dondule@seznam.cz)                                                      |
+| 16.6.2018    | Přerov                | krajský slet  | Středomoravská-Kratochvílova    | [Eva Navaříková](mailto:zstredom@volny.cz)                                                       |
+| 16.6.2018    | Votice                | krajský slet  | Blanická Zdeněk Balík,          | [Milena Klimperová](mailto:sokolskazupablanicka@volny.cz)                                        |
+| 16.6.2018    | Uherský Brod          | krajský slet  | Komenského                      | [K. Mlýnková](mailto:kancelar@zupakomenskeho.cz)                                                 |
+| 16.6.2018    | Plzeň Lobzy           | oblastní slet | Plzeňská                        | [Lada Šmídlová](mailto:zplzenska@sokol.eu)                                                       |
+| 23.6.2018    | Bystřice pod Hostýnem | župní slet    | Hanácká                         | [Ivana Zavadilová](mailto:zupahanacka@volny.cz)                                                  |
