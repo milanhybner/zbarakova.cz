@@ -54,8 +54,6 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
   </tr>
 </table>
 
-<script type="text/javascript" src="https://unpkg.com/vue"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
 
 <script type="text/javascript">
             var app = new Vue({
