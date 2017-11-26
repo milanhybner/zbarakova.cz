@@ -56,38 +56,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
 </table>
 </div>
 
-<script type="text/javascript">
-            var app = new Vue({
-                el: '#app',
-                data: {
-                    items: []
-                },
-                mounted: function(){
-                   this.loadItems(); 
-                },
-                methods: {
-                    loadItems: function(){
-                        
-                        // Init variables
-                        var self = this
-                        var app_id = "appZB8ijzGUuuwJHP";
-                        var app_key = "keyXQwawb2RfnxQSR";
-                        this.items = []
 
-axios.get(
-                            "https://api.airtable.com/v0/"+app_id+"/Udaje?view=2018%20akce%20pracovni",
-                            { 
-                                headers: { Authorization: "Bearer "+app_key } 
-                            }
-                        ).then(function(response){
-                            self.items = response.data.records
-                        }).catch(function(error){
-                            console.log(error)
-                        })
-                    }
-                }
-            })
-        </script>
 
 
 # Župní garanti sletových skladeb
