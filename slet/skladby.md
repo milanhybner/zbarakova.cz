@@ -21,8 +21,75 @@ nazev: Skladby XVI. všesokolského sletu
 | ASPV TJ Káraný      | 18     |      |          |                  |        |         |           |       |       |                     | *18*    |
 | Celkem              | *54*   | *4*  | *4*      | *16*             | *9*    | *77*    | *75*      | *13*  | *11*  | *45*                | **380** |
 
-
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
+
+<table id="app">
+  <tr>
+    <th>Jednota</th>
+    <th>Méďové</th>
+    <th>Noty</th>
+    <th>V peřině</th>
+    <th>Děti, to je věc</th>
+    <th>Cirkus</th>
+    <th>Siluety</th>
+    <th>Ženobraní</th>
+    <th>Spolu</th>
+    <th>Borci</th>
+    <th>Princezna Republika</th>
+    <th><em>Součet</em></th>
+  </tr>
+  <tr v-for="item in items">
+    <td>{{ item['fields']['jednota'] }}</td>
+    <td>{{ item['fields']['medove'] }}</td>
+    <td>{{ item['fields']['noty'] }}</td>
+    <td>{{ item['fields']['v-perine'] }}</td>
+    <td>{{ item['fields']['deti'] }}</td>
+    <td>{{ item['fields']['cirkus'] }}</td>
+    <td>{{ item['fields']['siluety'] }}</td>
+    <td>{{ item['fields']['zenobrani'] }}</td>
+    <td>{{ item['fields']['spolu'] }}</td>
+    <td>{{ item['fields']['borci'] }}</td>
+    <td>{{ item['fields']['princezna'] }}</td>
+    <td><em>{{ item['fields']['soucet'] }}</em></td>
+  </tr>
+</table>
+
+        <script type="text/javascript" src="https://unpkg.com/vue"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
+
+<script type="text/javascript">
+            var app = new Vue({
+                el: '#app',
+                data: {
+                    items: []
+                },
+                mounted: function(){
+                   this.loadItems(); 
+                },
+                methods: {
+                    loadItems: function(){
+                        
+                        // Init variables
+                        var self = this
+                        var app_id = "appZB8ijzGUuuwJHP";
+                        var app_key = "keyXQwawb2RfnxQSR";
+                        this.items = []
+
+axios.get(
+                            "https://api.airtable.com/v0/"+app_id+"/Udaje?view=2018%20akce%20pracovni",
+                            { 
+                                headers: { Authorization: "Bearer "+app_key } 
+                            }
+                        ).then(function(response){
+                            self.items = response.data.records
+                        }).catch(function(error){
+                            console.log(error)
+                        })
+                    }
+                }
+            })
+        </script>
+
 
 # Župní garanti sletových skladeb
 
