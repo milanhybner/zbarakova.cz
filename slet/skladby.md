@@ -25,7 +25,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
 
 <table id="app">
   <tr>
-    <th>Jednota</th>
+    <th><em>Jednota</em></th>
     <th>Méďové</th>
     <th>Noty</th>
     <th>V peřině</th>
