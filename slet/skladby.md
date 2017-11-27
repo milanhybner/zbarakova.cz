@@ -23,8 +23,9 @@ nazev: Skladby XVI. všesokolského sletu
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
-<div id="entry-list" class="container mt">
-    <div id="app" class="row" style="margin-bottom:10px;">
+<div class="container mt">
+    <div class="row" style="margin-bottom:10px;">
+        <div id="app">
 <table>
   <tr>
     <th></th>
@@ -41,7 +42,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
     <th><em>Součet</em></th>-->
   </tr>
   <tr v-for="item in items">
-    <td>hh{{ item['fields']['jednota'] }}</td>
+    <td>{{ item['fields']['jednota'] }}</td>
 <!--    <td>{{ item['fields']['medove'] }}</td>
     <td>{{ item['fields']['noty'] }}</td>
     <td>{{ item['fields']['v-perine'] }}</td>
@@ -55,6 +56,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
     <td><em>{{ item['fields']['soucet'] }}</em></td>-->
   </tr>
 </table>
+    </div>
 </div></div>
 
 
@@ -66,7 +68,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
 * Garanti uvedení tučně jsou župní vedoucí dané skladby
 * Skladby [Siluety](https://www.facebook.com/siluety2018/) a [Vivat Vivaldi](https://www.facebook.com/vivatvivaldi/) jsou také na facebooku
 
-<div id="entry-list" class="container mt">
+<div class="container mt">
     <div class="row" style="margin-bottom:10px;">
         <input class="search form-control" placeholder="Filtrovat" type="text">
         <table>
