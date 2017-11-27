@@ -24,14 +24,17 @@ nazev: Skladby XVI. všesokolského sletu
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
 
+<div class="container mt">
+    <div class="row" style="margin-bottom:10px;">
 <div id="app">
 <ul>
-<li v-for="item in items">{{ item['fields']['medove'] }}h</li>
+<li v-for="item in items">{{ item['fields']['jednota'] }}h</li>
 </ul>
 </div>
 
 <div class="container mt">
     <div class="row" style="margin-bottom:10px;">
+</div></div>
 <table>
   <tr>
     <th></th>
