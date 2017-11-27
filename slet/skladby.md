@@ -26,7 +26,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
 
 <div id="app">
 <ul>
-<li v-for="item in items">{{ item['fields']['jednota'] }}</li>
+<li v-for="item in items">{{ item['fields']['jednota'] }}h</li>
 </ul>
 </div>
 
