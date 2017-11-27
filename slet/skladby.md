@@ -23,7 +23,8 @@ nazev: Skladby XVI. všesokolského sletu
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
-<div id="app">
+<div id="entry-list" class="container mt">
+    <div id="app" class="row" style="margin-bottom:10px;">
 <table>
   <tr>
     <th></th>
@@ -54,8 +55,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
     <td><em>{{ item['fields']['soucet'] }}</em></td>-->
   </tr>
 </table>
-</div>
-
+</div></div>
 
 
 
