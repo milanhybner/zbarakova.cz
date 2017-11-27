@@ -25,7 +25,9 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
 
 
 <div id="app">
-{{ item['fields']['jednota'] }}
+<ul>
+<li>{{ item['fields']['jednota'] }}</li>
+</ul>
 </div>
 
 <div class="container mt">
