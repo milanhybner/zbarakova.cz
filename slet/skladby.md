@@ -41,7 +41,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
     <th><em>Součet</em></th>-->
   </tr>
   <tr v-for="item in items">
-    <td>{{ item['fields']['jednota'] }}</td>
+    <td>hh{{ item['fields']['jednota'] }}</td>
 <!--    <td>{{ item['fields']['medove'] }}</td>
     <td>{{ item['fields']['noty'] }}</td>
     <td>{{ item['fields']['v-perine'] }}</td>
