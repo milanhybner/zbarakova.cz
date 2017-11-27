@@ -24,48 +24,6 @@ nazev: Skladby XVI. všesokolského sletu
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
 
-<div class="container mt">
-    <div class="row" style="margin-bottom:10px;">
-<div id="app">
-<ul>
-<li v-for="item in items">{{ item['fields']['jednota'] }}h</li>
-</ul>
-</div></div>
-</div>
-
-<table>
-  <tr>
-    <th></th>
-<!--    <th>Méďové</th>
-    <th>Noty</th>
-    <th>V peřině</th>
-    <th>Děti, to je věc</th>
-    <th>Cirkus</th>
-    <th>Siluety</th>
-    <th>Ženobraní</th>
-    <th>Spolu</th>
-    <th>Borci</th>
-    <th>Princezna Republika</th>
-    <th><em>Součet</em></th>-->
-  </tr>
-  <tr v-for="item in items">
-    <td></td>
-<!--    <td>{{ item['fields']['medove'] }}</td>
-    <td>{{ item['fields']['noty'] }}</td>
-    <td>{{ item['fields']['v-perine'] }}</td>
-    <td>{{ item['fields']['deti'] }}</td>
-    <td>{{ item['fields']['cirkus'] }}</td>
-    <td>{{ item['fields']['siluety'] }}</td>
-    <td>{{ item['fields']['zenobrani'] }}</td>
-    <td>{{ item['fields']['spolu'] }}</td>
-    <td>{{ item['fields']['borci'] }}</td>
-    <td>{{ item['fields']['princezna'] }}</td>
-    <td><em>{{ item['fields']['soucet'] }}</em></td>-->
-  </tr>
-</table>
-
-
-
 # Župní garanti sletových skladeb
 
 * Po kliknutí na název skladby se zobrazí podrobnosti k jednotlivým skladbám na oficiální stránce skladby na slet.sokol.eu.
