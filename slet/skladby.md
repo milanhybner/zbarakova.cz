@@ -31,6 +31,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
 <li v-for="item in items">{{ item['fields']['jednota'] }}h</li>
 </ul>
 </div></div>
+</div>
 
 <table>
   <tr>
@@ -62,7 +63,6 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
     <td><em>{{ item['fields']['soucet'] }}</em></td>-->
   </tr>
 </table>
-</div></div>
 
 
 
