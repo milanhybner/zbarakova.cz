@@ -27,7 +27,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
 <table>
   <tr>
     <th></th>
-    <th>Méďové</th>
+<!--    <th>Méďové</th>
     <th>Noty</th>
     <th>V peřině</th>
     <th>Děti, to je věc</th>
@@ -37,11 +37,11 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
     <th>Spolu</th>
     <th>Borci</th>
     <th>Princezna Republika</th>
-    <th><em>Součet</em></th>
+    <th><em>Součet</em></th>-->
   </tr>
   <tr v-for="item in items">
     <td>{{ item['fields']['jednota'] }}</td>
-    <td>{{ item['fields']['medove'] }}</td>
+<!--    <td>{{ item['fields']['medove'] }}</td>
     <td>{{ item['fields']['noty'] }}</td>
     <td>{{ item['fields']['v-perine'] }}</td>
     <td>{{ item['fields']['deti'] }}</td>
@@ -51,7 +51,7 @@ Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelni
     <td>{{ item['fields']['spolu'] }}</td>
     <td>{{ item['fields']['borci'] }}</td>
     <td>{{ item['fields']['princezna'] }}</td>
-    <td><em>{{ item['fields']['soucet'] }}</em></td>
+    <td><em>{{ item['fields']['soucet'] }}</em></td>-->
   </tr>
 </table>
 </div>
