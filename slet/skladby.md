@@ -5,21 +5,21 @@ nazev: Skladby XVI. všesokolského sletu
 
 # Nácvik skladeb v jednotách
 
-|                     | Méďové | Noty | V peřině | Děti, to je věc! | Cirkus | Siluety | Ženobraní | Spolu | Borci | Princezna Republika |         |
-|---------------------|--------|------|----------|------------------|--------|---------|-----------|-------|-------|---------------------|---------|
-| Český Brod          |        | 8    |          |                  | 9      |         |           | 5     | 1     | 9                   | *32*    |
-| Chocerady           |        |      |          |                  |        |         | 16        |       |       |                     | *16*    |
-| Kralupy nad Vltavou |        |      | 16       |                  |        | 16      |           |       |       |                     | *32*    |
-| Lysá nad Labem      | 8      |      |          |                  |        |         | 9         |       |       |                     | *17*    |
-| Mochov              |        |      |          |                  |        |         | 7         | 8     |       |                     | *15*    |
-| Nehvizdy            |        | 9    |          |                  |        |         | 11        |       |       |                     | *2*     |
-| Přívory             |        | 9    |          |                  |        |         |           |       |       | 18                  | *27*    |
-| Pyšely              | 12     |      | 24       |                  |        | 32      | 16        |       | 4     |                     | *88*    |
-| Říčany a Radošovice | 8      | 9    |          | 16               |        | 16      | 16        |       | 2     | 18                  | *85*    |
-| Šestajovice         |        | 5    |          |                  |        | 13      |           |       | 4     |                     | *22*    |
-| Strančice           | 8      |      |          |                  |        |         |           |       |       |                     | *8*     |
-| ASPV TJ Káraný      | 18     |      |          |                  |        |         |           |       |       |                     | *18*    |
-| Celkem              | *54*   | *4*  | *4*      | *16*             | *9*    | *77*    | *75*      | *13*  | *11*  | *45*                | **380** |
+|                     | Méďové | Noty | V peřině | Děti, to je věc! | Cirkus | Siluety | Ženobraní | Spolu | Borci | Princezna Republika |       |
+|---------------------|--------|------|----------|------------------|--------|---------|-----------|-------|-------|---------------------|-------|
+| Český Brod          |        | 8    |          |                  | 19     |         |           | 5     | 1     | 9                   | 42    |
+| Chocerady           |        |      |          |                  |        |         | 16        |       |       |                     | 16    |
+| Kralupy nad Vltavou |        |      | 16       |                  |        | 16      |           |       |       |                     | 32    |
+| Lysá nad Labem      | 8      |      |          |                  |        |         | 9         |       |       |                     | 17    |
+| Mochov              |        |      |          |                  |        |         | 7         | 8     |       |                     | 15    |
+| Nehvizdy            |        | 9    |          |                  |        |         | 11        |       |       |                     | 20    |
+| Přívory             |        | 18   |          |                  |        |         |           |       |       | 18                  | 44    |
+| Pyšely              | 12     |      | 24       |                  |        | 32      | 16        |       | 4     |                     | 88    |
+| Říčany a Radošovice | 8      | 9    |          | 16               |        | 16      | 16        |       | 2     | 18                  | 85    |
+| Šestajovice         |        | 5    |          |                  |        | 13      |           |       | 4     |                     | 22    |
+| Strančice           | 8      |      |          |                  |        |         |           |       |       |                     | 8     |
+| ASPV TJ Káraný      | 16     |      |          |                  |        |         |           |       |       |                     | 16    |
+| *Celkem*            | *52*   | *49* | *40*     | *24*             | *19    | *77*    | *75*      | *13*  | *11*  | *45*                | *405* |
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
