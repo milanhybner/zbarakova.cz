@@ -40,7 +40,7 @@ Kontaktní údaje členů a data narození budou poskytnuty:
 Vyplňte prosím následující pole. V případě jakýchkoli dotazů neváhejte kontaktovat náčelníka župy Milana Hybnera, [776 412 328](tel:776412328).
 
 <form name="2017-11-19-sber-dat-cvicenec" netlify>
-<p>Tělocvičná jednota Sokol</p>
+<p><b>Tělocvičná jednota Sokol</b></p>
 <select name="jednota">
     <option value="0">– Vyber jednotu –</option>
     <option value="1">Brandýs nad Labem</option>

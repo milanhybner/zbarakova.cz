@@ -25,8 +25,8 @@ V případě jakýchkoli dotazů mě neváhejte kontaktovat,
 
 se sokolským nazdar!
 
-Milan Hybner
-náčelník
-Sokolská župa Barákova
-[nacelnik@zbarakova.cz](mailto:nacelnik@zbarakova.cz)
+Milan Hybner  
+náčelník  
+Sokolská župa Barákova  
+[nacelnik@zbarakova.cz](mailto:nacelnik@zbarakova.cz)  
 776 412 328
