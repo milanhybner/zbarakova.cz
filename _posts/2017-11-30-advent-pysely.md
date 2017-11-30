@@ -1,6 +1,6 @@
 ---
 nazev: Advent Pyšely
 nazevurl: Advent Pysely
-date: 2017-11-30T18:55:03.575Z
+date: 2017-12-24T19:55:03+01:00
 ---
-![](/images/advent_pyšely.jpg)
+![null](/images/advent_pyšely.jpg)
