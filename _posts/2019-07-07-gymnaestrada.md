@@ -26,9 +26,9 @@ Termín: 7. – 13. 7. 2019, Dornbirn – Voralbersko, Rakousko
 
 Šiřte dále ve svých řadách. V tuto chvíli se týká zejména skladeb „Spolu“ a „Borci“. Je však vypsán konkurs na podiové skladby a komponovaný blok, kde je šance (dle výsledku) se také případně účastnit. Výsledky konkursu vám sdělíme, jakmile bude uzavřen a vydána oficiální informace. 
 
-Případné dotazy na [annajurca@seznam.cz](mailto:annajurca@seznam.cz)
+Případné dotazy Anně Jurčíčkové na [annajurca@seznam.cz](mailto:annajurca@seznam.cz).
 
-Prosíme o vyplnění [předběžné přihlášky za vaši jednotu]({{relative}}/soubory/2019-07-07-zajem.docx) a zaslání na župu do **1. prosince 2017**.
+Prosíme o vyplnění [předběžné přihlášky za vaši jednotu]({{relative}}/soubory/2019-07-07-zajem.docx) a zaslání Mileně Valáškové na [milena.valaskova@seznam.cz](mailto:milena.valaskova@seznam.cz) do **1. prosince 2017**.
 
 Přílohy:
 
