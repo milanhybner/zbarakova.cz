@@ -9,6 +9,7 @@ nazev: Granty, dotace, příspěvky a směrnice župy
 * [Granty OS]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-granty-OS.xls)
 * [Všestrannost]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-vsestrannost.xls)
 
+---
 
 * Přispěvek na nákup sletového nářadí a náčiní pro hromadné skladby XVI. všesokolského sletu – [žádost](https://drive.google.com/open?id=0B0w6gDorCVUkaDZQeXBjY3E5akhMNmEwMUdjR1JmNTJxYXhF), [zadání](https://drive.google.com/open?id=0B0w6gDorCVUkN2N2MEVoZEVJZVZna3pnZHZWLVYyUnRqUWNN), [manuál](https://drive.google.com/open?id=0B0w6gDorCVUkUXppX2xqdUNERmxpSnFqNXBzRHRjQmhjX2NZ)
 
