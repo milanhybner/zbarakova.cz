@@ -3,11 +3,7 @@ layout: page
 nazev: Formuláře
 ---
 
-## Formuláře pro vyúčtování poskytnutých dotací – MŠMT Program III
-
-* [Vybavení tělocvičen]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-grant-OV-vybaveni-telocvicen.xls)
-* [Granty OS]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-granty-OS.xls)
-* [Všestrannost]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-vsestrannost.xls)
+Formuláře pro vyúčtování poskytnutých grantů a dotací naleznete [na stránce _Granty_]({{relative}}/kancelar/granty.html)
 
 ---
 

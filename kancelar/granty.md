@@ -3,11 +3,14 @@ layout: page
 nazev: Granty, dotace, příspěvky a směrnice župy
 ---
 
+* [Vyhlášení dotačního programu MŠMT _Můj klub_](http://www.msmt.cz/sport-1/vyhlaseni-dotacniho-neinvesticniho-programu-muj-klub-na-rok)
+
 ## Formuláře pro vyúčtování poskytnutých dotací – MŠMT Program III
 
 * [Vybavení tělocvičen]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-grant-OV-vybaveni-telocvicen.xls)
 * [Granty OS]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-granty-OS.xls)
-* [Všestrannost]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-vsestrannost.xls)
+* [Všestrannost (plošná)]({{relative}}/soubory/2017-12-04-MSMT-17-P-III-vsestrannost.xls)
+* [Údržba a provoz sportovních zařízení (Program IV)]({{relative}}/soubory/2017-12-06-MSMT-17-P-IV.xls)
 
 ---
 
