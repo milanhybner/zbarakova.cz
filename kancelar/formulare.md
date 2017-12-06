@@ -7,7 +7,6 @@ Formuláře pro vyúčtování poskytnutých grantů a dotací naleznete [na str
 
 ---
 
-
 [Dotazník pro oddíly všestrannosti]({{relative}}/ov/sber-dat.html)
 
 ---
