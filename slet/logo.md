@@ -7,6 +7,7 @@ Pro stažení jednoho obrázku klikněte pravým tlačítkem na obrázek a vyber
 
 Také můžete [stáhnout všechny grafické materiály jako archiv ZIP](https://drive.google.com/open?id=0B0w6gDorCVUkNXVQRlFOMHN2aG8).
 
+* [Logo Sokol, sletové a _společné století_](https://drive.google.com/open?id=1V9twKa3DKqgmal3NhpIs_LYrqexqYWVw)
 
 ---
 
