@@ -7,19 +7,19 @@ nazev: Skladby XVI. všesokolského sletu
 
 |                     | Méďové | Noty | V peřině | Děti, to je věc! | Cirkus | Siluety | Ženobraní | Spolu | Borci | Princezna Republika |       |
 |---------------------|--------|------|----------|------------------|--------|---------|-----------|-------|-------|---------------------|-------|
-| Český Brod          |        | 8    |          |                  | 19     |         |           | 5     | 1     | 9                   | 42    |
+| Český Brod          |        | 8    |          |                  | 19     |         |           | 5     | 1     | 12                  | 45    |
 | Chocerady           |        |      |          |                  |        |         | 16        |       |       |                     | 16    |
 | Kralupy nad Vltavou |        |      | 16       |                  |        | 16      |           |       |       |                     | 32    |
 | Lysá nad Labem      | 8      |      |          |                  |        |         | 9         |       |       |                     | 17    |
 | Mochov              |        |      |          |                  |        |         | 7         | 8     |       |                     | 15    |
 | Nehvizdy            |        | 9    |          |                  |        |         | 11        |       |       |                     | 20    |
-| Přívory             |        | 18   |          |                  |        |         |           |       |       | 18                  | 44    |
+| Přívory             |        | 18   |          | 8                |        |         |           |       |       | 18                  | 52    |
 | Pyšely              | 12     |      | 24       |                  |        | 32      | 16        |       | 4     |                     | 88    |
 | Říčany a Radošovice | 8      | 9    |          | 16               |        | 16      | 16        |       | 2     | 18                  | 85    |
 | Šestajovice         |        | 5    |          |                  |        | 13      |           |       | 4     |                     | 22    |
 | Strančice           | 8      |      |          |                  |        |         |           |       |       |                     | 8     |
 | ASPV TJ Káraný      | 16     |      |          |                  |        |         |           |       |       |                     | 16    |
-| *Celkem*            | *52*   | *49* | *40*     | *24*             | *19    | *77*    | *75*      | *13*  | *11*  | *45*                | *405* |
+| *Celkem*            | *52*   | *49* | *40*     | *32*             | *19    | *77*    | *75*      | *13*  | *11*  | *48*                | *416* |
 
 Pro aktualizaci počtů kontaktujte [náčelníka Milana Hybnera](mailto:nacelnik@zbarakova.cz)
 
@@ -65,6 +65,8 @@ var entryList = new List('entry-list', options);
 
 </script>
 
+# Termíny kontrolních srazů
+
 
 # Termíny nácvičných srazů 2017
 
@@ -73,35 +75,32 @@ var entryList = new List('entry-list', options);
 |---------------------|--------------|--------------|------------------------------------|
 | Děti, to je věc     | 21. října    | Tyršův dům   | Bělohlávková / Černá               |
 | Cirkus              | 7. října     | Tyršův dům   | Diana Minaříková / Jan Blažek      |
+| Méďové              | 7. října     | Praha Karlín | Horáčková Jungmannová / Bartíková  |
+| Noty                | 8. října     | Praha Karlín | Bašusová                           |
+| V peřině            | 14. října    | Praha Karlín | Bartíková                          |
 | Siluety             | 4. listopadu | Praha Karlín | Bartíková / Kurajdová              |
 | Ženobraní           | 21. října    | Praha Karlín | Voráčková / Horčičková             |
 | Spolu               | 14. října    | Brno         | Valášková / Bašusová               |
 | Borci               | 28. října    | Tyršův dům   | Hybner / Braný                     |
-| Princezna republika | 4. listopadu | Tyrsův dům   | Pangrácová                         |
+| Princezna republika | 4. listopadu | Tyrsův dům   | Scharfová, Bláha, Krymlová         |
 
-<!--
-| Méďové              | 7. října     | Praha Karlín | Horáčková Jungmannová / Bartíková  |
-| Noty                | 8. října     | Praha Karlín | Škodová / Chalupecká               |
-| V peřině            | 14. října    | Praha Karlín | Bartíková                          |
--->
 
-* [Přehled skladeb a ústředních srazů v .xls](https://drive.google.com/open?id=0B0w6gDorCVUkTmtwcWZTS3RCbU1GQzRTaURLUjBZQWFSd1lB)
-
+Náčelnictvo župy Barákovy děkuje všem zástupcům za účast na nácvičných srazech!
 
 # Župní vedoucí skladeb a jejich zástupci
 
-|       skladba       |         ž. vedoucí        |       jednota       |     zást. ž .v     |       jednota       |
-|---------------------|---------------------------|---------------------|--------------------|---------------------|
-| Noty                | Pavlína Škodová           | Říčany a Radošovice | Jana Chalupecká    | Říčany a Radošovice |
-| Méďové              | Eva Horáčková Jungmannová | Říčany a Radošovice | Tereza Bartíková   | Pyšely              |
-| Děti, to je věc!    | Kateřina Bělohlávková     | Říčany a Radošovice | Lenka Černá        | Říčany a Radošovice |
-| Spolu               | Milena Valášková          | Mochov              | Iva Bašusová       | Český Brod          |
-| Ženobraní           | Jarmila Voráčková         | Říčany a Radošovice | Martina Horčičková | Lysá                |
-| Princezna Republika | Miloslava Pangrácová      | Říčany a Radošovice | Jana Scharffová    | Říčany a Radošovice |
-| V peřině            | Bartíková                 | Pyšely              |                    |                     |
-| Cirkus              | Diana Minaříková          | Český Brod          | Jan Blažek         | Český Brod          |
-| Siluety             | Tereza Bartíková          | Pyšely              | Ivana Kurajdová    | Říčany a Radošovice |
-| Borci               | Milan Hybner              | Šestajovice         |                    |                     |
+|       skladba       |             ž. vedoucí            |       jednota       |     zást. ž .v     |       jednota       |
+|---------------------|-----------------------------------|---------------------|--------------------|---------------------|
+| Noty                | Iva Bašusová                      | Český Brod          | Eva Vaňková        | Šestajovice         |
+| Méďové              | Eva Horáčková Jungmannová         | Říčany a Radošovice | Tereza Bartíková   | Pyšely              |
+| Děti, to je věc!    | Kateřina Bělohlávková             | Říčany a Radošovice | Lenka Černá        | Říčany a Radošovice |
+| Spolu               | Milena Valášková                  | Mochov              | Iva Bašusová       | Český Brod          |
+| Ženobraní           | Jarmila Voráčková                 | Říčany a Radošovice | Martina Horčičková | Lysá                |
+| Princezna Republika | Miloslava Pangrácová, Josef Bláha | Říčany a Radošovice | Jana Scharfová     | Říčany a Radošovice |
+| V peřině            | Bartíková                         | Pyšely              |                    |                     |
+| Cirkus              | Diana Minaříková                  | Český Brod          | Jan Blažek         | Český Brod          |
+| Siluety             | Tereza Bartíková                  | Pyšely              | Ivana Kurajdová    | Říčany a Radošovice |
+| Borci               | Milan Hybner                      | Šestajovice         |                    |                     |
 
 <!--
 
