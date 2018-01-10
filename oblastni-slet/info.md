@@ -54,7 +54,7 @@ Tajemnice: Lenka Brandová
  - Aleš Muller
  - Hana Dobrovodská
  - Lenka Farkasová
- - Miluše Malinová
+ - Lenka Brandová
 
 ## Propagace, tisk
 
@@ -67,7 +67,6 @@ Tajemnice: Lenka Brandová
 
  - Jiří Sýkora
  - Petr Čížkovský
- - Michal Pávek
  - Dana Absolonová
 
 ## Oblastní slet Brandýs
@@ -86,7 +85,6 @@ Technika
  - Milan Hybner
  - Slávek Povondra
  - Petr Čížkovský
- - Karel Kovařovic
  - Michal Pávek
 
 Režie
@@ -125,6 +123,7 @@ Režie
 
  - Bohumil Gondík
  - Lenka Brandová
+ - Jan Králík
 
 ## Komponovaný program
 
