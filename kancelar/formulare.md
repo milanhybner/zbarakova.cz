@@ -3,10 +3,15 @@ layout: page
 nazev: Formuláře
 ---
 
+* [Statistický výkaz jednoty 2017 pro ČOS]({{relative}}/soubory/2018-01-10-vykaz-jednota.xlsx)
+* [Evidence členské základny ČOS]({{relative}}/soubory/2018-01-10-clenstvo.xls)
+
+
 Formuláře pro vyúčtování poskytnutých grantů a dotací naleznete [na stránce _Granty_]({{relative}}/kancelar/granty.html)
 
 ---
 
+<!-- 
 
 ## Archiv
 
@@ -31,3 +36,4 @@ Formuláře pro vyúčtování poskytnutých grantů a dotací naleznete [na str
 
 * [Formulář OS – Formulář registrace sportovního oddílu OS ČOS na rok 2017](https://drive.google.com/open?id=0B0w6gDorCVUkZ0t6ejk3bkZFNjZfRW1kNFYxbXE4OGc4c3JN)
 
+-->
