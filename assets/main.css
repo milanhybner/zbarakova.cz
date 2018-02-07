@@ -1513,6 +1513,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text50 br + br {
+	margin-top: 0.75rem;
+}
+
+#text50 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text50 a {
+	text-decoration: none;
+}
+
+#text50 a:hover {
+	text-decoration: underline;
+}
+
 #text21 br + br {
 	margin-top: 0.75rem;
 }
@@ -1694,6 +1717,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text62 a:hover {
+	text-decoration: underline;
+}
+
+#text49 br + br {
+	margin-top: 0.75rem;
+}
+
+#text49 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text49 a {
+	text-decoration: none;
+}
+
+#text49 a:hover {
 	text-decoration: underline;
 }
 
