@@ -1500,6 +1500,14 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
+#text37 a {
+	text-decoration: underline;
+}
+
+#text37 a:hover {
+	text-decoration: none;
+}
+
 #text24 br + br {
 	margin-top: 0.675rem;
 }
@@ -1511,6 +1519,52 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
+}
+
+#text58 br + br {
+	margin-top: 0.75rem;
+}
+
+#text58 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text58 a {
+	text-decoration: none;
+}
+
+#text58 a:hover {
+	text-decoration: underline;
+}
+
+#text55 br + br {
+	margin-top: 0.75rem;
+}
+
+#text55 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text55 a {
+	text-decoration: none;
+}
+
+#text55 a:hover {
+	text-decoration: underline;
 }
 
 #text50 br + br {
@@ -1830,6 +1884,41 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text60 br + br {
+	margin-top: 0.675rem;
+}
+
+#text60 {
+	text-transform: uppercase;
+	color: #5E5E5E;
+	font-family: 'Raleway';
+	font-size: 1.25em;
+	line-height: 1.125;
+	font-weight: 900;
+}
+
+#text60 a {
+	text-decoration: underline;
+}
+
+#text60 a:hover {
+	text-decoration: none;
+}
+
+#text69 br + br {
+	margin-top: 0.9rem;
+}
+
+#text69 {
+	color: #A1A1A1;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
 #text71 br + br {
 	margin-top: 0.675rem;
 }
@@ -1843,11 +1932,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
-#text69 br + br {
+#text63 br + br {
 	margin-top: 0.9rem;
 }
 
-#text69 {
+#text63 {
 	color: #A1A1A1;
 	font-family: 'Arial';
 	letter-spacing: -0.025rem;
@@ -2567,6 +2656,17 @@ hr:before {
 }
 
 #divider23:before {
+	width: 22%;
+	background-color: #FFFFFF;
+	height: 1px;
+}
+
+#divider29 {
+	height: 0.5rem;
+	line-height: 0.5rem;
+}
+
+#divider29:before {
 	width: 22%;
 	background-color: #FFFFFF;
 	height: 1px;
@@ -3927,6 +4027,11 @@ th {
 	}
 	
 	#divider23 {
+		height: 0.5rem;
+		line-height: 0.5rem;
+	}
+	
+	#divider29 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
