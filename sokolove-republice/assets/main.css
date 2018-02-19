@@ -338,6 +338,10 @@ html {
 	width: 16.75rem;
 }
 
+#image02 img {
+	float: left;
+}
+
 #image09 img {
 	width: 11.375rem;
 }
