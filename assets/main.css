@@ -462,7 +462,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container06 > .inner > * {
@@ -517,7 +517,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container14 > .inner > * {
@@ -572,7 +572,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container07 > .inner > * {
@@ -627,7 +627,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container05 > .inner > * {
@@ -682,7 +682,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container09 > .inner > * {
@@ -737,7 +737,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container11 > .inner > * {
@@ -792,7 +792,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container10 > .inner > * {
@@ -847,7 +847,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container13 > .inner > * {
@@ -902,7 +902,7 @@ body.is-loading #main {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FFFFFF;
+	background-color: #F0F0F0;
 }
 
 #container12 > .inner > * {
@@ -1184,11 +1184,11 @@ body.is-loading #main {
 	border-radius: 100%;
 }
 
-#image09 a, #image09 span {
+#image06 a, #image06 span {
 	border-radius: 1rem;
 }
 
-#image09 img {
+#image06 img {
 	width: 16.5rem;
 	border-radius: 1rem;
 }
@@ -1213,6 +1213,15 @@ body.is-loading #main {
 #image04 img {
 	width: 5.5rem;
 	border-radius: 100%;
+}
+
+#image10 a, #image10 span {
+	border-radius: 1rem;
+}
+
+#image10 img {
+	width: 16.5rem;
+	border-radius: 1rem;
 }
 
 #image08 a, #image08 span {
@@ -2037,6 +2046,39 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text77 br + br {
+	margin-top: 0.675rem;
+}
+
+#text77 {
+	color: #5E5E5E;
+	font-family: 'Raleway';
+	font-size: 1.25em;
+	line-height: 1.125;
+	font-weight: 700;
+}
+
+#text77 a {
+	text-decoration: underline;
+}
+
+#text77 a:hover {
+	text-decoration: none;
+}
+
+#text79 br + br {
+	margin-top: 0.675rem;
+}
+
+#text79 {
+	text-transform: uppercase;
+	color: #5E5E5E;
+	font-family: 'Raleway';
+	font-size: 1em;
+	line-height: 1.125;
+	font-weight: 500;
+}
+
 #text25 br + br {
 	margin-top: 0.675rem;
 }
@@ -2705,12 +2747,12 @@ hr:before {
 	height: 1px;
 }
 
-#divider03 {
+#divider32 {
 	height: 0.5rem;
 	line-height: 0.5rem;
 }
 
-#divider03:before {
+#divider32:before {
 	width: 22%;
 	background-color: #D9D9D9;
 	height: 1px;
@@ -2723,7 +2765,7 @@ hr:before {
 
 #divider23:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2734,7 +2776,7 @@ hr:before {
 
 #divider30:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2745,7 +2787,7 @@ hr:before {
 
 #divider29:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2756,7 +2798,18 @@ hr:before {
 
 #divider26:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
+	height: 1px;
+}
+
+#divider20 {
+	height: 0.5rem;
+	line-height: 0.5rem;
+}
+
+#divider20:before {
+	width: 22%;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2767,7 +2820,7 @@ hr:before {
 
 #divider28:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2800,7 +2853,7 @@ hr:before {
 
 #divider19:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2811,7 +2864,7 @@ hr:before {
 
 #divider15:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2822,7 +2875,7 @@ hr:before {
 
 #divider21:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2833,7 +2886,7 @@ hr:before {
 
 #divider22:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2844,7 +2897,7 @@ hr:before {
 
 #divider24:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -2856,17 +2909,6 @@ hr:before {
 #divider12:before {
 	width: 22%;
 	background-color: #D9D9D9;
-	height: 1px;
-}
-
-#divider20 {
-	height: 0.5rem;
-	line-height: 0.5rem;
-}
-
-#divider20:before {
-	width: 22%;
-	background-color: #FFFFFF;
 	height: 1px;
 }
 
@@ -2899,7 +2941,7 @@ hr:before {
 
 #divider25:before {
 	width: 22%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	height: 1px;
 }
 
@@ -3062,6 +3104,136 @@ hr:before {
 
 #icons01 .n05:hover svg {
 	fill: #F29DB1;
+}
+
+.timer {
+	line-height: 1;
+	cursor: default;
+}
+
+.timer ul {
+	display: -moz-inline-flex;
+	display: -webkit-inline-flex;
+	display: -ms-inline-flex;
+	display: inline-flex;
+	-moz-flex-direction: row;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	list-style: none;
+	max-width: 100%;
+}
+
+.timer ul li {
+	position: relative;
+}
+
+.timer ul li.delimiter {
+	-moz-flex: 0 1 auto;
+	-webkit-flex: 0 1 auto;
+	-ms-flex: 0 1 auto;
+	flex: 0 1 auto;
+}
+
+.timer ul li.delimiter .symbol {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.timer ul li.number {
+	-moz-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	min-width: 2rem;
+}
+
+.timer ul li.number .item {
+	position: relative;
+}
+
+.timer ul li.number .item .digit {
+	display: block;
+	position: relative;
+	white-space: nowrap;
+}
+
+.timer ul li.number .item .digit .component {
+	display: inline-block;
+	width: 50%;
+}
+
+.timer ul li.number .item .digit.count2 .component {
+	width: 50%;
+}
+
+.timer ul li.number .item .digit.count3 .component {
+	width: 33.3333%;
+}
+
+.timer ul li.number .item .digit.count4 .component {
+	width: 25%;
+}
+
+.timer ul li.number .item .digit.count5 .component {
+	width: 20%;
+}
+
+.timer ul li.number .item .label {
+	display: block;
+	white-space: nowrap;
+}
+
+.timer ul li.number .item .label > * {
+	display: inline-block;
+}
+
+.timer ul li.number .item .label .full {
+	width: 5em;
+}
+
+.timer ul li.number .item .label .abbreviated {
+	width: 3em;
+}
+
+.timer ul li.number .item .label .initialed {
+	width: 1em;
+}
+
+#timer01 ul {
+	width: 14rem;
+}
+
+#timer01 ul li.delimiter {
+	width: 2.5rem;
+}
+
+#timer01 ul li.delimiter .symbol {
+	display: none;
+}
+
+#timer01 ul li.number .item .digit {
+	font-family: 'Raleway';
+	font-weight: 700;
+	color: #5E5E5E;
+	line-height: 1em;
+	text-align: inherit;
+}
+
+#timer01 ul li.number .item .label > * {
+	margin-top: calc(0.5rem + 0.25em);
+}
+
+#timer01 ul li.number .item .label {
+	font-family: 'Raleway';
+	font-size: 1rem;
+	font-weight: 600;
+	color: #5E5E5E;
+	text-transform: uppercase;
 }
 
 #embed02 .frame iframe {
@@ -4030,7 +4202,7 @@ th {
 		width: 8.375rem;
 	}
 	
-	#image09 img {
+	#image06 img {
 		width: 16.5rem;
 	}
 	
@@ -4044,6 +4216,10 @@ th {
 	
 	#image04 img {
 		width: 5.5rem;
+	}
+	
+	#image10 img {
+		width: 16.5rem;
 	}
 	
 	#image08 img {
@@ -4113,7 +4289,7 @@ th {
 		line-height: 0.5rem;
 	}
 	
-	#divider03 {
+	#divider32 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
@@ -4134,6 +4310,11 @@ th {
 	}
 	
 	#divider26 {
+		height: 0.5rem;
+		line-height: 0.5rem;
+	}
+	
+	#divider20 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
@@ -4179,11 +4360,6 @@ th {
 	}
 	
 	#divider12 {
-		height: 0.5rem;
-		line-height: 0.5rem;
-	}
-	
-	#divider20 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
@@ -4286,6 +4462,14 @@ th {
 	#container08 > .inner > * {
 		margin-top: 1.09375rem;
 		margin-bottom: 1.09375rem;
+	}
+	
+	#timer01 ul li.delimiter {
+		width: 1.5625rem;
+	}
+	
+	#timer01 ul li.number .item .label > * {
+		margin-top: calc(0.5rem + 0.25em);
 	}
 }
 

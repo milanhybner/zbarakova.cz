@@ -588,3 +588,548 @@ var	on = addEventListener,
 			on('scroll', f);
 
 	})();
+
+// Timer.
+	/**
+	 * Timer.
+	 * @param {string} id ID.
+	 */
+	function timer(id, timestamp, options) {
+	
+		var _this = this,
+			f;
+	
+		/**
+		 * ID.
+		 * @var {string}
+		 */
+		this.id = id;
+	
+		/**
+		 * Timestamp.
+		 * @var {integer}
+		 */
+		this.timestamp = timestamp;
+	
+		/**
+		 * Mode.
+		 * @var {string}
+		 */
+		this.mode = options.mode;
+	
+		/**
+		 * Precision.
+		 * @var {integer}
+		 */
+		this.precision = options.precision;
+	
+		/**
+		 * Complete URL.
+		 * @var {string}
+		 */
+		this.completeUrl = options.completeUrl;
+	
+		/**
+		 * Label style.
+		 * @var {integer}
+		 */
+		this.labelStyle = options.labelStyle;
+	
+		/**
+		 * Completed.
+		 * @var {bool}
+		 */
+		this.completed = false;
+	
+		/**
+		 * Status.
+		 * @var {string}
+		 */
+		this.status = null;
+	
+		/**
+		 * Timer.
+		 * @var {HTMLElement}
+		 */
+		this.$timer = document.getElementById(this.id);
+	
+		/**
+		 * Parent.
+		 * @var {HTMLElement}
+		 */
+		this.$parent = document.querySelector('#' + _this.$timer.id + ' ul');
+	
+		/**
+		 * Days.
+		 * @var {HTMLElement}
+		 */
+		this.days = {
+			$li: null,
+			$digit: null,
+			$components: null
+		};
+	
+		/**
+		 * Hours.
+		 * @var {HTMLElement}
+		 */
+		this.hours = {
+			$li: null,
+			$digit: null,
+			$components: null
+		};
+	
+		/**
+		 * Minutes.
+		 * @var {HTMLElement}
+		 */
+		this.minutes = {
+			$li: null,
+			$digit: null,
+			$components: null
+		};
+	
+		/**
+		 * Seconds.
+		 * @var {HTMLElement}
+		 */
+		this.seconds = {
+			$li: null,
+			$digit: null,
+			$components: null
+		};
+	
+		// Initialize.
+			this.init();
+	
+	};
+	
+		/**
+		 * Initialize.
+		 */
+		timer.prototype.init = function() {
+	
+			var _this = this;
+	
+			// Digits.
+	
+				// Interval.
+					window.setInterval(function() {
+	
+						// Update digits.
+							_this.updateDigits();
+	
+						// Update size.
+							_this.updateSize();
+	
+					}, 250);
+	
+				// Initial call.
+					this.updateDigits();
+	
+			// Size.
+	
+				// Event.
+					on('resize', function() {
+						_this.updateSize();
+					});
+	
+				// Initial call.
+					this.updateSize();
+	
+		};
+	
+		/**
+		 * Updates size.
+		 */
+		timer.prototype.updateSize = function() {
+	
+			var $items, $item, $digit, $components, $component, $label, $sublabel, $symbols,
+				w, iw, h, f, i, j, found;
+	
+			$items = document.querySelectorAll('#' + this.$timer.id + ' ul li .item');
+			$symbols = document.querySelectorAll('#' + this.$timer.id + ' .symbol');
+			$components = document.querySelectorAll('#' + this.$timer.id + ' .component');
+			h = 0;
+			f = 0;
+	
+			// Reset component heights.
+				for (j = 0; j < $components.length; j++) {
+	
+					$components[j].style.lineHeight = '';
+					$components[j].style.height = '';
+	
+				}
+	
+			// Reset symbol heights, font sizes.
+				for (j = 0; j < $symbols.length; j++) {
+	
+					$symbols[j].style.fontSize = '';
+					$symbols[j].style.lineHeight = '';
+					$symbols[j].style.height = '';
+	
+				}
+	
+			// Step through items.
+				for (i = 0; i < $items.length; i++) {
+	
+					$item = $items[i];
+					$component = $item.children[0].children[0];
+	
+					w = $component.offsetWidth;
+					iw = $item.offsetWidth;
+	
+					// Set digit font size.
+						$digit = $item.children[0];
+	
+						// Reset font size.
+							$digit.style.fontSize = '';
+	
+						// Set font size.
+							$digit.style.fontSize = (w * 1.65) + 'px';
+	
+						// Update component height.
+							h = Math.max(h, $digit.offsetHeight);
+	
+						// Update font size.
+							f = Math.max(f, (w * 1.65));
+	
+					// Set label visibility (if it exists).
+						if ($item.children.length > 1) {
+	
+							$label = $item.children[1];
+							found = false;
+	
+							// Step through sub-labels.
+								for (j = 0; j < $label.children.length; j++) {
+	
+									$sublabel = $label.children[j];
+	
+									// Reset sub-label visibility.
+										$sublabel.style.display = '';
+	
+									// Able to fit *and* haven't found a match already? Show sub-label.
+										if (!found && $sublabel.offsetWidth < iw) {
+	
+											found = true;
+											$sublabel.style.display = '';
+	
+										}
+	
+									// Otherwise, hide it.
+										else
+											$sublabel.style.display = 'none';
+	
+								}
+	
+						}
+	
+				}
+	
+			// Set component heights.
+				for (j = 0; j < $components.length; j++) {
+	
+					$components[j].style.lineHeight = h + 'px';
+					$components[j].style.height = h + 'px';
+	
+				}
+	
+			// Set symbol heights, font sizes.
+				for (j = 0; j < $symbols.length; j++) {
+	
+					$symbols[j].style.fontSize = (f * 0.5) + 'px';
+					$symbols[j].style.lineHeight = h + 'px';
+					$symbols[j].style.height = h + 'px';
+	
+				}
+	
+			// Set parent height.
+				this.$parent.style.height = '';
+				this.$parent.style.height = this.$parent.offsetHeight + 'px';
+	
+		};
+	
+		/**
+		 * Updates digits.
+		 */
+		timer.prototype.updateDigits = function() {
+	
+			var _this = this,
+				x = [
+					{
+						class: 'days',
+						digit: 0,
+						label: {
+							full: 'Days',
+							abbreviated: 'Days',
+							initialed: 'D'
+						}
+					},
+					{
+						class: 'hours',
+						digit: 0,
+						label: {
+							full: 'Hours',
+							abbreviated: 'Hrs',
+							initialed: 'H'
+						}
+					},
+					{
+						class: 'minutes',
+						digit: 0,
+						label: {
+							full: 'Minutes',
+							abbreviated: 'Mins',
+							initialed: 'M'
+						}
+					},
+					{
+						class: 'seconds',
+						digit: 0,
+						label: {
+							full: 'Seconds',
+							abbreviated: 'Secs',
+							initialed: 'S'
+						}
+					},
+				],
+				now, diff,
+				zeros, status, i, j, x, z, t, s;
+	
+			// Mode.
+				now = parseInt(Date.now() / 1000);
+	
+				switch (this.mode) {
+	
+					case 'countdown':
+						if (this.timestamp > now)
+							diff = this.timestamp - now;
+						else
+							diff = 0;
+	
+						// Hit zero *and* a complete URL was provided? Redirect to it.
+							if (diff == 0
+							&&	this.completeUrl
+							&&	!this.completed) {
+	
+								// Mark as completed.
+									this.completed = true;
+	
+								// Redirect.
+									window.setTimeout(function() {
+										window.location.href = _this.completeUrl;
+									}, 1000);
+	
+							}
+	
+						break;
+	
+					default:
+					case 'default':
+						if (this.timestamp > now)
+							diff = this.timestamp - now;
+						else
+							diff = now - this.timestamp;
+	
+						break;
+	
+				}
+	
+			// Update counts.
+	
+				// Days.
+					x[0].digit = Math.floor(diff / 86400);
+					diff -= x[0].digit * 86400;
+	
+				// Hours.
+					x[1].digit = Math.floor(diff / 3600);
+					diff -= x[1].digit * 3600;
+	
+				// Minutes.
+					x[2].digit = Math.floor(diff / 60);
+					diff -= x[2].digit * 60;
+	
+				// Seconds.
+					x[3].digit = diff;
+	
+			// Count zeros.
+				zeros = 0;
+	
+				for (i = 0; i < x.length; i++)
+					if (x[i].digit == 0)
+						zeros++;
+					else
+						break;
+	
+			// Delete zeros if they exceed precision.
+				while (zeros > 0 && x.length > this.precision) {
+	
+					x.shift();
+					zeros--;
+	
+				}
+	
+			// Determine status.
+				z = [];
+	
+				for (i = 0; i < x.length; i++)
+					z.push(x[i].class);
+	
+				status = z.join('-');
+	
+			// Output.
+	
+				// Same status as before? Do a quick update.
+					if (status == this.status) {
+	
+						var $digit, $components;
+	
+						for (i = 0; i < x.length; i++) {
+	
+							$digit = document.querySelector('#' + this.id + ' .' + x[i].class + ' .digit');
+							$components = document.querySelectorAll('#' + this.id + ' .' + x[i].class + ' .digit .component');
+	
+							// No digit? Skip.
+								if (!$digit)
+									continue;
+	
+							// Get components.
+								z = [];
+								t = String(x[i].digit);
+	
+								if (x[i].digit < 10) {
+	
+									z.push('0');
+									z.push(t);
+	
+								}
+								else
+									for (j = 0; j < t.length; j++)
+										z.push(t.substr(j, 1));
+	
+							// Update count class.
+								$digit.classList.remove('count1', 'count2', 'count3', 'count4');
+								$digit.classList.add('count' + z.length);
+	
+							// Same number of components? Just update values.
+								if ($components.length == z.length) {
+	
+									for (j = 0; j < $components.length && j < z.length; j++)
+										$components[j].innerHTML = z[j];
+	
+								}
+	
+							// Otherwise, create new components.
+								else {
+	
+									s = '';
+	
+									for (j = 0; j < $components.length && j < z.length; j++)
+										s += '<span class="component x' + Math.random() + '">' + z[j] + '</span>';
+	
+									$digit.innerHTML = s;
+	
+								}
+	
+						}
+	
+					}
+	
+				// Otherwise, do a full one.
+					else {
+	
+						s = '';
+	
+						for (i = 0; i < x.length && i < this.precision; i++) {
+	
+							// Get components.
+								z = [];
+								t = String(x[i].digit);
+	
+								if (x[i].digit < 10) {
+	
+									z.push('0');
+									z.push(t);
+	
+								}
+								else
+									for (j = 0; j < t.length; j++)
+										z.push(t.substr(j, 1));
+	
+							// Delimiter.
+								if (i > 0)
+									s +=	'<li class="delimiter">' +
+												'<span class="symbol">:</span>' +
+											'</li>';
+	
+							// Number.
+								s +=		'<li class="number ' + x[i].class + '">' +
+												'<div class="item">';
+	
+								// Digit.
+									s +=			'<span class="digit count' + t.length + '">';
+	
+									for (j = 0; j < z.length; j++)
+										s +=			'<span class="component">' + z[j] + '</span>';
+	
+									s +=			'</span>';
+	
+								// Label.
+									switch (this.labelStyle) {
+	
+										default:
+										case 'full':
+											s +=					'<span class="label">' +
+																		'<span class="full">' + x[i].label.full + '</span>' +
+																		'<span class="abbreviated">' + x[i].label.abbreviated + '</span>' +
+																		'<span class="initialed">' + x[i].label.initialed + '</span>' +
+																	'</span>';
+	
+											break;
+	
+										case 'abbreviated':
+											s +=					'<span class="label">' +
+																		'<span class="abbreviated">' + x[i].label.abbreviated + '</span>' +
+																		'<span class="initialed">' + x[i].label.initialed + '</span>' +
+																	'</span>';
+	
+											break;
+	
+										case 'initialed':
+											s +=					'<span class="label">' +
+																		'<span class="initialed">' + x[i].label.initialed + '</span>' +
+																	'</span>';
+	
+											break;
+	
+										case 'none':
+											break;
+	
+									}
+	
+								s +=			'</div>' +
+											'</li>';
+	
+						}
+	
+						// Replace HTML.
+							_this.$parent.innerHTML = s;
+	
+						// Update status.
+							this.status = status;
+	
+					}
+	
+		};
+
+// Timer: timer01.
+	new timer(
+		'timer01',
+		1525039199,
+		{
+			mode: 'countdown',
+			precision: 4,
+			completeUrl: '',
+			labelStyle: 'initialed'
+		}
+	);
