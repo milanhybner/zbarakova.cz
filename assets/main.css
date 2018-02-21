@@ -1531,6 +1531,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text78 br + br {
+	margin-top: 0.75rem;
+}
+
+#text78 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text78 a {
+	text-decoration: none;
+}
+
+#text78 a:hover {
+	text-decoration: underline;
+}
+
 #text58 br + br {
 	margin-top: 0.75rem;
 }
@@ -1666,144 +1689,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text70 a:hover {
-	text-decoration: underline;
-}
-
-#text68 br + br {
-	margin-top: 0.75rem;
-}
-
-#text68 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text68 a {
-	text-decoration: none;
-}
-
-#text68 a:hover {
-	text-decoration: underline;
-}
-
-#text67 br + br {
-	margin-top: 0.75rem;
-}
-
-#text67 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text67 a {
-	text-decoration: none;
-}
-
-#text67 a:hover {
-	text-decoration: underline;
-}
-
-#text66 br + br {
-	margin-top: 0.75rem;
-}
-
-#text66 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text66 a {
-	text-decoration: none;
-}
-
-#text66 a:hover {
-	text-decoration: underline;
-}
-
-#text59 br + br {
-	margin-top: 0.75rem;
-}
-
-#text59 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text59 a {
-	text-decoration: none;
-}
-
-#text59 a:hover {
-	text-decoration: underline;
-}
-
-#text62 br + br {
-	margin-top: 0.75rem;
-}
-
-#text62 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text62 a {
-	text-decoration: none;
-}
-
-#text62 a:hover {
-	text-decoration: underline;
-}
-
-#text49 br + br {
-	margin-top: 0.75rem;
-}
-
-#text49 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text49 a {
-	text-decoration: none;
-}
-
-#text49 a:hover {
 	text-decoration: underline;
 }
 
