@@ -1531,6 +1531,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text49 br + br {
+	margin-top: 0.75rem;
+}
+
+#text49 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text49 a {
+	text-decoration: none;
+}
+
+#text49 a:hover {
+	text-decoration: underline;
+}
+
 #text78 br + br {
 	margin-top: 0.75rem;
 }
@@ -3145,25 +3168,22 @@ hr:before {
 	line-height: 1.5;
 }
 
-.links li {
-	display: inline-block;
-	vertical-align: middle;
-}
-
 .links li a {
 	display: block;
 }
 
 #links03 {
+	margin-left: -0.25rem;
+	width: calc(100% + 0.5rem);
 	text-transform: uppercase;
 	font-family: 'Raleway';
 	font-size: 1em;
 	font-weight: 700;
-	margin-left: -0.25rem;
-	width: calc(100% + 0.5rem);
 }
 
 #links03 li {
+	display: inline-block;
+	vertical-align: middle;
 	margin: 0.25rem;
 }
 
@@ -3177,15 +3197,17 @@ hr:before {
 }
 
 #links02 {
+	margin-left: -0.5rem;
+	width: calc(100% + 1rem);
 	text-transform: uppercase;
 	font-family: 'Raleway';
 	font-size: 1em;
 	font-weight: 700;
-	margin-left: -0.5rem;
-	width: calc(100% + 1rem);
 }
 
 #links02 li {
+	display: inline-block;
+	vertical-align: middle;
 	margin: 0.5rem;
 }
 
@@ -3199,15 +3221,17 @@ hr:before {
 }
 
 #links01 {
+	margin-left: -0.5rem;
+	width: calc(100% + 1rem);
 	text-transform: uppercase;
 	font-family: 'Raleway';
 	font-size: 1em;
 	font-weight: 700;
-	margin-left: -0.5rem;
-	width: calc(100% + 1rem);
 }
 
 #links01 li {
+	display: inline-block;
+	vertical-align: middle;
 	margin: 0.5rem;
 }
 
