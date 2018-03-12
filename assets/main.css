@@ -2130,11 +2130,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: none;
 }
 
-#text51 br + br {
+#text66 br + br {
 	margin-top: 0.9rem;
 }
 
-#text51 {
+#text66 {
 	color: #A1A1A1;
 	font-family: 'Arial';
 	letter-spacing: -0.025rem;
@@ -2144,11 +2144,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
-#text51 a {
+#text66 a {
 	text-decoration: underline;
 }
 
-#text51 a:hover {
+#text66 a:hover {
 	text-decoration: none;
 }
 
@@ -2276,6 +2276,28 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 1em;
 	line-height: 1.5;
 	font-weight: 400;
+}
+
+#text51 br + br {
+	margin-top: 0.9rem;
+}
+
+#text51 {
+	color: #A1A1A1;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+#text51 a {
+	text-decoration: underline;
+}
+
+#text51 a:hover {
+	text-decoration: none;
 }
 
 #text20 br + br {
