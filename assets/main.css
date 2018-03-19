@@ -1607,6 +1607,144 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text85 br + br {
+	margin-top: 0.75rem;
+}
+
+#text85 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text85 a {
+	text-decoration: none;
+}
+
+#text85 a:hover {
+	text-decoration: underline;
+}
+
+#text80 br + br {
+	margin-top: 0.75rem;
+}
+
+#text80 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text80 a {
+	text-decoration: none;
+}
+
+#text80 a:hover {
+	text-decoration: underline;
+}
+
+#text83 br + br {
+	margin-top: 0.75rem;
+}
+
+#text83 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text83 a {
+	text-decoration: none;
+}
+
+#text83 a:hover {
+	text-decoration: underline;
+}
+
+#text82 br + br {
+	margin-top: 0.75rem;
+}
+
+#text82 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text82 a {
+	text-decoration: none;
+}
+
+#text82 a:hover {
+	text-decoration: underline;
+}
+
+#text81 br + br {
+	margin-top: 0.75rem;
+}
+
+#text81 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text81 a {
+	text-decoration: none;
+}
+
+#text81 a:hover {
+	text-decoration: underline;
+}
+
+#text84 br + br {
+	margin-top: 0.75rem;
+}
+
+#text84 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text84 a {
+	text-decoration: none;
+}
+
+#text84 a:hover {
+	text-decoration: underline;
+}
+
 #text67 br + br {
 	margin-top: 0.75rem;
 }
