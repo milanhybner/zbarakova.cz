@@ -157,6 +157,9 @@ var	on = addEventListener,
 				// Determine target.
 					h = location.hash ? location.hash.substring(1) : null;
 
+					if (h && !h.match(/^[a-zA-Z]/))
+						h = 'x' + h;
+
 					// Scroll point.
 						if (e = $('[data-scroll-id="' + h + '"]')) {
 
@@ -268,30 +271,30 @@ var	on = addEventListener,
 							if (location.hash == '#home')
 								history.replaceState(null, null, '#');
 
-								// Deactivate current section.
-									currentSection = $('section:not(.inactive)');
-									currentSection.classList.add('inactive');
-									currentSection.classList.remove('active');
-									currentSection.style.display = 'none';
+						// Deactivate current section.
+							currentSection = $('section:not(.inactive)');
+							currentSection.classList.add('inactive');
+							currentSection.classList.remove('active');
+							currentSection.style.display = 'none';
 
-								// Activate target section.
-									section.classList.remove('inactive');
-									section.classList.add('active');
-									section.style.display = '';
+						// Activate target section.
+							section.classList.remove('inactive');
+							section.classList.add('active');
+							section.style.display = '';
 
-								// Trigger 'resize' event.
-									trigger('resize');
+						// Trigger 'resize' event.
+							trigger('resize');
 
-							 	// Scroll to scroll point (if applicable).
-							 		if (scrollPoint)
-										doScroll(scrollPoint, true);
+						// Scroll to scroll point (if applicable).
+							if (scrollPoint)
+								doScroll(scrollPoint, true);
 
-								// Otherwise, just scroll to top.
-									else
-										doScrollTop();
+						// Otherwise, just scroll to top.
+							else
+								doScrollTop();
 
-								// Unlock.
-									locked = false;
+						// Unlock.
+							locked = false;
 
 					}
 
