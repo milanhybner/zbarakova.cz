@@ -1943,6 +1943,98 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text73 br + br {
+	margin-top: 0.75rem;
+}
+
+#text73 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text73 a {
+	text-decoration: none;
+}
+
+#text73 a:hover {
+	text-decoration: underline;
+}
+
+#text70 br + br {
+	margin-top: 0.75rem;
+}
+
+#text70 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text70 a {
+	text-decoration: none;
+}
+
+#text70 a:hover {
+	text-decoration: underline;
+}
+
+#text67 br + br {
+	margin-top: 0.75rem;
+}
+
+#text67 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text67 a {
+	text-decoration: none;
+}
+
+#text67 a:hover {
+	text-decoration: underline;
+}
+
+#text62 br + br {
+	margin-top: 0.75rem;
+}
+
+#text62 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text62 a {
+	text-decoration: none;
+}
+
+#text62 a:hover {
+	text-decoration: underline;
+}
+
 #text58 br + br {
 	margin-top: 0.75rem;
 }
