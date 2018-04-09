@@ -1943,6 +1943,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text58 br + br {
+	margin-top: 0.75rem;
+}
+
+#text58 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text58 a {
+	text-decoration: none;
+}
+
+#text58 a:hover {
+	text-decoration: underline;
+}
+
 #text59 br + br {
 	margin-top: 0.75rem;
 }
