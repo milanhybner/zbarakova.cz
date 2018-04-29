@@ -11,7 +11,8 @@ var	on = addEventListener,
 				browser: 'other',
 				browserVersion: 0,
 				os: 'other',
-				osVersion: 0
+				osVersion: 0,
+				canUse: null
 			},
 			ua = navigator.userAgent,
 			a, i;
@@ -59,6 +60,24 @@ var	on = addEventListener,
 				}
 
 			}
+
+		// canUse.
+			var _canUse = document.createElement('div');
+
+			o.canUse = function(p) {
+
+				var e = _canUse.style,
+					up = p.charAt(0).toUpperCase() + p.slice(1);
+
+				return	(
+							p in e
+						||	('Moz' + up) in e
+						||	('Webkit' + up) in e
+						||	('O' + up) in e
+						||	('ms' + up) in e
+				);
+
+			};
 
 		return o;
 
@@ -145,6 +164,9 @@ var	on = addEventListener,
 
 				// Determine target.
 					h = location.hash ? location.hash.substring(1) : null;
+
+					if (h && !h.match(/^[a-zA-Z]/))
+						h = 'x' + h;
 
 					// Scroll point.
 						if (e = $('[data-scroll-id="' + h + '"]')) {
@@ -257,30 +279,30 @@ var	on = addEventListener,
 							if (location.hash == '#home')
 								history.replaceState(null, null, '#');
 
-								// Deactivate current section.
-									currentSection = $('section:not(.inactive)');
-									currentSection.classList.add('inactive');
-									currentSection.classList.remove('active');
-									currentSection.style.display = 'none';
+						// Deactivate current section.
+							currentSection = $('section:not(.inactive)');
+							currentSection.classList.add('inactive');
+							currentSection.classList.remove('active');
+							currentSection.style.display = 'none';
 
-								// Activate target section.
-									section.classList.remove('inactive');
-									section.classList.add('active');
-									section.style.display = '';
+						// Activate target section.
+							section.classList.remove('inactive');
+							section.classList.add('active');
+							section.style.display = '';
 
-								// Trigger 'resize' event.
-									trigger('resize');
+						// Trigger 'resize' event.
+							trigger('resize');
 
-							 	// Scroll to scroll point (if applicable).
-							 		if (scrollPoint)
-										doScroll(scrollPoint, true);
+						// Scroll to scroll point (if applicable).
+							if (scrollPoint)
+								doScroll(scrollPoint, true);
 
-								// Otherwise, just scroll to top.
-									else
-										doScrollTop();
+						// Otherwise, just scroll to top.
+							else
+								doScrollTop();
 
-								// Unlock.
-									locked = false;
+						// Unlock.
+							locked = false;
 
 					}
 
@@ -319,7 +341,7 @@ var	on = addEventListener,
 
 	})();
 
-// Platform-specific hacks.
+// Browser hacks.
 
 	// Init.
 		var style, sheet, rule;
@@ -469,6 +491,45 @@ var	on = addEventListener,
 
 		}
 
+	// Object-fit polyfill for Image elements.
+		if (!client.canUse('object-fit')) {
+
+			var xx = $$('.image[data-position]'),
+				x, c, i, src;
+
+			for (i=0; i < xx.length; i++) {
+
+				// Element, img.
+					x = xx[i];
+					c = x.firstChild;
+
+					if (c.tagName != 'IMG')
+						c = c.firstChild;
+
+				// Get src.
+					if (c.parentNode.classList.contains('deferred')) {
+
+						c.parentNode.classList.remove('deferred');
+						src = c.getAttribute('data-src');
+						c.removeAttribute('data-src');
+
+					}
+					else
+						src = c.getAttribute('src');
+
+				// Set src as background.
+					c.style['backgroundImage'] = 'url(\'' + src + '\')';
+					c.style['backgroundSize'] = 'cover';
+					c.style['backgroundPosition'] = x.dataset.position;
+					c.style['backgroundRepeat'] = 'no-repeat';
+
+				// Clear src.
+					c.src = 'data:image/svg+xml;charset=utf8,' + escape('<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1" viewBox="0 0 1 1"></svg>');
+
+			}
+
+		}
+
 // Deferred.
 	(function() {
 
@@ -486,7 +547,7 @@ var	on = addEventListener,
 
 				// Set parent to placeholder.
 					p.style.backgroundImage = 'url(' + i.src + ')';
-					p.style.backgroundSize = '100% auto';
+					p.style.backgroundSize = '100% 100%';
 					p.style.backgroundPosition = 'top left';
 					p.style.backgroundRepeat = 'no-repeat';
 
