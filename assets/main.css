@@ -13,6 +13,10 @@ body {
 	background-color: #F0F0F0;
 }
 
+u {
+	text-decoration: underline;
+}
+
 strong {
 	color: inherit;
 	font-weight: bolder;
