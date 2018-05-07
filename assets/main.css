@@ -1947,19 +1947,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
-<<<<<<< HEAD
 #text62 br + br {
 	margin-top: 0.75rem;
 }
 
 #text62 {
-=======
-#text85 br + br {
-	margin-top: 0.75rem;
-}
-
-#text85 {
->>>>>>> 6587c54e53d8329fade301c55df9586b8d56353c
 	text-align: center;
 	color: #363636;
 	font-family: 'Arial', 'sans-serif';
@@ -1970,7 +1962,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 700;
 }
 
-<<<<<<< HEAD
 #text62 a {
 	text-decoration: none;
 }
@@ -1984,21 +1975,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text59 {
-=======
-#text85 a {
-	text-decoration: none;
-}
-
-#text85 a:hover {
-	text-decoration: underline;
-}
-
-#text79 br + br {
-	margin-top: 0.75rem;
-}
-
-#text79 {
->>>>>>> 6587c54e53d8329fade301c55df9586b8d56353c
 	text-align: center;
 	color: #363636;
 	font-family: 'Arial', 'sans-serif';
@@ -2009,19 +1985,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 700;
 }
 
-<<<<<<< HEAD
 #text59 a {
 	text-decoration: none;
 }
 
 #text59 a:hover {
-=======
-#text79 a {
-	text-decoration: none;
-}
-
-#text79 a:hover {
->>>>>>> 6587c54e53d8329fade301c55df9586b8d56353c
 	text-decoration: underline;
 }
 
@@ -2071,7 +2039,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: underline;
 }
 
-<<<<<<< HEAD
 #text78 br + br {
 	margin-top: 0.75rem;
 }
@@ -2118,8 +2085,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: underline;
 }
 
-=======
->>>>>>> 6587c54e53d8329fade301c55df9586b8d56353c
 #text70 br + br {
 	margin-top: 0.75rem;
 }
