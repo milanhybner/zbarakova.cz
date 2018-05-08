@@ -1970,6 +1970,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: underline;
 }
 
+#text63 br + br {
+	margin-top: 0.75rem;
+}
+
+#text63 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text63 a {
+	text-decoration: none;
+}
+
+#text63 a:hover {
+	text-decoration: underline;
+}
+
 #text59 br + br {
 	margin-top: 0.75rem;
 }
