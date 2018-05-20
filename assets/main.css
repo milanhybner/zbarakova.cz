@@ -1351,6 +1351,15 @@ body.is-loading #main {
 	width: 46.125rem;
 }
 
+#image17 a, #image17 span {
+	border-radius: 1rem;
+}
+
+#image17 img {
+	width: 46.125rem;
+	border-radius: 1rem;
+}
+
 #image02 a, #image02 span {
 	border-radius: 100%;
 }
@@ -1974,29 +1983,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: underline;
 }
 
-#text67 br + br {
-	margin-top: 0.75rem;
-}
-
-#text67 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial', 'sans-serif';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text67 a {
-	text-decoration: none;
-}
-
-#text67 a:hover {
-	text-decoration: underline;
-}
-
 #text70 br + br {
 	margin-top: 0.75rem;
 }
@@ -2017,6 +2003,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text70 a:hover {
+	text-decoration: underline;
+}
+
+#text67 br + br {
+	margin-top: 0.75rem;
+}
+
+#text67 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text67 a {
+	text-decoration: none;
+}
+
+#text67 a:hover {
 	text-decoration: underline;
 }
 
@@ -2086,29 +2095,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text66 a:hover {
-	text-decoration: underline;
-}
-
-#text65 br + br {
-	margin-top: 0.75rem;
-}
-
-#text65 {
-	text-align: center;
-	color: #363636;
-	font-family: 'Arial', 'sans-serif';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.25;
-	font-weight: 700;
-}
-
-#text65 a {
-	text-decoration: none;
-}
-
-#text65 a:hover {
 	text-decoration: underline;
 }
 
@@ -2930,6 +2916,17 @@ hr:before {
 	content: '';
 	display: inline-block;
 	vertical-align: middle;
+}
+
+#divider68 {
+	height: 0.5rem;
+	line-height: 0.5rem;
+}
+
+#divider68:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
 }
 
 #divider36 {
@@ -5207,6 +5204,10 @@ th {
 		width: 46.125rem;
 	}
 	
+	#image17 img {
+		width: 46.125rem;
+	}
+	
 	#image02 img {
 		width: 8.375rem;
 	}
@@ -5269,6 +5270,11 @@ th {
 	
 	#text18 {
 		font-size: 3em;
+	}
+	
+	#divider68 {
+		height: 0.5rem;
+		line-height: 0.5rem;
 	}
 	
 	#divider36 {
