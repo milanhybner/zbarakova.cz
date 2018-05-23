@@ -1409,24 +1409,6 @@ body.is-loading #main {
 	border-radius: 1rem;
 }
 
-#image08 a, #image08 span {
-	border-radius: 1rem;
-}
-
-#image08 img {
-	width: 16.5rem;
-	border-radius: 1rem;
-}
-
-#image07 a, #image07 span {
-	border-radius: 1rem;
-}
-
-#image07 img {
-	width: 16.5rem;
-	border-radius: 1rem;
-}
-
 #image16 img {
 	width: 41.125rem;
 }
@@ -1960,6 +1942,52 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text59 br + br {
+	margin-top: 0.75rem;
+}
+
+#text59 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text59 a {
+	text-decoration: none;
+}
+
+#text59 a:hover {
+	text-decoration: underline;
+}
+
+#text56 br + br {
+	margin-top: 0.75rem;
+}
+
+#text56 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text56 a {
+	text-decoration: none;
+}
+
+#text56 a:hover {
+	text-decoration: underline;
+}
+
 #text58 br + br {
 	margin-top: 0.75rem;
 }
@@ -2208,84 +2236,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
-#text50 br + br {
-	margin-top: 0.675rem;
-}
-
-#text50 {
-	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
-	font-size: 1.25em;
-	line-height: 1.125;
-	font-weight: 900;
-}
-
-#text50 a {
-	text-decoration: underline;
-}
-
-#text50 a:hover {
-	text-decoration: none;
-}
-
-#text55 br + br {
-	margin-top: 0.9rem;
-}
-
-#text55 {
-	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
-#text64 br + br {
-	margin-top: 0.675rem;
-}
-
-#text64 {
-	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
-	font-size: 1.25em;
-	line-height: 1.125;
-	font-weight: 900;
-}
-
-#text64 a {
-	text-decoration: underline;
-}
-
-#text64 a:hover {
-	text-decoration: none;
-}
-
-#text69 br + br {
-	margin-top: 0.9rem;
-}
-
-#text69 {
-	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
-#text69 a {
-	text-decoration: underline;
-}
-
-#text69 a:hover {
-	text-decoration: none;
-}
-
 #text60 br + br {
 	margin-top: 0.675rem;
 }
@@ -2305,20 +2255,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text60 a:hover {
 	text-decoration: none;
-}
-
-#text43 br + br {
-	margin-top: 0.9rem;
-}
-
-#text43 {
-	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
 }
 
 #text42 br + br {
@@ -2347,19 +2283,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text44 {
-	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
-	font-size: 1.25em;
-	line-height: 1.125;
-	font-weight: 900;
-}
-
-#text57 br + br {
-	margin-top: 0.675rem;
-}
-
-#text57 {
 	text-transform: uppercase;
 	color: #5E5E5E;
 	font-family: 'Raleway', 'sans-serif';
@@ -2547,19 +2470,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text75 a:hover {
 	text-decoration: none;
-}
-
-#text20 br + br {
-	margin-top: 0.675rem;
-}
-
-#text20 {
-	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
-	font-size: 1.25em;
-	line-height: 1.125;
-	font-weight: 900;
 }
 
 #text25 br + br {
@@ -3457,17 +3367,6 @@ hr:before {
 	height: 1px;
 }
 
-#divider01 {
-	height: 0.5rem;
-	line-height: 0.5rem;
-}
-
-#divider01:before {
-	width: 22%;
-	border-top: solid 1px #D9D9D9;
-	height: 1px;
-}
-
 #divider32 {
 	height: 0.5rem;
 	line-height: 0.5rem;
@@ -3476,28 +3375,6 @@ hr:before {
 #divider32:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
-	height: 1px;
-}
-
-#divider30 {
-	height: 0.5rem;
-	line-height: 0.5rem;
-}
-
-#divider30:before {
-	width: 22%;
-	border-top: solid 1px transparent;
-	height: 1px;
-}
-
-#divider23 {
-	height: 0.5rem;
-	line-height: 0.5rem;
-}
-
-#divider23:before {
-	width: 22%;
-	border-top: solid 1px transparent;
 	height: 1px;
 }
 
@@ -5232,14 +5109,6 @@ th {
 		width: 16.5rem;
 	}
 	
-	#image08 img {
-		width: 16.5rem;
-	}
-	
-	#image07 img {
-		width: 16.5rem;
-	}
-	
 	#image16 img {
 		width: 41.125rem;
 	}
@@ -5517,22 +5386,7 @@ th {
 		line-height: 0.5rem;
 	}
 	
-	#divider01 {
-		height: 0.5rem;
-		line-height: 0.5rem;
-	}
-	
 	#divider32 {
-		height: 0.5rem;
-		line-height: 0.5rem;
-	}
-	
-	#divider30 {
-		height: 0.5rem;
-		line-height: 0.5rem;
-	}
-	
-	#divider23 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
