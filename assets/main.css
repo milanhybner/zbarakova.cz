@@ -1351,15 +1351,6 @@ body.is-loading #main {
 	width: 46.125rem;
 }
 
-#image17 a, #image17 span {
-	border-radius: 1rem;
-}
-
-#image17 img {
-	width: 46.125rem;
-	border-radius: 1rem;
-}
-
 #image02 a, #image02 span {
 	border-radius: 100%;
 }
@@ -1940,6 +1931,52 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
+}
+
+#text43 br + br {
+	margin-top: 0.75rem;
+}
+
+#text43 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text43 a {
+	text-decoration: none;
+}
+
+#text43 a:hover {
+	text-decoration: underline;
+}
+
+#text20 br + br {
+	margin-top: 0.75rem;
+}
+
+#text20 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text20 a {
+	text-decoration: none;
+}
+
+#text20 a:hover {
+	text-decoration: underline;
 }
 
 #text59 br + br {
@@ -2828,17 +2865,6 @@ hr:before {
 	vertical-align: middle;
 }
 
-#divider68 {
-	height: 0.5rem;
-	line-height: 0.5rem;
-}
-
-#divider68:before {
-	width: 22%;
-	border-top: solid 1px #D9D9D9;
-	height: 1px;
-}
-
 #divider36 {
 	height: 2.5rem;
 	line-height: 2.5rem;
@@ -3312,12 +3338,12 @@ hr:before {
 	height: 1px;
 }
 
-#divider27 {
+#divider01 {
 	height: 0.5rem;
 	line-height: 0.5rem;
 }
 
-#divider27:before {
+#divider01:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -3331,6 +3357,17 @@ hr:before {
 #divider18:before {
 	width: 22%;
 	border-top: solid 1px transparent;
+	height: 1px;
+}
+
+#divider27 {
+	height: 0.5rem;
+	line-height: 0.5rem;
+}
+
+#divider27:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
 	height: 1px;
 }
 
@@ -5081,10 +5118,6 @@ th {
 		width: 46.125rem;
 	}
 	
-	#image17 img {
-		width: 46.125rem;
-	}
-	
 	#image02 img {
 		width: 8.375rem;
 	}
@@ -5139,11 +5172,6 @@ th {
 	
 	#text18 {
 		font-size: 3em;
-	}
-	
-	#divider68 {
-		height: 0.5rem;
-		line-height: 0.5rem;
 	}
 	
 	#divider36 {
@@ -5361,12 +5389,17 @@ th {
 		line-height: 0.5rem;
 	}
 	
-	#divider27 {
+	#divider01 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
 	
 	#divider18 {
+		height: 0.5rem;
+		line-height: 0.5rem;
+	}
+	
+	#divider27 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
