@@ -1360,15 +1360,6 @@ body.is-loading #main {
 	border-radius: 100%;
 }
 
-#image06 a, #image06 span {
-	border-radius: 1rem;
-}
-
-#image06 img {
-	width: 16.5rem;
-	border-radius: 1rem;
-}
-
 #image05 a, #image05 span {
 	border-radius: 100%;
 }
@@ -1931,6 +1922,190 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
+}
+
+#text76 br + br {
+	margin-top: 0.75rem;
+}
+
+#text76 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text76 a {
+	text-decoration: none;
+}
+
+#text76 a:hover {
+	text-decoration: underline;
+}
+
+#text69 br + br {
+	margin-top: 0.75rem;
+}
+
+#text69 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text69 a {
+	text-decoration: none;
+}
+
+#text69 a:hover {
+	text-decoration: underline;
+}
+
+#text65 br + br {
+	margin-top: 0.75rem;
+}
+
+#text65 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text65 a {
+	text-decoration: none;
+}
+
+#text65 a:hover {
+	text-decoration: underline;
+}
+
+#text64 br + br {
+	margin-top: 0.75rem;
+}
+
+#text64 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text64 a {
+	text-decoration: none;
+}
+
+#text64 a:hover {
+	text-decoration: underline;
+}
+
+#text63 br + br {
+	margin-top: 0.75rem;
+}
+
+#text63 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text63 a {
+	text-decoration: none;
+}
+
+#text63 a:hover {
+	text-decoration: underline;
+}
+
+#text57 br + br {
+	margin-top: 0.75rem;
+}
+
+#text57 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text57 a {
+	text-decoration: none;
+}
+
+#text57 a:hover {
+	text-decoration: underline;
+}
+
+#text55 br + br {
+	margin-top: 0.75rem;
+}
+
+#text55 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text55 a {
+	text-decoration: none;
+}
+
+#text55 a:hover {
+	text-decoration: underline;
+}
+
+#text50 br + br {
+	margin-top: 0.75rem;
+}
+
+#text50 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text50 a {
+	text-decoration: none;
+}
+
+#text50 a:hover {
+	text-decoration: underline;
 }
 
 #text43 br + br {
@@ -3360,17 +3535,6 @@ hr:before {
 	height: 1px;
 }
 
-#divider27 {
-	height: 0.5rem;
-	line-height: 0.5rem;
-}
-
-#divider27:before {
-	width: 22%;
-	border-top: solid 1px #D9D9D9;
-	height: 1px;
-}
-
 #divider10 {
 	height: 0.5rem;
 	line-height: 0.5rem;
@@ -4686,6 +4850,11 @@ th {
 		text-align: inherit;
 	}
 	
+	#container03 > .inner > * > * {
+		margin-top: 1.25rem;
+		margin-bottom: 1.25rem;
+	}
+	
 	#container03 > .inner > * {
 		padding: 0 0 0 3rem;
 		padding: 1.5rem 0;
@@ -4726,6 +4895,11 @@ th {
 		width: 100%;
 		min-height: 100%;
 		text-align: inherit;
+	}
+	
+	#container16 > .inner > * > * {
+		margin-top: 1.25rem;
+		margin-bottom: 1.25rem;
 	}
 	
 	#container16 > .inner > * {
@@ -4782,6 +4956,11 @@ th {
 		width: 100%;
 		min-height: 100%;
 		text-align: inherit;
+	}
+	
+	#container15 > .inner > * > * {
+		margin-top: 1.25rem;
+		margin-bottom: 1.25rem;
 	}
 	
 	#container15 > .inner > * {
@@ -5073,6 +5252,11 @@ th {
 		text-align: inherit;
 	}
 	
+	#container01 > .inner > * > * {
+		margin-top: 1.25rem;
+		margin-bottom: 1.25rem;
+	}
+	
 	#container01 > .inner > * {
 		padding: 0 0 0 3rem;
 		padding: 1.5rem 0;
@@ -5101,6 +5285,11 @@ th {
 		width: calc(50% + 1.5rem);
 	}
 	
+	#container08 > .inner > * > * {
+		margin-top: 1.125rem;
+		margin-bottom: 1.125rem;
+	}
+	
 	#container08 > .inner > * {
 		padding: 0 0 0 3rem;
 	}
@@ -5120,10 +5309,6 @@ th {
 	
 	#image02 img {
 		width: 8.375rem;
-	}
-	
-	#image06 img {
-		width: 16.5rem;
 	}
 	
 	#image05 img {
@@ -5399,11 +5584,6 @@ th {
 		line-height: 0.5rem;
 	}
 	
-	#divider27 {
-		height: 0.5rem;
-		line-height: 0.5rem;
-	}
-	
 	#divider10 {
 		height: 0.5rem;
 		line-height: 0.5rem;
@@ -5519,6 +5699,21 @@ th {
 		margin-bottom: 1.09375rem;
 	}
 	
+	#container03 > .inner > * > * {
+		margin-top: 1.09375rem;
+		margin-bottom: 1.09375rem;
+	}
+	
+	#container16 > .inner > * > * {
+		margin-top: 1.09375rem;
+		margin-bottom: 1.09375rem;
+	}
+	
+	#container15 > .inner > * > * {
+		margin-top: 1.09375rem;
+		margin-bottom: 1.09375rem;
+	}
+	
 	#container06 > .inner > * {
 		margin-top: 1.09375rem;
 		margin-bottom: 1.09375rem;
@@ -5567,6 +5762,16 @@ th {
 	#container02 > .inner > * {
 		margin-top: 1.09375rem;
 		margin-bottom: 1.09375rem;
+	}
+	
+	#container01 > .inner > * > * {
+		margin-top: 1.09375rem;
+		margin-bottom: 1.09375rem;
+	}
+	
+	#container08 > .inner > * > * {
+		margin-top: 0.984375rem;
+		margin-bottom: 0.984375rem;
 	}
 }
 
@@ -5651,12 +5856,27 @@ th {
 		padding: 2.25rem 0rem;
 	}
 	
+	#container03 > .inner > * > * {
+		margin-top: 0.9375rem;
+		margin-bottom: 0.9375rem;
+	}
+	
 	#container16 > .inner {
 		padding: 1.125rem 0rem;
 	}
 	
+	#container16 > .inner > * > * {
+		margin-top: 0.9375rem;
+		margin-bottom: 0.9375rem;
+	}
+	
 	#container15 > .inner {
 		padding: 1.125rem 0rem;
+	}
+	
+	#container15 > .inner > * > * {
+		margin-top: 0.9375rem;
+		margin-bottom: 0.9375rem;
 	}
 	
 	#container06 > .inner {
@@ -5893,8 +6113,18 @@ th {
 		padding: 0rem 0rem;
 	}
 	
+	#container01 > .inner > * > * {
+		margin-top: 0.9375rem;
+		margin-bottom: 0.9375rem;
+	}
+	
 	#container08 > .inner {
 		padding: 1.125rem 0rem;
+	}
+	
+	#container08 > .inner > * > * {
+		margin-top: 0.84375rem;
+		margin-bottom: 0.84375rem;
 	}
 	
 	#text26 {
