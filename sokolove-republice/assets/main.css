@@ -408,97 +408,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 800;
 }
 
-#text30 br + br {
-	margin-top: 0.9rem;
-}
-
-#text30 {
-	text-align: left;
-	color: #EE2431;
-	font-family: 'Open Sans', 'sans-serif';
-	font-size: 1.5em;
-	line-height: 1.5;
-	font-weight: 700;
-}
-
-#text41 br + br {
-	margin-top: 0.9rem;
-}
-
-#text41 {
-	text-align: left;
-	color: #293D9B;
-	font-family: 'Open Sans', 'sans-serif';
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 700;
-}
-
-#text34 br + br {
-	margin-top: 0.9rem;
-}
-
-#text34 {
-	text-align: justify;
-	color: #293D9B;
-	font-family: 'Open Sans', 'sans-serif';
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
-#text26 br + br {
-	margin-top: 0.9rem;
-}
-
-#text26 {
-	text-align: left;
-	color: #EE2431;
-	font-family: 'Open Sans', 'sans-serif';
-	font-size: 1.5em;
-	line-height: 1.5;
-	font-weight: 700;
-}
-
-#text27 br + br {
-	margin-top: 0.9rem;
-}
-
-#text27 {
-	text-align: left;
-	color: #293D9B;
-	font-family: 'Open Sans', 'sans-serif';
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 700;
-}
-
-#text24 br + br {
-	margin-top: 0.9rem;
-}
-
-#text24 {
-	text-align: justify;
-	color: #293D9B;
-	font-family: 'Open Sans', 'sans-serif';
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
-#text28 br + br {
-	margin-top: 0.9rem;
-}
-
-#text28 {
-	text-align: justify;
-	color: #293D9B;
-	font-family: 'Open Sans', 'sans-serif';
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
 #text31 br + br {
 	margin-top: 0.9rem;
 }
@@ -1056,28 +965,6 @@ hr:before {
 	height: 3px;
 }
 
-#divider02 {
-	height: 2rem;
-	line-height: 2rem;
-}
-
-#divider02:before {
-	width: 100%;
-	border-top: solid 3px transparent;
-	height: 3px;
-}
-
-#divider16 {
-	height: 2rem;
-	line-height: 2rem;
-}
-
-#divider16:before {
-	width: 100%;
-	border-top: solid 3px transparent;
-	height: 3px;
-}
-
 #divider08 {
 	height: 2rem;
 	line-height: 2rem;
@@ -1220,40 +1107,6 @@ hr:before {
 }
 
 #buttons02 .n01:hover {
-	color: #EE2431;
-	border-color: #EE2431;
-}
-
-#buttons01 {
-	width: calc(100% + 0.75rem);
-	margin-left: -0.375rem;
-}
-
-#buttons01 li {
-	display: inline-block;
-	vertical-align: middle;
-	max-width: calc(100% - 0.75rem);
-	margin: 0.375rem;
-}
-
-#buttons01 li a {
-	display: block;
-	width: auto;
-	height: 2.5rem;
-	line-height: 2.5rem;
-	padding: 0 1.25rem;
-	font-size: 1em;
-	font-family: 'Open Sans', 'sans-serif';
-	font-weight: 700;
-	border-radius: 0rem;
-}
-
-#buttons01 .n01 {
-	color: #293D9B;
-	border: solid 1px #293D9B;
-}
-
-#buttons01 .n01:hover {
 	color: #EE2431;
 	border-color: #EE2431;
 }
@@ -1414,6 +1267,11 @@ hr:before {
 		text-align: inherit;
 	}
 	
+	#container04 > .inner > * > * {
+		margin-top: 0.75rem;
+		margin-bottom: 0.75rem;
+	}
+	
 	#container04 > .inner > * {
 		padding: 0 0 0 2rem;
 		padding: 1rem 0;
@@ -1479,6 +1337,11 @@ hr:before {
 		text-align: inherit;
 	}
 	
+	#container03 > .inner > * > * {
+		margin-top: 0.75rem;
+		margin-bottom: 0.75rem;
+	}
+	
 	#container03 > .inner > * {
 		padding: 0 0 0 2rem;
 		padding: 1rem 0;
@@ -1500,16 +1363,6 @@ hr:before {
 	}
 	
 	#divider03 {
-		height: 2rem;
-		line-height: 2rem;
-	}
-	
-	#divider02 {
-		height: 2rem;
-		line-height: 2rem;
-	}
-	
-	#divider16 {
 		height: 2rem;
 		line-height: 2rem;
 	}
@@ -1584,7 +1437,17 @@ hr:before {
 		margin-bottom: 0.65625rem;
 	}
 	
+	#container04 > .inner > * > * {
+		margin-top: 0.65625rem;
+		margin-bottom: 0.65625rem;
+	}
+	
 	#container06 > .inner > * {
+		margin-top: 0.65625rem;
+		margin-bottom: 0.65625rem;
+	}
+	
+	#container03 > .inner > * > * {
 		margin-top: 0.65625rem;
 		margin-bottom: 0.65625rem;
 	}
@@ -1666,6 +1529,11 @@ hr:before {
 		padding: 1.5rem 1.5rem;
 	}
 	
+	#container04 > .inner > * > * {
+		margin-top: 0.5625rem;
+		margin-bottom: 0.5625rem;
+	}
+	
 	#container06 > .inner {
 		padding: 1.5rem 1.5rem;
 	}
@@ -1693,22 +1561,17 @@ hr:before {
 		padding: 1.5rem 1.5rem;
 	}
 	
+	#container03 > .inner > * > * {
+		margin-top: 0.5625rem;
+		margin-bottom: 0.5625rem;
+	}
+	
 	#buttons02 {
 		width: calc(100% + 0.5625rem);
 		margin-left: -0.28125rem;
 	}
 	
 	#buttons02 li {
-		max-width: calc(100% - 0.5625rem);
-		margin: 0.28125rem;
-	}
-	
-	#buttons01 {
-		width: calc(100% + 0.5625rem);
-		margin-left: -0.28125rem;
-	}
-	
-	#buttons01 li {
 		max-width: calc(100% - 0.5625rem);
 		margin: 0.28125rem;
 	}
