@@ -1706,6 +1706,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text54 br + br {
+	margin-top: 0.75rem;
+}
+
+#text54 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text54 a {
+	text-decoration: none;
+}
+
+#text54 a:hover {
+	text-decoration: underline;
+}
+
 #text29 br + br {
 	margin-top: 0.75rem;
 }
@@ -2913,6 +2936,17 @@ hr:before {
 }
 
 #divider01:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
+}
+
+#divider18 {
+	height: 0.5rem;
+	line-height: 0.5rem;
+}
+
+#divider18:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -4768,6 +4802,11 @@ th {
 	}
 	
 	#divider01 {
+		height: 0.5rem;
+		line-height: 0.5rem;
+	}
+	
+	#divider18 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
