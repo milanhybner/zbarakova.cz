@@ -45,7 +45,8 @@ var	on = addEventListener,
 				['ios',			/CPU like Mac OS X/,				function(v) { return 0 }],
 				['android',		/Android ([0-9\.]+)/,				null],
 				['mac',			/Macintosh.+Mac OS X ([0-9_]+)/,	function(v) { return v.replace('_', '.').replace('_', ''); }],
-				['windows',		/Windows NT ([0-9\.]+)/,			null]
+				['windows',		/Windows NT ([0-9\.]+)/,			null],
+				['undefined',	/Undefined/,						null],
 			];
 
 			for (i=0; i < a.length; i++) {
@@ -198,7 +199,7 @@ var	on = addEventListener,
 						}
 
 				// Deactivate all sections (except initial).
-					ee = $$('section:not([id="' + initialId + '"])');
+					ee = $$('#main > .inner > section:not([id="' + initialId + '"])');
 
 					for (k = 0; k < ee.length; k++) {
 
@@ -291,7 +292,7 @@ var	on = addEventListener,
 								history.replaceState(null, null, '#');
 
 						// Deactivate current section.
-							currentSection = $('section:not(.inactive)');
+							currentSection = $('#main > .inner > section:not(.inactive)');
 							currentSection.classList.add('inactive');
 							currentSection.classList.remove('active');
 							currentSection.style.display = 'none';
@@ -433,6 +434,32 @@ var	on = addEventListener,
 
 	// IE.
 		else if (client.browser == 'ie') {
+
+			// Background fix.
+			// IE doesn't consistently render background images applied to body:before so as a workaround
+			// we can simply apply it directly to the body tag.
+				(function() {
+
+					var x = $('body'),
+						s = getComputedStyle(x, ':before');
+
+					// Has a background?
+						if (s.content == '""') {
+
+							// Override body:before rule.
+								document.styleSheets[0].addRule('body:before', 'content: none !important;');
+
+							// Copy over background styles.
+								x.style.backgroundImage = s.backgroundImage;
+								x.style.backgroundPosition = s.backgroundPosition;
+								x.style.backgroundRepeat = s.backgroundRepeat;
+								x.style.backgroundSize = s.backgroundSize;
+								x.style.backgroundColor = s.backgroundColor;
+								x.style.backgroundAttachment = 'fixed';
+
+						}
+
+				})();
 
 			// Flexbox workaround.
 			// IE's flexbox implementation doesn't work when 'min-height' is used, so we can work around this

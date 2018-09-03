@@ -1706,6 +1706,144 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text61 br + br {
+	margin-top: 0.75rem;
+}
+
+#text61 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text61 a {
+	text-decoration: none;
+}
+
+#text61 a:hover {
+	text-decoration: underline;
+}
+
+#text59 br + br {
+	margin-top: 0.75rem;
+}
+
+#text59 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text59 a {
+	text-decoration: none;
+}
+
+#text59 a:hover {
+	text-decoration: underline;
+}
+
+#text58 br + br {
+	margin-top: 0.75rem;
+}
+
+#text58 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text58 a {
+	text-decoration: none;
+}
+
+#text58 a:hover {
+	text-decoration: underline;
+}
+
+#text57 br + br {
+	margin-top: 0.75rem;
+}
+
+#text57 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text57 a {
+	text-decoration: none;
+}
+
+#text57 a:hover {
+	text-decoration: underline;
+}
+
+#text56 br + br {
+	margin-top: 0.75rem;
+}
+
+#text56 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text56 a {
+	text-decoration: none;
+}
+
+#text56 a:hover {
+	text-decoration: underline;
+}
+
+#text55 br + br {
+	margin-top: 0.75rem;
+}
+
+#text55 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text55 a {
+	text-decoration: none;
+}
+
+#text55 a:hover {
+	text-decoration: underline;
+}
+
 #text54 br + br {
 	margin-top: 0.75rem;
 }
