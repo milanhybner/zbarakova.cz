@@ -1706,6 +1706,98 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text68 br + br {
+	margin-top: 0.75rem;
+}
+
+#text68 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text68 a {
+	text-decoration: none;
+}
+
+#text68 a:hover {
+	text-decoration: underline;
+}
+
+#text67 br + br {
+	margin-top: 0.75rem;
+}
+
+#text67 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text67 a {
+	text-decoration: none;
+}
+
+#text67 a:hover {
+	text-decoration: underline;
+}
+
+#text66 br + br {
+	margin-top: 0.75rem;
+}
+
+#text66 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text66 a {
+	text-decoration: none;
+}
+
+#text66 a:hover {
+	text-decoration: underline;
+}
+
+#text65 br + br {
+	margin-top: 0.75rem;
+}
+
+#text65 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text65 a {
+	text-decoration: none;
+}
+
+#text65 a:hover {
+	text-decoration: underline;
+}
+
 #text64 br + br {
 	margin-top: 0.75rem;
 }
@@ -3346,6 +3438,15 @@ hr:before {
 	text-align: center;
 	white-space: nowrap;
 	max-width: 100%;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
+	align-items: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+	-ms-justify-content: center;
+	justify-content: center;
+	vertical-align: middle;
 }
 
 #buttons06 {
@@ -3361,10 +3462,14 @@ hr:before {
 }
 
 #buttons06 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3396,10 +3501,14 @@ hr:before {
 }
 
 #buttons07 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3451,10 +3560,14 @@ hr:before {
 }
 
 #buttons08 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3491,10 +3604,14 @@ hr:before {
 }
 
 #buttons10 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3531,10 +3648,14 @@ hr:before {
 }
 
 #buttons09 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3571,10 +3692,14 @@ hr:before {
 }
 
 #buttons01 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3611,10 +3736,14 @@ hr:before {
 }
 
 #buttons03 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3726,10 +3855,14 @@ hr:before {
 }
 
 #buttons11 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
@@ -3831,10 +3964,14 @@ hr:before {
 }
 
 #buttons04 li a {
-	display: block;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
 	width: auto;
 	height: 2.5rem;
 	line-height: 2.5rem;
+	vertical-align: middle;
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
