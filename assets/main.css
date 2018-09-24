@@ -1706,6 +1706,52 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text70 br + br {
+	margin-top: 0.75rem;
+}
+
+#text70 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text70 a {
+	text-decoration: none;
+}
+
+#text70 a:hover {
+	text-decoration: underline;
+}
+
+#text69 br + br {
+	margin-top: 0.75rem;
+}
+
+#text69 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text69 a {
+	text-decoration: none;
+}
+
+#text69 a:hover {
+	text-decoration: underline;
+}
+
 #text68 br + br {
 	margin-top: 0.75rem;
 }

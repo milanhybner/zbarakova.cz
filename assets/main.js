@@ -529,42 +529,82 @@ var	on = addEventListener,
 
 		}
 
-	// Object-fit polyfill for Image elements.
+	// Object-fit polyfill.
 		if (!client.canUse('object-fit')) {
 
-			var xx = $$('.image[data-position]'),
-				x, c, i, src;
+			// Image.
+				(function() {
 
-			for (i=0; i < xx.length; i++) {
+					var xx = $$('.image[data-position]'),
+						x, c, i, src;
 
-				// Element, img.
-					x = xx[i];
-					c = x.firstChild;
+					for (i=0; i < xx.length; i++) {
 
-					if (c.tagName != 'IMG')
-						c = c.firstChild;
+						// Element, img.
+							x = xx[i];
+							c = x.firstChild;
 
-				// Get src.
-					if (c.parentNode.classList.contains('deferred')) {
+							if (c.tagName != 'IMG')
+								c = c.firstChild;
 
-						c.parentNode.classList.remove('deferred');
-						src = c.getAttribute('data-src');
-						c.removeAttribute('data-src');
+						// Get src.
+							if (c.parentNode.classList.contains('deferred')) {
+
+								c.parentNode.classList.remove('deferred');
+								src = c.getAttribute('data-src');
+								c.removeAttribute('data-src');
+
+							}
+							else
+								src = c.getAttribute('src');
+
+						// Set src as element background.
+							c.style['backgroundImage'] = 'url(\'' + src + '\')';
+							c.style['backgroundSize'] = 'cover';
+							c.style['backgroundPosition'] = x.dataset.position;
+							c.style['backgroundRepeat'] = 'no-repeat';
+
+						// Clear src.
+							c.src = 'data:image/svg+xml;charset=utf8,' + escape('<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1" viewBox="0 0 1 1"></svg>');
 
 					}
-					else
-						src = c.getAttribute('src');
 
-				// Set src as background.
-					c.style['backgroundImage'] = 'url(\'' + src + '\')';
-					c.style['backgroundSize'] = 'cover';
-					c.style['backgroundPosition'] = x.dataset.position;
-					c.style['backgroundRepeat'] = 'no-repeat';
+				})();
 
-				// Clear src.
-					c.src = 'data:image/svg+xml;charset=utf8,' + escape('<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1" viewBox="0 0 1 1"></svg>');
+			// Gallery.
+				(function() {
 
-			}
+					var xx = $$('.gallery img'),
+						x, p, i, src;
+
+					for (i=0;i < xx.length; i++) {
+
+						// Img, parent.
+							x = xx[i];
+							p = x.parentNode;
+
+						// Get src.
+							if (p.classList.contains('deferred')) {
+
+								p.classList.remove('deferred');
+								src = x.getAttribute('data-src');
+
+							}
+							else
+								src = x.getAttribute('src');
+
+						// Set src as parent background.
+							p.style['backgroundImage'] = 'url(\'' + src + '\')';
+							p.style['backgroundSize'] = 'cover';
+							p.style['backgroundPosition'] = 'center';
+							p.style['backgroundRepeat'] = 'no-repeat';
+
+						// Hide img.
+							x.style['opacity'] = '0';
+
+					}
+
+				})();
 
 		}
 
