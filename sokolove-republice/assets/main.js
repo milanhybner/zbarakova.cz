@@ -45,7 +45,8 @@ var	on = addEventListener,
 				['ios',			/CPU like Mac OS X/,				function(v) { return 0 }],
 				['android',		/Android ([0-9\.]+)/,				null],
 				['mac',			/Macintosh.+Mac OS X ([0-9_]+)/,	function(v) { return v.replace('_', '.').replace('_', ''); }],
-				['windows',		/Windows NT ([0-9\.]+)/,			null]
+				['windows',		/Windows NT ([0-9\.]+)/,			null],
+				['undefined',	/Undefined/,						null],
 			];
 
 			for (i=0; i < a.length; i++) {
@@ -93,6 +94,33 @@ var	on = addEventListener,
 		}
 		else
 			dispatchEvent(new Event(t));
+
+	},
+	cssRules = function(selectorText) {
+
+		var ss = document.styleSheets,
+			a = [],
+			f = function(s) {
+
+				var r = s.cssRules,
+					i;
+
+				for (i=0; i < r.length; i++) {
+
+					if (r[i] instanceof CSSMediaRule && matchMedia(r[i].conditionText).matches)
+						(f)(r[i]);
+					else if (r[i] instanceof CSSStyleRule && r[i].selectorText == selectorText)
+						a.push(r[i]);
+
+				}
+
+			},
+			x, i;
+
+		for (i=0; i < ss.length; i++)
+			f(ss[i]);
+
+		return a;
 
 	};
 
@@ -187,7 +215,7 @@ var	on = addEventListener,
 						}
 
 				// Deactivate all sections (except initial).
-					ee = $$('section:not([id="' + initialId + '"])');
+					ee = $$('#main > .inner > section:not([id="' + initialId + '"])');
 
 					for (k = 0; k < ee.length; k++) {
 
@@ -280,7 +308,7 @@ var	on = addEventListener,
 								history.replaceState(null, null, '#');
 
 						// Deactivate current section.
-							currentSection = $('section:not(.inactive)');
+							currentSection = $('#main > .inner > section:not(.inactive)');
 							currentSection.classList.add('inactive');
 							currentSection.classList.remove('active');
 							currentSection.style.display = 'none';
@@ -423,6 +451,48 @@ var	on = addEventListener,
 	// IE.
 		else if (client.browser == 'ie') {
 
+			// Background fix.
+			// IE doesn't consistently render background images applied to body:before so as a workaround
+			// we can simply apply it directly to the body tag.
+				(function() {
+
+					var a = cssRules('body::before'),
+						r;
+
+					// Has a background?
+						if (a.length > 0) {
+
+							r = a[0];
+
+							if (r.style.width.match('calc')) {
+
+								// Force repaint.
+									r.style.opacity = 0.9999;
+
+									setTimeout(function() {
+										r.style.opacity = 1;
+									}, 100);
+
+							}
+							else {
+
+								// Override body:before rule.
+									document.styleSheets[0].addRule('body::before', 'content: none !important;');
+
+								// Copy over background styles.
+									$body.style.backgroundImage = r.style.backgroundImage.replace('url("images/', 'url("assets/images/');
+									$body.style.backgroundPosition = r.style.backgroundPosition;
+									$body.style.backgroundRepeat = r.style.backgroundRepeat;
+									$body.style.backgroundColor = r.style.backgroundColor;
+									$body.style.backgroundAttachment = 'fixed';
+									$body.style.backgroundSize = r.style.backgroundSize;
+
+							}
+
+						}
+
+				})();
+
 			// Flexbox workaround.
 			// IE's flexbox implementation doesn't work when 'min-height' is used, so we can work around this
 			// by switching to 'height' but simulating the behavior of 'min-height' via JS.
@@ -491,42 +561,82 @@ var	on = addEventListener,
 
 		}
 
-	// Object-fit polyfill for Image elements.
+	// Object-fit polyfill.
 		if (!client.canUse('object-fit')) {
 
-			var xx = $$('.image[data-position]'),
-				x, c, i, src;
+			// Image.
+				(function() {
 
-			for (i=0; i < xx.length; i++) {
+					var xx = $$('.image[data-position]'),
+						x, c, i, src;
 
-				// Element, img.
-					x = xx[i];
-					c = x.firstChild;
+					for (i=0; i < xx.length; i++) {
 
-					if (c.tagName != 'IMG')
-						c = c.firstChild;
+						// Element, img.
+							x = xx[i];
+							c = x.firstChild;
 
-				// Get src.
-					if (c.parentNode.classList.contains('deferred')) {
+							if (c.tagName != 'IMG')
+								c = c.firstChild;
 
-						c.parentNode.classList.remove('deferred');
-						src = c.getAttribute('data-src');
-						c.removeAttribute('data-src');
+						// Get src.
+							if (c.parentNode.classList.contains('deferred')) {
+
+								c.parentNode.classList.remove('deferred');
+								src = c.getAttribute('data-src');
+								c.removeAttribute('data-src');
+
+							}
+							else
+								src = c.getAttribute('src');
+
+						// Set src as element background.
+							c.style['backgroundImage'] = 'url(\'' + src + '\')';
+							c.style['backgroundSize'] = 'cover';
+							c.style['backgroundPosition'] = x.dataset.position;
+							c.style['backgroundRepeat'] = 'no-repeat';
+
+						// Clear src.
+							c.src = 'data:image/svg+xml;charset=utf8,' + escape('<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1" viewBox="0 0 1 1"></svg>');
 
 					}
-					else
-						src = c.getAttribute('src');
 
-				// Set src as background.
-					c.style['backgroundImage'] = 'url(\'' + src + '\')';
-					c.style['backgroundSize'] = 'cover';
-					c.style['backgroundPosition'] = x.dataset.position;
-					c.style['backgroundRepeat'] = 'no-repeat';
+				})();
 
-				// Clear src.
-					c.src = 'data:image/svg+xml;charset=utf8,' + escape('<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1" viewBox="0 0 1 1"></svg>');
+			// Gallery.
+				(function() {
 
-			}
+					var xx = $$('.gallery img'),
+						x, p, i, src;
+
+					for (i=0;i < xx.length; i++) {
+
+						// Img, parent.
+							x = xx[i];
+							p = x.parentNode;
+
+						// Get src.
+							if (p.classList.contains('deferred')) {
+
+								p.classList.remove('deferred');
+								src = x.getAttribute('data-src');
+
+							}
+							else
+								src = x.getAttribute('src');
+
+						// Set src as parent background.
+							p.style['backgroundImage'] = 'url(\'' + src + '\')';
+							p.style['backgroundSize'] = 'cover';
+							p.style['backgroundPosition'] = 'center';
+							p.style['backgroundRepeat'] = 'no-repeat';
+
+						// Hide img.
+							x.style['opacity'] = '0';
+
+					}
+
+				})();
 
 		}
 
