@@ -108,10 +108,6 @@ html {
 	-ms-flex-shrink: 0;
 	flex-shrink: 0;
 	text-align: center;
-	-moz-transition: opacity 1s ease-in-out 0s;
-	-webkit-transition: opacity 1s ease-in-out 0s;
-	-ms-transition: opacity 1s ease-in-out 0s;
-	transition: opacity 1s ease-in-out 0s;
 }
 
 #main > .inner {
@@ -202,10 +198,6 @@ html {
 	margin-bottom: -3.75rem !important;
 	border-bottom-left-radius: inherit;
 	border-bottom-right-radius: inherit;
-}
-
-body.is-loading #main {
-	opacity: 0;
 }
 
 @-moz-keyframes deferred-spinner {
@@ -1704,6 +1696,75 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
+}
+
+#text76 br + br {
+	margin-top: 0.75rem;
+}
+
+#text76 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text76 a {
+	text-decoration: none;
+}
+
+#text76 a:hover {
+	text-decoration: underline;
+}
+
+#text73 br + br {
+	margin-top: 0.75rem;
+}
+
+#text73 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text73 a {
+	text-decoration: none;
+}
+
+#text73 a:hover {
+	text-decoration: underline;
+}
+
+#text71 br + br {
+	margin-top: 0.75rem;
+}
+
+#text71 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text71 a {
+	text-decoration: none;
+}
+
+#text71 a:hover {
+	text-decoration: underline;
 }
 
 #text70 br + br {
@@ -4516,28 +4577,28 @@ th {
 	#container03 > .inner {
 		padding: 3rem 0rem;
 		max-width: 100%;
-		-moz-flex-direction: column;
-		-webkit-flex-direction: column;
-		-ms-flex-direction: column;
-		flex-direction: column;
-		-moz-flex-wrap: nowrap;
-		-webkit-flex-wrap: nowrap;
-		-ms-flex-wrap: nowrap;
-		flex-wrap: nowrap;
+		-moz-flex-direction: column !important;
+		-webkit-flex-direction: column !important;
+		-ms-flex-direction: column !important;
+		flex-direction: column !important;
+		-moz-flex-wrap: nowrap !important;
+		-webkit-flex-wrap: nowrap !important;
+		-ms-flex-wrap: nowrap !important;
+		flex-wrap: nowrap !important;
 	}
 	
 	#container03 > .inner > :nth-child(1) {
 		width: calc(50% + 1.5rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container03 > .inner > :nth-child(2) {
 		width: calc(50% + 1.5rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container03 > .inner > * > * {
@@ -4547,44 +4608,44 @@ th {
 	
 	#container03 > .inner > * {
 		padding: 0 0 0 3rem;
-		padding: 1.5rem 0;
+		padding: 1.5rem 0 !important;
 	}
 	
 	#container03 > .inner > *:first-child {
 		margin-left: -3rem;
-		margin-left: 0;
-		padding-top: 0;
+		margin-left: 0 !important;
+		padding-top: 0 !important;
 	}
 	
 	#container03 > .inner > *:last-child {
-		padding-bottom: 0;
+		padding-bottom: 0 !important;
 	}
 	
 	#container16 > .inner {
 		padding: 1.5rem 0rem;
 		max-width: 100%;
-		-moz-flex-direction: column;
-		-webkit-flex-direction: column;
-		-ms-flex-direction: column;
-		flex-direction: column;
-		-moz-flex-wrap: nowrap;
-		-webkit-flex-wrap: nowrap;
-		-ms-flex-wrap: nowrap;
-		flex-wrap: nowrap;
+		-moz-flex-direction: column !important;
+		-webkit-flex-direction: column !important;
+		-ms-flex-direction: column !important;
+		flex-direction: column !important;
+		-moz-flex-wrap: nowrap !important;
+		-webkit-flex-wrap: nowrap !important;
+		-ms-flex-wrap: nowrap !important;
+		flex-wrap: nowrap !important;
 	}
 	
 	#container16 > .inner > :nth-child(1) {
 		width: calc(50% + 1.5rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container16 > .inner > :nth-child(2) {
 		width: calc(50% + 1.5rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container16 > .inner > * > * {
@@ -4594,58 +4655,58 @@ th {
 	
 	#container16 > .inner > * {
 		padding: 0 0 0 3rem;
-		padding: 1.5rem 0;
+		padding: 1.5rem 0 !important;
 	}
 	
 	#container16 > .inner > *:first-child {
 		margin-left: -3rem;
-		margin-left: 0;
-		padding-top: 0;
+		margin-left: 0 !important;
+		padding-top: 0 !important;
 	}
 	
 	#container16 > .inner > *:last-child {
-		padding-bottom: 0;
+		padding-bottom: 0 !important;
 	}
 	
 	#container15 > .inner {
 		padding: 1.5rem 0rem;
 		max-width: 100%;
-		-moz-flex-direction: column;
-		-webkit-flex-direction: column;
-		-ms-flex-direction: column;
-		flex-direction: column;
-		-moz-flex-wrap: nowrap;
-		-webkit-flex-wrap: nowrap;
-		-ms-flex-wrap: nowrap;
-		flex-wrap: nowrap;
+		-moz-flex-direction: column !important;
+		-webkit-flex-direction: column !important;
+		-ms-flex-direction: column !important;
+		flex-direction: column !important;
+		-moz-flex-wrap: nowrap !important;
+		-webkit-flex-wrap: nowrap !important;
+		-ms-flex-wrap: nowrap !important;
+		flex-wrap: nowrap !important;
 	}
 	
 	#container15 > .inner > :nth-child(1) {
 		width: calc(25% + 0.75rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container15 > .inner > :nth-child(2) {
 		width: calc(25% + 0.75rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container15 > .inner > :nth-child(3) {
 		width: calc(25% + 0.75rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container15 > .inner > :nth-child(4) {
 		width: calc(25% + 0.75rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container15 > .inner > * > * {
@@ -4655,17 +4716,17 @@ th {
 	
 	#container15 > .inner > * {
 		padding: 0 0 0 3rem;
-		padding: 1.5rem 0;
+		padding: 1.5rem 0 !important;
 	}
 	
 	#container15 > .inner > *:first-child {
 		margin-left: -3rem;
-		margin-left: 0;
-		padding-top: 0;
+		margin-left: 0 !important;
+		padding-top: 0 !important;
 	}
 	
 	#container15 > .inner > *:last-child {
-		padding-bottom: 0;
+		padding-bottom: 0 !important;
 	}
 	
 	#container06 > .inner {
@@ -4863,35 +4924,35 @@ th {
 	#container01 > .inner {
 		padding: 0rem 0rem;
 		max-width: 100%;
-		-moz-flex-direction: column;
-		-webkit-flex-direction: column;
-		-ms-flex-direction: column;
-		flex-direction: column;
-		-moz-flex-wrap: nowrap;
-		-webkit-flex-wrap: nowrap;
-		-ms-flex-wrap: nowrap;
-		flex-wrap: nowrap;
+		-moz-flex-direction: column !important;
+		-webkit-flex-direction: column !important;
+		-ms-flex-direction: column !important;
+		flex-direction: column !important;
+		-moz-flex-wrap: nowrap !important;
+		-webkit-flex-wrap: nowrap !important;
+		-ms-flex-wrap: nowrap !important;
+		flex-wrap: nowrap !important;
 	}
 	
 	#container01 > .inner > :nth-child(1) {
 		width: calc(33.33333% + 1rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container01 > .inner > :nth-child(2) {
 		width: calc(33.33333% + 1rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container01 > .inner > :nth-child(3) {
 		width: calc(33.33333% + 1rem);
-		width: 100%;
-		min-height: 100%;
-		text-align: inherit;
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container01 > .inner > * > * {
@@ -4901,17 +4962,17 @@ th {
 	
 	#container01 > .inner > * {
 		padding: 0 0 0 3rem;
-		padding: 1.5rem 0;
+		padding: 1.5rem 0 !important;
 	}
 	
 	#container01 > .inner > *:first-child {
 		margin-left: -3rem;
-		margin-left: 0;
-		padding-top: 0;
+		margin-left: 0 !important;
+		padding-top: 0 !important;
 	}
 	
 	#container01 > .inner > *:last-child {
-		padding-bottom: 0;
+		padding-bottom: 0 !important;
 	}
 	
 	#container08 > .inner {

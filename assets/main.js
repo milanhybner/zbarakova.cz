@@ -95,18 +95,34 @@ var	on = addEventListener,
 		else
 			dispatchEvent(new Event(t));
 
+	},
+	cssRules = function(selectorText) {
+
+		var ss = document.styleSheets,
+			a = [],
+			f = function(s) {
+
+				var r = s.cssRules,
+					i;
+
+				for (i=0; i < r.length; i++) {
+
+					if (r[i] instanceof CSSMediaRule && matchMedia(r[i].conditionText).matches)
+						(f)(r[i]);
+					else if (r[i] instanceof CSSStyleRule && r[i].selectorText == selectorText)
+						a.push(r[i]);
+
+				}
+
+			},
+			x, i;
+
+		for (i=0; i < ss.length; i++)
+			f(ss[i]);
+
+		return a;
+
 	};
-
-// Animation.
-	on('load', function() {
-		setTimeout(function() {
-			$body.className = $body.className.replace(/\bis-loading\b/, 'is-playing');
-
-			setTimeout(function() {
-				$body.className = $body.className.replace(/\bis-playing\b/, 'is-ready');
-			}, 1000);
-		}, 100);
-	});
 
 // Sections.
 	(function() {
@@ -440,22 +456,38 @@ var	on = addEventListener,
 			// we can simply apply it directly to the body tag.
 				(function() {
 
-					var x = $('body'),
-						s = getComputedStyle(x, ':before');
+					var a = cssRules('body::before'),
+						r;
 
 					// Has a background?
-						if (s.content == '""') {
+						if (a.length > 0) {
 
-							// Override body:before rule.
-								document.styleSheets[0].addRule('body:before', 'content: none !important;');
+							r = a[0];
 
-							// Copy over background styles.
-								x.style.backgroundImage = s.backgroundImage;
-								x.style.backgroundPosition = s.backgroundPosition;
-								x.style.backgroundRepeat = s.backgroundRepeat;
-								x.style.backgroundSize = s.backgroundSize;
-								x.style.backgroundColor = s.backgroundColor;
-								x.style.backgroundAttachment = 'fixed';
+							if (r.style.width.match('calc')) {
+
+								// Force repaint.
+									r.style.opacity = 0.9999;
+
+									setTimeout(function() {
+										r.style.opacity = 1;
+									}, 100);
+
+							}
+							else {
+
+								// Override body:before rule.
+									document.styleSheets[0].addRule('body::before', 'content: none !important;');
+
+								// Copy over background styles.
+									$body.style.backgroundImage = r.style.backgroundImage.replace('url("images/', 'url("assets/images/');
+									$body.style.backgroundPosition = r.style.backgroundPosition;
+									$body.style.backgroundRepeat = r.style.backgroundRepeat;
+									$body.style.backgroundColor = r.style.backgroundColor;
+									$body.style.backgroundAttachment = 'fixed';
+									$body.style.backgroundSize = r.style.backgroundSize;
+
+							}
 
 						}
 
