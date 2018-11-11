@@ -3640,12 +3640,6 @@ hr:before {
 	height: 100%;
 }
 
-#embed02 .frame iframe {
-	max-width: 100%;
-	width: 100rem;
-	height: 25rem;
-}
-
 .links {
 	cursor: default;
 	padding: 0;
