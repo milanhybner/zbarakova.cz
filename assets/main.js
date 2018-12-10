@@ -128,6 +128,7 @@ var	on = addEventListener,
 	(function() {
 
 		var initialSection, initialScrollPoint, initialId,
+			header, footer, name, hideHeader, hideFooter,
 			h, e, ee, k,
 			locked = false,
 			initialized = false,
@@ -180,13 +181,18 @@ var	on = addEventListener,
 					else
 						scrollTo(0, pos);
 
-			};
+			},
+			sections = {};
 
 		// Initialize.
 
 			// Set scroll restoration to manual.
 				if ('scrollRestoration' in history)
 					history.scrollRestoration = 'manual';
+
+			// Header, footer.
+				header = $('#header');
+				footer = $('#footer');
 
 			// Show initial section.
 
@@ -215,14 +221,37 @@ var	on = addEventListener,
 						}
 
 				// Deactivate all sections (except initial).
-					ee = $$('#main > .inner > section:not([id="' + initialId + '"])');
 
-					for (k = 0; k < ee.length; k++) {
+					// Initially hide header and/or footer (if necessary).
+						name = (h ? h : 'home');
+						hideHeader = name ? ((name in sections) && ('hideHeader' in sections[name]) && sections[name].hideHeader) : false;
+						hideFooter = name ? ((name in sections) && ('hideFooter' in sections[name]) && sections[name].hideFooter) : false;
 
-						ee[k].className = 'inactive';
-						ee[k].style.display = 'none';
+						// Header.
+							if (header && hideHeader) {
 
-					}
+								header.classList.add('hidden');
+								header.style.display = 'none';
+
+							}
+
+						// Footer.
+							if (footer && hideFooter) {
+
+								footer.classList.add('hidden');
+								footer.style.display = 'none';
+
+							}
+
+					// Deactivate.
+						ee = $$('#main > .inner > section:not([id="' + initialId + '"])');
+
+						for (k = 0; k < ee.length; k++) {
+
+							ee[k].className = 'inactive';
+							ee[k].style.display = 'none';
+
+						}
 
 				// Activate initial section.
 					initialSection.classList.add('active');
@@ -246,6 +275,7 @@ var	on = addEventListener,
 			on('hashchange', function(event) {
 
 				var section, scrollPoint, id, sectionHeight, currentSection, currentSectionHeight,
+					name, hideHeader, hideFooter,
 					h, e, ee, k;
 
 				// Lock.
@@ -308,15 +338,58 @@ var	on = addEventListener,
 								history.replaceState(null, null, '#');
 
 						// Deactivate current section.
-							currentSection = $('#main > .inner > section:not(.inactive)');
-							currentSection.classList.add('inactive');
-							currentSection.classList.remove('active');
-							currentSection.style.display = 'none';
+
+							// Hide header and/or footer (if necessary).
+								name = (section ? section.id.replace(/-section$/, '') : null);
+								hideHeader = name ? ((name in sections) && ('hideHeader' in sections[name]) && sections[name].hideHeader) : false;
+								hideFooter = name ? ((name in sections) && ('hideFooter' in sections[name]) && sections[name].hideFooter) : false;
+
+								// Header.
+									if (header && hideHeader) {
+
+										header.classList.add('hidden');
+										header.style.display = 'none';
+
+									}
+
+								// Footer.
+									if (footer && hideFooter) {
+
+										footer.classList.add('hidden');
+										footer.style.display = 'none';
+
+									}
+
+							// Deactivate.
+								currentSection = $('#main > .inner > section:not(.inactive)');
+								currentSection.classList.add('inactive');
+								currentSection.classList.remove('active');
+								currentSection.style.display = 'none';
 
 						// Activate target section.
-							section.classList.remove('inactive');
-							section.classList.add('active');
-							section.style.display = '';
+
+							// Show header and/or footer (if necessary).
+
+								// Header.
+									if (header && !hideHeader) {
+
+										header.style.display = '';
+										header.classList.remove('hidden');
+
+									}
+
+								// Footer.
+									if (footer && !hideFooter) {
+
+										footer.style.display = '';
+										footer.classList.remove('hidden');
+
+									}
+
+							// Activate.
+								section.classList.remove('inactive');
+								section.classList.add('active');
+								section.style.display = '';
 
 						// Trigger 'resize' event.
 							trigger('resize');
