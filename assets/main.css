@@ -1921,6 +1921,52 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
+#text20 br + br {
+	margin-top: 0.75rem;
+}
+
+#text20 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text20 a {
+	text-decoration: none;
+}
+
+#text20 a:hover {
+	text-decoration: underline;
+}
+
+#text17 br + br {
+	margin-top: 0.75rem;
+}
+
+#text17 {
+	text-align: center;
+	color: #363636;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text17 a {
+	text-decoration: none;
+}
+
+#text17 a:hover {
+	text-decoration: underline;
+}
+
 #text04 br + br {
 	margin-top: 0.75rem;
 }
@@ -3029,6 +3075,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 .icons li {
 	display: inline-block;
 	vertical-align: middle;
+	position: relative;
 }
 
 .icons li a {
@@ -3048,10 +3095,29 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 .icons li a svg {
 	display: block;
+	position: relative;
 	-moz-transition: fill 0.25s ease;
 	-webkit-transition: fill 0.25s ease;
 	-ms-transition: fill 0.25s ease;
 	transition: fill 0.25s ease;
+}
+
+.icons li a + svg {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	-moz-pointer-events: none;
+	-webkit-pointer-events: none;
+	-ms-pointer-events: none;
+	pointer-events: none;
+	-moz-transition: fill 0.25s ease, stroke 0.25s ease;
+	-webkit-transition: fill 0.25s ease, stroke 0.25s ease;
+	-ms-transition: fill 0.25s ease, stroke 0.25s ease;
+	transition: fill 0.25s ease, stroke 0.25s ease;
 }
 
 .icons li a .label {
@@ -4108,6 +4174,20 @@ th {
 		line-height: 1.125;
 	}
 	
+	#text20 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.25;
+	}
+	
+	#text17 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.25;
+	}
+	
 	#text04 {
 		letter-spacing: -0.021875rem;
 		width: 100%;
@@ -4814,6 +4894,14 @@ th {
 	
 	#text10 {
 		font-size: 2em;
+	}
+	
+	#text20 {
+		font-size: 1em;
+	}
+	
+	#text17 {
+		font-size: 1em;
 	}
 	
 	#text04 {
