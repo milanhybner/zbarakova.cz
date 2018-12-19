@@ -2616,14 +2616,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
-#text91 a {
-	text-decoration: underline;
-}
-
-#text91 a:hover {
-	text-decoration: none;
-}
-
 #text89 br + br {
 	margin-top: 0.9rem;
 }
