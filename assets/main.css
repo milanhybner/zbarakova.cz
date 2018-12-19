@@ -1314,6 +1314,17 @@ hr:before {
 	height: 1px;
 }
 
+#divider18 {
+	height: 1rem;
+	line-height: 1rem;
+}
+
+#divider18:before {
+	width: 22%;
+	border-top: solid 1px transparent;
+	height: 1px;
+}
+
 #divider59 {
 	height: 1rem;
 	line-height: 1rem;
@@ -1662,6 +1673,20 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
+}
+
+#text29 br + br {
+	margin-top: 0.9rem;
+}
+
+#text29 {
+	color: #A1A1A1;
+	font-family: 'Arial', 'sans-serif';
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
 }
 
 #text01 br + br {
@@ -2748,56 +2773,26 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #buttons07 .n01 {
-	background-color: #FF8A8A;
+	background-color: #59B9FF;
 	color: #FFFFFF;
 }
 
 #buttons07 .n02 {
-	background-color: #FF8A8A;
+	background-color: #59B9FF;
 	color: #FFFFFF;
 }
 
 #buttons07 .n03 {
-	background-color: #FF8A8A;
+	background-color: #59B9FF;
 	color: #FFFFFF;
 }
 
 #buttons07 .n04 {
-	background-color: #59B9FF;
-	color: #FFFFFF;
-}
-
-#buttons07 .n05 {
-	background-color: #59B9FF;
-	color: #FFFFFF;
-}
-
-#buttons07 .n06 {
-	background-color: #59B9FF;
-	color: #FFFFFF;
-}
-
-#buttons07 .n07 {
-	background-color: #4FC284;
-	color: #FFFFFF;
-}
-
-#buttons07 .n08 {
-	background-color: #4FC284;
-	color: #FFFFFF;
-}
-
-#buttons07 .n09 {
-	background-color: #4FC284;
-	color: #FFFFFF;
-}
-
-#buttons07 .n10 {
 	background-color: #D4B135;
 	color: #FFFFFF;
 }
 
-#buttons07 .n11 {
+#buttons07 .n05 {
 	background-color: #D4B135;
 	color: #FFFFFF;
 }
@@ -3965,6 +3960,11 @@ th {
 		line-height: 0.5rem;
 	}
 	
+	#divider18 {
+		height: 1rem;
+		line-height: 1rem;
+	}
+	
 	#divider59 {
 		height: 1rem;
 		line-height: 1rem;
@@ -4105,6 +4105,13 @@ th {
 		width: 100%;
 		font-size: 2.25em;
 		line-height: 1.125;
+	}
+	
+	#text29 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.5;
 	}
 	
 	#text01 {
@@ -4886,6 +4893,10 @@ th {
 	
 	#text26 {
 		font-size: 2em;
+	}
+	
+	#text29 {
+		font-size: 1em;
 	}
 	
 	#text01 {
