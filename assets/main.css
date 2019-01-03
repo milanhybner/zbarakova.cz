@@ -1116,147 +1116,6 @@ html {
 	margin-top: 0rem !important;
 }
 
-.image {
-	position: relative;
-	overflow: hidden;
-	max-width: 100%;
-	display: block;
-}
-
-.image a, .image span {
-	position: relative;
-	max-width: 100%;
-	display: inline-block;
-	vertical-align: top;
-}
-
-.image a img, .image span img {
-	display: block;
-}
-
-.image img {
-	width: 100%;
-	max-width: 100%;
-	display: inline-block;
-	vertical-align: top;
-}
-
-.image.full img {
-	display: block;
-}
-
-.image.full:first-child img {
-	border-top-left-radius: inherit;
-	border-top-right-radius: inherit;
-}
-
-.image.full:last-child img {
-	border-bottom-left-radius: inherit;
-	border-bottom-right-radius: inherit;
-}
-
-.image.full a, .image.full span {
-	display: block;
-}
-
-#image06 a, #image06 span {
-	border-radius: 1rem;
-}
-
-#image06 img {
-	max-width: 100%;
-	width: auto;
-	border-radius: 1rem;
-}
-
-#image01 {
-	margin-top: 0.5rem !important;
-	margin-bottom: 0.5rem !important;
-}
-
-#image01 img {
-	width: 21.75rem;
-}
-
-#image05 img {
-	width: 8rem;
-}
-
-#image03 img {
-	width: 8rem;
-}
-
-#image04 img {
-	width: 8rem;
-}
-
-#image16 img {
-	width: 41.125rem;
-}
-
-#image02 a, #image02 span {
-	border-radius: 100%;
-}
-
-#image02 img {
-	width: 8.375rem;
-	border-radius: 100%;
-}
-
-#image12 a, #image12 span {
-	border-radius: 1rem;
-}
-
-#image12 img {
-	width: 4.125rem;
-	border-radius: 1rem;
-}
-
-#image11 a, #image11 span {
-	border-radius: 1rem;
-}
-
-#image11 img {
-	width: 4.125rem;
-	border-radius: 1rem;
-}
-
-#image13 a, #image13 span {
-	border-radius: 1rem;
-}
-
-#image13 img {
-	width: 4.125rem;
-	border-radius: 1rem;
-}
-
-#image14 a, #image14 span {
-	border-radius: 1rem;
-}
-
-#image14 img {
-	width: 4.125rem;
-	border-radius: 1rem;
-}
-
-#image15 a, #image15 span {
-	border-radius: 1rem;
-}
-
-#image15 img {
-	width: 4.125rem;
-	border-radius: 1rem;
-}
-
-#image09 a, #image09 span {
-	border-radius: 1rem;
-}
-
-#image09 img {
-	width: 4.125rem;
-	border-radius: 1rem;
-}
-
 hr {
 	width: 100%;
 	position: relative;
@@ -1620,35 +1479,6 @@ hr:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
-}
-
-#embed02 {
-	max-width: 100%;
-}
-
-#embed02 .frame {
-	position: relative;
-	height: 0;
-	overflow: hidden;
-	padding-bottom: 50%;
-	min-height: 10rem;
-	display: inline-block;
-	max-width: 100%;
-	width: 100rem;
-}
-
-#embed02 .frame iframe {
-	position: absolute !important;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-
-#embed01 .frame iframe {
-	max-width: 100%;
-	width: 16rem;
-	height: 10rem;
 }
 
 h1 br + br, h2 br + br, h3 br + br, p br + br {
@@ -2991,11 +2821,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	color: #FFFFFF;
 }
 
-#buttons03 .n18 {
-	background-color: #5C0000;
-	color: #FFFFFF;
-}
-
 #buttons11 {
 	width: calc(100% + 0.75rem);
 	margin-left: -0.375rem;
@@ -3177,6 +3002,166 @@ h1 .li, h2 .li, h3 .li, p .li {
 #buttons04 .n09 {
 	background-color: #5C0000;
 	color: #FFFFFF;
+}
+
+#embed01 .frame iframe {
+	max-width: 100%;
+	width: 16rem;
+	height: 10rem;
+}
+
+#embed02 {
+	max-width: 100%;
+}
+
+#embed02 .frame {
+	position: relative;
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 50%;
+	min-height: 10rem;
+	display: inline-block;
+	max-width: 100%;
+	width: 100rem;
+}
+
+#embed02 .frame iframe {
+	position: absolute !important;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.image {
+	position: relative;
+	overflow: hidden;
+	max-width: 100%;
+	display: block;
+}
+
+.image a, .image span {
+	position: relative;
+	max-width: 100%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.image a img, .image span img {
+	display: block;
+}
+
+.image img {
+	width: 100%;
+	max-width: 100%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.image.full img {
+	display: block;
+}
+
+.image.full:first-child img {
+	border-top-left-radius: inherit;
+	border-top-right-radius: inherit;
+}
+
+.image.full:last-child img {
+	border-bottom-left-radius: inherit;
+	border-bottom-right-radius: inherit;
+}
+
+.image.full a, .image.full span {
+	display: block;
+}
+
+#image01 {
+	margin-top: 0.5rem !important;
+	margin-bottom: 0.5rem !important;
+}
+
+#image01 img {
+	width: 21.75rem;
+}
+
+#image02 a, #image02 span {
+	border-radius: 100%;
+}
+
+#image02 img {
+	width: 8.375rem;
+	border-radius: 100%;
+}
+
+#image05 img {
+	width: 8rem;
+}
+
+#image03 img {
+	width: 8rem;
+}
+
+#image04 img {
+	width: 8rem;
+}
+
+#image16 img {
+	width: 41.125rem;
+}
+
+#image12 a, #image12 span {
+	border-radius: 1rem;
+}
+
+#image12 img {
+	width: 4.125rem;
+	border-radius: 1rem;
+}
+
+#image11 a, #image11 span {
+	border-radius: 1rem;
+}
+
+#image11 img {
+	width: 4.125rem;
+	border-radius: 1rem;
+}
+
+#image13 a, #image13 span {
+	border-radius: 1rem;
+}
+
+#image13 img {
+	width: 4.125rem;
+	border-radius: 1rem;
+}
+
+#image14 a, #image14 span {
+	border-radius: 1rem;
+}
+
+#image14 img {
+	width: 4.125rem;
+	border-radius: 1rem;
+}
+
+#image15 a, #image15 span {
+	border-radius: 1rem;
+}
+
+#image15 img {
+	width: 4.125rem;
+	border-radius: 1rem;
+}
+
+#image09 a, #image09 span {
+	border-radius: 1rem;
+}
+
+#image09 img {
+	width: 4.125rem;
+	border-radius: 1rem;
 }
 
 .icons {
@@ -3931,59 +3916,6 @@ th {
 		margin-bottom: -1.5rem !important;
 	}
 	
-	#image01 {
-		margin-top: 0.375rem !important;
-		margin-bottom: 0.375rem !important;
-	}
-	
-	#image01 img {
-		width: 21.75rem;
-	}
-	
-	#image05 img {
-		width: 8rem;
-	}
-	
-	#image03 img {
-		width: 8rem;
-	}
-	
-	#image04 img {
-		width: 8rem;
-	}
-	
-	#image16 img {
-		width: 41.125rem;
-	}
-	
-	#image02 img {
-		width: 8.375rem;
-	}
-	
-	#image12 img {
-		width: 4.125rem;
-	}
-	
-	#image11 img {
-		width: 4.125rem;
-	}
-	
-	#image13 img {
-		width: 4.125rem;
-	}
-	
-	#image14 img {
-		width: 4.125rem;
-	}
-	
-	#image15 img {
-		width: 4.125rem;
-	}
-	
-	#image09 img {
-		width: 4.125rem;
-	}
-	
 	#divider02 {
 		height: 2rem;
 		line-height: 2rem;
@@ -4569,6 +4501,59 @@ th {
 		width: 100%;
 		font-size: 1em;
 		line-height: 1.5;
+	}
+	
+	#image01 {
+		margin-top: 0.375rem !important;
+		margin-bottom: 0.375rem !important;
+	}
+	
+	#image01 img {
+		width: 21.75rem;
+	}
+	
+	#image02 img {
+		width: 8.375rem;
+	}
+	
+	#image05 img {
+		width: 8rem;
+	}
+	
+	#image03 img {
+		width: 8rem;
+	}
+	
+	#image04 img {
+		width: 8rem;
+	}
+	
+	#image16 img {
+		width: 41.125rem;
+	}
+	
+	#image12 img {
+		width: 4.125rem;
+	}
+	
+	#image11 img {
+		width: 4.125rem;
+	}
+	
+	#image13 img {
+		width: 4.125rem;
+	}
+	
+	#image14 img {
+		width: 4.125rem;
+	}
+	
+	#image15 img {
+		width: 4.125rem;
+	}
+	
+	#image09 img {
+		width: 4.125rem;
 	}
 }
 
