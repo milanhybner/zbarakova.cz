@@ -134,6 +134,30 @@
 				h, e, ee, k,
 				locked = false,
 				initialized = false,
+				doNext = function() {
+	
+					var section;
+	
+					section = $('#main > .inner > section.active').nextElementSibling;
+	
+					if (!section || section.tagName != 'SECTION')
+						return;
+	
+					location.href = '#' + section.id.replace(/-section$/, '');
+	
+				},
+				doPrevious = function() {
+	
+					var section;
+	
+					section = $('#main > .inner > section.active').previousElementSibling;
+	
+					if (!section || section.tagName != 'SECTION')
+						return;
+	
+					location.href = '#' + (section.matches(':first-child') ? '' : section.id.replace(/-section$/, ''));
+	
+				},
 				doScrollTop = function() {
 					scrollTo(0, 0);
 				},
@@ -185,6 +209,10 @@
 	
 				},
 				sections = {};
+	
+			// Expose doNext, doPrevious.
+				window._next = doNext;
+				window._previous = doPrevious;
 	
 			// Initialize.
 	
@@ -335,7 +363,7 @@
 							// Lock.
 								locked = true;
 	
-							// Clear "home" URL hash.
+							// Clear index URL hash.
 								if (location.hash == '#home')
 									history.replaceState(null, null, '#');
 	
@@ -525,6 +553,10 @@
 	
 		// IE.
 			else if (client.browser == 'ie') {
+	
+				// Element.matches polyfill.
+					if (!('matches' in Element.prototype))
+						Element.prototype.matches = (Element.prototype.msMatchesSelector || Element.prototype.webkitMatchesSelector);
 	
 				// Background fix.
 				// IE doesn't consistently render background images applied to body:before so as a workaround
