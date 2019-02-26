@@ -27,7 +27,7 @@ em {
 }
 
 code {
-	font-family: 'Lucida Console', 'Courier New', 'monospace';
+	font-family: 'Lucida Console', 'Courier New', monospace;
 	font-weight: normal;
 	text-indent: 0;
 	letter-spacing: 0;
@@ -1785,7 +1785,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text26 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -1797,7 +1797,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text29 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -1812,7 +1812,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text01 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -1825,7 +1825,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text06 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -1839,6 +1839,52 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: none;
 }
 
+#text64 br + br {
+	margin-top: 0.75rem;
+}
+
+#text64 {
+	text-align: center;
+	color: #5E5E5E;
+	font-family: 'Arial', sans-serif;
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text64 a {
+	text-decoration: none;
+}
+
+#text64 a:hover {
+	text-decoration: underline;
+}
+
+#text63 br + br {
+	margin-top: 0.75rem;
+}
+
+#text63 {
+	text-align: center;
+	color: #5E5E5E;
+	font-family: 'Arial', sans-serif;
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.25;
+	font-weight: 700;
+}
+
+#text63 a {
+	text-decoration: none;
+}
+
+#text63 a:hover {
+	text-decoration: underline;
+}
+
 #text62 br + br {
 	margin-top: 0.75rem;
 }
@@ -1846,7 +1892,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text62 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -1869,7 +1915,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text42 {
 	text-align: center;
 	color: #FF0000;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -1893,7 +1939,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-align: center;
 	text-transform: uppercase;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 0.5em;
@@ -1908,7 +1954,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text52 {
 	text-align: center;
 	color: #FF0000;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -1932,7 +1978,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-align: center;
 	text-transform: uppercase;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 0.5em;
@@ -1947,7 +1993,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text13 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -1968,7 +2014,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text57 {
 	text-align: center;
 	color: #FF0000;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -1991,7 +2037,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text60 {
 	text-align: center;
 	color: #FF0000;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2014,7 +2060,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text07 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2038,7 +2084,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-align: center;
 	text-transform: uppercase;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 0.5em;
@@ -2053,7 +2099,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text58 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2076,7 +2122,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text18 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2099,7 +2145,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text55 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2122,7 +2168,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text59 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2145,7 +2191,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text17 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2168,7 +2214,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text14 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2189,7 +2235,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text43 {
 	text-align: center;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2204,7 +2250,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text05 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2225,7 +2271,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text38 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2248,7 +2294,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text61 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2271,7 +2317,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text25 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2294,7 +2340,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text20 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2317,7 +2363,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text10 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2340,7 +2386,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text54 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2363,7 +2409,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text04 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2386,7 +2432,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text36 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2409,7 +2455,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text19 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2430,7 +2476,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text40 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2453,7 +2499,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text41 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2476,7 +2522,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text39 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2499,7 +2545,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text22 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2512,7 +2558,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text24 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2535,7 +2581,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text08 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2548,7 +2594,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text30 {
 	text-align: center;
 	color: #5E5E5E;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2563,7 +2609,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text45 {
 	text-align: center;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2586,7 +2632,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text50 {
 	text-align: center;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2609,7 +2655,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text09 {
 	text-align: center;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2632,7 +2678,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text37 {
 	text-align: center;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2654,7 +2700,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text16 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2677,7 +2723,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text02 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2690,7 +2736,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text03 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2703,7 +2749,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text44 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2716,7 +2762,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text48 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2736,7 +2782,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text49 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2751,7 +2797,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text15 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2771,7 +2817,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text103 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2793,7 +2839,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text51 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2816,7 +2862,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text75 {
 	text-align: left;
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2839,7 +2885,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text31 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2852,7 +2898,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text27 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2864,7 +2910,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text33 {
 	color: #363636;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2886,7 +2932,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text23 {
 	color: #363636;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -2909,7 +2955,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text32 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2922,7 +2968,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text35 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2935,7 +2981,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text11 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2948,7 +2994,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text28 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 2.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2961,7 +3007,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text21 {
 	text-transform: uppercase;
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 900;
@@ -2973,7 +3019,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text34 {
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 600;
@@ -2985,7 +3031,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text12 {
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 600;
@@ -2997,7 +3043,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text47 {
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 600;
@@ -3009,7 +3055,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text86 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -3023,7 +3069,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text91 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -3037,7 +3083,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text89 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -3059,7 +3105,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text92 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -3073,7 +3119,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text88 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -3095,7 +3141,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text87 {
 	color: #A1A1A1;
-	font-family: 'Arial', 'sans-serif';
+	font-family: 'Arial', sans-serif;
 	letter-spacing: -0.025rem;
 	width: 100%;
 	font-size: 1em;
@@ -3157,7 +3203,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 	border-radius: 0.5rem;
 }
@@ -3211,7 +3257,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 	border-radius: 0.5rem;
 }
@@ -3325,7 +3371,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 	border-radius: 0.5rem;
 }
@@ -3434,7 +3480,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	padding: 0 1.25rem;
 	text-transform: uppercase;
 	font-size: 1.25em;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 	border-radius: 0.5rem;
 }
@@ -3794,7 +3840,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	margin-left: -0.25rem;
 	width: calc(100% + 0.5rem);
 	text-transform: uppercase;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
 	font-weight: 700;
 }
@@ -3818,7 +3864,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	margin-left: -0.5rem;
 	width: calc(100% + 1rem);
 	text-transform: uppercase;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
 	font-weight: 700;
 }
@@ -3862,7 +3908,7 @@ th {
 
 #table02 {
 	color: #5E5E5E;
-	font-family: 'Raleway', 'sans-serif';
+	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
 	line-height: 1.125;
 	font-weight: 600;
@@ -4906,6 +4952,20 @@ th {
 		line-height: 1.125;
 	}
 	
+	#text64 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.25;
+	}
+	
+	#text63 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.25;
+	}
+	
 	#text62 {
 		letter-spacing: -0.021875rem;
 		width: 100%;
@@ -5936,6 +5996,14 @@ th {
 	
 	#text06 {
 		font-size: 1.25em;
+	}
+	
+	#text64 {
+		font-size: 1em;
+	}
+	
+	#text63 {
+		font-size: 1em;
 	}
 	
 	#text62 {
