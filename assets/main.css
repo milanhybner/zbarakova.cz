@@ -1284,11 +1284,25 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
-#text33 a {
+#text04 br + br {
+	margin-top: 0.9rem;
+}
+
+#text04 {
+	color: #363636;
+	font-family: 'Arial', sans-serif;
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+#text04 a {
 	text-decoration: underline;
 }
 
-#text33 a:hover {
+#text04 a:hover {
 	text-decoration: none;
 }
 
@@ -2811,6 +2825,13 @@ th {
 		line-height: 1.5;
 	}
 	
+	#text04 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
 	#text35 {
 		letter-spacing: 0rem;
 		width: 100%;
@@ -3356,6 +3377,10 @@ th {
 	}
 	
 	#text33 {
+		font-size: 1em;
+	}
+	
+	#text04 {
 		font-size: 1em;
 	}
 	
