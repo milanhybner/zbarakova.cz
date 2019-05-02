@@ -513,41 +513,43 @@
 		// iOS.
 			else if (client.os == 'ios') {
 	
-				// Prevent white bar below background when address bar shrinks.
+				// <=11: Prevent white bar below background when address bar shrinks.
 				// For some reason, simply forcing GPU acceleration on the background pseudoelement fixes this.
-					(function() {
+					if (client.osVersion <= 11)
+						(function() {
 	
-						// Insert and get rule.
-							sheet.insertRule('body::after { }', 0);
-							rule = sheet.cssRules[0];
+							// Insert and get rule.
+								sheet.insertRule('body::after { }', 0);
+								rule = sheet.cssRules[0];
 	
-						// Set rule.
-							rule.style.cssText = '-webkit-transform: scale(1.0)';
+							// Set rule.
+								rule.style.cssText = '-webkit-transform: scale(1.0)';
 	
-					})();
+						})();
 	
-				// Prevent white bar below background when form inputs are focused.
+				// <=11: Prevent white bar below background when form inputs are focused.
 				// Fixed-position elements seem to lose their fixed-ness when this happens, which is a problem
 				// because our backgrounds fall into this category.
-					(function() {
+					if (client.osVersion <= 11)
+						(function() {
 	
-						// Insert and get rule.
-							sheet.insertRule('body.ios-focus-fix::before { }', 0);
-							rule = sheet.cssRules[0];
+							// Insert and get rule.
+								sheet.insertRule('body.ios-focus-fix::before { }', 0);
+								rule = sheet.cssRules[0];
 	
-						// Set rule.
-							rule.style.cssText = 'height: calc(100% + 60px)';
+							// Set rule.
+								rule.style.cssText = 'height: calc(100% + 60px)';
 	
-						// Add event listeners.
-							on('focus', function(event) {
-								$body.classList.add('ios-focus-fix');
-							}, true);
+							// Add event listeners.
+								on('focus', function(event) {
+									$body.classList.add('ios-focus-fix');
+								}, true);
 	
-							on('blur', function(event) {
-								$body.classList.remove('ios-focus-fix');
-							}, true);
+								on('blur', function(event) {
+									$body.classList.remove('ios-focus-fix');
+								}, true);
 	
-					})();
+						})();
 	
 			}
 	
