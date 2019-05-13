@@ -1270,20 +1270,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 900;
 }
 
-#text33 br + br {
-	margin-top: 0.9rem;
-}
-
-#text33 {
-	color: #363636;
-	font-family: 'Arial', sans-serif;
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
 #text04 br + br {
 	margin-top: 0.9rem;
 }
@@ -1345,6 +1331,17 @@ hr:before {
 	vertical-align: middle;
 }
 
+#divider35 {
+	height: 0.5rem;
+	line-height: 0.5rem;
+}
+
+#divider35:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
+}
+
 #divider02 {
 	height: 0.5rem;
 	line-height: 0.5rem;
@@ -1378,12 +1375,12 @@ hr:before {
 	height: 1px;
 }
 
-#divider35 {
+#divider08 {
 	height: 0.5rem;
 	line-height: 0.5rem;
 }
 
-#divider35:before {
+#divider08:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -1530,6 +1527,108 @@ hr:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
+}
+
+.image {
+	position: relative;
+	overflow: hidden;
+	max-width: 100%;
+	display: block;
+}
+
+.image a, .image span {
+	position: relative;
+	max-width: 100%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.image a img, .image span img {
+	display: block;
+}
+
+.image img {
+	width: 100%;
+	max-width: 100%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.image.full img {
+	display: block;
+}
+
+.image.full:first-child img {
+	border-top-left-radius: inherit;
+	border-top-right-radius: inherit;
+}
+
+.image.full:last-child img {
+	border-bottom-left-radius: inherit;
+	border-bottom-right-radius: inherit;
+}
+
+.image.full a, .image.full span {
+	display: block;
+}
+
+#image10 a, #image10 span {
+	border-radius: 1rem;
+}
+
+#image10 img {
+	width: 18.125rem;
+	border-radius: 1rem;
+}
+
+#image08 img {
+	width: 18.125rem;
+}
+
+#image09 img {
+	width: 18.125rem;
+}
+
+#image06 img {
+	width: 18.125rem;
+}
+
+#image07 img {
+	width: 18.125rem;
+}
+
+#image01 {
+	margin-top: 0.5rem !important;
+	margin-bottom: 0.5rem !important;
+}
+
+#image01 img {
+	width: 21.75rem;
+}
+
+#image02 a, #image02 span {
+	border-radius: 100%;
+}
+
+#image02 img {
+	width: 8.375rem;
+	border-radius: 100%;
+}
+
+#image05 img {
+	width: 8rem;
+}
+
+#image03 img {
+	width: 8rem;
+}
+
+#image04 img {
+	width: 8rem;
+}
+
+#image16 img {
+	width: 41.125rem;
 }
 
 .list {
@@ -1971,99 +2070,6 @@ hr:before {
 	background-position: left 60%;
 	background-size: contain;
 	min-width: 0.52734375rem;
-}
-
-.image {
-	position: relative;
-	overflow: hidden;
-	max-width: 100%;
-	display: block;
-}
-
-.image a, .image span {
-	position: relative;
-	max-width: 100%;
-	display: inline-block;
-	vertical-align: top;
-}
-
-.image a img, .image span img {
-	display: block;
-}
-
-.image img {
-	width: 100%;
-	max-width: 100%;
-	display: inline-block;
-	vertical-align: top;
-}
-
-.image.full img {
-	display: block;
-}
-
-.image.full:first-child img {
-	border-top-left-radius: inherit;
-	border-top-right-radius: inherit;
-}
-
-.image.full:last-child img {
-	border-bottom-left-radius: inherit;
-	border-bottom-right-radius: inherit;
-}
-
-.image.full a, .image.full span {
-	display: block;
-}
-
-#image08 img {
-	width: 18.125rem;
-}
-
-#image09 img {
-	width: 18.125rem;
-}
-
-#image06 img {
-	width: 18.125rem;
-}
-
-#image07 img {
-	width: 18.125rem;
-}
-
-#image01 {
-	margin-top: 0.5rem !important;
-	margin-bottom: 0.5rem !important;
-}
-
-#image01 img {
-	width: 21.75rem;
-}
-
-#image02 a, #image02 span {
-	border-radius: 100%;
-}
-
-#image02 img {
-	width: 8.375rem;
-	border-radius: 100%;
-}
-
-#image05 img {
-	width: 8rem;
-}
-
-#image03 img {
-	width: 8rem;
-}
-
-#image04 img {
-	width: 8rem;
-}
-
-#image16 img {
-	width: 41.125rem;
 }
 
 .icons {
@@ -2908,13 +2914,6 @@ th {
 		line-height: 1.125;
 	}
 	
-	#text33 {
-		letter-spacing: -0.021875rem;
-		width: 100%;
-		font-size: 1em;
-		line-height: 1.5;
-	}
-	
 	#text04 {
 		letter-spacing: -0.021875rem;
 		width: 100%;
@@ -2936,6 +2935,11 @@ th {
 		line-height: 1.125;
 	}
 	
+	#divider35 {
+		height: 0.5rem;
+		line-height: 0.5rem;
+	}
+	
 	#divider02 {
 		height: 0.5rem;
 		line-height: 0.5rem;
@@ -2951,7 +2955,7 @@ th {
 		line-height: 0.5rem;
 	}
 	
-	#divider35 {
+	#divider08 {
 		height: 0.5rem;
 		line-height: 0.5rem;
 	}
@@ -3019,6 +3023,10 @@ th {
 	#divider67 {
 		height: 0.5rem;
 		line-height: 0.5rem;
+	}
+	
+	#image10 img {
+		width: 18.125rem;
 	}
 	
 	#image08 img {
@@ -3496,10 +3504,6 @@ th {
 	
 	#text27 {
 		font-size: 1.25em;
-	}
-	
-	#text33 {
-		font-size: 1em;
 	}
 	
 	#text04 {
