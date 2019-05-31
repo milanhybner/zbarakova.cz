@@ -334,8 +334,8 @@ html {
 }
 
 #container04 > .inner > * {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
+	margin-top: 0rem;
+	margin-bottom: 0rem;
 }
 
 #container04 > .inner > *:first-child {
@@ -1945,11 +1945,6 @@ hr:before {
 	width: 20rem;
 }
 
-#image01 {
-	margin-top: 0.5rem !important;
-	margin-bottom: 0.5rem !important;
-}
-
 #image01 img {
 	width: 21.75rem;
 }
@@ -2291,8 +2286,8 @@ th {
 	}
 	
 	#container04 > .inner > * {
-		margin-top: 1rem;
-		margin-bottom: 1rem;
+		margin-top: 0rem;
+		margin-bottom: 0rem;
 	}
 	
 	#container04 > .inner > .full {
@@ -2841,11 +2836,6 @@ th {
 		width: 20rem;
 	}
 	
-	#image01 {
-		margin-top: 0.375rem !important;
-		margin-bottom: 0.375rem !important;
-	}
-	
 	#image01 img {
 		width: 21.75rem;
 	}
@@ -2886,8 +2876,8 @@ th {
 	}
 	
 	#container04 > .inner > * {
-		margin-top: 0.875rem;
-		margin-bottom: 0.875rem;
+		margin-top: 0rem;
+		margin-bottom: 0rem;
 	}
 	
 	#container06 > .inner > * {
@@ -2990,8 +2980,8 @@ th {
 	}
 	
 	#container04 > .inner > * {
-		margin-top: 0.75rem;
-		margin-bottom: 0.75rem;
+		margin-top: 0rem;
+		margin-bottom: 0rem;
 	}
 	
 	#container04 > .inner > .full {
