@@ -358,6 +358,10 @@ html {
 	border-radius: 100%;
 }
 
+#image11 img {
+	width: 20rem;
+}
+
 #image10 img {
 	width: 20rem;
 }
@@ -687,6 +691,17 @@ hr:before {
 	height: 5px;
 }
 
+#divider09 {
+	height: 2rem;
+	line-height: 2rem;
+}
+
+#divider09:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
+}
+
 #divider03 {
 	height: 2rem;
 	line-height: 2rem;
@@ -775,6 +790,17 @@ hr:before {
 	height: 1px;
 }
 
+#divider05 {
+	height: 2rem;
+	line-height: 2rem;
+}
+
+#divider05:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
+}
+
 #divider13 {
 	height: 2rem;
 	line-height: 2rem;
@@ -782,7 +808,7 @@ hr:before {
 
 #divider13:before {
 	width: 22%;
-	border-top: solid 1px #D9D9D9;
+	border-top: solid 1px #FFFFFF;
 	height: 1px;
 }
 
@@ -3127,6 +3153,10 @@ th {
 		width: 4rem;
 	}
 	
+	#image11 img {
+		width: 20rem;
+	}
+	
 	#image10 img {
 		width: 20rem;
 	}
@@ -3264,6 +3294,11 @@ th {
 		line-height: 2rem;
 	}
 	
+	#divider09 {
+		height: 2rem;
+		line-height: 2rem;
+	}
+	
 	#divider03 {
 		height: 2rem;
 		line-height: 2rem;
@@ -3300,6 +3335,11 @@ th {
 	}
 	
 	#divider17 {
+		height: 2rem;
+		line-height: 2rem;
+	}
+	
+	#divider05 {
 		height: 2rem;
 		line-height: 2rem;
 	}
