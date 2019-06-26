@@ -126,6 +126,17 @@
 	
 		};
 	
+	// Animation.
+		on('load', function() {
+			setTimeout(function() {
+				$body.className = $body.className.replace(/\bis-loading\b/, 'is-playing');
+	
+				setTimeout(function() {
+					$body.className = $body.className.replace(/\bis-playing\b/, 'is-ready');
+				}, 15375);
+			}, 100);
+		});
+	
 	// Sections.
 		(function() {
 	
@@ -378,7 +389,10 @@
 										if (header && hideHeader) {
 	
 											header.classList.add('hidden');
-											header.style.display = 'none';
+	
+											setTimeout(function() {
+												header.style.display = 'none';
+											}, 62.5);
 	
 										}
 	
@@ -386,54 +400,128 @@
 										if (footer && hideFooter) {
 	
 											footer.classList.add('hidden');
-											footer.style.display = 'none';
+	
+											setTimeout(function() {
+												footer.style.display = 'none';
+											}, 62.5);
 	
 										}
 	
 								// Deactivate.
 									currentSection = $('#main > .inner > section:not(.inactive)');
-									currentSection.classList.add('inactive');
-									currentSection.classList.remove('active');
-									currentSection.style.display = 'none';
+	
+									if (currentSection) {
+	
+										// Get current height.
+											currentSectionHeight = currentSection.offsetHeight;
+	
+										// Deactivate.
+											currentSection.classList.add('inactive');
+	
+										// Hide.
+											setTimeout(function() {
+												currentSection.style.display = 'none';
+												currentSection.classList.remove('active');
+											}, 62.5);
+	
+									}
 	
 							// Activate target section.
+								setTimeout(function() {
 	
-								// Show header and/or footer (if necessary).
+									// Show header and/or footer (if necessary).
 	
-									// Header.
-										if (header && !hideHeader) {
+										// Header.
+											if (header && !hideHeader) {
 	
-											header.style.display = '';
-											header.classList.remove('hidden');
+												header.style.display = '';
 	
-										}
+												setTimeout(function() {
+													header.classList.remove('hidden');
+												}, 0);
 	
-									// Footer.
-										if (footer && !hideFooter) {
+											}
 	
-											footer.style.display = '';
-											footer.classList.remove('hidden');
+										// Footer.
+											if (footer && !hideFooter) {
 	
-										}
+												footer.style.display = '';
 	
-								// Activate.
-									section.classList.remove('inactive');
-									section.classList.add('active');
-									section.style.display = '';
+												setTimeout(function() {
+													footer.classList.remove('hidden');
+												}, 0);
 	
-							// Trigger 'resize' event.
-								trigger('resize');
+											}
 	
-							// Scroll to scroll point (if applicable).
-								if (scrollPoint)
-									doScroll(scrollPoint, true);
+									// Activate.
 	
-							// Otherwise, just scroll to top.
-								else
-									doScrollTop();
+										// Show.
+											section.style.display = '';
 	
-							// Unlock.
-								locked = false;
+										// Trigger 'resize' event.
+											trigger('resize');
+	
+										// Scroll to top.
+											doScrollTop();
+	
+										// Get target height.
+											sectionHeight = section.offsetHeight;
+	
+										// Set target heights.
+											if (sectionHeight > currentSectionHeight) {
+	
+												section.style.maxHeight = currentSectionHeight + 'px';
+												section.style.minHeight = '0';
+	
+											}
+											else {
+	
+												section.style.maxHeight = '';
+												section.style.minHeight = currentSectionHeight + 'px';
+	
+											}
+	
+										// Delay.
+											setTimeout(function() {
+	
+												// Activate.
+													section.classList.remove('inactive');
+													section.classList.add('active');
+	
+												// Temporarily restore target heights.
+													section.style.minHeight = sectionHeight + 'px';
+													section.style.maxHeight = sectionHeight + 'px';
+	
+												// Delay.
+													setTimeout(function() {
+	
+														// Turn off transitions.
+															section.style.transition = 'none';
+	
+														// Clear target heights.
+															section.style.minHeight = '';
+															section.style.maxHeight = '';
+	
+													 	// Scroll to scroll point (if applicable).
+													 		if (scrollPoint)
+																doScroll(scrollPoint, true);
+	
+														// Delay.
+															setTimeout(function() {
+	
+																// Turn on transitions.
+																	section.style.transition = '';
+	
+																// Unlock.
+																	locked = false;
+	
+															}, 75);
+	
+													}, 125);
+	
+											}, 75);
+	
+								}, 62.5);
 	
 						}
 	
