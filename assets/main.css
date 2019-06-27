@@ -1154,6 +1154,27 @@ body.is-loading #main > .inner > section > * {
 	transition-delay: 16.625s;
 }
 
+#main > .inner > section > :nth-child(135) {
+	-moz-transition-delay: 16.75s;
+	-webkit-transition-delay: 16.75s;
+	-ms-transition-delay: 16.75s;
+	transition-delay: 16.75s;
+}
+
+#main > .inner > section > :nth-child(136) {
+	-moz-transition-delay: 16.875s;
+	-webkit-transition-delay: 16.875s;
+	-ms-transition-delay: 16.875s;
+	transition-delay: 16.875s;
+}
+
+#main > .inner > section > :nth-child(137) {
+	-moz-transition-delay: 17s;
+	-webkit-transition-delay: 17s;
+	-ms-transition-delay: 17s;
+	transition-delay: 17s;
+}
+
 #main > .inner > header, #main > .inner > footer {
 	-moz-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
 	-webkit-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
@@ -1846,11 +1867,11 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	font-weight: 600;
 }
 
-#text08 br + br {
+#text23 br + br {
 	margin-top: 0.675rem;
 }
 
-#text08 {
+#text23 {
 	margin-top: 0.625rem !important;
 	margin-bottom: 0.625rem !important;
 	text-transform: uppercase;
@@ -1861,7 +1882,7 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	font-weight: 700;
 }
 
-#text08 {
+#text23 {
 	text-shadow: -1px -1px 0 #ee1d23, 1px -1px 0 #ee1d23, -1px 1px 0 #ee1d23, 1px 1px 0 #ee1d23;
 }
 
@@ -1897,6 +1918,25 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	font-size: 1em;
 	line-height: 1.125;
 	font-weight: 500;
+}
+
+#text08 br + br {
+	margin-top: 0.675rem;
+}
+
+#text08 {
+	margin-top: 0.625rem !important;
+	margin-bottom: 0.625rem !important;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: 'Rubik', sans-serif;
+	font-size: 1.5em;
+	line-height: 1.125;
+	font-weight: 700;
+}
+
+#text08 {
+	text-shadow: -1px -1px 0 #ee1d23, 1px -1px 0 #ee1d23, -1px 1px 0 #ee1d23, 1px 1px 0 #ee1d23;
 }
 
 hr {
@@ -2022,12 +2062,12 @@ hr:before {
 	height: 1px;
 }
 
-#divider19 {
+#divider12 {
 	height: 2.5rem;
 	line-height: 2.5rem;
 }
 
-#divider19:before {
+#divider12:before {
 	width: 25%;
 	border-top: solid 5px #EE1D23;
 	height: 5px;
@@ -2141,6 +2181,17 @@ hr:before {
 	width: 22%;
 	border-top: solid 1px #FFFFFF;
 	height: 1px;
+}
+
+#divider19 {
+	height: 2.5rem;
+	line-height: 2.5rem;
+}
+
+#divider19:before {
+	width: 36%;
+	border-top: solid 5px #EE1D23;
+	height: 5px;
 }
 
 .container > .inner {
@@ -4926,9 +4977,6 @@ hr:before {
 	padding: 1.5rem 3rem;
 	width: 35rem;
 	background-color: #FFFFFF;
-	border-style: solid;
-	border-color: #D9D9D9;
-	border-bottom-width: 1px;
 	border-radius: 0rem;
 }
 
@@ -5583,19 +5631,19 @@ hr:before {
 	vertical-align: middle;
 }
 
-#buttons02 {
+#buttons12 {
 	width: calc(100% + 2rem);
 	margin-left: -1rem;
 }
 
-#buttons02 li {
+#buttons12 li {
 	display: inline-block;
 	vertical-align: middle;
 	max-width: calc(100% - 2rem);
 	margin: 1rem;
 }
 
-#buttons02 li a {
+#buttons12 li a {
 	display: -moz-flex;
 	display: -webkit-flex;
 	display: -ms-flex;
@@ -5614,7 +5662,7 @@ hr:before {
 	border-radius: 0rem;
 }
 
-#buttons02 .button {
+#buttons12 .button {
 	background-color: #EE1D23;
 	color: #FFFFFF;
 }
@@ -6047,6 +6095,42 @@ hr:before {
 }
 
 #buttons10 .button {
+	background-color: #EE1D23;
+	color: #FFFFFF;
+}
+
+#buttons02 {
+	width: calc(100% + 2rem);
+	margin-left: -1rem;
+}
+
+#buttons02 li {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: calc(100% - 2rem);
+	margin: 1rem;
+}
+
+#buttons02 li a {
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	width: auto;
+	height: 2.5rem;
+	line-height: 2.5rem;
+	vertical-align: middle;
+	padding: 0 1.25rem;
+	text-transform: uppercase;
+	font-size: 1em;
+	font-family: 'Rubik', sans-serif;
+	letter-spacing: 0.2rem;
+	padding-left: calc(0.2rem + 1.25rem);
+	font-weight: 700;
+	border-radius: 0rem;
+}
+
+#buttons02 .button {
 	background-color: #EE1D23;
 	color: #FFFFFF;
 }
@@ -7228,7 +7312,7 @@ th {
 		line-height: 1.125;
 	}
 	
-	#text08 {
+	#text23 {
 		margin-top: 0.46875rem !important;
 		margin-bottom: 0.46875rem !important;
 		letter-spacing: 0rem;
@@ -7252,6 +7336,15 @@ th {
 		letter-spacing: -0.065625rem;
 		width: 100%;
 		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#text08 {
+		margin-top: 0.46875rem !important;
+		margin-bottom: 0.46875rem !important;
+		letter-spacing: 0rem;
+		width: 100%;
+		font-size: 1.5em;
 		line-height: 1.125;
 	}
 	
@@ -7305,7 +7398,7 @@ th {
 		line-height: 2rem;
 	}
 	
-	#divider19 {
+	#divider12 {
 		height: 2rem;
 		line-height: 2rem;
 	}
@@ -7358,6 +7451,11 @@ th {
 	#divider21 {
 		height: 0.5rem;
 		line-height: 0.5rem;
+	}
+	
+	#divider19 {
+		height: 2rem;
+		line-height: 2rem;
 	}
 	
 	#container03 > .inner {
@@ -9591,27 +9689,27 @@ th {
 		margin-bottom: 0.984375rem;
 	}
 	
-	#buttons02 {
+	#buttons12 {
 		margin-left: 0;
 		width: 100%;
 		padding: 1rem 0;
 	}
 	
-	#buttons02 li {
+	#buttons12 li {
 		max-width: 100%;
 		display: block;
 		margin: 2rem 0;
 	}
 	
-	#buttons02 li:first-child {
+	#buttons12 li:first-child {
 		margin-top: 0;
 	}
 	
-	#buttons02 li:last-child {
+	#buttons12 li:last-child {
 		margin-bottom: 0;
 	}
 	
-	#buttons02 li a {
+	#buttons12 li a {
 		display: -moz-inline-flex;
 		display: -webkit-inline-flex;
 		display: -ms-inline-flex;
@@ -9967,6 +10065,35 @@ th {
 		width: 100%;
 		max-width: 32rem;
 	}
+	
+	#buttons02 {
+		margin-left: 0;
+		width: 100%;
+		padding: 1rem 0;
+	}
+	
+	#buttons02 li {
+		max-width: 100%;
+		display: block;
+		margin: 2rem 0;
+	}
+	
+	#buttons02 li:first-child {
+		margin-top: 0;
+	}
+	
+	#buttons02 li:last-child {
+		margin-bottom: 0;
+	}
+	
+	#buttons02 li a {
+		display: -moz-inline-flex;
+		display: -webkit-inline-flex;
+		display: -ms-inline-flex;
+		display: inline-flex;
+		width: 100%;
+		max-width: 32rem;
+	}
 }
 
 @media (max-width: 360px) {
@@ -10119,7 +10246,7 @@ th {
 		font-size: 1.25em;
 	}
 	
-	#text08 {
+	#text23 {
 		font-size: 1.5em;
 	}
 	
@@ -10129,6 +10256,10 @@ th {
 	
 	#text19 {
 		font-size: 1em;
+	}
+	
+	#text08 {
+		font-size: 1.5em;
 	}
 	
 	#container03 > .inner {
@@ -11337,7 +11468,7 @@ th {
 		height: calc(100% + 2.25rem);
 	}
 	
-	#buttons02 {
+	#buttons12 {
 		width: calc(100% + 1.5rem);
 		margin-left: -0.75rem;
 		width: 100%;
@@ -11345,7 +11476,7 @@ th {
 		padding: 0.75rem 0;
 	}
 	
-	#buttons02 li {
+	#buttons12 li {
 		max-width: calc(100% - 1.5rem);
 		margin: 0.75rem;
 		max-width: 100%;
@@ -11526,6 +11657,21 @@ th {
 	}
 	
 	#buttons10 li {
+		max-width: calc(100% - 1.5rem);
+		margin: 0.75rem;
+		max-width: 100%;
+		margin: 1.5rem 0;
+	}
+	
+	#buttons02 {
+		width: calc(100% + 1.5rem);
+		margin-left: -0.75rem;
+		width: 100%;
+		margin-left: 0;
+		padding: 0.75rem 0;
+	}
+	
+	#buttons02 li {
 		max-width: calc(100% - 1.5rem);
 		margin: 0.75rem;
 		max-width: 100%;
