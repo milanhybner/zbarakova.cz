@@ -1175,6 +1175,13 @@ body.is-loading #main > .inner > section > * {
 	transition-delay: 17s;
 }
 
+#main > .inner > section > :nth-child(138) {
+	-moz-transition-delay: 17.125s;
+	-webkit-transition-delay: 17.125s;
+	-ms-transition-delay: 17.125s;
+	transition-delay: 17.125s;
+}
+
 #main > .inner > header, #main > .inner > footer {
 	-moz-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
 	-webkit-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
@@ -1680,11 +1687,11 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	font-weight: 600;
 }
 
-#text17 br + br {
+#text24 br + br {
 	margin-top: 0.675rem;
 }
 
-#text17 {
+#text24 {
 	margin-top: 1rem !important;
 	margin-bottom: 1rem !important;
 	text-align: left;
@@ -1712,6 +1719,32 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	font-size: 1.25em;
 	line-height: 1.125;
 	font-weight: 600;
+}
+
+#text17 br + br {
+	margin-top: 0.675rem;
+}
+
+#text17 {
+	margin-top: 1rem !important;
+	margin-bottom: 1rem !important;
+	text-align: center;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.075rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.125;
+	font-weight: 500;
+}
+
+#text17 a {
+	color: #EE1D23;
+	text-decoration: none;
+}
+
+#text17 a:hover {
+	text-decoration: underline;
 }
 
 #text20 br + br {
@@ -7213,7 +7246,7 @@ th {
 		line-height: 1.125;
 	}
 	
-	#text17 {
+	#text24 {
 		margin-top: 0.75rem !important;
 		margin-bottom: 0.75rem !important;
 		letter-spacing: -0.065625rem;
@@ -7228,6 +7261,15 @@ th {
 		letter-spacing: -0.065625rem;
 		width: 100%;
 		font-size: 1.25em;
+		line-height: 1.125;
+	}
+	
+	#text17 {
+		margin-top: 0.75rem !important;
+		margin-bottom: 0.75rem !important;
+		letter-spacing: -0.065625rem;
+		width: 100%;
+		font-size: 1em;
 		line-height: 1.125;
 	}
 	
@@ -10202,12 +10244,16 @@ th {
 		font-size: 1.25em;
 	}
 	
-	#text17 {
+	#text24 {
 		font-size: 1em;
 	}
 	
 	#text22 {
 		font-size: 1.25em;
+	}
+	
+	#text17 {
+		font-size: 1em;
 	}
 	
 	#text20 {
