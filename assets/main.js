@@ -133,7 +133,7 @@
 	
 				setTimeout(function() {
 					$body.className = $body.className.replace(/\bis-playing\b/, 'is-ready');
-				}, 17500);
+				}, 19125);
 			}, 100);
 		});
 	
@@ -144,7 +144,6 @@
 				header, footer, name, hideHeader, hideFooter,
 				h, e, ee, k,
 				locked = false,
-				initialized = false,
 				doNext = function() {
 	
 					var section;
@@ -169,54 +168,105 @@
 					location.href = '#' + (section.matches(':first-child') ? '' : section.id.replace(/-section$/, ''));
 	
 				},
-				doScrollTop = function() {
-					scrollTo(0, 0);
-				},
-				doScroll = function(e, instant) {
+				doScroll = function(e, style, duration) {
 	
-					var pos;
+					var y, cy, dy,
+						start, easing, f;
 	
-					// Determine position.
-						switch (e.dataset.scrollBehavior ? e.dataset.scrollBehavior : 'default') {
+					// Element.
 	
-							case 'default':
-							default:
+						// No element? Assume top of page.
+							if (!e)
+								y = 0;
 	
-								pos = e.offsetTop;
+						// Otherwise ...
+							else
+								switch (e.dataset.scrollBehavior ? e.dataset.scrollBehavior : 'default') {
 	
+									case 'default':
+									default:
+	
+										y = e.offsetTop;
+	
+										break;
+	
+									case 'center':
+	
+										if (e.offsetHeight < window.innerHeight)
+											y = e.offsetTop - ((window.innerHeight - e.offsetHeight) / 2);
+										else
+											y = e.offsetTop;
+	
+										break;
+	
+									case 'previous':
+	
+										if (e.previousElementSibling)
+											y = e.previousElementSibling.offsetTop + e.previousElementSibling.offsetHeight;
+										else
+											y = e.offsetTop;
+	
+										break;
+	
+								}
+	
+					// Style.
+						if (!style)
+							style = 'smooth';
+	
+					// Duration.
+						if (!duration)
+							duration = 750;
+	
+					// Instant? Just scroll.
+						if (style == 'instant') {
+	
+							window.scrollTo(0, y);
+							return;
+	
+						}
+	
+					// Get start, current Y.
+						start = Date.now();
+						cy = window.scrollY;
+						dy = y - cy;
+	
+					// Set easing.
+						switch (style) {
+	
+							case 'linear':
+								easing = function (t) { return t };
 								break;
 	
-							case 'center':
-	
-								if (e.offsetHeight < window.innerHeight)
-									pos = e.offsetTop - ((window.innerHeight - e.offsetHeight) / 2);
-								else
-									pos = e.offsetTop;
-	
-								break;
-	
-							case 'previous':
-	
-								if (e.previousElementSibling)
-									pos = e.previousElementSibling.offsetTop + e.previousElementSibling.offsetHeight;
-								else
-									pos = e.offsetTop;
-	
+							case 'smooth':
+								easing = function (t) { return t<.5 ? 4*t*t*t : (t-1)*(2*t-2)*(2*t-2)+1 };
 								break;
 	
 						}
 	
 					// Scroll.
-						if ('scrollBehavior' in $body.style
-						&&	initialized
-						&&	!instant)
-							scrollTo({
-								behavior: 'smooth',
-								left: 0,
-								top: pos
-							});
-						else
-							scrollTo(0, pos);
+						f = function() {
+	
+							var t = Date.now() - start;
+	
+							// Hit duration? Scroll to y and finish.
+								if (t >= duration)
+									window.scroll(0, y);
+	
+							// Otherwise ...
+								else {
+	
+									// Scroll.
+										window.scroll(0, cy + (dy * easing(t / duration)));
+	
+									// Repeat.
+										requestAnimationFrame(f);
+	
+								}
+	
+						};
+	
+						f();
 	
 				},
 				sections = {};
@@ -298,17 +348,14 @@
 						initialSection.classList.add('active');
 	
 				 	// Scroll to top.
-				 		doScrollTop();
+						doScroll(null, 'instant');
 	
 				// Load event.
 					on('load', function() {
 	
 						// Scroll to initial scroll point (if applicable).
 					 		if (initialScrollPoint)
-								doScroll(initialScrollPoint);
-	
-						// Mark as initialized.
-							initialized = true;
+								doScroll(initialScrollPoint, 'instant');
 	
 					});
 	
@@ -361,7 +408,7 @@
 	
 							// Otherwise, just scroll to top.
 								else
-								 	doScrollTop();
+									doScroll(null);
 	
 							// Bail.
 								return false;
@@ -462,7 +509,7 @@
 											trigger('resize');
 	
 										// Scroll to top.
-											doScrollTop();
+											doScroll(null, 'instant');
 	
 										// Get target height.
 											sectionHeight = section.offsetHeight;
@@ -504,7 +551,7 @@
 	
 													 	// Scroll to scroll point (if applicable).
 													 		if (scrollPoint)
-																doScroll(scrollPoint, true);
+																doScroll(scrollPoint, 'instant');
 	
 														// Delay.
 															setTimeout(function() {
