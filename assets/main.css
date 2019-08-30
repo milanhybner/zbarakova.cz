@@ -1859,7 +1859,7 @@ hr:before {
 
 #divider11:before {
 	width: 25%;
-	border-top: solid 5px #EE1D23;
+	border-top: solid 5px #E40521;
 	height: 5px;
 }
 
@@ -1969,7 +1969,7 @@ hr:before {
 
 #divider12:before {
 	width: 25%;
-	border-top: solid 5px #EE1D23;
+	border-top: solid 5px #E40521;
 	height: 5px;
 }
 
@@ -2112,7 +2112,7 @@ hr:before {
 
 #divider19:before {
 	width: 36%;
-	border-top: solid 5px #EE1D23;
+	border-top: solid 5px #E40521;
 	height: 5px;
 }
 
@@ -2134,7 +2134,7 @@ hr:before {
 
 #divider23:before {
 	width: 100%;
-	border-top: solid 5px #FF1D23;
+	border-top: solid 5px #E40521;
 	height: 5px;
 }
 
@@ -2183,7 +2183,7 @@ hr:before {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #EE1D23;
+	background-color: #E40521;
 }
 
 #container03.default > .inner > * {
@@ -5130,7 +5130,7 @@ hr:before {
 	-webkit-justify-content: center;
 	-ms-justify-content: center;
 	justify-content: center;
-	background-color: #FF1D23;
+	background-color: #E40521;
 }
 
 #container02.default > .inner > * {
