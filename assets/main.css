@@ -1821,8 +1821,8 @@ hr:before {
 
 #divider15:before {
 	width: 100%;
-	border-top: solid 5px #FFFFFF;
-	height: 5px;
+	border-top: solid 3px #FFFFFF;
+	height: 3px;
 }
 
 #divider28 {
@@ -2123,14 +2123,14 @@ hr:before {
 }
 
 #divider23 {
-	height: 1.25rem;
-	line-height: 1.25rem;
+	height: 0.5rem;
+	line-height: 0.5rem;
 }
 
 #divider23:before {
 	width: 100%;
-	border-top: solid 5px #E40521;
-	height: 5px;
+	border-top: solid 3px #E40521;
+	height: 3px;
 }
 
 #divider04 {
@@ -2162,7 +2162,7 @@ hr:before {
 }
 
 #container03 > .inner {
-	padding: 0.5rem 0rem;
+	padding: 0rem 0rem;
 	width: 100%;
 	max-width: 100%;
 }
@@ -2243,13 +2243,13 @@ hr:before {
 }
 
 #container03.default > .inner > .full:first-child {
-	margin-top: -0.5rem !important;
+	margin-top: 0rem !important;
 	border-top-left-radius: inherit;
 	border-top-right-radius: inherit;
 }
 
 #container03.default > .inner > .full:last-child {
-	margin-bottom: -0.5rem !important;
+	margin-bottom: 0rem !important;
 	border-bottom-left-radius: inherit;
 	border-bottom-right-radius: inherit;
 }
@@ -2270,11 +2270,11 @@ hr:before {
 }
 
 #container03.columns > .inner > div > .full:first-child {
-	margin-top: calc(-0.5rem) !important;
+	margin-top: calc(0rem) !important;
 }
 
 #container03.columns > .inner > div > .full:last-child {
-	margin-bottom: calc(-0.5rem) !important;
+	margin-bottom: calc(0rem) !important;
 }
 
 #container03.columns > .inner > div:first-child, #container03.columns > .inner > div:first-child > .full:first-child {
@@ -2300,7 +2300,7 @@ hr:before {
 }
 
 #container03.columns > .inner > .full > .full:first-child:last-child {
-	height: calc(100% + 1rem);
+	height: calc(100% + 0rem);
 	border-radius: inherit;
 }
 
@@ -5400,7 +5400,7 @@ hr:before {
 }
 
 #container08 > .inner {
-	padding: 1.5rem 3rem;
+	padding: 1.625rem 3rem;
 	width: 100%;
 	max-width: 100%;
 }
@@ -5481,13 +5481,13 @@ hr:before {
 }
 
 #container08.default > .inner > .full:first-child {
-	margin-top: -1.5rem !important;
+	margin-top: -1.625rem !important;
 	border-top-left-radius: inherit;
 	border-top-right-radius: inherit;
 }
 
 #container08.default > .inner > .full:last-child {
-	margin-bottom: -1.5rem !important;
+	margin-bottom: -1.625rem !important;
 	border-bottom-left-radius: inherit;
 	border-bottom-right-radius: inherit;
 }
@@ -5508,11 +5508,11 @@ hr:before {
 }
 
 #container08.columns > .inner > div > .full:first-child {
-	margin-top: calc(-1.5rem) !important;
+	margin-top: calc(-1.625rem) !important;
 }
 
 #container08.columns > .inner > div > .full:last-child {
-	margin-bottom: calc(-1.5rem) !important;
+	margin-bottom: calc(-1.625rem) !important;
 }
 
 #container08.columns > .inner > .full {
@@ -5530,7 +5530,7 @@ hr:before {
 }
 
 #container08.columns > .inner > .full > .full:first-child:last-child {
-	height: calc(100% + 3rem);
+	height: calc(100% + 3.25rem);
 	border-radius: inherit;
 }
 
@@ -7586,8 +7586,8 @@ th {
 	}
 	
 	#divider23 {
-		height: 1.25rem;
-		line-height: 1.25rem;
+		height: 0.5rem;
+		line-height: 0.5rem;
 	}
 	
 	#divider04 {
@@ -7596,7 +7596,7 @@ th {
 	}
 	
 	#container03 > .inner {
-		padding: 0.5rem 0rem;
+		padding: 0rem 0rem;
 		max-width: 100%;
 	}
 	
@@ -7652,11 +7652,11 @@ th {
 	}
 	
 	#container03.default > .inner > .full:first-child {
-		margin-top: -0.5rem !important;
+		margin-top: 0rem !important;
 	}
 	
 	#container03.default > .inner > .full:last-child {
-		margin-bottom: -0.5rem !important;
+		margin-bottom: 0rem !important;
 	}
 	
 	#container03.columns > .inner > div > .full {
@@ -7683,11 +7683,11 @@ th {
 	}
 	
 	#container03.columns > .inner > div:first-of-type > .full:first-child {
-		margin-top: calc(-0.5rem) !important;
+		margin-top: calc(0rem) !important;
 	}
 	
 	#container03.columns > .inner > div:last-of-type > .full:last-child {
-		margin-bottom: calc(-0.5rem) !important;
+		margin-bottom: calc(0rem) !important;
 	}
 	
 	#container03.columns > .inner > div:first-of-type, #container03.columns > .inner > div:first-of-type > .full:first-child {
@@ -9519,7 +9519,7 @@ th {
 	}
 	
 	#container08 > .inner {
-		padding: 1.5rem 0rem;
+		padding: 1.625rem 0rem;
 		max-width: 100%;
 	}
 	
@@ -9547,11 +9547,11 @@ th {
 	}
 	
 	#container08.default > .inner > .full:first-child {
-		margin-top: -1.5rem !important;
+		margin-top: -1.625rem !important;
 	}
 	
 	#container08.default > .inner > .full:last-child {
-		margin-bottom: -1.5rem !important;
+		margin-bottom: -1.625rem !important;
 	}
 	
 	#container08.columns > .inner > div > .full {
@@ -9569,15 +9569,15 @@ th {
 	}
 	
 	#container08.columns > .inner > div > .full:first-child {
-		margin-top: calc(-1.5rem) !important;
+		margin-top: calc(-1.625rem) !important;
 	}
 	
 	#container08.columns > .inner > div > .full:last-child {
-		margin-bottom: calc(-1.5rem) !important;
+		margin-bottom: calc(-1.625rem) !important;
 	}
 	
 	#container08.columns > .inner > .full > .full:first-child:last-child {
-		height: calc(100% + 3rem);
+		height: calc(100% + 3.25rem);
 	}
 	
 	#container08 > .inner > :nth-child(1) {
@@ -10091,7 +10091,7 @@ th {
 	}
 	
 	#container03 > .inner {
-		padding: 0.375rem 0rem;
+		padding: 0rem 0rem;
 	}
 	
 	#container03.default > .inner > * {
@@ -10110,11 +10110,11 @@ th {
 	}
 	
 	#container03.default > .inner > .full:first-child {
-		margin-top: -0.375rem !important;
+		margin-top: -0rem !important;
 	}
 	
 	#container03.default > .inner > .full:last-child {
-		margin-bottom: -0.375rem !important;
+		margin-bottom: -0rem !important;
 	}
 	
 	#container03.columns > .inner > div > .full {
@@ -10141,11 +10141,11 @@ th {
 	}
 	
 	#container03.columns > .inner > div:first-of-type > .full:first-child {
-		margin-top: calc(-0.375rem) !important;
+		margin-top: calc(-0rem) !important;
 	}
 	
 	#container03.columns > .inner > div:last-of-type > .full:last-child {
-		margin-bottom: calc(-0.375rem) !important;
+		margin-bottom: calc(-0rem) !important;
 	}
 	
 	#container04 > .inner {
@@ -11292,7 +11292,7 @@ th {
 	}
 	
 	#container08 > .inner {
-		padding: 1.125rem 0rem;
+		padding: 1.21875rem 0rem;
 	}
 	
 	#container08.default > .inner > * {
@@ -11311,11 +11311,11 @@ th {
 	}
 	
 	#container08.default > .inner > .full:first-child {
-		margin-top: -1.125rem !important;
+		margin-top: -1.21875rem !important;
 	}
 	
 	#container08.default > .inner > .full:last-child {
-		margin-bottom: -1.125rem !important;
+		margin-bottom: -1.21875rem !important;
 	}
 	
 	#container08.columns > .inner > div > .full {
@@ -11333,15 +11333,15 @@ th {
 	}
 	
 	#container08.columns > .inner > div > .full:first-child {
-		margin-top: calc(-1.125rem) !important;
+		margin-top: calc(-1.21875rem) !important;
 	}
 	
 	#container08.columns > .inner > div > .full:last-child {
-		margin-bottom: calc(-1.125rem) !important;
+		margin-bottom: calc(-1.21875rem) !important;
 	}
 	
 	#container08.columns > .inner > .full > .full:first-child:last-child {
-		height: calc(100% + 2.25rem);
+		height: calc(100% + 2.4375rem);
 	}
 	
 	#text07 {
