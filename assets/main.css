@@ -1288,6 +1288,20 @@ body.is-loading #main > .inner > section > * {
 	transition-delay: 38.25s;
 }
 
+#main > .inner > section > :nth-child(155) {
+	-moz-transition-delay: 38.5s;
+	-webkit-transition-delay: 38.5s;
+	-ms-transition-delay: 38.5s;
+	transition-delay: 38.5s;
+}
+
+#main > .inner > section > :nth-child(156) {
+	-moz-transition-delay: 38.75s;
+	-webkit-transition-delay: 38.75s;
+	-ms-transition-delay: 38.75s;
+	transition-delay: 38.75s;
+}
+
 #main > .inner > header, #main > .inner > footer {
 	-moz-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
 	-webkit-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
@@ -1536,6 +1550,10 @@ body.is-instant:after {
 }
 
 #image10 img {
+	width: 20rem;
+}
+
+#image11 img {
 	width: 20rem;
 }
 
@@ -1952,6 +1970,17 @@ hr:before {
 }
 
 #divider25:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
+}
+
+#divider09 {
+	height: 2rem;
+	line-height: 2rem;
+}
+
+#divider09:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -7188,6 +7217,10 @@ th {
 		width: 20rem;
 	}
 	
+	#image11 img {
+		width: 20rem;
+	}
+	
 	#image06 img {
 		width: 20rem;
 	}
@@ -7506,6 +7539,11 @@ th {
 	}
 	
 	#divider25 {
+		height: 2rem;
+		line-height: 2rem;
+	}
+	
+	#divider09 {
 		height: 2rem;
 		line-height: 2rem;
 	}
