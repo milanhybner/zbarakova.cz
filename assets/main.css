@@ -1302,6 +1302,13 @@ body.is-loading #main > .inner > section > * {
 	transition-delay: 38.75s;
 }
 
+#main > .inner > section > :nth-child(157) {
+	-moz-transition-delay: 39s;
+	-webkit-transition-delay: 39s;
+	-ms-transition-delay: 39s;
+	transition-delay: 39s;
+}
+
 #main > .inner > header, #main > .inner > footer {
 	-moz-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
 	-webkit-transition: opacity 0.0625s ease-in-out 0.09375s,visibility 0.0625s linear 0.09375s;
@@ -1533,6 +1540,10 @@ body.is-instant:after {
 }
 
 #image41 img {
+	width: 20rem;
+}
+
+#image42 img {
 	width: 20rem;
 }
 
@@ -7197,6 +7208,10 @@ th {
 	}
 	
 	#image41 img {
+		width: 20rem;
+	}
+	
+	#image42 img {
 		width: 20rem;
 	}
 	

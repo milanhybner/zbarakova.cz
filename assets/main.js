@@ -133,7 +133,7 @@
 	
 				setTimeout(function() {
 					$body.className = $body.className.replace(/\bis-playing\b/, 'is-ready');
-				}, 38875);
+				}, 39125);
 			}, 100);
 		});
 	
