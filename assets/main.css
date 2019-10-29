@@ -7065,8 +7065,6 @@ th {
 
 #icons02 {
 	font-size: 2em;
-	width: calc(100% + 1.5rem);
-	margin-left: -0.75rem;
 }
 
 #icons02 li {
@@ -9645,6 +9643,342 @@ th {
 		width: calc(33.33333% + 1rem);
 	}
 	
+	#list10 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list10 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list10 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list11 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list11 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list11 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list01 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list01 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list01 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list06 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list06 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list06 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list07 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list07 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list07 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list05 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list05 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list05 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list02 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list02 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list02 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list21 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list21 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list21 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list15 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list15 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list15 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list19 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list19 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list19 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list20 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list20 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list20 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list03 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list03 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list03 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list08 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list08 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list08 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list13 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list13 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list13 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list14 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list14 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list14 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list16 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list16 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list16 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list09 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list09 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list09 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list12 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list12 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list12 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list17 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list17 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list17 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list18 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list18 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list18 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list04 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list04 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list04 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
 	#text07 {
 		margin-top: 0.75rem !important;
 		margin-bottom: 0.75rem !important;
@@ -9841,6 +10175,36 @@ th {
 	
 	#video01 .frame {
 		width: 20rem;
+	}
+	
+	#table01 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#table01 th, #table01 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table02 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#table02 th, #table02 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#icons02 {
+		font-size: 2em;
+		width: calc(100% + 1.5rem);
+		margin-left: -0.75rem;
+	}
+	
+	#icons02 li {
+		margin: 0.75rem;
 	}
 }
 
@@ -11397,6 +11761,300 @@ th {
 		height: calc(100% + 2.4375rem);
 	}
 	
+	#list10 {
+		font-size: 1em;
+	}
+	
+	#list10 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list10 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list11 {
+		font-size: 1em;
+	}
+	
+	#list11 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list11 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list01 {
+		font-size: 1em;
+	}
+	
+	#list01 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list01 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list06 {
+		font-size: 1em;
+	}
+	
+	#list06 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list06 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list07 {
+		font-size: 1em;
+	}
+	
+	#list07 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list07 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list05 {
+		font-size: 1em;
+	}
+	
+	#list05 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list05 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list02 {
+		font-size: 1em;
+	}
+	
+	#list02 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list02 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list21 {
+		font-size: 1em;
+	}
+	
+	#list21 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list21 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list15 {
+		font-size: 1em;
+	}
+	
+	#list15 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list15 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list19 {
+		font-size: 1em;
+	}
+	
+	#list19 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list19 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list20 {
+		font-size: 1em;
+	}
+	
+	#list20 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list20 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list03 {
+		font-size: 1em;
+	}
+	
+	#list03 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list03 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list08 {
+		font-size: 1em;
+	}
+	
+	#list08 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list08 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list13 {
+		font-size: 1em;
+	}
+	
+	#list13 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list13 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list14 {
+		font-size: 1em;
+	}
+	
+	#list14 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list14 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list16 {
+		font-size: 1em;
+	}
+	
+	#list16 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list16 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list09 {
+		font-size: 1em;
+	}
+	
+	#list09 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list09 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list12 {
+		font-size: 1em;
+	}
+	
+	#list12 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list12 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list17 {
+		font-size: 1em;
+	}
+	
+	#list17 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list17 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list18 {
+		font-size: 1em;
+	}
+	
+	#list18 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list18 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.65625rem;
+	}
+	
+	#list04 {
+		font-size: 1em;
+	}
+	
+	#list04 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list04 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
 	#text07 {
 		font-size: 1em;
 	}
@@ -11482,6 +12140,14 @@ th {
 	}
 	
 	#text05 {
+		font-size: 1em;
+	}
+	
+	#table01 {
+		font-size: 1em;
+	}
+	
+	#table02 {
 		font-size: 1em;
 	}
 	
