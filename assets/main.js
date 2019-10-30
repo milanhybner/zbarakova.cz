@@ -126,17 +126,6 @@
 	
 		};
 	
-	// Animation.
-		on('load', function() {
-			setTimeout(function() {
-				$body.className = $body.className.replace(/\bis-loading\b/, 'is-playing');
-	
-				setTimeout(function() {
-					$body.className = $body.className.replace(/\bis-playing\b/, 'is-ready');
-				}, 39125);
-			}, 100);
-		});
-	
 	// Sections.
 		(function() {
 	
