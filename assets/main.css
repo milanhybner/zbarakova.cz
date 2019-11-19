@@ -403,10 +403,6 @@ body.is-instant:after {
 	width: 12rem;
 }
 
-#image09 img {
-	width: 20rem;
-}
-
 #image02:not(:first-child) {
 	margin-top: 0.625rem !important;
 }
@@ -830,17 +826,6 @@ hr:before {
 }
 
 #divider03:before {
-	width: 22%;
-	border-top: solid 1px #D9D9D9;
-	height: 1px;
-}
-
-#divider02 {
-	height: 2rem;
-	line-height: 2rem;
-}
-
-#divider02:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -6203,10 +6188,6 @@ th {
 		width: 12rem;
 	}
 	
-	#image09 img {
-		width: 20rem;
-	}
-	
 	#image02:not(:first-child) {
 		margin-top: 0.46875rem !important;
 	}
@@ -6590,11 +6571,6 @@ th {
 	}
 	
 	#divider03 {
-		height: 2rem;
-		line-height: 2rem;
-	}
-	
-	#divider02 {
 		height: 2rem;
 		line-height: 2rem;
 	}
