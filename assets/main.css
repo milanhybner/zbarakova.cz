@@ -391,6 +391,10 @@ body.is-instant:after {
 	width: 4rem;
 }
 
+#image06 img {
+	width: 20rem;
+}
+
 #image39:not(:first-child) {
 	margin-top: 1rem !important;
 }
@@ -6201,6 +6205,10 @@ th {
 	
 	#image12 img {
 		width: 4rem;
+	}
+	
+	#image06 img {
+		width: 20rem;
 	}
 	
 	#image39:not(:first-child) {
