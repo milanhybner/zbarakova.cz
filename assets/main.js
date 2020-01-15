@@ -45,6 +45,7 @@
 				a = [
 					['ios',			/([0-9_]+) like Mac OS X/,			function(v) { return v.replace('_', '.').replace('_', ''); }],
 					['ios',			/CPU like Mac OS X/,				function(v) { return 0 }],
+					['ios',			/iPad; CPU/,						function(v) { return 0 }],
 					['android',		/Android ([0-9\.]+)/,				null],
 					['mac',			/Macintosh.+Mac OS X ([0-9_]+)/,	function(v) { return v.replace('_', '.').replace('_', ''); }],
 					['windows',		/Windows NT ([0-9\.]+)/,			null],
@@ -63,6 +64,23 @@
 					}
 	
 				}
+	
+				// Hack: Detect iPads running iPadOS.
+					if (o.os == 'mac'
+					&&	('ontouchstart' in window)
+					&&	(
+	
+						// 12.9"
+							(screen.width == 1024 && screen.height == 1366)
+						// 10.2"
+							||	(screen.width == 834 && screen.height == 1112)
+						// 9.7"
+							||	(screen.width == 810 && screen.height == 1080)
+						// Legacy
+							||	(screen.width == 768 && screen.height == 1024)
+	
+					))
+						o.os = 'ios';
 	
 			// canUse.
 				var _canUse = document.createElement('div');
@@ -290,6 +308,61 @@
 						f();
 	
 				},
+				loadElements = function(parent) {
+	
+					var a, i;
+	
+					// IFRAMEs.
+	
+						// Get list of unloaded IFRAMEs.
+							a = parent.querySelectorAll('iframe[data-src]:not([data-src=""])');
+	
+						// Step through list.
+							for (i=0; i < a.length; i++) {
+	
+								// Load.
+									a[i].src = a[i].dataset.src;
+	
+								// Mark as loaded.
+									a[i].dataset.src = "";
+	
+							}
+	
+				},
+				unloadElements = function(parent) {
+	
+					var a, i;
+	
+					// IFRAMEs.
+	
+						// Get list of loaded IFRAMEs.
+							a = parent.querySelectorAll('iframe[data-src=""]');
+	
+						// Step through list.
+							for (i=0; i < a.length; i++) {
+	
+								// Mark as unloaded.
+									a[i].dataset.src = a[i].src;
+	
+								// Unload.
+									a[i].src = '';
+	
+							}
+	
+					// Video.
+	
+						// Get list of videos.
+							a = parent.querySelectorAll('video');
+	
+						// Step through list.
+							for (i=0; i < a.length; i++) {
+	
+								// Pause.
+									a[i].pause();
+	
+							}
+	
+				},
 				sections = {};
 	
 			// Expose doNext, doPrevious.
@@ -382,6 +455,9 @@
 	
 					// Activate initial section.
 						initialSection.classList.add('active');
+	
+					// Load elements.
+						loadElements(initialSection);
 	
 				 	// Scroll to top.
 						doScroll(null, 'instant');
@@ -515,6 +591,9 @@
 										// Deactivate.
 											currentSection.classList.add('inactive');
 	
+										// Unload elements.
+											unloadElements(currentSection);
+	
 										// Hide.
 											setTimeout(function() {
 												currentSection.style.display = 'none';
@@ -598,6 +677,9 @@
 														// Clear target heights.
 															section.style.minHeight = '';
 															section.style.maxHeight = '';
+	
+														// Load elements.
+															loadElements(section);
 	
 													 	// Scroll to scroll point (if applicable).
 													 		if (scrollPoint)
@@ -693,6 +775,9 @@
 	
 					})();
 	
+				// Apply "is-touch" class to body.
+					$body.classList.add('is-touch');
+	
 			}
 	
 		// iOS.
@@ -735,6 +820,9 @@
 								}, true);
 	
 						})();
+	
+				// Apply "is-touch" class to body.
+					$body.classList.add('is-touch');
 	
 			}
 	
