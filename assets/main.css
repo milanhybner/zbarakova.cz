@@ -847,6 +847,21 @@ hr:before {
 	margin-top: -0.5px;
 }
 
+#divider09:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#divider09:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#divider09:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
+	margin-top: -0.5px;
+}
+
 #divider11:not(:first-child) {
 	margin-top: 1.25rem !important;
 }
@@ -4691,6 +4706,45 @@ hr:before {
 }
 
 #list10 ul li:before {
+	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cpolygon%20points%3D%2220%2C1%2027%2C12.3%2040%2C15.5%2031.4%2C25.7%2032.4%2C39%2020%2C34%207.6%2C39%208.6%2C25.7%200%2C15.5%2013%2C12.3%22%20fill%3D%22%23808080%22%20%2F%3E%3C%2Fsvg%3E');
+	border-radius: 0.5rem;
+	line-height: 1.125rem;
+	height: 1.125rem;
+	background-position: left 60%;
+	background-size: contain;
+	min-width: 0.52734375rem;
+}
+
+#list22 {
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.075rem;
+	font-size: 1em;
+	line-height: 1.125;
+	font-weight: 500;
+}
+
+#list22 a {
+	text-decoration: none;
+}
+
+#list22 a:hover {
+	text-decoration: underline;
+}
+
+#list22 ul {
+	width: 20rem;
+}
+
+#list22 ul li {
+	margin-top: 1rem;
+}
+
+#list22 ul li p {
+	padding-left: 0.625rem;
+}
+
+#list22 ul li:before {
 	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cpath%20d%3D%22M31.7%2C21.1L14.3%2C38.5C14%2C38.8%2C13.7%2C39%2C13.2%2C39c-0.4%2C0-0.7-0.1-1.1-0.5l-3.9-3.9c-0.2-0.2-0.5-0.6-0.5-1.1%20c0-0.4%2C0.1-0.7%2C0.5-1.1L20.7%2C20L8.3%2C7.6C8.1%2C7.3%2C7.8%2C7%2C7.8%2C6.5c0-0.4%2C0.1-0.7%2C0.5-1.1l3.9-3.9C12.5%2C1.2%2C12.8%2C1%2C13.3%2C1%20c0.4%2C0%2C0.7%2C0.1%2C1.1%2C0.5l17.4%2C17.4c0.2%2C0.2%2C0.5%2C0.6%2C0.5%2C1.1C32.1%2C20.4%2C31.9%2C20.7%2C31.7%2C21.1z%22%20fill%3D%22%23808080%22%20%2F%3E%3C%2Fsvg%3E');
 	border-radius: 0.5rem;
 	line-height: 1.125rem;
@@ -6716,6 +6770,18 @@ th {
 	}
 	
 	#divider02:before {
+		width: 22%;
+	}
+	
+	#divider09:not(:first-child) {
+		margin-top: 1rem !important;
+	}
+	
+	#divider09:not(:last-child) {
+		margin-bottom: 1rem !important;
+	}
+	
+	#divider09:before {
 		width: 22%;
 	}
 	
@@ -9008,6 +9074,22 @@ th {
 		min-width: 0.52734375rem;
 	}
 	
+	#list22 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list22 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list22 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
 	#list11 {
 		letter-spacing: -0.065625rem;
 		font-size: 1em;
@@ -11227,6 +11309,20 @@ th {
 	}
 	
 	#list10 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list22 {
+		font-size: 1em;
+	}
+	
+	#list22 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list22 ul li:before {
 		line-height: 1.125rem;
 		height: 1.125rem;
 		min-width: 0.52734375rem;
