@@ -444,7 +444,7 @@ body.is-instant:after {
 	width: 20rem;
 }
 
-#image10 img {
+#image07 img {
 	width: 20rem;
 }
 
@@ -462,6 +462,18 @@ body.is-instant:after {
 
 #image14 img {
 	width: 7rem;
+}
+
+#image10:not(:first-child) {
+	margin-top: 2rem !important;
+}
+
+#image10:not(:last-child) {
+	margin-bottom: 2rem !important;
+}
+
+#image10 img {
+	width: 20rem;
 }
 
 #image43 a, #image43 span {
@@ -6768,7 +6780,7 @@ th {
 		width: 20rem;
 	}
 	
-	#image10 img {
+	#image07 img {
 		width: 20rem;
 	}
 	
@@ -6786,6 +6798,18 @@ th {
 	
 	#image14 img {
 		width: 7rem;
+	}
+	
+	#image10:not(:first-child) {
+		margin-top: 1.5rem !important;
+	}
+	
+	#image10:not(:last-child) {
+		margin-bottom: 1.5rem !important;
+	}
+	
+	#image10 img {
+		width: 20rem;
 	}
 	
 	#image43 img {
