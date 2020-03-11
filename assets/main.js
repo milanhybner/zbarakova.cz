@@ -207,6 +207,30 @@
 					location.href = '#' + (section.matches(':first-child') ? '' : section.id.replace(/-section$/, ''));
 	
 				},
+				doFirst = function() {
+	
+					var section;
+	
+					section = $('#main > .inner > section:first-of-type');
+	
+					if (!section || section.tagName != 'SECTION')
+						return;
+	
+					location.href = '#' + section.id.replace(/-section$/, '');
+	
+				},
+				doLast = function() {
+	
+					var section;
+	
+					section = $('#main > .inner > section:last-of-type');
+	
+					if (!section || section.tagName != 'SECTION')
+						return;
+	
+					location.href = '#' + section.id.replace(/-section$/, '');
+	
+				},
 				doScroll = function(e, style, duration) {
 	
 					var y, cy, dy,
@@ -365,9 +389,11 @@
 				},
 				sections = {};
 	
-			// Expose doNext, doPrevious.
+			// Expose doNext, doPrevious, doFirst, doLast.
 				window._next = doNext;
 				window._previous = doPrevious;
+				window._first = doFirst;
+				window._last = doLast;
 	
 			// Initialize.
 	
