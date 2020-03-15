@@ -379,6 +379,18 @@ body.is-instant:after {
 	width: 8.75rem;
 }
 
+#image51:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#image51:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#image51 img {
+	width: 44.375rem;
+}
+
 #image07:not(:first-child) {
 	margin-top: 1rem !important;
 }
@@ -1737,11 +1749,15 @@ hr:before {
 }
 
 #container26 > .inner > :nth-child(1) {
-	width: calc(50% + 1.5rem);
+	width: calc(33.33333% + 1rem);
 }
 
 #container26 > .inner > :nth-child(2) {
-	width: calc(50% + 1.5rem);
+	width: calc(33.33333% + 1rem);
+}
+
+#container26 > .inner > :nth-child(3) {
+	width: calc(33.33333% + 1rem);
 }
 
 #container24 > .inner {
@@ -7312,6 +7328,18 @@ th {
 		width: 8.75rem;
 	}
 	
+	#image51:not(:first-child) {
+		margin-top: 0.75rem !important;
+	}
+	
+	#image51:not(:last-child) {
+		margin-bottom: 0.75rem !important;
+	}
+	
+	#image51 img {
+		width: 44.375rem;
+	}
+	
 	#image07:not(:first-child) {
 		margin-top: 0.75rem !important;
 	}
@@ -8498,6 +8526,12 @@ th {
 	}
 	
 	#container26 > .inner > :nth-child(2) {
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
+	}
+	
+	#container26 > .inner > :nth-child(3) {
 		width: 100% !important;
 		min-height: 100% !important;
 		text-align: inherit !important;
