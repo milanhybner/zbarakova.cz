@@ -737,13 +737,38 @@
 				// Hack: Allow hashchange to trigger on click even if the target's href matches the current hash.
 					on('click', function(event) {
 	
-						var t = event.target;
+						var t = event.target,
+							tagName = t.tagName.toUpperCase();
 	
-						// Target is an image and its parent is a link? Switch target to parent.
-							if (t.tagName == 'IMG'
-							&&	t.parentElement
-							&&	t.parentElement.tagName == 'A')
-								t = t.parentElement;
+						// Find real target.
+							switch (tagName) {
+	
+								case 'IMG':
+								case 'SVG':
+								case 'USE':
+								case 'U':
+								case 'STRONG':
+								case 'EM':
+								case 'CODE':
+								case 'S':
+								case 'MARK':
+								case 'SPAN':
+	
+									// Find ancestor anchor tag.
+										while ( !!(t = t.parentElement) )
+											if (t.tagName == 'A')
+												break;
+	
+									// Not found? Bail.
+										if (!t)
+											return;
+	
+									break;
+	
+								default:
+									break;
+	
+							}
 	
 						// Target is an anchor *and* its href is a hash that matches the current hash?
 							if (t.tagName == 'A'
