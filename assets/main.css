@@ -420,6 +420,18 @@ body.is-instant:after {
 	border-radius: 100%;
 }
 
+#image09:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#image09:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#image09 img {
+	width: 7rem;
+}
+
 #image13:not(:first-child) {
 	margin-top: 1rem !important;
 }
@@ -429,6 +441,18 @@ body.is-instant:after {
 }
 
 #image13 img {
+	width: 19.625rem;
+}
+
+#image10:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#image10:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#image10 img {
 	width: 7rem;
 }
 
@@ -441,7 +465,7 @@ body.is-instant:after {
 }
 
 #image14 img {
-	width: 7rem;
+	width: 13.5rem;
 }
 
 #image02 a, #image02 span {
@@ -6683,6 +6707,18 @@ th {
 		width: 4rem;
 	}
 	
+	#image09:not(:first-child) {
+		margin-top: 0.75rem !important;
+	}
+	
+	#image09:not(:last-child) {
+		margin-bottom: 0.75rem !important;
+	}
+	
+	#image09 img {
+		width: 7rem;
+	}
+	
 	#image13:not(:first-child) {
 		margin-top: 0.75rem !important;
 	}
@@ -6692,6 +6728,18 @@ th {
 	}
 	
 	#image13 img {
+		width: 19.625rem;
+	}
+	
+	#image10:not(:first-child) {
+		margin-top: 0.75rem !important;
+	}
+	
+	#image10:not(:last-child) {
+		margin-bottom: 0.75rem !important;
+	}
+	
+	#image10 img {
 		width: 7rem;
 	}
 	
@@ -6704,7 +6752,7 @@ th {
 	}
 	
 	#image14 img {
-		width: 7rem;
+		width: 13.5rem;
 	}
 	
 	#image02 img {
