@@ -366,6 +366,19 @@
 	
 							}
 	
+					// Video.
+	
+						// Get list of videos (autoplay).
+							a = parent.querySelectorAll('video[autoplay]');
+	
+						// Step through list.
+							for (i=0; i < a.length; i++) {
+	
+								// Play.
+									a[i].play();
+	
+							}
+	
 				},
 				unloadElements = function(parent) {
 	
