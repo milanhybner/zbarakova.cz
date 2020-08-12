@@ -506,11 +506,11 @@ body.is-instant:after {
 }
 
 #image17:not(:first-child) {
-	margin-top: 1rem !important;
+	margin-top: 2rem !important;
 }
 
 #image17:not(:last-child) {
-	margin-bottom: 1rem !important;
+	margin-bottom: 2rem !important;
 }
 
 #image17 img {
@@ -1060,6 +1060,21 @@ hr:before {
 }
 
 #divider22:before {
+	width: 22%;
+	border-top: solid 1px transparent;
+	height: 1px;
+	margin-top: -0.5px;
+}
+
+#divider24:not(:first-child) {
+	margin-top: 0.25rem !important;
+}
+
+#divider24:not(:last-child) {
+	margin-bottom: 0.25rem !important;
+}
+
+#divider24:before {
 	width: 22%;
 	border-top: solid 1px transparent;
 	height: 1px;
@@ -7745,11 +7760,11 @@ th {
 	}
 	
 	#image17:not(:first-child) {
-		margin-top: 0.75rem !important;
+		margin-top: 1.5rem !important;
 	}
 	
 	#image17:not(:last-child) {
-		margin-bottom: 0.75rem !important;
+		margin-bottom: 1.5rem !important;
 	}
 	
 	#image17 img {
@@ -8241,6 +8256,18 @@ th {
 	}
 	
 	#divider22:before {
+		width: 22%;
+	}
+	
+	#divider24:not(:first-child) {
+		margin-top: 0.25rem !important;
+	}
+	
+	#divider24:not(:last-child) {
+		margin-bottom: 0.25rem !important;
+	}
+	
+	#divider24:before {
 		width: 22%;
 	}
 	
