@@ -1221,15 +1221,220 @@
 	
 			}
 	
+	// Scroll events.
+		var scrollEvents = {
+	
+			/**
+			 * Items.
+			 * @var {array}
+			 */
+			items: [],
+	
+			/**
+			 * Adds an event.
+			 * @param {object} o Options.
+			 */
+			add: function(o) {
+	
+				this.items.push({
+					element: o.element,
+					enter: ('enter' in o ? o.enter : null),
+					leave: ('leave' in o ? o.leave : null),
+					mode: ('mode' in o ? o.mode : 1),
+					offset: ('offset' in o ? o.offset : 0),
+					state: false,
+				});
+	
+			},
+	
+			/**
+			 * Handler.
+			 */
+			handler: function() {
+	
+				var	height = document.documentElement.clientHeight,
+					top = (client.os == 'ios' ? document.body.scrollTop : document.documentElement.scrollTop),
+					bottom = top + height;
+	
+				// Step through items.
+					scrollEvents.items.forEach(function(item) {
+	
+						var bcr, elementTop, elementBottom, state, a, b;
+	
+						// No enter/leave handlers? Bail.
+							if (!item.enter
+							&&	!item.leave)
+								return true;
+	
+						// Not visible? Bail.
+							if (item.element.offsetParent === null)
+								return true;
+	
+						// Get element position.
+							bcr = item.element.getBoundingClientRect();
+							elementTop = top + Math.floor(bcr.top);
+							elementBottom = elementTop + bcr.height;
+	
+						// Determine state.
+							switch (item.mode) {
+	
+								// Element falls within viewport.
+									case 1:
+									default:
+	
+										// State.
+											state = (bottom > (elementTop - item.offset) && top < (elementBottom + item.offset));
+	
+										break;
+	
+								// Viewport midpoint falls within element.
+									case 2:
+	
+										// Midpoint.
+											a = (top + (height * 0.5));
+	
+										// State.
+											state = (a > (elementTop - item.offset) && a < (elementBottom + item.offset));
+	
+										break;
+	
+								// Viewport midsection falls within element.
+									case 3:
+	
+										// Upper, lower limit (25 - 75%).
+											a = top + (height * 0.25);
+											b = top + (height * 0.75);
+	
+										// State.
+											state = (b > (elementTop - item.offset) && a < (elementBottom + item.offset));
+	
+										break;
+	
+							}
+	
+						// State changed?
+							if (state != item.state) {
+	
+								// Update state.
+									item.state = state;
+	
+								// Call handler.
+									if (item.state) {
+	
+										// Enter handler exists?
+											if (item.enter) {
+	
+												// Call it.
+													(item.enter).apply(item.element);
+	
+												// No leave handler? Unbind enter handler (so we don't check this element again).
+													if (!item.leave)
+														item.enter = null;
+	
+											}
+	
+									}
+									else {
+	
+										// Leave handler exists?
+											if (item.leave) {
+	
+												// Call it.
+													(item.leave).apply(item.element);
+	
+												// No enter handler? Unbind leave handler (so we don't check this element again).
+													if (!item.enter)
+														item.leave = null;
+	
+											}
+	
+									}
+	
+							}
+	
+					});
+	
+			},
+	
+			/**
+			 * Initializes scroll events.
+			 */
+			init: function() {
+	
+				// Bind handler to events.
+					on('load', this.handler);
+					on('resize', this.handler);
+					on('scroll', this.handler);
+	
+				// Do initial handler call.
+					(this.handler)();
+	
+			}
+		};
+	
+		// Initialize.
+			scrollEvents.init();
+	
 	// Deferred.
 		(function() {
 	
 			var items = $$('.deferred'),
-				f;
+				loadHandler, enterHandler;
 	
 			// Polyfill: NodeList.forEach()
 				if (!('forEach' in NodeList.prototype))
 					NodeList.prototype.forEach = Array.prototype.forEach;
+	
+			// Handlers.
+				loadHandler = function() {
+	
+					var i = this,
+						p = this.parentElement;
+	
+					// Not "done" yet? Bail.
+						if (i.dataset.src !== 'done')
+							return;
+	
+					// Show image.
+						if (Date.now() - i._startLoad < 375) {
+	
+							p.classList.remove('loading');
+							p.style.backgroundImage = 'none';
+							i.style.transition = '';
+							i.style.opacity = 1;
+	
+						}
+						else {
+	
+							p.classList.remove('loading');
+							i.style.opacity = 1;
+	
+							setTimeout(function() {
+								i.style.backgroundImage = 'none';
+							}, 375);
+	
+						}
+	
+				};
+	
+				enterHandler = function() {
+	
+					var	i = this,
+						p = this.parentElement,
+						src;
+	
+					// Get src, mark as "done".
+						src = i.dataset.src;
+						i.dataset.src = 'done';
+	
+					// Mark parent as loading.
+						p.classList.add('loading');
+	
+					// Swap placeholder for real image src.
+						i._startLoad = Date.now();
+						i.src = src;
+	
+				};
 	
 			// Initialize items.
 				items.forEach(function(p) {
@@ -1247,86 +1452,16 @@
 						i.style.transition = 'opacity 0.375s ease-in-out';
 	
 					// Load event.
-						i.addEventListener('load', function(event) {
+						i.addEventListener('load', loadHandler);
 	
-							// Not "done" yet? Bail.
-								if (i.dataset.src !== 'done')
-									return;
-	
-							// Show image.
-								if (Date.now() - i._startLoad < 375) {
-	
-									p.classList.remove('loading');
-									p.style.backgroundImage = 'none';
-									i.style.transition = '';
-									i.style.opacity = 1;
-	
-								}
-								else {
-	
-									p.classList.remove('loading');
-									i.style.opacity = 1;
-	
-									setTimeout(function() {
-										p.style.backgroundImage = 'none';
-									}, 375);
-	
-								}
-	
+					// Add to scroll events.
+						scrollEvents.add({
+							element: i,
+							enter: enterHandler,
+							offset: 250
 						});
 	
 				});
-	
-			// Handler function.
-				f = function() {
-	
-					var	height = document.documentElement.clientHeight,
-						top = (client.os == 'ios' ? document.body.scrollTop : document.documentElement.scrollTop),
-						bottom = top + height;
-	
-					// Step through items.
-						items.forEach(function(p) {
-	
-							var i = p.firstElementChild;
-	
-							// Not visible? Bail.
-								if (i.offsetParent === null)
-									return true;
-	
-							// "Done" already? Bail.
-								if (i.dataset.src === 'done')
-									return true;
-	
-							// Get image position.
-								var	x = i.getBoundingClientRect(),
-									imageTop = top + Math.floor(x.top) - height,
-									imageBottom = top + Math.ceil(x.bottom) + height,
-									src;
-	
-							// Falls within viewable area of viewport?
-								if (imageTop <= bottom && imageBottom >= top) {
-	
-									// Get src, mark as "done".
-										src = i.dataset.src;
-										i.dataset.src = 'done';
-	
-									// Mark parent as loading.
-										p.classList.add('loading');
-	
-									// Swap placeholder for real image src.
-										i._startLoad = Date.now();
-										i.src = src;
-	
-								}
-	
-						});
-	
-				};
-	
-			// Add event listeners.
-				on('load', f);
-				on('resize', f);
-				on('scroll', f);
 	
 		})();
 
