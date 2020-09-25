@@ -429,15 +429,15 @@ body.is-instant:after {
 	width: 7rem;
 }
 
-#image10:not(:first-child) {
+#image47:not(:first-child) {
 	margin-top: 1rem !important;
 }
 
-#image10:not(:last-child) {
+#image47:not(:last-child) {
 	margin-bottom: 1rem !important;
 }
 
-#image10 img {
+#image47 img {
 	width: 16rem;
 }
 
@@ -464,6 +464,18 @@ body.is-instant:after {
 
 #image44 img {
 	width: 10.125rem;
+}
+
+#image10:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#image10:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#image10 img {
+	width: 16rem;
 }
 
 #image45:not(:first-child) {
@@ -988,15 +1000,15 @@ hr:before {
 	margin-top: -0.5px;
 }
 
-#divider17:not(:first-child) {
+#divider25:not(:first-child) {
 	margin-top: 1rem !important;
 }
 
-#divider17:not(:last-child) {
+#divider25:not(:last-child) {
 	margin-bottom: 1rem !important;
 }
 
-#divider17:before {
+#divider25:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -1027,6 +1039,21 @@ hr:before {
 }
 
 #divider05:before {
+	width: 22%;
+	border-top: solid 1px #D9D9D9;
+	height: 1px;
+	margin-top: -0.5px;
+}
+
+#divider17:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#divider17:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#divider17:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -7899,15 +7926,15 @@ th {
 		width: 7rem;
 	}
 	
-	#image10:not(:first-child) {
+	#image47:not(:first-child) {
 		margin-top: 0.75rem !important;
 	}
 	
-	#image10:not(:last-child) {
+	#image47:not(:last-child) {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image10 img {
+	#image47 img {
 		width: 16rem;
 	}
 	
@@ -7929,6 +7956,18 @@ th {
 	
 	#image44 img {
 		width: 10.125rem;
+	}
+	
+	#image10:not(:first-child) {
+		margin-top: 0.75rem !important;
+	}
+	
+	#image10:not(:last-child) {
+		margin-bottom: 0.75rem !important;
+	}
+	
+	#image10 img {
+		width: 16rem;
 	}
 	
 	#image45:not(:first-child) {
@@ -8419,15 +8458,15 @@ th {
 		width: 22%;
 	}
 	
-	#divider17:not(:first-child) {
+	#divider25:not(:first-child) {
 		margin-top: 1rem !important;
 	}
 	
-	#divider17:not(:last-child) {
+	#divider25:not(:last-child) {
 		margin-bottom: 1rem !important;
 	}
 	
-	#divider17:before {
+	#divider25:before {
 		width: 22%;
 	}
 	
@@ -8452,6 +8491,18 @@ th {
 	}
 	
 	#divider05:before {
+		width: 22%;
+	}
+	
+	#divider17:not(:first-child) {
+		margin-top: 1rem !important;
+	}
+	
+	#divider17:not(:last-child) {
+		margin-bottom: 1rem !important;
+	}
+	
+	#divider17:before {
 		width: 22%;
 	}
 	
