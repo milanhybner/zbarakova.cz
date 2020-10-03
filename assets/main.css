@@ -429,18 +429,6 @@ body.is-instant:after {
 	width: 7rem;
 }
 
-#image47:not(:first-child) {
-	margin-top: 1rem !important;
-}
-
-#image47:not(:last-child) {
-	margin-bottom: 1rem !important;
-}
-
-#image47 img {
-	width: 16rem;
-}
-
 #image11:not(:first-child) {
 	margin-top: 1rem !important;
 }
@@ -1009,21 +997,6 @@ hr:before {
 }
 
 #divider25:before {
-	width: 22%;
-	border-top: solid 1px #D9D9D9;
-	height: 1px;
-	margin-top: -0.5px;
-}
-
-#divider02:not(:first-child) {
-	margin-top: 1rem !important;
-}
-
-#divider02:not(:last-child) {
-	margin-bottom: 1rem !important;
-}
-
-#divider02:before {
 	width: 22%;
 	border-top: solid 1px #D9D9D9;
 	height: 1px;
@@ -7926,18 +7899,6 @@ th {
 		width: 7rem;
 	}
 	
-	#image47:not(:first-child) {
-		margin-top: 0.75rem !important;
-	}
-	
-	#image47:not(:last-child) {
-		margin-bottom: 0.75rem !important;
-	}
-	
-	#image47 img {
-		width: 16rem;
-	}
-	
 	#image11:not(:first-child) {
 		margin-top: 0.75rem !important;
 	}
@@ -8467,18 +8428,6 @@ th {
 	}
 	
 	#divider25:before {
-		width: 22%;
-	}
-	
-	#divider02:not(:first-child) {
-		margin-top: 1rem !important;
-	}
-	
-	#divider02:not(:last-child) {
-		margin-bottom: 1rem !important;
-	}
-	
-	#divider02:before {
 		width: 22%;
 	}
 	
