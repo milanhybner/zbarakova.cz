@@ -490,6 +490,18 @@ body.is-instant:after {
 	width: 19rem;
 }
 
+#image39:not(:first-child) {
+	margin-top: 2rem !important;
+}
+
+#image39:not(:last-child) {
+	margin-bottom: 2rem !important;
+}
+
+#image39 img {
+	width: 13rem;
+}
+
 #image13:not(:first-child) {
 	margin-top: 2rem !important;
 }
@@ -1092,6 +1104,21 @@ hr:before {
 #divider29:before {
 	width: 22%;
 	border-top: solid 1px #FFFFFF;
+	height: 1px;
+	margin-top: -0.5px;
+}
+
+#divider02:not(:first-child) {
+	margin-top: 0.25rem !important;
+}
+
+#divider02:not(:last-child) {
+	margin-bottom: 0.25rem !important;
+}
+
+#divider02:before {
+	width: 22%;
+	border-top: solid 1px transparent;
 	height: 1px;
 	margin-top: -0.5px;
 }
@@ -5562,17 +5589,75 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: none;
 }
 
+#text07 br + br {
+	margin-top: 0.675rem;
+}
+
+#text07:not(:first-child) {
+	margin-top: 2rem !important;
+}
+
+#text07:not(:last-child) {
+	margin-bottom: 2rem !important;
+}
+
+#text07 {
+	text-transform: uppercase;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1.25em;
+	line-height: 1.125;
+	font-weight: 700;
+}
+
+#text07 a {
+	text-decoration: underline;
+}
+
+#text07 a:hover {
+	text-decoration: none;
+}
+
+#text06 br + br {
+	margin-top: 0.675rem;
+}
+
+#text06:not(:first-child) {
+	margin-top: 2rem !important;
+}
+
+#text06:not(:last-child) {
+	margin-bottom: 2rem !important;
+}
+
+#text06 {
+	text-transform: uppercase;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1.25em;
+	line-height: 1.125;
+	font-weight: 700;
+}
+
+#text06 a {
+	text-decoration: underline;
+}
+
+#text06 a:hover {
+	text-decoration: none;
+}
+
 #text21 br + br {
 	margin-top: 0.675rem;
 }
 
 #text21 {
 	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', sans-serif;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
-	font-weight: 900;
+	font-weight: 700;
 }
 
 #text21 a {
@@ -5619,11 +5704,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text26 {
 	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', sans-serif;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
-	font-weight: 900;
+	font-weight: 700;
 }
 
 #text26 a {
@@ -5648,11 +5733,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text04 {
 	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', sans-serif;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
-	font-weight: 900;
+	font-weight: 700;
 }
 
 #text04 a {
@@ -5677,11 +5762,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text25 {
 	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', sans-serif;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
-	font-weight: 900;
+	font-weight: 700;
 }
 
 #text25 a {
@@ -5706,11 +5791,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text15 {
 	text-transform: uppercase;
-	color: #5E5E5E;
-	font-family: 'Raleway', sans-serif;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 1.25em;
 	line-height: 1.125;
-	font-weight: 900;
+	font-weight: 700;
 }
 
 #text15 a {
@@ -7706,6 +7791,18 @@ th {
 		width: 19rem;
 	}
 	
+	#image39:not(:first-child) {
+		margin-top: 1.5rem !important;
+	}
+	
+	#image39:not(:last-child) {
+		margin-bottom: 1.5rem !important;
+	}
+	
+	#image39 img {
+		width: 13rem;
+	}
+	
 	#image13:not(:first-child) {
 		margin-top: 1.5rem !important;
 	}
@@ -8251,6 +8348,18 @@ th {
 	}
 	
 	#divider29:before {
+		width: 22%;
+	}
+	
+	#divider02:not(:first-child) {
+		margin-top: 0.25rem !important;
+	}
+	
+	#divider02:not(:last-child) {
+		margin-bottom: 0.25rem !important;
+	}
+	
+	#divider02:before {
 		width: 22%;
 	}
 	
@@ -10959,6 +11068,36 @@ th {
 		line-height: 1.125;
 	}
 	
+	#text07:not(:first-child) {
+		margin-top: 1.5rem !important;
+	}
+	
+	#text07:not(:last-child) {
+		margin-bottom: 1.5rem !important;
+	}
+	
+	#text07 {
+		letter-spacing: 0rem;
+		width: 100%;
+		font-size: 1.25em;
+		line-height: 1.125;
+	}
+	
+	#text06:not(:first-child) {
+		margin-top: 1.5rem !important;
+	}
+	
+	#text06:not(:last-child) {
+		margin-bottom: 1.5rem !important;
+	}
+	
+	#text06 {
+		letter-spacing: 0rem;
+		width: 100%;
+		font-size: 1.25em;
+		line-height: 1.125;
+	}
+	
 	#text21 {
 		letter-spacing: 0rem;
 		width: 100%;
@@ -13573,6 +13712,14 @@ th {
 	}
 	
 	#text13 {
+		font-size: 1.25em;
+	}
+	
+	#text07 {
+		font-size: 1.25em;
+	}
+	
+	#text06 {
 		font-size: 1.25em;
 	}
 	
