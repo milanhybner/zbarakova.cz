@@ -172,6 +172,10 @@
 				&&	!h.match(/^[a-zA-Z]/))
 					h = 'x' + h;
 	
+			// Convert to lowercase.
+				if (typeof h == 'string')
+					h = h.toLowerCase();
+	
 			return h;
 	
 		},

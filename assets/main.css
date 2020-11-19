@@ -388,15 +388,15 @@ body.is-instant:after {
 	width: 4rem;
 }
 
-#image17:not(:first-child) {
+#image08:not(:first-child) {
 	margin-top: 1rem !important;
 }
 
-#image17:not(:last-child) {
+#image08:not(:last-child) {
 	margin-bottom: 1rem !important;
 }
 
-#image17 img {
+#image08 img {
 	width: 12rem;
 }
 
@@ -410,6 +410,18 @@ body.is-instant:after {
 
 #image40 img {
 	width: 12rem;
+}
+
+#image17:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#image17:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#image17 img {
+	width: 8rem;
 }
 
 #image35:not(:first-child) {
@@ -5383,27 +5395,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: underline;
 }
 
-#text01 br + br {
-	margin-top: 0.9rem;
-}
-
-#text01 {
-	text-align: center;
-	color: #000000;
-	font-family: 'Work Sans', sans-serif;
-	font-size: 0.75em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
-#text01 a {
-	text-decoration: none;
-}
-
-#text01 a:hover {
-	text-decoration: underline;
-}
-
 #text13 br + br {
 	margin-top: 0.675rem;
 }
@@ -5602,6 +5593,27 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text23 a:hover {
 	text-decoration: none;
+}
+
+#text01 br + br {
+	margin-top: 0.9rem;
+}
+
+#text01 {
+	text-align: center;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 0.75em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+#text01 a {
+	text-decoration: none;
+}
+
+#text01 a:hover {
+	text-decoration: underline;
 }
 
 #text11 br + br {
@@ -6412,7 +6424,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	min-width: 0.52734375rem;
 }
 
-#list01 {
+#list29 {
 	color: #000000;
 	font-family: 'Work Sans', sans-serif;
 	letter-spacing: -0.075rem;
@@ -6421,27 +6433,27 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 500;
 }
 
-#list01 a {
+#list29 a {
 	text-decoration: none;
 }
 
-#list01 a:hover {
+#list29 a:hover {
 	text-decoration: underline;
 }
 
-#list01 ul {
+#list29 ul {
 	width: 20rem;
 }
 
-#list01 ul li {
+#list29 ul li {
 	margin-top: 1rem;
 }
 
-#list01 ul li p {
+#list29 ul li p {
 	padding-left: 0.625rem;
 }
 
-#list01 ul li:before {
+#list29 ul li:before {
 	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cpath%20d%3D%22M31.7%2C21.1L14.3%2C38.5C14%2C38.8%2C13.7%2C39%2C13.2%2C39c-0.4%2C0-0.7-0.1-1.1-0.5l-3.9-3.9c-0.2-0.2-0.5-0.6-0.5-1.1%20c0-0.4%2C0.1-0.7%2C0.5-1.1L20.7%2C20L8.3%2C7.6C8.1%2C7.3%2C7.8%2C7%2C7.8%2C6.5c0-0.4%2C0.1-0.7%2C0.5-1.1l3.9-3.9C12.5%2C1.2%2C12.8%2C1%2C13.3%2C1%20c0.4%2C0%2C0.7%2C0.1%2C1.1%2C0.5l17.4%2C17.4c0.2%2C0.2%2C0.5%2C0.6%2C0.5%2C1.1C32.1%2C20.4%2C31.9%2C20.7%2C31.7%2C21.1z%22%20fill%3D%22%23808080%22%20%2F%3E%3C%2Fsvg%3E');
 	border-radius: 0.5rem;
 	line-height: 1.125rem;
@@ -7642,15 +7654,15 @@ th {
 		width: 4rem;
 	}
 	
-	#image17:not(:first-child) {
+	#image08:not(:first-child) {
 		margin-top: 0.75rem !important;
 	}
 	
-	#image17:not(:last-child) {
+	#image08:not(:last-child) {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image17 img {
+	#image08 img {
 		width: 12rem;
 	}
 	
@@ -7664,6 +7676,18 @@ th {
 	
 	#image40 img {
 		width: 12rem;
+	}
+	
+	#image17:not(:first-child) {
+		margin-top: 0.75rem !important;
+	}
+	
+	#image17:not(:last-child) {
+		margin-bottom: 0.75rem !important;
+	}
+	
+	#image17 img {
+		width: 8rem;
 	}
 	
 	#image35:not(:first-child) {
@@ -11181,13 +11205,6 @@ th {
 		line-height: 1.125;
 	}
 	
-	#text01 {
-		letter-spacing: 0rem;
-		width: 100%;
-		font-size: 0.75em;
-		line-height: 1.5;
-	}
-	
 	#text13:not(:first-child) {
 		margin-top: 1.125rem !important;
 	}
@@ -11282,6 +11299,13 @@ th {
 		letter-spacing: -0.0875rem;
 		width: 100%;
 		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#text01 {
+		letter-spacing: 0rem;
+		width: 100%;
+		font-size: 0.75em;
 		line-height: 1.5;
 	}
 	
@@ -11623,17 +11647,17 @@ th {
 		min-width: 0.52734375rem;
 	}
 	
-	#list01 {
+	#list29 {
 		letter-spacing: -0.065625rem;
 		font-size: 1em;
 		line-height: 1.125;
 	}
 	
-	#list01 ul li p {
+	#list29 ul li p {
 		padding-left: 0.625rem;
 	}
 	
-	#list01 ul li:before {
+	#list29 ul li:before {
 		line-height: 1.125rem;
 		height: 1.125rem;
 		min-width: 0.52734375rem;
@@ -13874,10 +13898,6 @@ th {
 		font-size: 0.75em;
 	}
 	
-	#text01 {
-		font-size: 0.75em;
-	}
-	
 	#text13 {
 		font-size: 1.25em;
 	}
@@ -13904,6 +13924,10 @@ th {
 	
 	#text23 {
 		font-size: 1em;
+	}
+	
+	#text01 {
+		font-size: 0.75em;
 	}
 	
 	#text11 {
@@ -14074,15 +14098,15 @@ th {
 		min-width: 0.52734375rem;
 	}
 	
-	#list01 {
+	#list29 {
 		font-size: 1em;
 	}
 	
-	#list01 ul li p {
+	#list29 ul li p {
 		padding-left: 0.625rem;
 	}
 	
-	#list01 ul li:before {
+	#list29 ul li:before {
 		line-height: 1.125rem;
 		height: 1.125rem;
 		min-width: 0.52734375rem;
