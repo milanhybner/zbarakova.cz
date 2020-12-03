@@ -290,7 +290,114 @@
 			// Scroll to top.
 				scrollToElement(null);
 	
+		},
+		loadElements = function(parent) {
+	
+			var a, e, x, i;
+	
+			// IFRAMEs.
+	
+				// Get list of unloaded IFRAMEs.
+					a = parent.querySelectorAll('iframe[data-src]:not([data-src=""])');
+	
+				// Step through list.
+					for (i=0; i < a.length; i++) {
+	
+						// Load.
+							a[i].src = a[i].dataset.src;
+	
+						// Mark as loaded.
+							a[i].dataset.src = "";
+	
+					}
+	
+			// Video.
+	
+				// Get list of videos (autoplay).
+					a = parent.querySelectorAll('video[autoplay]');
+	
+				// Step through list.
+					for (i=0; i < a.length; i++) {
+	
+						// Play if paused.
+							if (a[i].paused)
+								a[i].play();
+	
+					}
+	
+			// Autofocus.
+	
+				// Get first element with data-autofocus attribute.
+					e = parent.querySelector('[data-autofocus="1"]');
+	
+				// Determine type.
+					x = e ? e.tagName : null;
+	
+					switch (x) {
+	
+						case 'FORM':
+	
+							// Get first input.
+								e = e.querySelector('.field input, .field select, .field textarea');
+	
+							// Found? Focus.
+								if (e)
+									e.focus();
+	
+							break;
+	
+						default:
+							break;
+	
+					}
+	
+		},
+		unloadElements = function(parent) {
+	
+			var a, e, x, i;
+	
+			// IFRAMEs.
+	
+				// Get list of loaded IFRAMEs.
+					a = parent.querySelectorAll('iframe[data-src=""]');
+	
+				// Step through list.
+					for (i=0; i < a.length; i++) {
+	
+						// Mark as unloaded.
+							a[i].dataset.src = a[i].src;
+	
+						// Unload.
+							a[i].src = '';
+	
+					}
+	
+			// Video.
+	
+				// Get list of videos.
+					a = parent.querySelectorAll('video');
+	
+				// Step through list.
+					for (i=0; i < a.length; i++) {
+	
+						// Pause if playing.
+							if (!a[i].paused)
+								a[i].pause();
+	
+					}
+	
+			// Autofocus.
+	
+				// Get focused element.
+					e = $(':focus');
+	
+				// Found? Blur.
+					if (e)
+						e.blur();
+	
+	
 		};
+	
 	
 		// Expose scrollToElement.
 			window._scrollToTop = scrollToTop;
@@ -348,74 +455,6 @@
 						return;
 	
 					location.href = '#' + section.id.replace(/-section$/, '');
-	
-				},
-				loadElements = function(parent) {
-	
-					var a, i;
-	
-					// IFRAMEs.
-	
-						// Get list of unloaded IFRAMEs.
-							a = parent.querySelectorAll('iframe[data-src]:not([data-src=""])');
-	
-						// Step through list.
-							for (i=0; i < a.length; i++) {
-	
-								// Load.
-									a[i].src = a[i].dataset.src;
-	
-								// Mark as loaded.
-									a[i].dataset.src = "";
-	
-							}
-	
-					// Video.
-	
-						// Get list of videos (autoplay).
-							a = parent.querySelectorAll('video[autoplay]');
-	
-						// Step through list.
-							for (i=0; i < a.length; i++) {
-	
-								// Play.
-									a[i].play();
-	
-							}
-	
-				},
-				unloadElements = function(parent) {
-	
-					var a, i;
-	
-					// IFRAMEs.
-	
-						// Get list of loaded IFRAMEs.
-							a = parent.querySelectorAll('iframe[data-src=""]');
-	
-						// Step through list.
-							for (i=0; i < a.length; i++) {
-	
-								// Mark as unloaded.
-									a[i].dataset.src = a[i].src;
-	
-								// Unload.
-									a[i].src = '';
-	
-							}
-	
-					// Video.
-	
-						// Get list of videos.
-							a = parent.querySelectorAll('video');
-	
-						// Step through list.
-							for (i=0; i < a.length; i++) {
-	
-								// Pause.
-									a[i].pause();
-	
-							}
 	
 				},
 				sections = {};
