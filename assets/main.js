@@ -25,6 +25,7 @@
 					['edge',		/Edge\/([0-9\.]+)/],
 					['safari',		/Version\/([0-9\.]+).+Safari/],
 					['chrome',		/Chrome\/([0-9\.]+)/],
+					['chrome',		/CriOS\/([0-9\.]+)/],
 					['ie',			/Trident\/.+rv:([0-9]+)/]
 				];
 	
@@ -406,7 +407,7 @@
 		(function() {
 	
 			var initialSection, initialScrollPoint, initialId,
-				header, footer, name, hideHeader, hideFooter,
+				header, footer, name, hideHeader, hideFooter, disableAutoScroll,
 				h, e, ee, k,
 				locked = false,
 				doNext = function() {
@@ -541,12 +542,15 @@
 	
 							}
 	
+					// Get options.
+						name = (h ? h : 'home');
+						hideHeader = name ? ((name in sections) && ('hideHeader' in sections[name]) && sections[name].hideHeader) : false;
+						hideFooter = name ? ((name in sections) && ('hideFooter' in sections[name]) && sections[name].hideFooter) : false;
+						disableAutoScroll = name ? ((name in sections) && ('disableAutoScroll' in sections[name]) && sections[name].disableAutoScroll) : false;
+	
 					// Deactivate all sections (except initial).
 	
 						// Initially hide header and/or footer (if necessary).
-							name = (h ? h : 'home');
-							hideHeader = name ? ((name in sections) && ('hideHeader' in sections[name]) && sections[name].hideHeader) : false;
-							hideFooter = name ? ((name in sections) && ('hideFooter' in sections[name]) && sections[name].hideFooter) : false;
 	
 							// Header.
 								if (header && hideHeader) {
@@ -580,8 +584,9 @@
 					// Load elements.
 						loadElements(initialSection);
 	
-				 	// Scroll to top.
-						scrollToElement(null, 'instant');
+					// Scroll to top (if not disabled for this section).
+						if (!disableAutoScroll)
+							scrollToElement(null, 'instant');
 	
 				// Load event.
 					on('load', function() {
@@ -596,7 +601,7 @@
 				on('hashchange', function(event) {
 	
 					var section, scrollPoint, id, sectionHeight, currentSection, currentSectionHeight,
-						name, hideHeader, hideFooter,
+						name, hideHeader, hideFooter, disableAutoScroll,
 						h, e, ee, k;
 	
 					// Lock.
@@ -649,12 +654,16 @@
 					// Section already active?
 						if (!section.classList.contains('inactive')) {
 	
+							// Get options.
+								name = (section ? section.id.replace(/-section$/, '') : null);
+								disableAutoScroll = name ? ((name in sections) && ('disableAutoScroll' in sections[name]) && sections[name].disableAutoScroll) : false;
+	
 						 	// Scroll to scroll point (if applicable).
 						 		if (scrollPoint)
 									scrollToElement(scrollPoint);
 	
-							// Otherwise, just scroll to top.
-								else
+							// Otherwise, just scroll to top (if not disabled for this section).
+								else if (!disableAutoScroll)
 									scrollToElement(null);
 	
 							// Bail.
@@ -672,12 +681,15 @@
 								if (location.hash == '#home')
 									history.replaceState(null, null, '#');
 	
+							// Get options.
+								name = (section ? section.id.replace(/-section$/, '') : null);
+								hideHeader = name ? ((name in sections) && ('hideHeader' in sections[name]) && sections[name].hideHeader) : false;
+								hideFooter = name ? ((name in sections) && ('hideFooter' in sections[name]) && sections[name].hideFooter) : false;
+								disableAutoScroll = name ? ((name in sections) && ('disableAutoScroll' in sections[name]) && sections[name].disableAutoScroll) : false;
+	
 							// Deactivate current section.
 	
 								// Hide header and/or footer (if necessary).
-									name = (section ? section.id.replace(/-section$/, '') : null);
-									hideHeader = name ? ((name in sections) && ('hideHeader' in sections[name]) && sections[name].hideHeader) : false;
-									hideFooter = name ? ((name in sections) && ('hideFooter' in sections[name]) && sections[name].hideFooter) : false;
 	
 									// Header.
 										if (header && hideHeader) {
@@ -758,8 +770,9 @@
 										// Trigger 'resize' event.
 											trigger('resize');
 	
-										// Scroll to top.
-											scrollToElement(null, 'instant');
+										// Scroll to top (if not disabled for this section).
+											if (!disableAutoScroll)
+												scrollToElement(null, 'instant');
 	
 										// Get target height.
 											sectionHeight = section.offsetHeight;
