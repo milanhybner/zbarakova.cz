@@ -399,7 +399,6 @@
 	
 		};
 	
-	
 		// Expose scrollToElement.
 			window._scrollToTop = scrollToTop;
 	
