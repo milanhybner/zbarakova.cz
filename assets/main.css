@@ -1005,15 +1005,15 @@ hr:before {
 	margin-top: -2.5px;
 }
 
-#divider03:not(:first-child) {
+#divider30:not(:first-child) {
 	margin-top: 0.25rem !important;
 }
 
-#divider03:not(:last-child) {
+#divider30:not(:last-child) {
 	margin-bottom: 0.25rem !important;
 }
 
-#divider03:before {
+#divider30:before {
 	width: 23%;
 	border-top: solid 5px #FFFFFF;
 	height: 5px;
@@ -1033,6 +1033,21 @@ hr:before {
 	border-top: solid 1px #FFFFFF;
 	height: 1px;
 	margin-top: -0.5px;
+}
+
+#divider03:not(:first-child) {
+	margin-top: 0.25rem !important;
+}
+
+#divider03:not(:last-child) {
+	margin-bottom: 0.25rem !important;
+}
+
+#divider03:before {
+	width: 23%;
+	border-top: solid 5px #FFFFFF;
+	height: 5px;
+	margin-top: -2.5px;
 }
 
 #divider12:not(:first-child) {
@@ -5756,6 +5771,37 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: underline;
 }
 
+#text27 br + br {
+	margin-top: 0.675rem;
+}
+
+#text27:not(:first-child) {
+	margin-top: 1.5rem !important;
+}
+
+#text27:not(:last-child) {
+	margin-bottom: 1.5rem !important;
+}
+
+#text27 {
+	text-align: left;
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.075rem;
+	width: 100%;
+	font-size: 1.25em;
+	line-height: 1.125;
+	font-weight: 600;
+}
+
+#text27 a {
+	text-decoration: underline;
+}
+
+#text27 a:hover {
+	text-decoration: none;
+}
+
 #text13 br + br {
 	margin-top: 0.675rem;
 }
@@ -6929,6 +6975,45 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #list07 ul li:before {
+	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20transform%3D%22matrix%280.7071%20-0.7071%200.7071%200.7071%20-8.2843%2020%29%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23808080%22%20%2F%3E%3C%2Fsvg%3E');
+	border-radius: 0.5rem;
+	line-height: 1.125rem;
+	height: 1.125rem;
+	background-position: left 60%;
+	background-size: contain;
+	min-width: 0.52734375rem;
+}
+
+#list35 {
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.075rem;
+	font-size: 1em;
+	line-height: 1.125;
+	font-weight: 500;
+}
+
+#list35 a {
+	text-decoration: none;
+}
+
+#list35 a:hover {
+	text-decoration: underline;
+}
+
+#list35 ul {
+	width: 20rem;
+}
+
+#list35 ul li {
+	margin-top: 1rem;
+}
+
+#list35 ul li p {
+	padding-left: 0.625rem;
+}
+
+#list35 ul li:before {
 	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20transform%3D%22matrix%280.7071%20-0.7071%200.7071%200.7071%20-8.2843%2020%29%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23808080%22%20%2F%3E%3C%2Fsvg%3E');
 	border-radius: 0.5rem;
 	line-height: 1.125rem;
@@ -9156,15 +9241,15 @@ th {
 		width: 23%;
 	}
 	
-	#divider03:not(:first-child) {
+	#divider30:not(:first-child) {
 		margin-top: 0.25rem !important;
 	}
 	
-	#divider03:not(:last-child) {
+	#divider30:not(:last-child) {
 		margin-bottom: 0.25rem !important;
 	}
 	
-	#divider03:before {
+	#divider30:before {
 		width: 23%;
 	}
 	
@@ -9178,6 +9263,18 @@ th {
 	
 	#divider28:before {
 		width: 22%;
+	}
+	
+	#divider03:not(:first-child) {
+		margin-top: 0.25rem !important;
+	}
+	
+	#divider03:not(:last-child) {
+		margin-bottom: 0.25rem !important;
+	}
+	
+	#divider03:before {
+		width: 23%;
 	}
 	
 	#divider12:not(:first-child) {
@@ -12471,6 +12568,21 @@ th {
 		line-height: 1.125;
 	}
 	
+	#text27:not(:first-child) {
+		margin-top: 1.125rem !important;
+	}
+	
+	#text27:not(:last-child) {
+		margin-bottom: 1.125rem !important;
+	}
+	
+	#text27 {
+		letter-spacing: -0.065625rem;
+		width: 100%;
+		font-size: 1.25em;
+		line-height: 1.125;
+	}
+	
 	#text13:not(:first-child) {
 		margin-top: 1.125rem !important;
 	}
@@ -12982,6 +13094,22 @@ th {
 	}
 	
 	#list07 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list35 {
+		letter-spacing: -0.065625rem;
+		font-size: 1em;
+		line-height: 1.125;
+	}
+	
+	#list35 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list35 ul li:before {
 		line-height: 1.125rem;
 		height: 1.125rem;
 		min-width: 0.52734375rem;
@@ -15516,6 +15644,10 @@ th {
 		font-size: 1em;
 	}
 	
+	#text27 {
+		font-size: 1.25em;
+	}
+	
 	#text13 {
 		font-size: 1.25em;
 	}
@@ -15721,6 +15853,20 @@ th {
 	}
 	
 	#list07 ul li:before {
+		line-height: 1.125rem;
+		height: 1.125rem;
+		min-width: 0.52734375rem;
+	}
+	
+	#list35 {
+		font-size: 1em;
+	}
+	
+	#list35 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list35 ul li:before {
 		line-height: 1.125rem;
 		height: 1.125rem;
 		min-width: 0.52734375rem;

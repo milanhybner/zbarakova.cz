@@ -365,6 +365,10 @@
 				// Step through list.
 					for (i=0; i < a.length; i++) {
 	
+						// Don't unload? Skip.
+							if (a[i].dataset.srcUnload === '0')
+								continue;
+	
 						// Mark as unloaded.
 							a[i].dataset.src = a[i].src;
 	
