@@ -587,6 +587,12 @@
 					// Load elements.
 						loadElements(initialSection);
 	
+						if (header)
+							loadElements(header);
+	
+						if (footer)
+							loadElements(footer);
+	
 					// Scroll to top (if not disabled for this section).
 						if (!disableAutoScroll)
 							scrollToElement(null, 'instant');
