@@ -14,6 +14,7 @@
 					browserVersion: 0,
 					os: 'other',
 					osVersion: 0,
+					mobile: false,
 					canUse: null
 				},
 				ua = navigator.userAgent,
@@ -82,6 +83,9 @@
 	
 					))
 						o.os = 'ios';
+	
+			// mobile.
+				o.mobile = (o.os == 'android' || o.os == 'ios');
 	
 			// canUse.
 				var _canUse = document.createElement('div');
