@@ -336,7 +336,6 @@ body.is-instant:after {
 
 .image {
 	position: relative;
-	overflow: hidden;
 	max-width: 100%;
 	display: block;
 }
@@ -375,6 +374,16 @@ body.is-instant:after {
 
 .image.full a, .image.full span {
 	display: block;
+}
+
+.image.full:first-child a, .image.full:first-child span {
+	border-top-left-radius: inherit;
+	border-top-right-radius: inherit;
+}
+
+.image.full:last-child a, .image.full:last-child span {
+	border-bottom-left-radius: inherit;
+	border-bottom-right-radius: inherit;
 }
 
 #image01 img {
