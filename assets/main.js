@@ -924,6 +924,34 @@
 			// Get sheet.
 				sheet = style.sheet;
 	
+		// Mobile.
+			if (client.mobile) {
+	
+				// Prevent overscrolling on Safari/other mobile browsers.
+				// 'vh' units don't factor in the heights of various browser UI elements so our page ends up being
+				// a lot taller than it needs to be (resulting in overscroll and issues with vertical centering).
+					(function() {
+	
+						var f = function() {
+							document.documentElement.style.setProperty('--viewport-height', window.innerHeight + 'px');
+							document.documentElement.style.setProperty('--background-height', (window.innerHeight + 250) + 'px');
+						};
+	
+						on('load', f);
+						on('resize', f);
+						on('orientationchange', function() {
+	
+							// Update after brief delay.
+								setTimeout(function() {
+									(f)();
+								}, 100);
+	
+						});
+	
+					})();
+	
+			}
+	
 		// Android.
 			if (client.os == 'android') {
 	
