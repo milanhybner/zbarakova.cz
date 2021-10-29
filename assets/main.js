@@ -1349,9 +1349,25 @@
 			 */
 			handler: function() {
 	
-				var	height = document.documentElement.clientHeight,
-					top = (client.os == 'ios' ? document.body.scrollTop : document.documentElement.scrollTop),
-					bottom = top + height;
+				var	height, top, bottom, scrollPad;
+	
+				// Determine values.
+					if (client.os == 'ios') {
+	
+						height = document.documentElement.clientHeight;
+						top = document.body.scrollTop + window.scrollY;
+						bottom = top + height;
+						scrollPad = 125;
+	
+					}
+					else {
+	
+						height = document.documentElement.clientHeight;
+						top = document.documentElement.scrollTop;
+						bottom = top + height;
+						scrollPad = 0;
+	
+					}
 	
 				// Step through items.
 					scrollEvents.items.forEach(function(item) {
@@ -1398,9 +1414,17 @@
 								// Viewport midsection falls within element.
 									case 3:
 	
-										// Upper, lower limit (25 - 75%).
+										// Upper limit (25%-).
 											a = top + (height * 0.25);
+	
+											if (a - (height * 0.375) <= 0)
+												a = 0;
+	
+										// Lower limit (-75%).
 											b = top + (height * 0.75);
+	
+											if (b + (height * 0.375) >= document.body.scrollHeight - scrollPad)
+												b = document.body.scrollHeight + scrollPad;
 	
 										// State.
 											state = (b > (elementTop - item.offset) && a < (elementBottom + item.offset));

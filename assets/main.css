@@ -246,54 +246,44 @@ body.is-instant:after {
 	display: block;
 }
 
-.image a, .image span {
-	position: relative;
-	max-width: 100%;
-	display: inline-block;
-	vertical-align: top;
-}
-
-.image a img, .image span img {
-	display: block;
-}
-
-.image img {
+.image .frame {
 	width: 100%;
 	max-width: 100%;
 	display: inline-block;
 	vertical-align: top;
+	overflow: hidden;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform: translate3d(0, 0, 0);
 }
 
-.image.full img {
+.image .frame img {
+	width: inherit;
+	max-width: 100%;
+	vertical-align: top;
+	border-radius: 0 !important;
+}
+
+.image.full .frame {
 	display: block;
 }
 
-.image.full:first-child img {
+.image.full:first-child .frame {
 	border-top-left-radius: inherit;
 	border-top-right-radius: inherit;
 }
 
-.image.full:last-child img {
+.image.full:last-child .frame {
 	border-bottom-left-radius: inherit;
 	border-bottom-right-radius: inherit;
 }
 
-.image.full a, .image.full span {
-	display: block;
-}
-
-.image.full:first-child a, .image.full:first-child span {
-	border-top-left-radius: inherit;
-	border-top-right-radius: inherit;
-}
-
-.image.full:last-child a, .image.full:last-child span {
-	border-bottom-left-radius: inherit;
-	border-bottom-right-radius: inherit;
-}
-
-#image01 img {
+#image01 .frame {
 	width: 8.75rem;
+	transition: none;
+}
+
+#image01 .frame img {
+	transition: none;
 }
 
 #image12:not(:first-child) {
@@ -304,8 +294,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image12 img {
+#image12 .frame {
 	width: 4rem;
+	transition: none;
+}
+
+#image12 .frame img {
+	transition: none;
 }
 
 #image08:not(:first-child) {
@@ -316,8 +311,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image08 img {
+#image08 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image08 .frame img {
+	transition: none;
 }
 
 #image35:not(:first-child) {
@@ -328,8 +328,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image35 img {
+#image35 .frame {
 	width: 5.5rem;
+	transition: none;
+}
+
+#image35 .frame img {
+	transition: none;
 }
 
 #image02:not(:first-child) {
@@ -340,8 +345,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image02 img {
+#image02 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image02 .frame img {
+	transition: none;
 }
 
 #image10:not(:first-child) {
@@ -352,8 +362,30 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image10 img {
+#image10 .frame {
 	width: 7rem;
+	transition: none;
+}
+
+#image10 .frame img {
+	transition: none;
+}
+
+#image38:not(:first-child) {
+	margin-top: 1rem !important;
+}
+
+#image38:not(:last-child) {
+	margin-bottom: 1rem !important;
+}
+
+#image38 .frame {
+	width: 16.75rem;
+	transition: none;
+}
+
+#image38 .frame img {
+	transition: none;
 }
 
 #image11:not(:first-child) {
@@ -364,8 +396,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image11 img {
+#image11 .frame {
 	width: 7rem;
+	transition: none;
+}
+
+#image11 .frame img {
+	transition: none;
 }
 
 #image39:not(:first-child) {
@@ -376,8 +413,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image39 img {
+#image39 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image39 .frame img {
+	transition: none;
 }
 
 #image41:not(:first-child) {
@@ -388,8 +430,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image41 img {
+#image41 .frame {
 	width: 5.5rem;
+	transition: none;
+}
+
+#image41 .frame img {
+	transition: none;
 }
 
 #image47:not(:first-child) {
@@ -400,8 +447,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image47 img {
+#image47 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image47 .frame img {
+	transition: none;
 }
 
 #image45:not(:first-child) {
@@ -412,8 +464,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image45 img {
+#image45 .frame {
 	width: 16rem;
+	transition: none;
+}
+
+#image45 .frame img {
+	transition: none;
 }
 
 #image06:not(:first-child) {
@@ -424,8 +481,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image06 img {
+#image06 .frame {
 	width: 19rem;
+	transition: none;
+}
+
+#image06 .frame img {
+	transition: none;
 }
 
 #image46:not(:first-child) {
@@ -436,8 +498,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image46 img {
+#image46 .frame {
 	width: 19rem;
+	transition: none;
+}
+
+#image46 .frame img {
+	transition: none;
 }
 
 #image13:not(:first-child) {
@@ -448,8 +515,13 @@ body.is-instant:after {
 	margin-bottom: 2rem !important;
 }
 
-#image13 img {
+#image13 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image13 .frame img {
+	transition: none;
 }
 
 #image15:not(:first-child) {
@@ -460,8 +532,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image15 img {
+#image15 .frame {
 	width: 13rem;
+	transition: none;
+}
+
+#image15 .frame img {
+	transition: none;
 }
 
 #image43:not(:first-child) {
@@ -472,8 +549,13 @@ body.is-instant:after {
 	margin-bottom: 2rem !important;
 }
 
-#image43 img {
+#image43 .frame {
 	width: 22.5rem;
+	transition: none;
+}
+
+#image43 .frame img {
+	transition: none;
 }
 
 #image19:not(:first-child) {
@@ -484,8 +566,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image19 img {
+#image19 .frame {
 	width: 8rem;
+	transition: none;
+}
+
+#image19 .frame img {
+	transition: none;
 }
 
 #image18:not(:first-child) {
@@ -496,12 +583,22 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image18 img {
+#image18 .frame {
 	width: 12rem;
+	transition: none;
 }
 
-#image16 img {
+#image18 .frame img {
+	transition: none;
+}
+
+#image16 .frame {
 	width: 100vw;
+	transition: none;
+}
+
+#image16 .frame img {
+	transition: none;
 }
 
 #image20:not(:first-child) {
@@ -512,8 +609,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image20 img {
+#image20 .frame {
 	width: 17rem;
+	transition: none;
+}
+
+#image20 .frame img {
+	transition: none;
 }
 
 #image21:not(:first-child) {
@@ -524,8 +626,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image21 img {
+#image21 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image21 .frame img {
+	transition: none;
 }
 
 #image03:not(:first-child) {
@@ -536,8 +643,13 @@ body.is-instant:after {
 	margin-bottom: 1.5rem !important;
 }
 
-#image03 img {
+#image03 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image03 .frame img {
+	transition: none;
 }
 
 #image37:not(:first-child) {
@@ -548,8 +660,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image37 img {
+#image37 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image37 .frame img {
+	transition: none;
 }
 
 #image24:not(:first-child) {
@@ -560,8 +677,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image24 img {
+#image24 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image24 .frame img {
+	transition: none;
 }
 
 #image25:not(:first-child) {
@@ -572,8 +694,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image25 img {
+#image25 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image25 .frame img {
+	transition: none;
 }
 
 #image27:not(:first-child) {
@@ -584,8 +711,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image27 img {
+#image27 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image27 .frame img {
+	transition: none;
 }
 
 #image28:not(:first-child) {
@@ -596,8 +728,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image28 img {
+#image28 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image28 .frame img {
+	transition: none;
 }
 
 #image29:not(:first-child) {
@@ -608,8 +745,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image29 img {
+#image29 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image29 .frame img {
+	transition: none;
 }
 
 #image30:not(:first-child) {
@@ -620,8 +762,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image30 img {
+#image30 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image30 .frame img {
+	transition: none;
 }
 
 #image31:not(:first-child) {
@@ -632,8 +779,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image31 img {
+#image31 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image31 .frame img {
+	transition: none;
 }
 
 #image32:not(:first-child) {
@@ -644,8 +796,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image32 img {
+#image32 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image32 .frame img {
+	transition: none;
 }
 
 #image34:not(:first-child) {
@@ -656,8 +813,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image34 img {
+#image34 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image34 .frame img {
+	transition: none;
 }
 
 #image26:not(:first-child) {
@@ -668,8 +830,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image26 img {
+#image26 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image26 .frame img {
+	transition: none;
 }
 
 #image33:not(:first-child) {
@@ -680,8 +847,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image33 img {
+#image33 .frame {
 	width: 20rem;
+	transition: none;
+}
+
+#image33 .frame img {
+	transition: none;
 }
 
 #image36:not(:first-child) {
@@ -692,8 +864,13 @@ body.is-instant:after {
 	margin-bottom: 1.5rem !important;
 }
 
-#image36 img {
+#image36 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image36 .frame img {
+	transition: none;
 }
 
 #image22:not(:first-child) {
@@ -704,8 +881,13 @@ body.is-instant:after {
 	margin-bottom: 1.5rem !important;
 }
 
-#image22 img {
+#image22 .frame {
 	width: 16rem;
+	transition: none;
+}
+
+#image22 .frame img {
+	transition: none;
 }
 
 #image04:not(:first-child) {
@@ -716,8 +898,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image04 img {
+#image04 .frame {
 	width: 14rem;
+	transition: none;
+}
+
+#image04 .frame img {
+	transition: none;
 }
 
 #image23:not(:first-child) {
@@ -728,8 +915,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image23 img {
+#image23 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image23 .frame img {
+	transition: none;
 }
 
 #image09:not(:first-child) {
@@ -740,8 +932,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image09 img {
+#image09 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image09 .frame img {
+	transition: none;
 }
 
 #image17:not(:first-child) {
@@ -752,8 +949,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image17 img {
+#image17 .frame {
 	width: 8rem;
+	transition: none;
+}
+
+#image17 .frame img {
+	transition: none;
 }
 
 #image14:not(:first-child) {
@@ -764,8 +966,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image14 img {
+#image14 .frame {
 	width: 5.5rem;
+	transition: none;
+}
+
+#image14 .frame img {
+	transition: none;
 }
 
 #image05:not(:first-child) {
@@ -776,8 +983,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image05 img {
+#image05 .frame {
 	width: 12rem;
+	transition: none;
+}
+
+#image05 .frame img {
+	transition: none;
 }
 
 #image07:not(:first-child) {
@@ -788,8 +1000,13 @@ body.is-instant:after {
 	margin-bottom: 1rem !important;
 }
 
-#image07 img {
+#image07 .frame {
 	width: 7rem;
+	transition: none;
+}
+
+#image07 .frame img {
+	transition: none;
 }
 
 hr {
@@ -5407,7 +5624,7 @@ hr:before {
 }
 
 #list05 ul {
-	width: 9rem;
+	width: 19rem;
 }
 
 #list05 ul li {
@@ -7921,7 +8138,7 @@ th {
 		margin-bottom: -2rem !important;
 	}
 	
-	#image01 img {
+	#image01 .frame {
 		width: 8.75rem;
 	}
 	
@@ -7933,7 +8150,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image12 img {
+	#image12 .frame {
 		width: 4rem;
 	}
 	
@@ -7945,7 +8162,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image08 img {
+	#image08 .frame {
 		width: 12rem;
 	}
 	
@@ -7957,7 +8174,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image35 img {
+	#image35 .frame {
 		width: 5.5rem;
 	}
 	
@@ -7969,7 +8186,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image02 img {
+	#image02 .frame {
 		width: 12rem;
 	}
 	
@@ -7981,8 +8198,20 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image10 img {
+	#image10 .frame {
 		width: 7rem;
+	}
+	
+	#image38:not(:first-child) {
+		margin-top: 0.75rem !important;
+	}
+	
+	#image38:not(:last-child) {
+		margin-bottom: 0.75rem !important;
+	}
+	
+	#image38 .frame {
+		width: 16.75rem;
 	}
 	
 	#image11:not(:first-child) {
@@ -7993,7 +8222,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image11 img {
+	#image11 .frame {
 		width: 7rem;
 	}
 	
@@ -8005,7 +8234,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image39 img {
+	#image39 .frame {
 		width: 12rem;
 	}
 	
@@ -8017,7 +8246,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image41 img {
+	#image41 .frame {
 		width: 5.5rem;
 	}
 	
@@ -8029,7 +8258,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image47 img {
+	#image47 .frame {
 		width: 12rem;
 	}
 	
@@ -8041,7 +8270,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image45 img {
+	#image45 .frame {
 		width: 16rem;
 	}
 	
@@ -8053,7 +8282,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image06 img {
+	#image06 .frame {
 		width: 19rem;
 	}
 	
@@ -8065,7 +8294,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image46 img {
+	#image46 .frame {
 		width: 19rem;
 	}
 	
@@ -8077,7 +8306,7 @@ th {
 		margin-bottom: 1.5rem !important;
 	}
 	
-	#image13 img {
+	#image13 .frame {
 		width: 12rem;
 	}
 	
@@ -8089,7 +8318,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image15 img {
+	#image15 .frame {
 		width: 13rem;
 	}
 	
@@ -8101,7 +8330,7 @@ th {
 		margin-bottom: 1.5rem !important;
 	}
 	
-	#image43 img {
+	#image43 .frame {
 		width: 22.5rem;
 	}
 	
@@ -8113,7 +8342,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image19 img {
+	#image19 .frame {
 		width: 8rem;
 	}
 	
@@ -8125,11 +8354,11 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image18 img {
+	#image18 .frame {
 		width: 12rem;
 	}
 	
-	#image16 img {
+	#image16 .frame {
 		width: 100vw;
 	}
 	
@@ -8141,7 +8370,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image20 img {
+	#image20 .frame {
 		width: 17rem;
 	}
 	
@@ -8153,7 +8382,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image21 img {
+	#image21 .frame {
 		width: 20rem;
 	}
 	
@@ -8165,7 +8394,7 @@ th {
 		margin-bottom: 1.125rem !important;
 	}
 	
-	#image03 img {
+	#image03 .frame {
 		width: 20rem;
 	}
 	
@@ -8177,7 +8406,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image37 img {
+	#image37 .frame {
 		width: 20rem;
 	}
 	
@@ -8189,7 +8418,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image24 img {
+	#image24 .frame {
 		width: 20rem;
 	}
 	
@@ -8201,7 +8430,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image25 img {
+	#image25 .frame {
 		width: 20rem;
 	}
 	
@@ -8213,7 +8442,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image27 img {
+	#image27 .frame {
 		width: 20rem;
 	}
 	
@@ -8225,7 +8454,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image28 img {
+	#image28 .frame {
 		width: 20rem;
 	}
 	
@@ -8237,7 +8466,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image29 img {
+	#image29 .frame {
 		width: 20rem;
 	}
 	
@@ -8249,7 +8478,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image30 img {
+	#image30 .frame {
 		width: 20rem;
 	}
 	
@@ -8261,7 +8490,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image31 img {
+	#image31 .frame {
 		width: 20rem;
 	}
 	
@@ -8273,7 +8502,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image32 img {
+	#image32 .frame {
 		width: 20rem;
 	}
 	
@@ -8285,7 +8514,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image34 img {
+	#image34 .frame {
 		width: 20rem;
 	}
 	
@@ -8297,7 +8526,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image26 img {
+	#image26 .frame {
 		width: 20rem;
 	}
 	
@@ -8309,7 +8538,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image33 img {
+	#image33 .frame {
 		width: 20rem;
 	}
 	
@@ -8321,7 +8550,7 @@ th {
 		margin-bottom: 1.125rem !important;
 	}
 	
-	#image36 img {
+	#image36 .frame {
 		width: 12rem;
 	}
 	
@@ -8333,7 +8562,7 @@ th {
 		margin-bottom: 1.125rem !important;
 	}
 	
-	#image22 img {
+	#image22 .frame {
 		width: 16rem;
 	}
 	
@@ -8345,7 +8574,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image04 img {
+	#image04 .frame {
 		width: 14rem;
 	}
 	
@@ -8357,7 +8586,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image23 img {
+	#image23 .frame {
 		width: 12rem;
 	}
 	
@@ -8369,7 +8598,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image09 img {
+	#image09 .frame {
 		width: 12rem;
 	}
 	
@@ -8381,7 +8610,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image17 img {
+	#image17 .frame {
 		width: 8rem;
 	}
 	
@@ -8393,7 +8622,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image14 img {
+	#image14 .frame {
 		width: 5.5rem;
 	}
 	
@@ -8405,7 +8634,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image05 img {
+	#image05 .frame {
 		width: 12rem;
 	}
 	
@@ -8417,7 +8646,7 @@ th {
 		margin-bottom: 0.75rem !important;
 	}
 	
-	#image07 img {
+	#image07 .frame {
 		width: 7rem;
 	}
 	
