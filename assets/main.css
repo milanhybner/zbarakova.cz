@@ -371,23 +371,6 @@ body.is-instant:after {
 	transition: none;
 }
 
-#image38:not(:first-child) {
-	margin-top: 1rem !important;
-}
-
-#image38:not(:last-child) {
-	margin-bottom: 1rem !important;
-}
-
-#image38 .frame {
-	width: 16.75rem;
-	transition: none;
-}
-
-#image38 .frame img {
-	transition: none;
-}
-
 #image11:not(:first-child) {
 	margin-top: 1rem !important;
 }
@@ -538,6 +521,40 @@ body.is-instant:after {
 }
 
 #image15 .frame img {
+	transition: none;
+}
+
+#image40:not(:first-child) {
+	margin-top: 2rem !important;
+}
+
+#image40:not(:last-child) {
+	margin-bottom: 2rem !important;
+}
+
+#image40 .frame {
+	width: 22.5rem;
+	transition: none;
+}
+
+#image40 .frame img {
+	transition: none;
+}
+
+#image42:not(:first-child) {
+	margin-top: 2rem !important;
+}
+
+#image42:not(:last-child) {
+	margin-bottom: 2rem !important;
+}
+
+#image42 .frame {
+	width: 22.5rem;
+	transition: none;
+}
+
+#image42 .frame img {
 	transition: none;
 }
 
@@ -2378,6 +2395,14 @@ hr:before {
 #container28.columns > .wrapper > .inner > .full > .full:first-child:last-child > * > * {
 	height: 100%;
 	border-radius: inherit;
+}
+
+#container28 > .wrapper > .inner > :nth-child(1) {
+	width: calc(50% + 1.5rem);
+}
+
+#container28 > .wrapper > .inner > :nth-child(2) {
+	width: calc(50% + 1.5rem);
 }
 
 #container09 > .wrapper > .inner {
@@ -8202,18 +8227,6 @@ th {
 		width: 7rem;
 	}
 	
-	#image38:not(:first-child) {
-		margin-top: 0.75rem !important;
-	}
-	
-	#image38:not(:last-child) {
-		margin-bottom: 0.75rem !important;
-	}
-	
-	#image38 .frame {
-		width: 16.75rem;
-	}
-	
 	#image11:not(:first-child) {
 		margin-top: 0.75rem !important;
 	}
@@ -8320,6 +8333,30 @@ th {
 	
 	#image15 .frame {
 		width: 13rem;
+	}
+	
+	#image40:not(:first-child) {
+		margin-top: 1.5rem !important;
+	}
+	
+	#image40:not(:last-child) {
+		margin-bottom: 1.5rem !important;
+	}
+	
+	#image40 .frame {
+		width: 22.5rem;
+	}
+	
+	#image42:not(:first-child) {
+		margin-top: 1.5rem !important;
+	}
+	
+	#image42:not(:last-child) {
+		margin-bottom: 1.5rem !important;
+	}
+	
+	#image42 .frame {
+		width: 22.5rem;
 	}
 	
 	#image43:not(:first-child) {
@@ -9820,6 +9857,18 @@ th {
 	
 	#container28.columns > .wrapper > .inner > .full > .full:first-child:last-child > * > iframe {
 		height: 100%;
+	}
+	
+	#container28 > .wrapper > .inner > :nth-child(1) {
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
+	}
+	
+	#container28 > .wrapper > .inner > :nth-child(2) {
+		width: 100% !important;
+		min-height: 100% !important;
+		text-align: inherit !important;
 	}
 	
 	#container09 > .wrapper > .inner {
