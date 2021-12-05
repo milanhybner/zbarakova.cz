@@ -859,7 +859,8 @@
 					on('click', function(event) {
 	
 						var t = event.target,
-							tagName = t.tagName.toUpperCase();
+							tagName = t.tagName.toUpperCase(),
+							scrollPoint;
 	
 						// Find real target.
 							switch (tagName) {
@@ -891,19 +892,34 @@
 	
 							}
 	
-						// Target is an anchor *and* its href is a hash that matches the current hash?
+						// Target is an anchor *and* its href is a hash?
 							if (t.tagName == 'A'
-							&&	t.getAttribute('href').substr(0, 1) == '#'
-							&&	t.hash == window.location.hash) {
+							&&	t.getAttribute('href').substr(0, 1) == '#') {
 	
-								// Prevent default.
-									event.preventDefault();
+								// Hash matches an invisible scroll point?
+									if (!!(scrollPoint = $('[data-scroll-id="' + t.hash.substr(1) + '"][data-scroll-invisible="1"]'))) {
 	
-								// Replace state with '#'.
-									history.replaceState(undefined, undefined, '#');
+										// Prevent default.
+											event.preventDefault();
 	
-								// Replace location with target hash.
-									location.replace(t.hash);
+										// Scroll to element.
+											scrollToElement(scrollPoint);
+	
+									}
+	
+								// Hash matches the current hash?
+									else if (t.hash == window.location.hash) {
+	
+										// Prevent default.
+											event.preventDefault();
+	
+										// Replace state with '#'.
+											history.replaceState(undefined, undefined, '#');
+	
+										// Replace location with target hash.
+											location.replace(t.hash);
+	
+									}
 	
 							}
 	
