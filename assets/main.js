@@ -1351,10 +1351,12 @@
 	
 				this.items.push({
 					element: o.element,
+					triggerElement: (('triggerElement' in o && o.triggerElement) ? o.triggerElement : o.element),
 					enter: ('enter' in o ? o.enter : null),
 					leave: ('leave' in o ? o.leave : null),
 					mode: ('mode' in o ? o.mode : 1),
 					offset: ('offset' in o ? o.offset : 0),
+					initialState: ('initialState' in o ? o.initialState : null),
 					state: false,
 				});
 	
@@ -1396,58 +1398,75 @@
 								return true;
 	
 						// Not visible? Bail.
-							if (item.element.offsetParent === null)
+							if (item.triggerElement.offsetParent === null)
 								return true;
 	
 						// Get element position.
-							bcr = item.element.getBoundingClientRect();
+							bcr = item.triggerElement.getBoundingClientRect();
 							elementTop = top + Math.floor(bcr.top);
 							elementBottom = elementTop + bcr.height;
 	
 						// Determine state.
-							switch (item.mode) {
 	
-								// Element falls within viewport.
-									case 1:
-									default:
+							// Initial state exists?
+								if (item.initialState !== null) {
 	
-										// State.
-											state = (bottom > (elementTop - item.offset) && top < (elementBottom + item.offset));
+									// Use it for this check.
+										state = item.initialState;
 	
-										break;
+									// Clear it.
+										item.initialState = null;
 	
-								// Viewport midpoint falls within element.
-									case 2:
+								}
 	
-										// Midpoint.
-											a = (top + (height * 0.5));
+							// Otherwise, determine state from mode/position.
+								else {
 	
-										// State.
-											state = (a > (elementTop - item.offset) && a < (elementBottom + item.offset));
+									switch (item.mode) {
 	
-										break;
+										// Element falls within viewport.
+											case 1:
+											default:
 	
-								// Viewport midsection falls within element.
-									case 3:
+												// State.
+													state = (bottom > (elementTop - item.offset) && top < (elementBottom + item.offset));
 	
-										// Upper limit (25%-).
-											a = top + (height * 0.25);
+												break;
 	
-											if (a - (height * 0.375) <= 0)
-												a = 0;
+										// Viewport midpoint falls within element.
+											case 2:
 	
-										// Lower limit (-75%).
-											b = top + (height * 0.75);
+												// Midpoint.
+													a = (top + (height * 0.5));
 	
-											if (b + (height * 0.375) >= document.body.scrollHeight - scrollPad)
-												b = document.body.scrollHeight + scrollPad;
+												// State.
+													state = (a > (elementTop - item.offset) && a < (elementBottom + item.offset));
 	
-										// State.
-											state = (b > (elementTop - item.offset) && a < (elementBottom + item.offset));
+												break;
 	
-										break;
+										// Viewport midsection falls within element.
+											case 3:
 	
-							}
+												// Upper limit (25%-).
+													a = top + (height * 0.25);
+	
+													if (a - (height * 0.375) <= 0)
+														a = 0;
+	
+												// Lower limit (-75%).
+													b = top + (height * 0.75);
+	
+													if (b + (height * 0.375) >= document.body.scrollHeight - scrollPad)
+														b = document.body.scrollHeight + scrollPad;
+	
+												// State.
+													state = (b > (elementTop - item.offset) && a < (elementBottom + item.offset));
+	
+												break;
+	
+									}
+	
+								}
 	
 						// State changed?
 							if (state != item.state) {
@@ -1548,6 +1567,7 @@
 	
 							setTimeout(function() {
 								i.style.backgroundImage = 'none';
+								i.style.transition = '';
 							}, 375);
 	
 						}
@@ -1579,10 +1599,14 @@
 					var i = p.firstElementChild;
 	
 					// Set parent to placeholder.
-						p.style.backgroundImage = 'url(' + i.src + ')';
-						p.style.backgroundSize = '100% 100%';
-						p.style.backgroundPosition = 'top left';
-						p.style.backgroundRepeat = 'no-repeat';
+						if (!p.classList.contains('enclosed')) {
+	
+							p.style.backgroundImage = 'url(' + i.src + ')';
+							p.style.backgroundSize = '100% 100%';
+							p.style.backgroundPosition = 'top left';
+							p.style.backgroundRepeat = 'no-repeat';
+	
+						}
 	
 					// Hide image.
 						i.style.opacity = 0;
