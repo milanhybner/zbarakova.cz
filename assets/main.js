@@ -1542,6 +1542,10 @@
 					NodeList.prototype.forEach = Array.prototype.forEach;
 	
 			// Handlers.
+	
+				/**
+				 * "On Load" handler.
+				 */
 				loadHandler = function() {
 	
 					var i = this,
@@ -1574,6 +1578,9 @@
 	
 				};
 	
+				/**
+				 * "On Enter" handler.
+				 */
 				enterHandler = function() {
 	
 					var	i = this,
